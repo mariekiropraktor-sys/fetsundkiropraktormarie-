@@ -3,6 +3,7 @@ import Layout from "../layouts/Layout.astro";
 import TrustStrip from "../components/TrustStrip.astro";
 import BookingCTA from "../components/BookingCTA.astro";
 import PostCard from "../components/PostCard.astro";
+import Ryggrad from "../components/Ryggrad.astro";
 import { getCollection } from "astro:content";
 import { site, plager, metoder, andreMetoder, svimmelhetstyper } from "../data/site";
 
@@ -79,7 +80,8 @@ const innlegg = utvalgte.map((id) => alle.find((p) => p.id === id)).filter((p) =
         <a class="hjelp__mer" href="/svimmelhet/">Alt om svimmelhet og undersøkelsen →</a>
       </div>
 
-      <div class="card">
+      <div class="card hjelp__kiro">
+        <Ryggrad />
         <span class="eyebrow">Allmennkiropraktor</span>
         <h3 class="hjelp__tittel">Muskel- og leddplager</h3>
         <div class="plager">
@@ -326,6 +328,39 @@ const innlegg = utvalgte.map((id) => alle.find((p) => p.id === id)).filter((p) =
   }
   .hjelp__mer:hover {
     color: var(--teal-soft);
+  }
+  /* Diskret ryggrad i bakgrunnen av kortet «Muskel- og leddplager» */
+  .hjelp__kiro {
+    position: relative;
+    overflow: hidden;
+    isolation: isolate;
+  }
+  .hjelp__kiro :global(.ryggrad) {
+    position: absolute;
+    z-index: -1;
+    top: -186px;
+    right: -40px;
+    width: 290px;
+    height: auto;
+    pointer-events: none;
+  }
+  .hjelp__kiro :global(.ryggrad__sirkel) {
+    fill: var(--teal-soft);
+  }
+  .hjelp__kiro :global(.ryggrad__virvler) {
+    fill: #fff;
+  }
+  .hjelp__kiro :global(.ryggrad__skiver) {
+    fill: var(--teal-line);
+    opacity: 0.35;
+  }
+  /* Mobil: litt mindre, og høyere opp så den ikke tar overskriften */
+  @media (max-width: 600px) {
+    .hjelp__kiro :global(.ryggrad) {
+      top: -70px;
+      right: -50px;
+      width: 170px;
+    }
   }
   .plager {
     display: grid;
