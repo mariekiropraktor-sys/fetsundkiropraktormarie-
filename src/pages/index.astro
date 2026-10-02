@@ -243,10 +243,15 @@ const innlegg = utvalgte.map((id) => alle.find((p) => p.id === id)).filter((p) =
     max-height: 480px;
     object-fit: cover;
     object-position: center 20%;
+    /* Mobil: bildet tones gradvis over i den blågrå flaten */
+    -webkit-mask-image: linear-gradient(to bottom, #000 55%, transparent 100%);
+    mask-image: linear-gradient(to bottom, #000 55%, transparent 100%);
   }
   .hero__tekst {
     gap: 22px;
-    padding: 32px var(--gutter) clamp(64px, 12vw, 120px);
+    position: relative;
+    margin-top: -48px;
+    padding: 0 var(--gutter) clamp(64px, 12vw, 120px);
   }
   .hero .h1 {
     color: #fff;
@@ -277,9 +282,12 @@ const innlegg = utvalgte.map((id) => alle.find((p) => p.id === id)).filter((p) =
       aspect-ratio: auto;
       height: 100%;
       max-height: none;
+      -webkit-mask-image: none;
+      mask-image: none;
     }
     .hero__tekst {
       align-self: center;
+      margin-top: 0;
       padding-block: 64px 120px;
       padding-inline: max(var(--gutter), calc((100vw - var(--max)) / 2 + var(--gutter))) 48px;
     }
