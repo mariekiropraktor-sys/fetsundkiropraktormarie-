@@ -96,7 +96,7 @@ const innlegg = utvalgte.map((id) => alle.find((p) => p.id === id)).filter((p) =
   </section>
 
   <!-- Slik foregår en time -->
-  <section class="section section--dark">
+  <section class="section time">
     <div class="wrap">
       <h2 class="h2">Slik foregår en time</h2>
       <ol class="steg">
@@ -117,8 +117,8 @@ const innlegg = utvalgte.map((id) => alle.find((p) => p.id === id)).filter((p) =
         </li>
       </ol>
       <div class="btn-row">
-        <a class="btn btn--light" href={site.booking}>Førstegangskonsultasjon · 910 kr</a>
-        <a class="btn btn--outline-light" href={site.booking}>Svimmelhetsundersøkelse · 1 100 kr</a>
+        <a class="btn" href={site.booking}>Førstegangskonsultasjon · 910 kr</a>
+        <a class="btn btn--ghost" href={site.booking}>Svimmelhetsundersøkelse · 1 100 kr</a>
       </div>
     </div>
   </section>
@@ -307,14 +307,17 @@ const innlegg = utvalgte.map((id) => alle.find((p) => p.id === id)).filter((p) =
     font-size: 20px;
     margin: 10px 0 6px;
   }
+  .time {
+    background: #e3f4f7;
+  }
   .steg p {
-    color: #cbd7e7;
+    color: var(--muted);
   }
   .steg__nr {
     font-family: var(--serif);
     font-size: 46px;
     line-height: 1;
-    color: var(--teal-bright);
+    color: var(--teal);
   }
 
   .metoder {
