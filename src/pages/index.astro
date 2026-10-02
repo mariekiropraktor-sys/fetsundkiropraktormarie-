@@ -338,9 +338,9 @@ const innlegg = utvalgte.map((id) => alle.find((p) => p.id === id)).filter((p) =
   .hjelp__kiro :global(.ryggrad) {
     position: absolute;
     z-index: -1;
-    top: -56px;
-    right: -56px;
-    width: clamp(150px, 30%, 220px);
+    top: -186px;
+    right: -40px;
+    width: 290px;
     height: auto;
     pointer-events: none;
   }
@@ -353,6 +353,14 @@ const innlegg = utvalgte.map((id) => alle.find((p) => p.id === id)).filter((p) =
   .hjelp__kiro :global(.ryggrad__skiver) {
     fill: var(--teal-line);
     opacity: 0.35;
+  }
+  /* Mobil: litt mindre, og høyere opp så den ikke tar overskriften */
+  @media (max-width: 600px) {
+    .hjelp__kiro :global(.ryggrad) {
+      top: -70px;
+      right: -50px;
+      width: 170px;
+    }
   }
   .plager {
     display: grid;
