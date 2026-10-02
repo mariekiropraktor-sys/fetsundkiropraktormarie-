@@ -338,17 +338,30 @@ const innlegg = utvalgte.map((id) => alle.find((p) => p.id === id)).filter((p) =
   .hjelp__kiro :global(.ryggrad) {
     position: absolute;
     z-index: -1;
-    top: -24px;
-    right: 0;
-    height: calc(100% + 48px);
+    top: 0;
+    right: 12px;
+    height: 100%;
     width: auto;
-    color: var(--teal);
-    opacity: 0.11;
+    opacity: 0.16;
     pointer-events: none;
+    /* Myke ender oppe og nede */
+    -webkit-mask-image: linear-gradient(to bottom, transparent, #000 12%, #000 88%, transparent);
+    mask-image: linear-gradient(to bottom, transparent, #000 12%, #000 88%, transparent);
   }
+  .hjelp__kiro :global(.ryggrad__virvler) {
+    fill: var(--teal-bright);
+  }
+  .hjelp__kiro :global(.ryggrad__skiver) {
+    fill: var(--teal);
+  }
+  /* Mobil: mindre og svakere, delvis ut over kanten */
   @media (max-width: 600px) {
     .hjelp__kiro :global(.ryggrad) {
-      right: -50px;
+      top: auto;
+      bottom: 0;
+      height: 75%;
+      right: -90px;
+      opacity: 0.11;
     }
   }
   .plager {
