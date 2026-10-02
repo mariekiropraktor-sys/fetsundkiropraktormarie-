@@ -338,31 +338,21 @@ const innlegg = utvalgte.map((id) => alle.find((p) => p.id === id)).filter((p) =
   .hjelp__kiro :global(.ryggrad) {
     position: absolute;
     z-index: -1;
-    top: 0;
-    right: 12px;
-    height: 100%;
-    width: auto;
-    opacity: 0.16;
+    top: -56px;
+    right: -56px;
+    width: clamp(150px, 30%, 220px);
+    height: auto;
     pointer-events: none;
-    /* Myke ender oppe og nede */
-    -webkit-mask-image: linear-gradient(to bottom, transparent, #000 12%, #000 88%, transparent);
-    mask-image: linear-gradient(to bottom, transparent, #000 12%, #000 88%, transparent);
+  }
+  .hjelp__kiro :global(.ryggrad__sirkel) {
+    fill: var(--teal-soft);
   }
   .hjelp__kiro :global(.ryggrad__virvler) {
-    fill: var(--teal-bright);
+    fill: #fff;
   }
   .hjelp__kiro :global(.ryggrad__skiver) {
-    fill: var(--teal);
-  }
-  /* Mobil: mindre og svakere, delvis ut over kanten */
-  @media (max-width: 600px) {
-    .hjelp__kiro :global(.ryggrad) {
-      top: auto;
-      bottom: 0;
-      height: 75%;
-      right: -90px;
-      opacity: 0.11;
-    }
+    fill: var(--teal-line);
+    opacity: 0.35;
   }
   .plager {
     display: grid;
@@ -370,7 +360,7 @@ const innlegg = utvalgte.map((id) => alle.find((p) => p.id === id)).filter((p) =
     gap: 10px;
   }
   .plager__kort {
-    background: rgb(238 242 247 / 0.72); /* litt gjennomsiktig så ryggraden skimtes */
+    background: var(--bg);
     border-radius: 14px;
     padding: 16px 18px;
     text-decoration: none;
