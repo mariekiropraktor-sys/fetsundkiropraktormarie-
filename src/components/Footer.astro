@@ -1,0 +1,87 @@
+---
+import { site } from "../data/site";
+const ar = new Date().getFullYear();
+---
+
+<footer class="footer">
+  <div class="wrap footer__grid">
+    <div class="stack">
+      <p class="footer__navn">{site.navn}</p>
+      <p>{site.klinikk}<br />{site.adresse}</p>
+      <p><a href={site.telefonLenke}>{site.telefon}</a></p>
+    </div>
+    <div class="stack">
+      <p class="footer__tittel">Åpningstider</p>
+      <p>
+        {
+          site.apningstider.map((a) => (
+            <>
+              {a.dager}: {a.tid}
+              <br />
+            </>
+          ))
+        }
+      </p>
+    </div>
+    <div class="stack">
+      <p class="footer__tittel">Mer</p>
+      <p>
+        <a href="/om-marie-hermansen/">Om Marie</a><br />
+        <a href="/priser/">Priser</a><br />
+        <a href="/blogg/">Blogg</a><br />
+        <a href={site.klinikkside}>Fetsund Kiropraktorsenter</a><br />
+        <a href={site.krystallsykehjelpen}>Krystallsykehjelpen</a>
+      </p>
+    </div>
+    <div class="stack">
+      <p class="footer__tittel">Følg meg</p>
+      <p>
+        <a href={site.facebook}>Facebook</a><br />
+        <a href={site.instagram}>Instagram</a>
+      </p>
+    </div>
+  </div>
+  <div class="wrap footer__bunn">
+    <span>© {ar} {site.navn}</span>
+    <span>Medlem av Norsk Kiropraktorforening</span>
+  </div>
+</footer>
+
+<style>
+  .footer {
+    background: var(--ink);
+    color: #cbd7e7;
+    font-size: 15px;
+    padding-top: 56px;
+  }
+  .footer a {
+    color: #fff;
+  }
+  .footer a:hover {
+    color: var(--teal-soft);
+  }
+  .footer__grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 200px), 1fr));
+    gap: 32px;
+    padding-bottom: 40px;
+  }
+  .footer__navn {
+    font-family: var(--serif);
+    font-size: 20px;
+    color: #fff;
+  }
+  .footer__tittel {
+    font-weight: 600;
+    color: #fff;
+  }
+  .footer__bunn {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+    padding-block: 20px;
+    border-top: 1px solid #2a3644;
+    font-size: 14px;
+  }
+</style>

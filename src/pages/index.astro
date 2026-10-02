@@ -1,0 +1,359 @@
+---
+import Layout from "../layouts/Layout.astro";
+import TrustStrip from "../components/TrustStrip.astro";
+import BookingCTA from "../components/BookingCTA.astro";
+import PostCard from "../components/PostCard.astro";
+import { getCollection } from "astro:content";
+import { site, plager, metoder, andreMetoder, svimmelhetstyper } from "../data/site";
+
+const utvalgte = [
+  "vestibulaer-migrene-nar-migrene-gir-svimmelhet",
+  "nar-nakken-laser-seg-guide-til-akutte-nakkesmerter",
+  "vare-vanligste-triggerpunkter",
+];
+const alle = await getCollection("blogg");
+const innlegg = utvalgte.map((id) => alle.find((p) => p.id === id)).filter((p) => p !== undefined);
+---
+
+<Layout
+  title="Kiropraktor i Fetsund – Marie Hermansen"
+  description="Kiropraktor Marie Hermansen i Fetsund: særlig kompetanse på svimmelhet og krystallsyke, og hjelp for nakke, hodepine, kjeve, rygg og ledd."
+>
+  <!-- Topp -->
+  <section class="wrap hero grid-2">
+    <div class="stack hero__tekst">
+      <span class="eyebrow">Kiropraktor i Fetsund</span>
+      <h1 class="h1">Trygg hjelp når kroppen ikke spiller på lag</h1>
+      <p class="lead">
+        Jeg er allmennkiropraktor med særlig kompetanse på svimmelhet og krystallsyke. Hos meg får du grundig
+        undersøkelse, målrettet behandling og øvelser du kan gjøre selv – enten det gjelder svimmelhet, nakke,
+        hodepine eller vonde ledd.
+      </p>
+      <div class="btn-row">
+        <a class="btn" href={site.booking}>Bestill time på nett</a>
+        <a class="btn btn--ghost" href={site.telefonLenke}>Ring {site.telefon}</a>
+      </div>
+    </div>
+    <img
+      class="photo hero__bilde"
+      src="/bilder/marie-portrett.webp"
+      alt="Kiropraktor Marie Hermansen i klinikken"
+      width="960"
+      height="1200"
+      fetchpriority="high"
+    />
+  </section>
+
+  <TrustStrip />
+
+  <!-- Hva kan jeg hjelpe med -->
+  <section class="section wrap" id="plager">
+    <div class="section-head">
+      <h2 class="h2">Hva kan jeg hjelpe deg med?</h2>
+      <p class="muted">
+        Svimmelhet er feltet jeg har fordypet meg mest i. Men de fleste pasientene mine kommer med helt vanlige
+        muskel- og leddplager.
+      </p>
+    </div>
+    <div class="hjelp">
+      <div class="card hjelp__svimmel">
+        <span class="eyebrow eyebrow--lys">Spesialfelt</span>
+        <h3 class="hjelp__tittel">Svimmelhet og balanse</h3>
+        <ul class="arrow-list">
+          {
+            svimmelhetstyper.map((s) => (
+              <li>
+                <a href={s.lenke}>
+                  <span>
+                    <strong>{s.navn}</strong>
+                    <small>{s.tekst}</small>
+                  </span>
+                  <span aria-hidden="true">→</span>
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+        <a class="hjelp__mer" href="/svimmelhet/">Alt om svimmelhet og undersøkelsen →</a>
+      </div>
+
+      <div class="card">
+        <span class="eyebrow">Allmennkiropraktor</span>
+        <h3 class="hjelp__tittel">Muskel- og leddplager</h3>
+        <div class="plager">
+          {
+            plager.map((p) => (
+              <a class="plager__kort" href={p.lenke}>
+                <strong>{p.navn}</strong>
+                <span>{p.tekst}</span>
+              </a>
+            ))
+          }
+        </div>
+        <p class="muted hjelp__note">Jeg ser pasienter i alle aldre, også mange seniorer.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Slik foregår en time -->
+  <section class="section section--dark">
+    <div class="wrap">
+      <h2 class="h2">Slik foregår en time</h2>
+      <ol class="steg">
+        <li>
+          <span class="steg__nr">1</span>
+          <h3>Samtale</h3>
+          <p>Hva plager deg, når startet det, og hva gjør det bedre eller verre? Ofte den viktigste ledetråden.</p>
+        </li>
+        <li>
+          <span class="steg__nr">2</span>
+          <h3>Undersøkelse</h3>
+          <p>Bevegelse, muskler, ledd og nerver. Ved svimmelhet også balanse og VNG-briller.</p>
+        </li>
+        <li>
+          <span class="steg__nr">3</span>
+          <h3>Behandling og øvelser</h3>
+          <p>Tilpasset det vi finner, og øvelser du kan gjøre hjemme. Henvisning videre hvis noe bør utredes.</p>
+        </li>
+      </ol>
+      <div class="btn-row">
+        <a class="btn btn--light" href={site.booking}>Førstegangskonsultasjon · 910 kr</a>
+        <a class="btn btn--outline-light" href={site.booking}>Svimmelhetsundersøkelse · 1 100 kr</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Slik behandler jeg -->
+  <section class="section wrap" id="behandling">
+    <div class="section-head">
+      <h2 class="h2">Slik behandler jeg</h2>
+      <p class="muted">Behandlingen settes sammen etter hva undersøkelsen viser. Ofte kombinerer jeg flere metoder.</p>
+    </div>
+    <div class="metoder">
+      {
+        metoder.map((m) => (
+          <a class="card card-link" href={m.lenke}>
+            <h3 class="metoder__navn">{m.navn}</h3>
+            <p class="muted">{m.tekst}</p>
+          </a>
+        ))
+      }
+    </div>
+    <div class="andre">
+      <p><strong>Jeg bruker også:</strong></p>
+      <ul class="chip-list">{andreMetoder.map((m) => <li>{m}</li>)}</ul>
+    </div>
+  </section>
+
+  <!-- Om Marie -->
+  <section class="section section--white">
+    <div class="wrap grid-2">
+      <img
+        class="photo om__bilde"
+        src="/bilder/marie-vng-briller.webp"
+        alt="Marie med VNG-briller i klinikken"
+        width="707"
+        height="703"
+        loading="lazy"
+      />
+      <div class="stack">
+        <h2 class="h2">Hei, jeg er Marie</h2>
+        <p class="muted">
+          Jeg er eier og gründer av {site.klinikk}, autorisert kiropraktor siden 2015 og medlem av Norsk
+          Kiropraktorforening.
+        </p>
+        <p class="muted">
+          Jeg behandler alt fra akutte smerter til langvarige plager, og har tatt omfattende kurs i svimmelhet og
+          vestibulær rehabilitering. Målet er at du skal bli bedre – og forstå hva du selv kan gjøre.
+        </p>
+        <a href="/om-marie-hermansen/"><strong>Les mer om meg →</strong></a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Blogg -->
+  <section class="section wrap">
+    <div class="blogg-head">
+      <h2 class="h2">Fra bloggen</h2>
+      <a href="/blogg/"><strong>Alle innlegg →</strong></a>
+    </div>
+    <div class="card-grid">
+      {
+        innlegg.map((p) => (
+          <PostCard slug={p.id} title={p.data.title} tema={p.data.tema} date={p.data.date} image={p.data.image} />
+        ))
+      }
+    </div>
+  </section>
+
+  <!-- Finn fram -->
+  <section class="section section--white">
+    <div class="wrap grid-2 finn">
+      <div class="stack">
+        <h2 class="h2">Finn fram</h2>
+        <p>
+          {site.klinikk}<br />
+          {site.adresse}
+        </p>
+        <p>
+          {
+            site.apningstider.map((a) => (
+              <>
+                {a.dager}: {a.tid}
+                <br />
+              </>
+            ))
+          }
+        </p>
+        <p><a href={site.telefonLenke}>{site.telefon}</a></p>
+        <a href="/kontakt-oss/"><strong>Kontakt og veibeskrivelse →</strong></a>
+      </div>
+      <iframe
+        class="kart"
+        title="Kart: Garderbakken 1, Fetsund"
+        src="https://www.google.com/maps?q=Garderbakken+1,+1900+Fetsund&output=embed"
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+  </section>
+
+  <BookingCTA />
+</Layout>
+
+<style>
+  .hero {
+    padding-block: clamp(32px, 6vw, 64px) clamp(48px, 8vw, 88px);
+  }
+  .hero__tekst {
+    gap: 22px;
+  }
+  .hero__bilde {
+    aspect-ratio: 4 / 5;
+    object-position: center top;
+    max-height: 640px;
+  }
+
+  .hjelp {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 380px), 1fr));
+    gap: 20px;
+  }
+  .hjelp .card {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  .hjelp__svimmel {
+    background: var(--teal);
+    color: #fff;
+  }
+  .eyebrow--lys {
+    color: var(--teal-soft);
+  }
+  .hjelp__tittel {
+    font-size: clamp(26px, 3vw, 32px);
+  }
+  .hjelp__svimmel .arrow-list a {
+    border-color: var(--teal-line);
+    color: #fff;
+  }
+  .hjelp__svimmel .arrow-list a:hover {
+    color: var(--teal-soft);
+  }
+  .hjelp__mer {
+    color: #fff;
+    font-weight: 600;
+  }
+  .hjelp__mer:hover {
+    color: var(--teal-soft);
+  }
+  .plager {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px;
+  }
+  .plager__kort {
+    background: var(--bg);
+    border-radius: 14px;
+    padding: 16px 18px;
+    text-decoration: none;
+    color: var(--ink);
+    display: flex;
+    flex-direction: column;
+  }
+  .plager__kort span {
+    font-size: 14px;
+    color: var(--muted);
+  }
+  .plager__kort:hover {
+    background: var(--teal-soft);
+    color: var(--ink);
+  }
+  .hjelp__note {
+    font-size: 15px;
+  }
+
+  .steg {
+    list-style: none;
+    padding: 0;
+    margin: 36px 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 250px), 1fr));
+    gap: 36px;
+  }
+  .steg h3 {
+    font-family: var(--sans);
+    font-weight: 600;
+    font-size: 20px;
+    margin: 10px 0 6px;
+  }
+  .steg p {
+    color: #cbd7e7;
+  }
+  .steg__nr {
+    font-family: var(--serif);
+    font-size: 46px;
+    line-height: 1;
+    color: var(--teal-bright);
+  }
+
+  .metoder {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr));
+    gap: 16px;
+  }
+  .metoder__navn {
+    font-size: 22px;
+    line-height: 1.25;
+  }
+  .andre {
+    margin-top: 28px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .om__bilde {
+    aspect-ratio: 1;
+  }
+
+  .blogg-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 28px;
+  }
+
+  .finn {
+    align-items: stretch;
+  }
+  .kart {
+    width: 100%;
+    min-height: 300px;
+    border: 0;
+    border-radius: var(--radius);
+    background: var(--line);
+  }
+</style>

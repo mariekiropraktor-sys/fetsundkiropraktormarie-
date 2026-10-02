@@ -1,0 +1,91 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import PostCard from "../../components/PostCard.astro";
+import { getCollection } from "astro:content";
+import { temaNavn } from "../../data/site";
+
+const innlegg = (await getCollection("blogg")).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+---
+
+<Layout
+  title="Blogg"
+  description="Fagartikler og råd om svimmelhet, krystallsyke, nakke, hodepine og muskel- og leddplager fra kiropraktor Marie Hermansen i Fetsund."
+>
+  <section class="wrap side-topp">
+    <span class="eyebrow">Blogg</span>
+    <h1 class="h1">Råd og fagstoff</h1>
+    <p class="lead">
+      Klinisk informasjon uten å bli for tørt og tunglest – med videoer, illustrasjoner og øvelser du kan bruke selv.
+    </p>
+  </section>
+
+  <section class="wrap filter-seksjon">
+    <div class="filter" role="group" aria-label="Filtrer på tema">
+      <button type="button" data-filter="alle" aria-pressed="true">Alle</button>
+      {
+        Object.entries(temaNavn).map(([key, navn]) => (
+          <button type="button" data-filter={key} aria-pressed="false">
+            {navn}
+          </button>
+        ))
+      }
+    </div>
+    <div class="card-grid liste">
+      {
+        innlegg.map((p) => (
+          <PostCard slug={p.id} title={p.data.title} tema={p.data.tema} date={p.data.date} image={p.data.image} />
+        ))
+      }
+    </div>
+  </section>
+</Layout>
+
+<script>
+  const knapper = document.querySelectorAll<HTMLButtonElement>(".filter button");
+  const kort = document.querySelectorAll<HTMLElement>(".liste [data-tema]");
+  function velg(tema: string) {
+    knapper.forEach((k) => k.setAttribute("aria-pressed", String(k.dataset.filter === tema)));
+    kort.forEach((k) => (k.hidden = tema !== "alle" && k.dataset.tema !== tema));
+  }
+  knapper.forEach((k) =>
+    k.addEventListener("click", () => {
+      const tema = k.dataset.filter ?? "alle";
+      velg(tema);
+      const url = new URL(location.href);
+      if (tema === "alle") url.searchParams.delete("tema");
+      else url.searchParams.set("tema", tema);
+      history.replaceState(null, "", url);
+    }),
+  );
+  const fraUrl = new URLSearchParams(location.search).get("tema");
+  if (fraUrl) velg(fraUrl);
+</script>
+
+<style>
+  .filter-seksjon {
+    padding-bottom: clamp(56px, 8vw, 96px);
+  }
+  .filter {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 28px;
+  }
+  .filter button {
+    font: inherit;
+    font-size: 15px;
+    font-weight: 500;
+    min-height: 44px;
+    padding: 8px 18px;
+    border-radius: 999px;
+    border: 1px solid var(--line-2);
+    background: var(--surface);
+    color: var(--ink);
+    cursor: pointer;
+  }
+  .filter button[aria-pressed="true"] {
+    background: var(--teal);
+    border-color: var(--teal);
+    color: #fff;
+  }
+</style>

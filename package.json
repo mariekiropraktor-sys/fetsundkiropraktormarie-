@@ -1,0 +1,27 @@
+{
+  "name": "fetsundkiropraktormarie",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "import:wordpress": "node scripts/import-wordpress.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariekiropraktor-sys/fetsundkiropraktormarie-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mariekiropraktor-sys/fetsundkiropraktormarie-/issues"
+  },
+  "homepage": "https://github.com/mariekiropraktor-sys/fetsundkiropraktormarie-#readme",
+  "dependencies": {
+    "astro": "^5.18.2"
+  },
+  "devDependencies": {
+    "@types/turndown": "^5.0.6",
+    "turndown": "^7.2.4"
+  },
+  "private": true,
+  "type": "module"
+}

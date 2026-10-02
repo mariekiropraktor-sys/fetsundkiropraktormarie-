@@ -1,0 +1,152 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import BookingCTA from "../../components/BookingCTA.astro";
+import PostCard from "../../components/PostCard.astro";
+import { getCollection } from "astro:content";
+import { site } from "../../data/site";
+
+const innlegg = (await getCollection("blogg", (p) => p.data.tema === "svimmelhet")).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+);
+
+const typer = [
+  {
+    navn: "Krystallsyke (BPPV)",
+    tekst:
+      "Små kalkkrystaller i balanseorganet har løsnet. Gir korte, kraftige snurr når du snur deg i senga, legger deg ned eller ser opp. Behandles ofte effektivt med reposisjoneringsmanøvre.",
+    lenke: "/krystallsyke/",
+  },
+  {
+    navn: "Nakkesvimmelhet",
+    tekst:
+      "Diffus, gyngende svimmelhet sammen med stiv og vond nakke eller hodepine. Henger ofte sammen med nedsatt funksjon i muskler og ledd.",
+    lenke: "/nakkesvimmelhet-hva-er-det/",
+  },
+  {
+    navn: "Vestibulær migrene",
+    tekst:
+      "Episoder med svimmelhet fra minutter til dager – med eller uten hodepine. En vanlig, men ofte oversett årsak.",
+    lenke: "/vestibulaer-migrene-nar-migrene-gir-svimmelhet/",
+  },
+  {
+    navn: "Vestibularisnevritt",
+    tekst:
+      "Betennelse i balansenerven. Kommer brått med kraftig svimmelhet og kvalme i timer eller dager, og kan etterlate ustøhet.",
+    lenke: "/svimmel-eller-usto-vanlige-arsaker-undersokelser-og-behandling/",
+  },
+  {
+    navn: "PPPD",
+    tekst:
+      "Vedvarende gynging og ustøhet som blir verre i butikker og travle omgivelser, ofte etter en annen svimmelhetstilstand.",
+    lenke: "/svimmel-eller-usto-vanlige-arsaker-undersokelser-og-behandling/",
+  },
+  {
+    navn: "Svimmelhet hos eldre",
+    tekst:
+      "Krystallsyke hos eldre gir ofte mer diffus og langvarig ustøhet enn klassiske snurr, og blir lett oversett.",
+    lenke: "/krystallsyken-hos-de-eldre-vanligere-enn-mange-tror/",
+  },
+];
+---
+
+<Layout
+  title="Svimmelhet – utredning og behandling i Fetsund"
+  description="Svimmel eller ustø? Kiropraktor Marie Hermansen i Fetsund utreder svimmelhet med VNG-briller og finner årsaken – krystallsyke, nakkesvimmelhet, vestibulær migrene og mer."
+>
+  <section class="wrap side-topp">
+    <span class="eyebrow">Svimmelhet</span>
+    <h1 class="h1">Svimmelhet er et symptom, ikke en diagnose</h1>
+    <p class="lead">
+      Rommet som snurrer, gyngingen som ikke gir seg, ustøheten når du går. Hver type har sin årsak, og behandlingen
+      er forskjellig. Derfor starter jeg alltid med en grundig undersøkelse.
+    </p>
+    <div class="btn-row">
+      <a class="btn" href={site.booking}>Bestill svimmelhetsundersøkelse</a>
+      <a class="btn btn--ghost" href={site.telefonLenke}>Ring {site.telefon}</a>
+    </div>
+  </section>
+
+  <section class="wrap innhold">
+    <div class="card-grid">
+      {
+        typer.map((t) => (
+          <a class="card card-link" href={t.lenke}>
+            <h2 class="type__navn">{t.navn}</h2>
+            <p class="muted">{t.tekst}</p>
+            <span class="type__mer">Les mer →</span>
+          </a>
+        ))
+      }
+    </div>
+  </section>
+
+  <section class="section section--white">
+    <div class="wrap grid-2">
+      <img
+        class="photo"
+        src="/bilder/marie-vng-briller.webp"
+        alt="Marie med VNG-briller"
+        width="707"
+        height="703"
+        loading="lazy"
+      />
+      <div class="prose">
+        <h2>Slik foregår en svimmelhetsundersøkelse</h2>
+        <p>
+          Den viktigste delen er ofte samtalen. Hvordan svimmelheten kjennes, når den kommer, hvor lenge den varer og
+          hva som utløser den, gir de første ledetrådene.
+        </p>
+        <ul>
+          <li>Grundig sykehistorie</li>
+          <li>Balanse- og koordinasjonstester</li>
+          <li>Nevrologisk screening og undersøkelse av nakken</li>
+          <li>Posisjonstester for krystallsyke</li>
+          <li>VNG-briller som registrerer små øyebevegelser med infrarødt kamera</li>
+        </ul>
+        <p>
+          Målet er å finne årsaken – og å fange opp det som bør utredes videre hos fastlege, øre-nese-hals-lege eller
+          nevrolog. Svimmelhetsundersøkelsen koster 1 100 kr.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section wrap">
+    <div class="notis akutt">
+      <strong>Ring 113</strong> hvis svimmelheten kommer brått sammen med lammelser, talevansker, dobbeltsyn, plutselig
+      kraftig hodepine, brystsmerter eller bevissthetstap.
+    </div>
+  </section>
+
+  <section class="wrap innhold">
+    <h2 class="h2 les">Les mer om svimmelhet</h2>
+    <div class="card-grid">
+      {
+        innlegg.map((p) => (
+          <PostCard slug={p.id} title={p.data.title} tema={p.data.tema} date={p.data.date} image={p.data.image} />
+        ))
+      }
+    </div>
+  </section>
+
+  <BookingCTA tittel="Svimmel eller ustø?" tekst="Bestill en svimmelhetsundersøkelse, så finner vi ut hva som skjer – og hva som hjelper." />
+</Layout>
+
+<style>
+  .type__navn {
+    font-size: 24px;
+  }
+  .type__mer {
+    color: var(--teal);
+    font-weight: 600;
+    font-size: 15px;
+    margin-top: auto;
+  }
+  .akutt {
+    border-left: 0;
+    background: #fff4e5;
+  }
+  .les {
+    margin-bottom: 28px;
+  }
+</style>

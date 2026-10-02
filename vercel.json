@@ -1,0 +1,176 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/behandlingsmetode/funksjonell-muskeltesting{/}?",
+      "destination": "https://fetsundkiropraktor.no/behandlingsmetode/funksjonell-muskeltesting/",
+      "permanent": true
+    },
+    {
+      "source": "/behandlingsmetode/ovelsesveiledning{/}?",
+      "destination": "https://fetsundkiropraktor.no/behandlingsmetode/ovelsesveiledning/",
+      "permanent": true
+    },
+    {
+      "source": "/behandlingsmetode/triggerpunktsmassasje{/}?",
+      "destination": "https://fetsundkiropraktor.no/behandlingsmetode/triggerpunktsmassasje/",
+      "permanent": true
+    },
+    {
+      "source": "/behandlingsmetode/kiropraktisk-manipulasjonsbehandling{/}?",
+      "destination": "https://fetsundkiropraktor.no/behandlingsmetode/kiropraktisk-manipulasjonsbehandling/",
+      "permanent": true
+    },
+    {
+      "source": "/behandlingsmetode/mobiliseringsbehandling{/}?",
+      "destination": "https://fetsundkiropraktor.no/behandlingsmetode/mobiliseringsbehandling/",
+      "permanent": true
+    },
+    {
+      "source": "/behandlingsmetode/nalebehandling{/}?",
+      "destination": "https://fetsundkiropraktor.no/behandlingsmetode/nalebehandling/",
+      "permanent": true
+    },
+    {
+      "source": "/behandlingsmetode/bindevevsmassasje{/}?",
+      "destination": "https://fetsundkiropraktor.no/behandlingsmetode/bindevevsmassasje/",
+      "permanent": true
+    },
+    {
+      "source": "/behandlingsomrade/fibromyalgi-muskelssmerter-og-kiropraktorbehandling{/}?",
+      "destination": "https://fetsundkiropraktor.no/behandlingsomrade/fibromyalgi-muskelssmerter-og-kiropraktorbehandling/",
+      "permanent": true
+    },
+    {
+      "source": "/behandlingsomrade/seniorpasienten{/}?",
+      "destination": "https://fetsundkiropraktor.no/behandlingsomrade/seniorpasienten/",
+      "permanent": true
+    },
+    {
+      "source": "/behandlingsomrade/vondt-i-ryggen{/}?",
+      "destination": "https://fetsundkiropraktor.no/behandlingsomrade/vondt-i-ryggen/",
+      "permanent": true
+    },
+    {
+      "source": "/behandlingsomrade/akutte-kroniske-nakkesmerter{/}?",
+      "destination": "https://fetsundkiropraktor.no/behandlingsomrade/akutte-kroniske-nakkeplager/",
+      "permanent": true
+    },
+    {
+      "source": "/behandlingsomrade/svimmelhet{/}?",
+      "destination": "/svimmelhet/",
+      "permanent": true
+    },
+    {
+      "source": "/behandlingsomrade/kjevesmerter{/}?",
+      "destination": "https://fetsundkiropraktor.no/behandlingsomrade/kjevesmerter/",
+      "permanent": true
+    },
+    {
+      "source": "/behandlingsomrade/muskelsmerter{/}?",
+      "destination": "https://fetsundkiropraktor.no/behandlingsomrade/muskelsmerter-og-senebetennelser/",
+      "permanent": true
+    },
+    {
+      "source": "/behandlingsomrade/hodepine{/}?",
+      "destination": "https://fetsundkiropraktor.no/behandlingsomrade/hodepine/",
+      "permanent": true
+    },
+    {
+      "source": "/behandlingsomrade/skuldersmerter{/}?",
+      "destination": "https://fetsundkiropraktor.no/behandlingsomrade/muskelsmerter/",
+      "permanent": true
+    },
+    {
+      "source": "/behandlingsomrade/albuesmerter{/}?",
+      "destination": "https://fetsundkiropraktor.no/behandlingsomrade/albue-og-handleddsmerter/",
+      "permanent": true
+    },
+    {
+      "source": "/behandlingsomrade/kne-og-ankel-fotsmerter{/}?",
+      "destination": "https://fetsundkiropraktor.no/behandlingsomrade/kne-og-ankel-fotsmerter/",
+      "permanent": true
+    },
+    {
+      "source": "/behandlingsmetoder{/}?",
+      "destination": "https://fetsundkiropraktor.no/behandlingsmetoder/",
+      "permanent": true
+    },
+    {
+      "source": "/behandlingsomrader{/}?",
+      "destination": "https://fetsundkiropraktor.no/behandlingsomrader/",
+      "permanent": true
+    },
+    {
+      "source": "/behandlingsomrade/krystallsyken{/}?",
+      "destination": "/krystallsyke/",
+      "permanent": true
+    },
+    {
+      "source": "/behandlingsomrade/halebenssmerter{/}?",
+      "destination": "https://fetsundkiropraktorsara.no/",
+      "permanent": true
+    },
+    {
+      "source": "/kontakt-meg{/}?",
+      "destination": "/kontakt-oss/",
+      "permanent": true
+    },
+    {
+      "source": "/kjevebehandling-for-under-og-etter-et-kiropraktorbesok{/}?",
+      "destination": "https://fetsundkiropraktor.no/behandlingsomrade/kjevesmerter/",
+      "permanent": true
+    },
+    {
+      "source": "/category/svimmelhet{/}?",
+      "destination": "/blogg/?tema=svimmelhet",
+      "permanent": true
+    },
+    {
+      "source": "/category/krystallsyke{/}?",
+      "destination": "/blogg/?tema=svimmelhet",
+      "permanent": true
+    },
+    {
+      "source": "/category/hodepine{/}?",
+      "destination": "/blogg/?tema=nakke-og-hode",
+      "permanent": true
+    },
+    {
+      "source": "/category/nakke{/}?",
+      "destination": "/blogg/?tema=nakke-og-hode",
+      "permanent": true
+    },
+    {
+      "source": "/category/nakkesmerter{/}?",
+      "destination": "/blogg/?tema=nakke-og-hode",
+      "permanent": true
+    },
+    {
+      "source": "/category/stress{/}?",
+      "destination": "/blogg/?tema=nakke-og-hode",
+      "permanent": true
+    },
+    {
+      "source": "/category/korsryggsmerter{/}?",
+      "destination": "/blogg/?tema=rygg-og-ledd",
+      "permanent": true
+    },
+    {
+      "source": "/category/:slug*",
+      "destination": "/blogg/",
+      "permanent": true
+    },
+    {
+      "source": "/behandlingsomrade/:slug*",
+      "destination": "https://fetsundkiropraktor.no/behandlingsomrader/",
+      "permanent": true
+    },
+    {
+      "source": "/behandlingsmetode/:slug*",
+      "destination": "https://fetsundkiropraktor.no/behandlingsmetoder/",
+      "permanent": true
+    }
+  ]
+}

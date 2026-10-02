@@ -1,0 +1,134 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import BookingCTA from "../../components/BookingCTA.astro";
+import { site, andreMetoder } from "../../data/site";
+---
+
+<Layout
+  title="Om Marie Hermansen – kiropraktor i Fetsund"
+  description="Marie Hermansen er kiropraktor og gründer av Fetsund Kiropraktorsenter, med særlig kompetanse på svimmelhet, krystallsyke og nakkeplager."
+>
+  <section class="wrap om-topp grid-2">
+    <div class="stack">
+      <span class="eyebrow">Om Marie</span>
+      <h1 class="h1">Hei, jeg er Marie</h1>
+      <p class="lead">
+        Jeg er kiropraktor, og eier og gründer av {site.klinikk}. Jeg hjelper deg med alt fra vond nakke og hodepine
+        til svimmelhet – feltet jeg har fordypet meg mest i.
+      </p>
+      <div class="btn-row">
+        <a class="btn" href={site.booking}>Bestill time på nett</a>
+      </div>
+    </div>
+    <img
+      class="photo om-topp__bilde"
+      src="/bilder/marie-portrett.webp"
+      alt="Kiropraktor Marie Hermansen"
+      width="960"
+      height="1200"
+      fetchpriority="high"
+    />
+  </section>
+
+  <section class="section section--white">
+    <div class="wrap prose om-tekst">
+      <h2>Hvem er jeg</h2>
+      <p>
+        Jeg ble autorisert som kiropraktor i 2015 og har siden jobbet med pasienter i alle aldre – fra
+        idrettsutøvere og folk i fullt arbeid til seniorer. I dag driver jeg {site.klinikk}, der jeg jobber sammen
+        med kiropraktor Sara Nordanger.
+      </p>
+      <p>Jeg er medlem av Norsk Kiropraktorforening og følger foreningens faglige og etiske retningslinjer.</p>
+
+      <h2>Svimmelhet – feltet jeg har fordypet meg mest i</h2>
+      <p>
+        Svimmelhet kan være skremmende, og mange går lenge uten å få en forklaring. Gjennom omfattende kursing i
+        svimmelhet, krystallsyke og vestibulær rehabilitering har jeg lært å skille mellom de ulike typene – og det er
+        nøkkelen til riktig behandling.
+      </p>
+      <p>Jeg utreder og behandler blant annet:</p>
+      <ul>
+        <li><a href="/krystallsyke/">Krystallsyke (BPPV)</a></li>
+        <li><a href="/nakkesvimmelhet-hva-er-det/">Nakkesvimmelhet</a></li>
+        <li><a href="/vestibulaer-migrene-nar-migrene-gir-svimmelhet/">Vestibulær migrene</a></li>
+        <li><a href="/svimmel-eller-usto-vanlige-arsaker-undersokelser-og-behandling/">Ustøhet og PPPD</a></li>
+        <li><a href="/krystallsyken-hos-de-eldre-vanligere-enn-mange-tror/">Svimmelhet hos eldre</a></li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="section wrap grid-2">
+    <img
+      class="photo"
+      src="/bilder/marie-vng-briller.webp"
+      alt="Marie med VNG-briller i klinikken"
+      width="707"
+      height="703"
+      loading="lazy"
+    />
+    <div class="prose">
+      <h2>VNG-briller gjør diagnosen sikrere</h2>
+      <p>
+        Til undersøkelsen bruker jeg VNG-briller. De fanger opp små øyebevegelser som ikke synes med det blotte øyet,
+        og viser hvor problemet sitter. Det gjør diagnosen sikrere og behandlingen mer målrettet.
+      </p>
+      <p>
+        Kan jeg ikke hjelpe deg, eller tyder noe på at svimmelheten bør utredes videre, henviser jeg til fastlege,
+        øre-nese-hals-lege eller nevrolog.
+      </p>
+    </div>
+  </section>
+
+  <section class="section section--white">
+    <div class="wrap prose om-tekst">
+      <h2>Også allmennkiropraktor</h2>
+      <p>
+        De fleste som kommer til meg har helt vanlige muskel- og leddplager. Jeg behandler alt fra akutte smerter til
+        langvarige plager i nakke, rygg, kjeve, skulder og bekken, og har også særlig interesse for hofte- og
+        knesmerter, hodepine og senebetennelser.
+      </p>
+      <p>Behandlingen settes sammen etter det undersøkelsen viser. Jeg bruker blant annet:</p>
+      <ul>
+        <li>Kiropraktisk manipulasjon og mobilisering</li>
+        <li>Nålebehandling (tørrnåling)</li>
+        <li>Funksjonell muskeltesting</li>
+        {andreMetoder.slice(0, 5).map((m) => <li>{m}</li>)}
+        <li>Tilpassede øvelser og veiledning</li>
+      </ul>
+
+      <h2>Slik jobber jeg</h2>
+      <p>
+        <strong>Grundig først.</strong> Vi starter alltid med en samtale og en undersøkelse. Jeg vil forstå hvorfor du
+        har vondt eller er svimmel, ikke bare behandle symptomene.
+      </p>
+      <p>
+        <strong>Tilpasset deg.</strong> Ikke alt må «knekkes». Jeg tilpasser behandlingen etter hva du tåler og føler
+        deg trygg på, uansett alder.
+      </p>
+      <p>
+        <strong>Du skal klare deg selv.</strong> Du får øvelser og råd du kan bruke hjemme. Målet er at du blir bedre
+        – ikke bare i dag, men også på sikt.
+      </p>
+    </div>
+  </section>
+
+  <BookingCTA tittel="Vil du komme til meg?" />
+</Layout>
+
+<style>
+  .om-topp {
+    padding-block: clamp(32px, 6vw, 64px);
+  }
+  .om-topp__bilde {
+    aspect-ratio: 4 / 5;
+    object-position: center top;
+    max-height: 600px;
+  }
+  .om-tekst {
+    max-width: calc(720px + 2 * var(--gutter));
+  }
+  .om-tekst > h2:first-child,
+  .prose > h2:first-child {
+    margin-top: 0;
+  }
+</style>

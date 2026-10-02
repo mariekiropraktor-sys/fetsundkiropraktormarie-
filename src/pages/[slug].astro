@@ -1,0 +1,80 @@
+---
+// Blogginnlegg ligger rett under domenet, som på den gamle siden:
+// fetsundkiropraktormarie.no/hvorfor-blir-jeg-svimmel/
+import Layout from "../layouts/Layout.astro";
+import BookingCTA from "../components/BookingCTA.astro";
+import PostCard from "../components/PostCard.astro";
+import { getCollection, render } from "astro:content";
+import { temaNavn } from "../data/site";
+
+export async function getStaticPaths() {
+  const innlegg = await getCollection("blogg");
+  return innlegg.map((post) => ({ params: { slug: post.id }, props: { post } }));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+const dato = post.data.date.toLocaleDateString("nb-NO", { day: "numeric", month: "long", year: "numeric" });
+
+const relaterte = (await getCollection("blogg"))
+  .filter((p) => p.id !== post.id && p.data.tema === post.data.tema)
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  .slice(0, 3);
+---
+
+<Layout title={post.data.title} description={post.data.description} image={post.data.image} type="article">
+  <article class="wrap artikkel">
+    <header class="artikkel__topp stack">
+      <a class="eyebrow" href={`/blogg/?tema=${post.data.tema}`}>{temaNavn[post.data.tema]}</a>
+      <h1 class="h1">{post.data.title}</h1>
+      <p class="muted">Skrevet av <a href="/om-marie-hermansen/">{post.data.forfatter}</a> · {dato}</p>
+    </header>
+    {post.data.image && <img class="photo artikkel__bilde" src={post.data.image} alt="" />}
+    <div class="prose">
+      <Content />
+    </div>
+  </article>
+
+  {
+    relaterte.length > 0 && (
+      <section class="section wrap">
+        <h2 class="h2 relaterte">Les også</h2>
+        <div class="card-grid">
+          {relaterte.map((p) => (
+            <PostCard slug={p.id} title={p.data.title} tema={p.data.tema} date={p.data.date} image={p.data.image} />
+          ))}
+        </div>
+      </section>
+    )
+  }
+
+  <BookingCTA />
+</Layout>
+
+<style>
+  .artikkel {
+    padding-block: clamp(32px, 6vw, 64px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .artikkel__topp {
+    max-width: 720px;
+    width: 100%;
+  }
+  .artikkel__topp .h1 {
+    font-size: clamp(32px, 5vw, 48px);
+  }
+  .artikkel__bilde {
+    max-width: 900px;
+    width: 100%;
+    max-height: 480px;
+    margin-block: 32px;
+  }
+  .prose {
+    width: 100%;
+  }
+  .relaterte {
+    margin-bottom: 28px;
+  }
+</style>

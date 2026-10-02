@@ -1,0 +1,80 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import BookingCTA from "../../components/BookingCTA.astro";
+import { site, priser } from "../../data/site";
+---
+
+<Layout
+  title="Priser"
+  description="Priser hos kiropraktor Marie Hermansen i Fetsund: førstegangskonsultasjon, svimmelhetsundersøkelse og oppfølgende behandling."
+>
+  <section class="wrap side-topp">
+    <span class="eyebrow">Priser</span>
+    <h1 class="h1">Priser</h1>
+    <p class="lead">Du trenger ikke henvisning fra lege. Bestill time direkte på nett, eller ring hvis du er usikker på hvilken time du skal velge.</p>
+  </section>
+
+  <section class="wrap innhold">
+    <div class="pris-liste">
+      {
+        priser.map((p) => (
+          <div class="card pris">
+            <div class="stack pris__tekst">
+              <h2 class="pris__navn">{p.navn}</h2>
+              <p class="muted">{p.tekst}</p>
+            </div>
+            <div class="pris__hoyre">
+              <span class="pris__belop">{p.pris}</span>
+              <a class="btn" href={site.booking}>
+                Bestill
+              </a>
+            </div>
+          </div>
+        ))
+      }
+    </div>
+    <p class="notis tillegg">
+      <strong>Tillegg:</strong> nålebehandling, kinesiotape og vurdering med VNG-briller kommer i tillegg til prisen for
+      oppfølgende behandling.
+    </p>
+  </section>
+
+  <BookingCTA />
+</Layout>
+
+<style>
+  .pris-liste {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    max-width: 900px;
+  }
+  .pris {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+  }
+  .pris__tekst {
+    flex: 1 1 320px;
+    gap: 6px;
+  }
+  .pris__navn {
+    font-size: 24px;
+  }
+  .pris__hoyre {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  .pris__belop {
+    font-family: var(--serif);
+    font-size: 26px;
+    white-space: nowrap;
+  }
+  .tillegg {
+    max-width: 900px;
+    margin-top: 20px;
+  }
+</style>

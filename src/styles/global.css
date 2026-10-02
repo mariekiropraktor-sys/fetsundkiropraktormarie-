@@ -1,0 +1,411 @@
+/* Farger og skrift fra designet «Valgt retning» (turkis fra logoen) */
+:root {
+  --ink: #101923;
+  --muted: #475569;
+  --bg: #eef2f7;
+  --surface: #ffffff;
+  --line: #dde6f0;
+  --line-2: #cbd7e7;
+  --teal: #0b6e81; /* knapper og lenker – lesbar mot hvitt */
+  --teal-bright: #18bad3; /* logoens turkis, brukes på mørk bakgrunn */
+  --teal-soft: #baeff7;
+  --teal-line: #4fa3b3;
+  --star: #b7791f;
+
+  --serif: "Fraunces", Georgia, serif;
+  --sans: "Outfit", system-ui, sans-serif;
+
+  --radius: 20px;
+  --max: 1200px;
+  --gutter: clamp(20px, 4vw, 40px);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: var(--sans);
+  font-size: 17px;
+  line-height: 1.6;
+  color: var(--ink);
+  background: var(--bg);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+a {
+  color: var(--teal);
+}
+a:hover {
+  color: var(--ink);
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--serif);
+  font-weight: 400;
+  line-height: 1.12;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+:focus-visible {
+  outline: 3px solid var(--teal-bright);
+  outline-offset: 2px;
+}
+
+.skip {
+  position: absolute;
+  left: -9999px;
+}
+.skip:focus {
+  left: 16px;
+  top: 16px;
+  z-index: 100;
+  background: var(--surface);
+  padding: 8px 14px;
+  border-radius: 8px;
+}
+
+/* ---------- Oppsett ---------- */
+.wrap {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding-inline: var(--gutter);
+}
+.section {
+  padding-block: clamp(56px, 8vw, 96px);
+}
+.section--white {
+  background: var(--surface);
+}
+.section--dark {
+  background: var(--ink);
+  color: #fff;
+}
+.stack {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.grid-2 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 340px), 1fr));
+  gap: clamp(32px, 5vw, 64px);
+  align-items: center;
+}
+.eyebrow {
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--teal);
+}
+.lead {
+  font-size: clamp(17px, 2vw, 19px);
+  color: var(--muted);
+}
+.muted {
+  color: var(--muted);
+}
+.h1 {
+  font-size: clamp(36px, 5.5vw, 56px);
+  line-height: 1.08;
+}
+.h2 {
+  font-size: clamp(28px, 4vw, 42px);
+  line-height: 1.15;
+}
+.section-head {
+  max-width: 680px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-bottom: 36px;
+}
+
+/* ---------- Knapper ---------- */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-height: 48px;
+  padding: 12px 26px;
+  border-radius: 999px;
+  font-weight: 600;
+  text-decoration: none;
+  border: 1.5px solid var(--teal);
+  background: var(--teal);
+  color: #fff;
+  transition: background 0.2s, color 0.2s;
+}
+.btn:hover {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: #fff;
+}
+.btn--ghost {
+  background: transparent;
+  color: var(--teal);
+}
+.btn--ghost:hover {
+  background: var(--teal);
+  border-color: var(--teal);
+  color: #fff;
+}
+.btn--light {
+  background: #fff;
+  border-color: #fff;
+  color: var(--ink);
+}
+.btn--light:hover {
+  background: var(--teal-soft);
+  border-color: var(--teal-soft);
+  color: var(--ink);
+}
+.btn--outline-light {
+  background: transparent;
+  border-color: #fff;
+  color: #fff;
+}
+.btn--outline-light:hover {
+  background: #fff;
+  color: var(--ink);
+}
+.btn-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+/* ---------- Kort ---------- */
+.card {
+  background: var(--surface);
+  border-radius: var(--radius);
+  padding: clamp(22px, 3vw, 32px);
+}
+.card-link {
+  text-decoration: none;
+  color: var(--ink);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.card-link:hover {
+  color: var(--ink);
+  transform: translateY(-2px);
+  box-shadow: 0 10px 30px rgb(16 25 35 / 0.08);
+}
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr));
+  gap: 16px;
+}
+.arrow-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.arrow-list a {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  padding: 14px 0;
+  border-top: 1px solid var(--line-2);
+  text-decoration: none;
+  color: inherit;
+}
+.arrow-list li:last-child a {
+  border-bottom: 1px solid var(--line-2);
+}
+.arrow-list small {
+  display: block;
+  font-size: 15px;
+  opacity: 0.85;
+}
+.chip-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.chip-list li {
+  background: var(--surface);
+  border: 1px solid var(--line-2);
+  border-radius: 999px;
+  padding: 6px 14px;
+  font-size: 15px;
+}
+
+/* ---------- Bilder ---------- */
+.photo {
+  width: 100%;
+  border-radius: 24px;
+  object-fit: cover;
+}
+
+/* ---------- Tillitsstripe ---------- */
+.trust {
+  background: var(--surface);
+}
+.trust .wrap {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 140px), 1fr));
+  gap: 20px;
+  padding-block: 26px;
+  font-size: 15px;
+  color: var(--muted);
+}
+.trust strong {
+  display: block;
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--ink);
+}
+.trust a {
+  color: var(--muted);
+  text-decoration: none;
+}
+.trust a span {
+  text-decoration: underline;
+}
+.star {
+  color: var(--star);
+}
+
+/* ---------- Artikkeltekst (blogg og fagsider) ---------- */
+.prose {
+  max-width: 720px;
+  font-size: 18px;
+}
+.prose > * + * {
+  margin-top: 1em;
+}
+.prose h2 {
+  font-size: clamp(24px, 3vw, 30px);
+  margin-top: 1.8em;
+}
+.prose h3 {
+  font-size: 22px;
+  margin-top: 1.5em;
+}
+.prose h4 {
+  font-family: var(--sans);
+  font-size: 18px;
+  margin: 1.4em 0 0;
+}
+.prose ul,
+.prose ol {
+  padding-left: 1.3em;
+}
+.prose li + li {
+  margin-top: 0.35em;
+}
+.prose img {
+  border-radius: 16px;
+  margin-inline: auto;
+}
+.prose figure {
+  margin: 1.5em 0;
+}
+.prose figcaption {
+  font-size: 15px;
+  color: var(--muted);
+  margin-top: 8px;
+  font-style: italic;
+}
+.prose blockquote {
+  margin: 1.5em 0;
+  padding: 16px 20px;
+  background: var(--surface);
+  border-radius: 12px;
+}
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 16px;
+  display: block;
+  overflow-x: auto;
+}
+.prose th,
+.prose td {
+  text-align: left;
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--line-2);
+}
+.prose hr {
+  border: 0;
+  border-top: 1px solid var(--line-2);
+  margin: 2em 0;
+}
+.video {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  border-radius: 16px;
+  overflow: hidden;
+  background: var(--ink);
+}
+.video iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .card-link,
+  .btn {
+    transition: none;
+  }
+}
+
+/* ---------- Undersider ---------- */
+.side-topp {
+  padding-block: clamp(40px, 7vw, 72px) 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.side-topp > * {
+  max-width: 760px;
+}
+[hidden] {
+  display: none !important;
+}
+.innhold {
+  padding-bottom: clamp(56px, 8vw, 96px);
+}
+.notis {
+  background: var(--surface);
+  border-radius: 16px;
+  padding: 20px 24px;
+  font-size: 16px;
+}

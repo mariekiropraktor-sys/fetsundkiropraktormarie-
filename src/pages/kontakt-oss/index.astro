@@ -1,0 +1,92 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { site } from "../../data/site";
+---
+
+<Layout
+  title="Kontakt"
+  description="Kontakt kiropraktor Marie Hermansen på Fetsund Kiropraktorsenter, Garderbakken 1 i Fetsund. Telefon 463 32 766. Bestill time på nett."
+>
+  <section class="wrap side-topp">
+    <span class="eyebrow">Kontakt</span>
+    <h1 class="h1">Velkommen til Fetsund Kiropraktorsenter</h1>
+    <p class="lead">Bestill time på nett når det passer deg, eller ring hvis du har spørsmål først.</p>
+  </section>
+
+  <section class="wrap innhold grid-2 kontakt">
+    <div class="card stack">
+      <div>
+        <h2 class="kontakt__tittel">Adresse</h2>
+        <p>{site.klinikk}<br />{site.adresse}</p>
+      </div>
+      <div>
+        <h2 class="kontakt__tittel">Åpningstider</h2>
+        <dl class="tider">
+          {
+            site.apningstider.map((a) => (
+              <>
+                <dt>{a.dager}</dt>
+                <dd>{a.tid}</dd>
+              </>
+            ))
+          }
+        </dl>
+      </div>
+      <div>
+        <h2 class="kontakt__tittel">Telefon</h2>
+        <p><a href={site.telefonLenke}>{site.telefon}</a></p>
+      </div>
+      <div class="btn-row">
+        <a class="btn" href={site.booking}>Bestill time på nett</a>
+        <a class="btn btn--ghost" href={site.telefonLenke}>Ring</a>
+      </div>
+      <p class="muted liten">
+        Følg meg på <a href={site.facebook}>Facebook</a> og <a href={site.instagram}>Instagram</a>.
+      </p>
+    </div>
+    <iframe
+      class="kart"
+      title="Kart: Garderbakken 1, Fetsund"
+      src="https://www.google.com/maps?q=Garderbakken+1,+1900+Fetsund&output=embed"
+      loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </section>
+</Layout>
+
+<style>
+  .kontakt {
+    align-items: stretch;
+  }
+  .kontakt .card {
+    gap: 22px;
+  }
+  .kontakt__tittel {
+    font-family: var(--sans);
+    font-weight: 600;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--teal);
+    margin-bottom: 4px;
+  }
+  .tider {
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: start;
+    gap: 2px 20px;
+    margin: 0;
+  }
+  .tider dd {
+    margin: 0;
+  }
+  .kart {
+    width: 100%;
+    min-height: 380px;
+    border: 0;
+    border-radius: var(--radius);
+    background: var(--line);
+  }
+  .liten {
+    font-size: 15px;
+  }
+</style>

@@ -1,0 +1,182 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import BookingCTA from "../../components/BookingCTA.astro";
+import { site } from "../../data/site";
+
+const faq = [
+  {
+    q: "Kan krystallsyke gå over av seg selv?",
+    a: "Ja. Hos mange avtar symptomene gradvis, selv uten behandling. Behandling kan likevel forkorte forløpet betydelig.",
+  },
+  {
+    q: "Kan krystallsyke komme tilbake?",
+    a: "Ja, tilbakefall er relativt vanlig. Heldigvis kan nye episoder ofte behandles på samme måte som den første.",
+  },
+  {
+    q: "Hvor lenge varer krystallsyke?",
+    a: "Selve anfallene varer som regel fra noen sekunder til under ett minutt. Tilstanden kan vedvare i dager eller uker uten behandling.",
+  },
+  {
+    q: "Er krystallsyke farlig?",
+    a: "Vanligvis ikke, men den kan være svært plagsom og øke risikoen for fall, særlig hos eldre eller personer med nedsatt balanse.",
+  },
+  {
+    q: "Er all svimmelhet krystallsyke?",
+    a: "Nei. Vestibulær migrene, PPPD, vestibularisnevritt, Ménières sykdom og enkelte nevrologiske tilstander kan gi lignende symptomer. Derfor er en grundig undersøkelse viktig.",
+  },
+  {
+    q: "Kan krystallsyke behandles på én konsultasjon?",
+    a: "Mange opplever betydelig bedring etter første behandling. Andre trenger flere behandlinger eller øvelser før symptomene forsvinner helt.",
+  },
+];
+
+const faqLd = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: faq.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })),
+};
+---
+
+<Layout
+  title="Krystallsyke (BPPV) – undersøkelse og behandling i Fetsund"
+  description="Svimmel når du snur deg i sengen? Kiropraktor Marie Hermansen i Fetsund undersøker og behandler krystallsyke (BPPV) med VNG-briller og reposisjoneringsmanøvre."
+>
+  <script type="application/ld+json" set:html={JSON.stringify(faqLd)} slot="head" />
+
+  <section class="wrap side-topp">
+    <span class="eyebrow">Svimmelhet · Krystallsyke</span>
+    <h1 class="h1">Krystallsyke (BPPV)</h1>
+    <p class="lead">
+      Svimmel når du snur deg i sengen eller reiser deg opp? Det kan være krystallsyke – en av de vanligste årsakene
+      til svimmelhet. Symptomene kan være dramatiske, men tilstanden er som regel ufarlig og kan ofte behandles
+      effektivt.
+    </p>
+    <div class="btn-row">
+      <a class="btn" href={site.booking}>Bestill svimmelhetsundersøkelse</a>
+      <a class="btn btn--ghost" href={site.telefonLenke}>Ring {site.telefon}</a>
+    </div>
+  </section>
+
+  <section class="section section--white">
+    <div class="wrap prose">
+      <h2>Hva er krystallsyke?</h2>
+      <p>
+        Inne i balanseorganet i det indre øret finnes små kalkkrystaller (otolitter). Ved krystallsyke løsner noen av
+        dem og havner i en av ørets tre bueganger. Når hodet beveges, flytter krystallene seg og sender feil signaler
+        til hjernen om at du er i bevegelse. Resultatet er en kortvarig, men ofte intens svimmelhet.
+      </p>
+      <p>
+        Hvilken buegang som er påvirket – bakre (vanligst), horisontale eller fremre – avgjør hvilke symptomer du får
+        og hvilken behandling som virker best.
+      </p>
+
+      <h2>Vanlige symptomer</h2>
+      <ul>
+        <li>Karusellsvimmelhet ved bestemte hodebevegelser</li>
+        <li>Svimmelhet når du snur deg i sengen, legger deg ned eller setter deg opp</li>
+        <li>Kortvarige anfall – fra noen sekunder til under ett minutt</li>
+        <li>Kvalme og ustøhet</li>
+        <li>Følelsen av å «miste kontrollen» i korte øyeblikk</li>
+      </ul>
+
+      <h2>Hvordan stilles diagnosen?</h2>
+      <p>
+        Gjennom sykehistorie og tester som fremprovoserer symptomene, som Dix-Hallpike-testen og rulletesten. Under
+        testene ser jeg på øyebevegelsene (nystagmus) med VNG-briller. Retningen og mønsteret viser hvilken buegang
+        krystallene sitter i.
+      </p>
+
+      <h2>Behandling</h2>
+      <p>
+        Behandlingen består av reposisjoneringsmanøvre som flytter krystallene tilbake dit de hører hjemme – for
+        eksempel Epleys manøver, Semonts manøver, BBQ-roll eller Gufoni-manøveren. Valget avhenger av hvilken
+        buegang som er påvirket.
+      </p>
+      <p>
+        Mange blir betydelig bedre etter én behandling, mens andre trenger flere, gjerne sammen med
+        blikkstabiliserings- eller balanseøvelser.
+      </p>
+      <div class="notis">
+        <strong>Vil du lese mer om krystallsyke og øvelser?</strong> På
+        <a href={site.krystallsykehjelpen}>Krystallsykehjelpen</a> finner du fyldig informasjon, et øvelsesbibliotek
+        og videoer.
+      </div>
+
+      <h2>Hvorfor får man krystallsyke?</h2>
+      <p>
+        Ofte finner man ingen klar årsak. Risikoen øker med alder og overgangsalder, etter hode- eller øreskader,
+        virusinfeksjoner, migrene og langvarig sengeleie. Tilstanden er vanligere hos kvinner enn hos menn. Les også om
+        <a href="/krystallsyken-hos-de-eldre-vanligere-enn-mange-tror/">krystallsyke hos eldre</a>.
+      </p>
+
+      <h2>Når bør du oppsøke hjelp?</h2>
+      <p>
+        Få svimmelheten undersøkt hvis den er ny, du er usikker på årsaken, den ikke blir bedre, eller du har store
+        balanseproblemer. Ikke all svimmelhet er krystallsyke –
+        <a href="/svimmelhet/">les om andre årsaker</a>.
+      </p>
+      <p>
+        <strong>Ring 113</strong> ved svimmelhet sammen med dobbeltsyn, talevansker, kraftsvikt eller plutselig, kraftig
+        hodepine.
+      </p>
+    </div>
+  </section>
+
+  <section class="section wrap">
+    <div class="prose">
+      <h2>Vanlige spørsmål</h2>
+      {
+        faq.map((f) => (
+          <details class="faq">
+            <summary>{f.q}</summary>
+            <p>{f.a}</p>
+          </details>
+        ))
+      }
+
+      <h2>Kilder</h2>
+      <ol class="kilder">
+        <li>
+          Bhattacharyya N, et al. <a href="https://journals.sagepub.com/doi/10.1177/0194599816689660">Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update)</a>. Otolaryngology–Head and Neck Surgery. 2017.
+        </li>
+        <li>
+          Koshi EJ, Sutton AE. <a href="https://www.ncbi.nlm.nih.gov/books/NBK470308/">Benign Paroxysmal Positional Vertigo</a>. StatPearls.
+        </li>
+        <li>
+          von Brevern M, et al. Benign Paroxysmal Positional Vertigo: Diagnostic Criteria. Journal of Vestibular Research. 2015.
+        </li>
+      </ol>
+      <p class="muted liten">
+        Informasjonen er generell pasientinformasjon og erstatter ikke individuell vurdering hos autorisert
+        helsepersonell.
+      </p>
+    </div>
+  </section>
+
+  <BookingCTA tittel="Mistenker du krystallsyke?" tekst="Tidlig undersøkelse gir ofte raskere bedring. Bestill en svimmelhetsundersøkelse, så finner vi ut hva som skjer." />
+</Layout>
+
+<style>
+  .faq {
+    background: var(--surface);
+    border-radius: 14px;
+    padding: 16px 20px;
+  }
+  .faq + .faq {
+    margin-top: 10px;
+  }
+  .faq summary {
+    cursor: pointer;
+    font-weight: 600;
+  }
+  .faq p {
+    margin-top: 10px;
+    color: var(--muted);
+  }
+  .kilder {
+    font-size: 15px;
+  }
+  .liten {
+    font-size: 14px;
+  }
+</style>
