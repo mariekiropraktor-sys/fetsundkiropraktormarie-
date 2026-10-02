@@ -19,30 +19,32 @@ const innlegg = utvalgte.map((id) => alle.find((p) => p.id === id)).filter((p) =
   title="Kiropraktor i Fetsund – Marie Hermansen"
   description="Kiropraktor Marie Hermansen i Fetsund: særlig kompetanse på svimmelhet og krystallsyke, og hjelp for nakke, hodepine, kjeve, rygg og ledd."
 >
-  <!-- Topp -->
-  <section class="wrap hero grid-2">
-    <div class="stack hero__tekst">
-      <span class="eyebrow">Kiropraktor i Fetsund</span>
-      <h1 class="h1">Trygg hjelp når kroppen ikke spiller på lag</h1>
-      <p class="lead">
-        Jeg er allmennkiropraktor med særlig kompetanse på svimmelhet og krystallsyke. Hos meg får du grundig
-        undersøkelse, målrettet behandling og øvelser du kan gjøre selv – enten det gjelder svimmelhet, nakke,
-        hodepine eller vonde ledd.
-      </p>
-      <div class="btn-row">
-        <a class="btn" href={site.booking}>Bestill time på nett</a>
-        <a class="btn btn--ghost" href={site.telefonLenke}>Ring {site.telefon}</a>
+  <!-- Topp: bilde og tekst på mørk flate med buet nederkant -->
+  <div class="hero-ramme">
+    <section class="hero">
+      <div class="hero__tekst stack">
+        <span class="eyebrow eyebrow--lys">Kiropraktor i Fetsund</span>
+        <h1 class="h1">Trygg hjelp når kroppen ikke spiller på lag</h1>
+        <p class="lead">
+          Jeg er allmennkiropraktor med særlig kompetanse på svimmelhet og krystallsyke. Hos meg får du grundig
+          undersøkelse, målrettet behandling og øvelser du kan gjøre selv – enten det gjelder svimmelhet, nakke,
+          hodepine eller vonde ledd.
+        </p>
+        <div class="btn-row">
+          <a class="btn btn--bright" href={site.booking}>Bestill time på nett</a>
+          <a class="btn btn--outline-light" href={site.telefonLenke}>Ring {site.telefon}</a>
+        </div>
       </div>
-    </div>
-    <img
-      class="photo hero__bilde"
-      src="/bilder/marie-portrett.webp"
-      alt="Kiropraktor Marie Hermansen i klinikken"
-      width="960"
-      height="1200"
-      fetchpriority="high"
-    />
-  </section>
+      <img
+        class="hero__bilde"
+        src="/bilder/marie-portrett.webp"
+        alt="Kiropraktor Marie Hermansen i klinikken"
+        width="960"
+        height="1200"
+        fetchpriority="high"
+      />
+    </section>
+  </div>
 
   <TrustStrip />
 
@@ -221,16 +223,66 @@ const innlegg = utvalgte.map((id) => alle.find((p) => p.id === id)).filter((p) =
 </Layout>
 
 <style>
+  /* Hvit flate rundt, så hjørnene under buen matcher stripen under */
+  .hero-ramme {
+    background: var(--surface);
+  }
   .hero {
-    padding-block: clamp(32px, 6vw, 64px) clamp(48px, 8vw, 88px);
+    display: flex;
+    flex-direction: column;
+    background: var(--ink);
+    color: #fff;
+    overflow: hidden;
+    /* Buet nederkant */
+    border-radius: 0 0 50% 50% / 0 0 clamp(40px, 7vw, 120px) clamp(40px, 7vw, 120px);
+  }
+  .hero__bilde {
+    order: -1;
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    max-height: 480px;
+    object-fit: cover;
+    object-position: center 20%;
   }
   .hero__tekst {
     gap: 22px;
+    padding: 32px var(--gutter) clamp(64px, 12vw, 120px);
   }
-  .hero__bilde {
-    aspect-ratio: 4 / 5;
-    object-position: center top;
-    max-height: 640px;
+  .hero .h1 {
+    color: #fff;
+  }
+  .hero .lead {
+    color: rgba(255, 255, 255, 0.82);
+  }
+  .btn--bright {
+    background: var(--teal-bright);
+    border-color: var(--teal-bright);
+    color: var(--ink);
+  }
+  .btn--bright:hover {
+    background: #fff;
+    border-color: #fff;
+    color: var(--ink);
+  }
+
+  /* PC: tekst til venstre, bildet fyller høyre halvdel */
+  @media (min-width: 900px) {
+    .hero {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      min-height: 620px;
+    }
+    .hero__bilde {
+      order: 0;
+      aspect-ratio: auto;
+      height: 100%;
+      max-height: none;
+    }
+    .hero__tekst {
+      align-self: center;
+      padding-block: 64px 120px;
+      padding-inline: max(var(--gutter), calc((100vw - var(--max)) / 2 + var(--gutter))) 48px;
+    }
   }
 
   .hjelp {
