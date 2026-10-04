@@ -12,7 +12,6 @@ tema: nakke-og-hode
 image: "/bilder/blogg/vondt-i-oret-kjeve.webp"
 bildeTekst: "Illustrasjonen er laget med KI."
 forfatter: "Marie Hermansen"
-utkast: true
 ---
 
 «Legen så i øret og sa at alt var fint. Men det gjør jo vondt!» Den setningen hører jeg ofte. Mange som kommer til meg med vondt i øret, tett øre eller øresus, har allerede vært hos fastlegen og fått vite at øret er friskt. Og det er det gjerne. Plagene kommer i stedet fra kjeven, som ligger bare en centimeter eller to unna.

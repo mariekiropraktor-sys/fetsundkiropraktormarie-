@@ -13,7 +13,7 @@ forfatter: "Marie Hermansen"
 ---
 Lurer du på hva som faktisk skjer når du går til kiropraktor for kjevesmerter? Hva bør du tenke på før timen, hvilke teknikker bruker jeg, og hva kan du forvente etterpå? Jeg har laget tre korte videoer som svarer på det.
 
-Vil du heller lese om hvorfor kjevesmerter oppstår og hva de kan skyldes, finner du det på [klinikkens side om kjevesmerter](https://fetsundkiropraktor.no/behandlingsomrade/kjevesmerter/).
+Vil du heller lese om hvorfor kjevesmerter oppstår og hva de kan skyldes, finner du det på [klinikkens side om kjevesmerter](https://fetsundkiropraktor.no/behandlingsomrade/kjevesmerter/). Har du vondt i øret i tillegg, kan du lese om [øresus og svimmelhet fra kjeven](/vondt-i-oret-oresus-og-svimmelhet-fra-kjeven/).
 
 ## Før timen
 
