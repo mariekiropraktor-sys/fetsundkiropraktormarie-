@@ -33,48 +33,32 @@ oppdatert: 2026-10-04
 
 ## Hva er nakkesvimmelhet?
 
-Nakkesvimmelhet er ikke en sykdom i seg selv. Det er et tegn på at muskler, ledd eller nerver i nakken ikke fungerer som de skal.
+Nakken er mer enn noe som holder hodet oppe. Den er full av små sensorer som hele tiden melder til hjernen hvor hodet er i forhold til resten av kroppen. Hjernen sammenligner de meldingene med det øynene ser og det balanseorganet i øret registrerer. Så lenge alt stemmer, merker du ingenting.
 
-Nakken er full av små sensorer som hele tiden forteller hjernen hvor hodet er i forhold til kroppen. Når nakken er stiv, anspent eller skadet, blir signalene unøyaktige. Hjernen får da motstridende beskjeder fra nakken, øynene og balanseorganet, og resultatet kan bli svimmelhet og ustøhet, også når du står helt i ro.
+Når nakken er stiv, anspent eller har vært skadet, blir meldingene derfra upresise. Hjernen får tre beskjeder som ikke helt passer sammen, og svaret blir en diffus, gyngende svimmelhet. Mange beskriver det som at hodet er «ute av synk» med kroppen. Det kan kjennes både når du beveger deg og når du sitter helt rolig, og det er nettopp det som skiller det fra krystallsyke.
 
 ## Hvorfor får man nakkesvimmelhet?
 
-Som regel handler det om spenninger eller nedsatt bevegelighet i nakke, skuldre og øvre rygg. Vanlige årsaker er:
+Ofte er det ikke én ting, men en nakke som har vært stram lenge: mange timer foran skjerm, en arbeidsstilling som ikke passer, stress som setter seg i skuldrene og for lite bevegelse i hverdagen. Hos andre starter det etter en skade, for eksempel [nakkesleng](https://nhi.no/sykdommer/hjernenervesystem/rygg-og-nakke-sykdommer/nakkesleng) eller et slag mot hodet.
 
-- Akutte eller langvarige nakkeplager
-- Statisk arbeidsstilling og mye skjermtid
-- Stress og lite fysisk aktivitet
-- Tidligere hode- eller [nakkeskader](https://nhi.no/sykdommer/hjernenervesystem/rygg-og-nakke-sykdommer/nakkesleng), for eksempel nakkesleng
-
-Nakkesvimmelhet kan også komme etter en periode med [krystallsyke](/krystallsyke/). Mange spenner nakken for å unngå bevegelser som utløser svimmelheten. Spenningene kan bli værende og gi en ny type svimmelhet når krystallsyken er borte.
+En sammenheng jeg ser ofte, er nakkesvimmelhet som kommer etter [krystallsyke](/krystallsyke/). Når hver hodebevegelse kan utløse et snurr, er det naturlig å holde nakken stiv for å beskytte seg. Krystallene kommer på plass, men spenningen blir sittende igjen, og med den en ny og annerledes svimmelhet.
 
 ## Slik undersøker jeg
 
-Det finnes ingen enkelt test som bekrefter nakkesvimmelhet. Diagnosen stilles ved å se hele bildet:
+Det finnes ingen enkelt test som bekrefter nakkesvimmelhet, så jeg ser på hele bildet. Vi starter med en samtale om hvordan svimmelheten kjennes, når den kommer og hva som gjør den verre. Deretter undersøker jeg bevegeligheten i nakken, muskler og ledd, og jeg tester balansen og øyebevegelsene med VNG-briller.
 
-- En grundig samtale om hvordan svimmelheten oppleves og når den kommer
-- Undersøkelse av nakkens bevegelighet, muskler og ledd
-- Balanse- og øyebevegelsestester, blant annet med VNG-briller
-- Tester som utelukker andre årsaker, som krystallsyke eller sykdom i det indre øret
-
-Ofte finner jeg et punkt i nakken som fremkaller nettopp den svimmelheten du kjenner igjen.
+Like viktig er det å utelukke andre årsaker, som krystallsyke eller sykdom i det indre øret. Ofte finner jeg til slutt et punkt i nakken som fremkaller akkurat den svimmelheten du kjenner igjen. Det gir oss begge et tydelig utgangspunkt for behandlingen.
 
 ## Behandling
 
-Behandlingen tilpasses det undersøkelsen viser. Aktuelle tiltak er:
+Hva vi gjør, avhenger av hva undersøkelsen viser. Som regel kombinerer jeg leddbehandling og mobilisering av nakken med behandling av stramme muskler og triggerpunkter. Noen ganger bruker jeg også [nålebehandling](https://fetsundkiropraktor.no/behandlingsmetode/nalebehandling/) eller traksjon.
 
-- Leddbehandling og mobilisering av nakken
-- Muskel- og triggerpunktbehandling
-- [Nålebehandling](https://fetsundkiropraktor.no/behandlingsmetode/nalebehandling/) og traksjon ved behov
-- Øvelser for nakke, balanse og blikkstabilisering
-- Råd om arbeidsstilling, aktivitet og stressmestring
-
-Målet er en nakke som beveger seg fritt, og en hjerne som igjen får tydelige signaler.
+Du får øvelser for nakke, balanse og blikkstabilisering som du gjør hjemme, og vi ser på det rundt deg: arbeidsstillingen, hvor mye du beveger deg og hvordan du har det med stress. Målet er en nakke som beveger seg fritt, slik at hjernen igjen får tydelige signaler.
 
 ## Hvordan går det?
 
-Utsiktene er gode. Når svimmelheten kommer fra nakken og musklene rundt, merker mange bedring etter få behandlinger. Øvelsene du får med deg hjem, hjelper deg å holde deg bra.
+Utsiktene er gode. Når svimmelheten kommer fra nakken og musklene rundt, merker mange bedring etter få behandlinger, og øvelsene hjelper deg å holde deg bra etterpå.
 
 ## Når bør du ta kontakt?
 
-Få svimmelheten vurdert hvis den kommer sammen med vond nakke eller hodepine, hvis den ikke går over, eller hvis du er usikker på hva den skyldes.
+Få svimmelheten vurdert hvis den kommer sammen med vond nakke eller hodepine, hvis den ikke gir seg, eller hvis du rett og slett ikke vet hva den skyldes.

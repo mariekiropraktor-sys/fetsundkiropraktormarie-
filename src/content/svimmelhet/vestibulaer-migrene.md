@@ -37,26 +37,19 @@ oppdatert: 2026-10-04
 
 ## Hva er vestibulær migrene?
 
-Vestibulær migrene er en form for migrene der svimmelhet er et av hovedsymptomene. Mange forbinder migrene med kraftig hodepine, men ved vestibulær migrene kan hodepinen være mild eller helt borte.
+Vestibulær migrene er en form for migrene der svimmelheten står i sentrum. De fleste forbinder migrene med dunkende hodepine, men ved vestibulær migrene kan hodepinen være mild, komme bare innimellom eller mangle helt. Derfor er det mange som aldri tenker at svimmelheten deres kan ha med migrene å gjøre.
 
-Tilstanden påvirker hvordan hjernen bearbeider informasjon fra balanseorganet, synet og kroppens stillingssans. Hjernen kan da oppfatte bevegelse eller ubalanse selv når du står helt stille.
-
-Vestibulær migrene rammer kvinner oftere enn menn, og er en av de vanligste årsakene til tilbakevendende svimmelhet.
+Tilstanden påvirker hvordan hjernen bearbeider signalene fra balanseorganet, øynene og kroppens stillingssans. Hjernen kan da oppfatte bevegelse som ikke er der. Vestibulær migrene er en av de vanligste årsakene til svimmelhet som kommer og går, og den rammer kvinner oftere enn menn.
 
 ## Hvordan kjennes det?
 
-Symptomene varierer mye. Noen beskriver det som å gå på en båt. Andre opplever at omgivelsene beveger seg, eller at balansen bare ikke føles riktig. Vanlige symptomer er:
+Det varierer mye fra person til person. Noen sier det er som å stå på en båt. Andre opplever at gulvet gynger, at omgivelsene beveger seg, eller bare at balansen «ikke sitter». Mange blir verre når de beveger hodet, og en del får kvalme, blir ukonsentrerte eller kjenner seg tunge i hodet.
 
-- Svimmelhet og ustøhet
-- Gynging eller «lett i hodet»
-- Svimmelhet når du beveger hodet
-- Kvalme og konsentrasjonsvansker
-- Visuell svimmelhet, for eksempel i butikker eller foran skjerm
-- Følsomhet for lys og lyd
+Et typisk trekk er at synsinntrykk gjør det verre. Butikkhyller, kjøpesentre, trafikk og lange økter foran skjerm kan være nok til å sette det i gang. Under en episode blir mange også følsomme for lys og lyd.
 
 ## Vestibulær migrene eller krystallsyke?
 
-De to forveksles ofte, fordi begge gir svimmelhet. Den viktigste forskjellen er varigheten: ved [krystallsyke](/krystallsyke/) varer svimmelheten sekunder og utløses av bestemte hodebevegelser. Ved vestibulær migrene varer episodene fra minutter til dager.
+Begge gir svimmelhet, så de blir ofte forvekslet. Den tydeligste forskjellen er hvor lenge det varer. Ved [krystallsyke](/krystallsyke/) varer snurret i sekunder og kommer når du beveger hodet på bestemte måter. Ved vestibulær migrene kan en episode vare fra minutter til flere dager, og den kan komme uten at du har gjort noe spesielt.
 
 <table class="sammenligning">
 <caption>Symptomene kan overlappe, og noen har begge tilstandene samtidig. Derfor er en grundig undersøkelse viktig.</caption>
@@ -74,39 +67,26 @@ De to forveksles ofte, fordi begge gir svimmelhet. Den viktigste forskjellen er 
 
 ## Vestibulær migrene eller PPPD?
 
-Vestibulær migrene gir vanligvis episoder med svimmelhet. [PPPD](/svimmelhet/pppd/) kjennetegnes av gynging og ustøhet nesten hver dag over lang tid. PPPD kan også utvikle seg etter vestibulær migrene, så det er ikke uvanlig å ha begge.
+Vestibulær migrene kommer i episoder. [PPPD](/svimmelhet/pppd/) er en mer konstant gynging som er der de fleste dager over lang tid. De to henger likevel ofte sammen, for PPPD kan utvikle seg etter vestibulær migrene, og noen har begge.
 
 ## Hva kan utløse et anfall?
 
-Triggerne er forskjellige fra person til person, men de vanligste er:
-
-- Stress og søvnmangel
-- Hormonelle endringer
-- Uregelmessige måltider og for lite væske
-- Alkohol
-- Sterkt lys, mye skjermbruk og travle omgivelser
+Det er individuelt, men noen triggere går igjen. Stress og for lite søvn er blant de vanligste. Mange merker også sammenheng med hormonsvingninger, uregelmessige måltider, for lite drikke eller alkohol. Sterkt lys, mye skjermbruk og travle omgivelser kan være nok for andre. Å finne dine triggere er ofte en av de viktigste delene av behandlingen.
 
 ## Slik undersøker jeg
 
-Sykehistorien er det aller viktigste. Det er der de fleste ledetrådene ligger, og her må man være litt detektiv. I tillegg gjør jeg:
+Det finnes ingen blodprøve eller skanning som viser vestibulær migrene. Diagnosen stilles ut fra sykehistorien, og det er der jeg bruker mest tid. Hvordan startet det, hvor lenge varer episodene, hva skjer rett før, og har du migrene i familien? Her må man være litt detektiv.
 
-- Nevrologisk screening og balanseundersøkelse
-- Undersøkelse av øyebevegelser med VNG-briller
-- Tester som utelukker krystallsyke og andre årsaker
+I tillegg gjør jeg en nevrologisk screening og en balanseundersøkelse, og jeg ser på øyebevegelsene med VNG-briller. Det hjelper meg å utelukke krystallsyke og andre årsaker.
 
 <figure><img src="/bilder/blogg/IMG_1617.webp" alt="Marie undersøker en pasient med VNG-briller" width="409" height="407" loading="lazy"><figcaption>VNG-briller viser øyebevegelser som ikke synes med det blotte øyet.</figcaption></figure>
 
 ## Behandling
 
-Behandlingen tilpasses deg. Mange blir bedre når de forstår hva som skjer i kroppen og hva som utløser symptomene. Aktuelle tiltak er:
+Mange blir merkbart bedre bare av å forstå hva som skjer. Når du vet at svimmelheten ikke er farlig, og hva som setter den i gang, blir den mindre skremmende og lettere å styre.
 
-- Informasjon og kartlegging av triggere
-- Råd om søvn og stressmestring
-- Gradvis tilvenning til bevegelse og synsinntrykk
-- Vestibulær rehabilitering
-- Behandling av nakke og hodepine ved behov
-- Samarbeid med fastlegen, for eksempel om medisiner
+Sammen kartlegger vi triggerne dine og ser på søvn og stress. Gjennom vestibulær rehabilitering venner du hjernen gradvis til bevegelse og synsinntrykk igjen, og jeg behandler nakken og hodepinen hvis de er en del av bildet. Trenger du medisiner for å forebygge anfall, samarbeider jeg med fastlegen din.
 
 ## Når bør du ta kontakt?
 
-Få svimmelheten vurdert hvis den kommer tilbake, hvis du har migrene og samtidig blir svimmel, hvis du føler deg gyngende over tid, eller hvis du er undersøkt for krystallsyke uten at symptomene er forklart.
+Få svimmelheten vurdert hvis den kommer tilbake igjen og igjen, hvis du har migrene og samtidig blir svimmel, eller hvis du har vært gyngende lenge. Det gjelder også hvis du er undersøkt for krystallsyke uten at noen har funnet forklaringen.

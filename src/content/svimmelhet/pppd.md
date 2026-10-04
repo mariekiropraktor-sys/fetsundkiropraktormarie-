@@ -34,48 +34,28 @@ oppdatert: 2026-10-04
 
 PPPD står for *persistent postural-perceptual dizziness*, på norsk vedvarende postural-perseptuell svimmelhet. Det er en funksjonell tilstand. Balanseorganet og hjernen er ikke skadet, men hjernen har endret måten den bearbeider balanse- og synsinntrykk på.
 
-PPPD starter ofte etter noe som har satt balansen ut av spill, for eksempel:
-
-- [Krystallsyke](/krystallsyke/)
-- Vestibularisnevritt (betennelse i balansenerven)
-- [Vestibulær migrene](/svimmelhet/vestibulaer-migrene/)
-- En hjernerystelse eller en periode med sykdom
-- Kraftig stress eller angst
-
-Mens det sto på, var det lurt av hjernen å være ekstra på vakt og bruke synet mer for å holde balansen. Ved PPPD blir hjernen værende i denne beredskapen etter at den opprinnelige årsaken er borte.
+Som regel starter det etter noe som har satt balansen ut av spill: [krystallsyke](/krystallsyke/), en betennelse i balansenerven, [vestibulær migrene](/svimmelhet/vestibulaer-migrene/), en hjernerystelse eller en periode med mye sykdom eller stress. Mens det sto på, var det klokt av hjernen å være ekstra på vakt og lene seg mer på synet. Ved PPPD blir den værende i den beredskapen lenge etter at den opprinnelige årsaken er borte.
 
 ## Hvordan kjennes det?
 
-De fleste beskriver en gynging eller ustøhet som er der nesten hele tiden, ikke en snurrende karusell. Symptomene kan variere gjennom dagen, men forsvinner sjelden helt. Typisk er det verre:
+De fleste beskriver en gynging eller ustøhet som er der nesten hele tiden, ikke en snurrende karusell. Den kan variere gjennom dagen, men forsvinner sjelden helt. Typisk er det verst når du står og går, og bedre når du sitter eller ligger.
 
-- Når du står eller går
-- Når du selv beveger deg, eller sitter i bil, tog eller buss
-- I butikker og kjøpesentre, blant mye folk og i trafikk
-- Foran skjerm, ved scrolling og bevegelige bilder
-
-Mange blir slitne, bekymret for hva som feiler dem, og begynner å unngå steder som gjør dem svimle. Det er forståelig, men unngåelse holder ofte plagene ved like.
+Bevegelse rundt deg gjør det verre, enten du selv er i bevegelse, sitter på et tog, eller står i en butikk med lange hyller og mye folk. Skjerm og scrolling kan ha samme effekt. Mange blir slitne av det, og etter hvert begynner de å unngå steder som gjør dem svimle. Det er helt forståelig, men unngåelsen er dessverre noe av det som holder plagene ved like.
 
 ## Slik undersøker jeg
 
-Ved PPPD er undersøkelsene som regel normale. Diagnosen stilles ut fra sykehistorien, og ved å utelukke andre årsaker. Derfor gjør jeg:
+Ved PPPD er undersøkelsene som regel normale, og det kan være frustrerende å høre at «alt ser fint ut». Diagnosen stilles ut fra sykehistorien og ved å utelukke andre årsaker. Jeg bruker derfor god tid på samtalen: hvordan og når startet det, og hva gjør det verre?
 
-- En grundig samtale om hvordan og når svimmelheten startet, og hva som gjør den verre
-- Balansetester og undersøkelse av nakken
-- Posisjonstester og øyebevegelsestester med VNG-briller, for å se om det fortsatt er krystallsyke eller en annen vestibulær tilstand
-- Vurdering av om du bør henvises videre
-
-Mange har både PPPD og en annen tilstand samtidig. Da må begge behandles.
+Deretter tester jeg balansen, undersøker nakken og gjør posisjonstester med VNG-briller for å se om det fortsatt er krystallsyke eller en annen vestibulær tilstand i bildet. Mange har nemlig både PPPD og noe annet samtidig, og da må begge deler behandles. Er det noe som bør utredes videre, henviser jeg deg.
 
 ## Behandling
 
-PPPD kan behandles, men det tar ofte litt tid. Hjernen skal venne seg av med et mønster den har lært over måneder. Behandlingen består vanligvis av:
+PPPD kan behandles, men det tar ofte litt tid. Hjernen skal venne seg av med et mønster den har lært over flere måneder.
 
-- **Forklaring:** å forstå hva PPPD er, og at svimmelheten ikke er farlig, er et viktig første steg
-- **Vestibulær rehabilitering:** øvelser som gradvis gjør hjernen mindre følsom for bevegelse og synsinntrykk
-- **Gradvis eksponering:** du øver deg tilbake til butikker og aktiviteter du har unngått, i ditt tempo
-- **Behandling av nakke og spenninger** som ofte følger med
-- **Samarbeid med fastlege** om for eksempel kognitiv terapi eller medisiner, når det er aktuelt
+Det første steget er å forstå hva som skjer. Når du vet at svimmelheten ikke er farlig, er det lettere å tåle den mens du jobber deg ut av den. Så starter vi med vestibulær rehabilitering: øvelser som gradvis gjør hjernen mindre følsom for bevegelse og synsinntrykk. Etter hvert øver du deg tilbake til butikker og aktiviteter du har unngått, i et tempo du klarer.
+
+Spenninger i nakken følger ofte med, og dem behandler jeg underveis. Noen har også nytte av kognitiv terapi eller medisiner, og da samarbeider jeg med fastlegen din.
 
 ## Når bør du ta kontakt?
 
-Få svimmelheten vurdert hvis du har vært gyngende eller ustø i flere måneder, hvis du har begynt å unngå steder eller aktiviteter, eller hvis du har fått beskjed om at «alt er normalt» uten å bli bedre.
+Få svimmelheten vurdert hvis du har vært gyngende eller ustø i flere måneder, hvis du har begynt å unngå steder og aktiviteter, eller hvis du har fått beskjed om at «alt er normalt» uten å bli bedre.
