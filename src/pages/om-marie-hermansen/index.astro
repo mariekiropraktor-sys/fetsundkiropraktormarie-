@@ -116,6 +116,37 @@ import { site, andreMetoder } from "../../data/site";
     </div>
   </section>
 
+  <section class="section" id="etterutdanning">
+    <div class="wrap prose om-tekst">
+      <h2>Etterutdanning innen svimmelhet</h2>
+      <p>
+        Jeg har hatt svimmelhet som faglig interesse siden studietiden, og har jobbet målrettet med svimmelhet og
+        krystallsyke (BPPV) i mange år. Etterutdanningen min omfatter blant annet:
+      </p>
+      <ul class="kursliste">
+        <li><span class="kursliste__ar">2018</span> Seminar om kronisk BPPV ved OsloMet</li>
+        <li>
+          <span class="kursliste__ar">ca. 2018–2019</span> Kurs i svimmelhet og funksjonell nevrologi ved
+          Neuroseminars, med Darren Barnes-Heath og Nicole Oliver
+        </li>
+        <li>
+          <span class="kursliste__ar">ca. 2018–2019</span> Kurs i svimmelhet ved Klinikk for Alle, med osteopat Niclas
+          Skärström
+        </li>
+        <li><span class="kursliste__ar">2025</span> «Svimmelhet i praksis», Norsk Kiropraktorforening</li>
+        <li><span class="kursliste__ar">2026</span> Vestibulær rehabilitering</li>
+      </ul>
+      <p>Fagkongresser og høstkurs i Norsk Kiropraktorforening har i tillegg inkludert foredrag om akutt svimmelhet og krystallsyke.</p>
+
+      <h2>Annen etterutdanning</h2>
+      <p>
+        Kurs i dry needling (2017), hodepine, kjeveleddsplager (TMD), ultralyd og muskel- og skjeletthelse, i tillegg
+        til jevnlige fagkongresser og kurs i regi av Norsk Kiropraktorforening. Oppdatert kurs i førstehjelp og
+        hjertestarter (2025).
+      </p>
+    </div>
+  </section>
+
   <BookingCTA tittel="Vil du komme til meg?" />
 </Layout>
 
@@ -130,6 +161,30 @@ import { site, andreMetoder } from "../../data/site";
   }
   .om-tekst {
     max-width: calc(720px + 2 * var(--gutter));
+  }
+  .kursliste {
+    list-style: none;
+    padding-left: 0;
+  }
+  .kursliste li {
+    display: grid;
+    grid-template-columns: 7.5em 1fr;
+    gap: 0.75em;
+    padding-block: 0.6em;
+    border-bottom: 1px solid color-mix(in srgb, currentColor 12%, transparent);
+  }
+  .kursliste li::before {
+    content: none;
+  }
+  .kursliste__ar {
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  @media (max-width: 480px) {
+    .kursliste li {
+      grid-template-columns: 1fr;
+      gap: 0.15em;
+    }
   }
   .om-tekst > h2:first-child,
   .prose > h2:first-child {

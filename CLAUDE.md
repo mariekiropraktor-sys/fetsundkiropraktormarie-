@@ -56,5 +56,5 @@ Fra designlerretet «Valgt retning» (kombinasjon av forslag A og B).
   (fetsundkiropraktormarie.no/wp-content/…). De må lastes ned og legges i
   prosjektet før domenet flyttes og WordPress-hostingen avsluttes.
 - Sanity-oppsett (prosjekt-ID fra Marie).
-- Utdanning/kurs på Om Marie-siden (Marie fyller inn).
+- Kurs på Om Marie-siden er lagt inn (4. okt. 2026). Mangler eksakt år for Neuroseminars og Klinikk for Alle (står «ca. 2018–2019").
 - Tilleggsprisen for nål/tape/VNG (stod «45 kr» på gammel side – bekreft).
