@@ -54,6 +54,8 @@ PPPD kan behandles, men det tar ofte litt tid. Hjernen skal venne seg av med et 
 
 Det første steget er å forstå hva som skjer. Når du vet at svimmelheten ikke er farlig, er det lettere å tåle den mens du jobber deg ut av den. Så starter vi med vestibulær rehabilitering: øvelser som gradvis gjør hjernen mindre følsom for bevegelse og synsinntrykk. Etter hvert øver du deg tilbake til butikker og aktiviteter du har unngått, i et tempo du klarer.
 
+For mange er matbutikken den store prøven. Et typisk første mål er å gå inn, handle én ting og gå ut igjen, gjerne en rolig formiddag. Neste gang litt lenger inn. Det kjennes ofte lite ut, men det er slike små steg som lærer hjernen at butikken er trygg igjen. Fremgangen går sjelden i rett linje, og en dårlig dag betyr ikke at du er tilbake på start.
+
 Spenninger i nakken følger ofte med, og dem behandler jeg underveis. Noen har også nytte av kognitiv terapi eller medisiner, og da samarbeider jeg med fastlegen din.
 
 ## Når bør du ta kontakt?

@@ -41,7 +41,9 @@ Når nakken er stiv, anspent eller har vært skadet, blir meldingene derfra upre
 
 Ofte er det ikke én ting, men en nakke som har vært stram lenge: mange timer foran skjerm, en arbeidsstilling som ikke passer, stress som setter seg i skuldrene og for lite bevegelse i hverdagen. Hos andre starter det etter en skade, for eksempel [nakkesleng](https://nhi.no/sykdommer/hjernenervesystem/rygg-og-nakke-sykdommer/nakkesleng) eller et slag mot hodet.
 
-En sammenheng jeg ser ofte, er nakkesvimmelhet som kommer etter [krystallsyke](/krystallsyke/). Når hver hodebevegelse kan utløse et snurr, er det naturlig å holde nakken stiv for å beskytte seg. Krystallene kommer på plass, men spenningen blir sittende igjen, og med den en ny og annerledes svimmelhet.
+Et forløp jeg ser ganske ofte, går omtrent slik: Først kommer [krystallsyken](/krystallsyke/), med kraftige snurr hver gang man legger seg ned. Etter noen uker er snurrene borte, enten av seg selv eller etter behandling. Men i stedet kommer en ny, mer diffus gynging, og nakken har blitt stiv som en planke. Mange tror da at krystallsyken har kommet tilbake. Når vi tester, er krystallene på plass, og det er nakken som har tatt over.
+
+Forklaringen er enkel. Når hver hodebevegelse kan utløse et snurr, er det naturlig å holde nakken stiv for å beskytte seg. Krystallene kommer på plass, men spenningen blir sittende igjen, og med den en ny og annerledes svimmelhet.
 
 ## Slik undersøker jeg
 

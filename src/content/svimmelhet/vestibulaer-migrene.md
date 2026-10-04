@@ -77,6 +77,8 @@ Det er individuelt, men noen triggere går igjen. Stress og for lite søvn er bl
 
 Det finnes ingen blodprøve eller skanning som viser vestibulær migrene. Diagnosen stilles ut fra sykehistorien, og det er der jeg bruker mest tid. Hvordan startet det, hvor lenge varer episodene, hva skjer rett før, og har du migrene i familien? Her må man være litt detektiv.
 
+Ofte er det ikke testene som gir svaret, men et spørsmål i samtalen. «Hadde du mye hodepine som tenåring?» eller «Ble du lett bilsyk som barn?» Mange med vestibulær migrene svarer ja, og har aldri tenkt på at det kan henge sammen med svimmelheten de har i dag. Spør jeg om de har migrene i familien, kommer det ofte en mor eller søster på banen.
+
 I tillegg gjør jeg en nevrologisk screening og en balanseundersøkelse, og jeg ser på øyebevegelsene med VNG-briller. Det hjelper meg å utelukke krystallsyke og andre årsaker.
 
 <figure><img src="/bilder/blogg/IMG_1617.webp" alt="Marie undersøker en pasient med VNG-briller" width="409" height="407" loading="lazy"><figcaption>VNG-briller viser øyebevegelser som ikke synes med det blotte øyet.</figcaption></figure>

@@ -10,6 +10,8 @@ utkast: true
 
 «Legen så i øret og sa at alt var fint. Men det gjør jo vondt!» Den setningen hører jeg ofte. Mange som kommer til meg med vondt i øret, tett øre eller øresus, har allerede vært hos fastlegen og fått vite at øret er friskt. Og det er det gjerne. Plagene kommer i stedet fra kjeven, som ligger bare en centimeter eller to unna.
 
+Når jeg kjenner på tyggemuskelen foran øret, kommer det ofte et overrasket «Au, der er det jo!». Det er gjerne første gang noen har undersøkt kjeven, og første gang smerten i øret gir mening.
+
 ## Kjeven og øret er naboer
 
 Legg fingrene rett foran ørene og åpne munnen. Det du kjenner bevege seg, er kjeveleddet. Det ligger tett inntil øregangen, og kjeven og øret deler også nerver. Noen av de små musklene inne i øret styres faktisk av den samme nerven som tyggemusklene. Når kjeveleddet eller tyggemusklene er irritert og overbelastet, er det derfor ikke rart at hjernen tolker smerten som om den kommer fra øret.
