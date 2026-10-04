@@ -12,6 +12,7 @@ const blogg = defineCollection({
     date: z.coerce.date(),
     tema: z.enum(["svimmelhet", "nakke-og-hode", "rygg-og-ledd"]),
     image: z.string().optional(),
+    bildeTekst: z.string().optional(), // liten tekst under toppbildet, f.eks. «Illustrasjonen er laget med KI.»
     kortFortalt: z.array(z.string()).default([]), // 3–4 punkter øverst i innlegget
     forfatter: z.string().default("Marie Hermansen"),
     // utkast: true = siden bygges (så Marie kan lese den), men vises ikke i lister,

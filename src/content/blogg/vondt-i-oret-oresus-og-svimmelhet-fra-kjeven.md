@@ -9,6 +9,8 @@ kortFortalt:
   - "Plutselig hørselstap eller pulserende øresus skal sjekkes av lege samme dag."
 date: 2026-10-04
 tema: nakke-og-hode
+image: "/bilder/blogg/vondt-i-oret-kjeve.webp"
+bildeTekst: "Illustrasjonen er laget med KI."
 forfatter: "Marie Hermansen"
 utkast: true
 ---
