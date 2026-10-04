@@ -75,8 +75,8 @@ function fixLinks(html) {
     .replace(/[?&]utm_source=chatgpt\.com/g, "")
     // Private ChatGPT-lenker og lokale filstier fjernes, teksten beholdes
     .replace(/<a [^>]*href="(?:https:\/\/chatgpt\.com[^"]*|\/Users\/[^"]*)"[^>]*>([\s\S]*?)<\/a>/g, "$1")
-    // Bilder beholdes fra WordPress foreløpig
-    .replace(/src="\/wp-content/g, 'src="https://fetsundkiropraktormarie.no/wp-content')
+    // Bildene ligger nå i public/bilder/blogg/ (lastet ned fra WordPress)
+    .replace(/src="\/wp-content\/uploads\/(?:\d{4}\/\d{2}\/)?/g, 'src="/bilder/blogg/')
     // Lenker til gamle adresser pekes rett til der innholdet bor nå
     .replace(/href="\/behandlingsomrade\/krystallsyken\/?"/g, 'href="/krystallsyke/"')
     .replace(/href="\/behandlingsomrade\/svimmelhet\/?"/g, 'href="/svimmelhet/"')
@@ -157,7 +157,7 @@ for (const it of items) {
     `description: ${yaml(description)}`,
     `date: ${date}`,
     `tema: ${temaFor(slug)}`,
-    image ? `image: ${yaml(image)}` : null,
+    image ? `image: ${yaml(image.replace(/^https?:\/\/[^/]+\/wp-content\/uploads\/(?:\d{4}\/\d{2}\/)?/, "/bilder/blogg/"))}` : null,
     `forfatter: "Marie Hermansen"`,
     "---",
   ]

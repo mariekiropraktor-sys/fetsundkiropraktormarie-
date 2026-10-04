@@ -3,7 +3,7 @@ title: "Topp 5 ting som kiropraktoren kan hjelpe seniorpasienten med!"
 description: "Visste du at seniorpasienten har ofte veldig god nytte av kiropraktorbehandling hos oss på Fetsund Kiropraktorsenter? Kiropraktor Marie Hermansen"
 date: 2024-04-24
 tema: rygg-og-ledd
-image: "https://fetsundkiropraktormarie.no/wp-content/uploads/sky-freedom-happiness-2667455-768x496-1-480x310-1.webp"
+image: "/bilder/blogg/sky-freedom-happiness-2667455-768x496-1-480x310-1.webp"
 forfatter: "Marie Hermansen"
 ---
 
@@ -27,7 +27,6 @@ I tilfelle senioren må til lege eller legevakt og ikke kan følge opp behandlin
 
 Denne artikkelen skal gå igjennom de aller vanligste og en av de mest uvanlige plagene vi ser hos våre seniorer og hvordan vi kan behandle dem på en skånsom og effektiv måte.
 
-<figure><img class="size-medium" src="https://www.homage.com.my/wp-content/uploads/sites/2/2022/11/1-6-844x633.jpg" alt="Kiropraktorbehandling for seniorpasienten" width="844" height="633"><figcaption>Seniorpasienten har god effekt av kiropraktor behandling hos oss på Fetsund kiropraktorsenter.</figcaption></figure>
 
 ## Sterke smertestillende medisiner for seniorpasienten - en god løsning?
 

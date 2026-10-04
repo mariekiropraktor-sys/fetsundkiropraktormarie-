@@ -3,7 +3,7 @@ title: "Krystallsyken hos de eldre-vanligere enn mange tror!"
 description: "Svimmelhet kan skyldes mange ting hos eldre, og krystallsyken er ofte noe av det siste man tenker på om det ikke følger ett \"vanlig \" sykdomsbilde."
 date: 2025-11-25
 tema: svimmelhet
-image: "https://fetsundkiropraktormarie.no/wp-content/uploads/generated-image.webp"
+image: "/bilder/blogg/generated-image.webp"
 forfatter: "Marie Hermansen"
 ---
 
@@ -23,7 +23,7 @@ forfatter: "Marie Hermansen"
 
 Krystallsyken (BPPV) er en av de vanligste årsakene til svimmelhet hos eldre, og oppleves ofte sterkere og mer langvarig enn hos yngre. Mange har usikkerhet rundt diagnosen, og noen tror den er «alternativ» eller uforklarlig. Krystallsyke er derimot en fysisk, medisinsk tilstand med effektiv, trygg behandling – spesielt hos eksperter med moderne utstyr som VNG-briller. Dessverre blir diagnosen ofte oversett. Les hvorfor, konsekvensene, og hvordan du får hjelp!
 
-<figure><img class="wp-image-961 size-medium" src="https://fetsundkiropraktormarie.no/wp-content/uploads/Bilde-960x720.webp" alt="" width="960" height="720"><figcaption>AI-generert bilde Ved krystallsyke løsner små kalsiumkrystaller fra sin faste plass i det indre øret og havner i buegangene. Når vi beveger hodet, flyter disse krystallene med en geleaktig væskeog sender feilsignaler til hjernen om kroppens posisjon – noe som utløser plutselige svimmelhetsanfall</figcaption></figure>
+<figure><img class="wp-image-961 size-medium" src="/bilder/blogg/Bilde-960x720.webp" alt="" width="960" height="720"><figcaption>AI-generert bilde Ved krystallsyke løsner små kalsiumkrystaller fra sin faste plass i det indre øret og havner i buegangene. Når vi beveger hodet, flyter disse krystallene med en geleaktig væskeog sender feilsignaler til hjernen om kroppens posisjon – noe som utløser plutselige svimmelhetsanfall</figcaption></figure>
 
 ## Hvorfor overser annet helsepersonell krystallsyken som svimmelhetsårsak hos de eldre?
 

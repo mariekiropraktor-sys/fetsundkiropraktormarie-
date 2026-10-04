@@ -1,4 +1,5 @@
 ---
+import Kart from "../../components/Kart.astro";
 import Layout from "../../layouts/Layout.astro";
 import { site } from "../../data/site";
 ---
@@ -44,12 +45,7 @@ import { site } from "../../data/site";
         Følg meg på <a href={site.facebook}>Facebook</a> og <a href={site.instagram}>Instagram</a>.
       </p>
     </div>
-    <iframe
-      class="kart"
-      title="Kart: Garderbakken 1, Fetsund"
-      src="https://www.google.com/maps?q=Garderbakken+1,+1900+Fetsund&output=embed"
-      loading="lazy"
-      referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <Kart hoyde={380} />
   </section>
 </Layout>
 
@@ -78,13 +74,6 @@ import { site } from "../../data/site";
   }
   .tider dd {
     margin: 0;
-  }
-  .kart {
-    width: 100%;
-    min-height: 380px;
-    border: 0;
-    border-radius: var(--radius);
-    background: var(--line);
   }
   .liten {
     font-size: 15px;

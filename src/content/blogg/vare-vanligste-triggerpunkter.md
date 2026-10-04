@@ -3,13 +3,13 @@ title: "Våre vanligste triggerpunkter"
 description: "Muskelknuter (triggerpunkter) kan gi hodepine, nakke, skulder, rygg og setesmerter. Lær hva de er, typiske symptomer, og hva du og behandler kan gjøre med dem."
 date: 2026-03-18
 tema: nakke-og-hode
-image: "https://fetsundkiropraktormarie.no/wp-content/uploads/Gluteus-Minimus-4.webp"
+image: "/bilder/blogg/Gluteus-Minimus-4.webp"
 forfatter: "Marie Hermansen"
 ---
 
 Mange beskriver «muskelknuter» – små, ømme punkter som både kan gjøre vondt lokalt og sende smerter til andre steder i kroppen. De oppstår ofte ved langvarig spenning, overbelastning eller mye stillesitting, og kan bidra til hodepine samt nakke‑, skulder‑, rygg‑ og setesmerter. I denne artikkelen får du en enkel forklaring på hva triggerpunkter er, hvordan de kjennes ut i ulike muskelgrupper, og hvorfor vi behandler dem slik vi gjør.
 
-![](https://fetsundkiropraktormarie.no/wp-content/uploads/Din-avsnittstekst-4-960x679.webp)  
+![](/bilder/blogg/Din-avsnittstekst-4-960x679.webp)  
 
 Nedenfor går vi gjennom noen av de vanligste musklene der vi finner triggerpunkter i klinikken, og hvordan de typisk kjennes ut.
 
@@ -47,7 +47,7 @@ I tillegg kan man sekundært også oppleve:
 
 På illustrasjoner av triggerpunkter er det ofte markert små «X» der selve triggerpunktet ligger i muskelen. Fargenede røde områder viser hvor smerten typisk kjennes (referert smerte). Jo mørkere rødfarge, desto vanligere er det at pasienter rapporterer smerte akkurat i dette området.
 
-![](https://fetsundkiropraktormarie.no/wp-content/uploads/Trapezius-2.webp)![](https://fetsundkiropraktormarie.no/wp-content/uploads/Trapezius-3.webp)![](https://fetsundkiropraktormarie.no/wp-content/uploads/Trapezius.webp)
+![](/bilder/blogg/Trapezius-2.webp)![](/bilder/blogg/Trapezius-3.webp)![](/bilder/blogg/Trapezius.webp)
 
 ## Nakkemuskulatur langs bakhodet (splenus)
 
@@ -61,9 +61,9 @@ Små, dype muskler øverst i nakken kan gi:
 
 -     Kan være bidragsyter til [nakkesvimmelhet](/nakkesvimmelhet-hva-er-det/)
 
-![](https://fetsundkiropraktormarie.no/wp-content/uploads/Splenius-Capitis-Splenius-Cervicis-960x507.webp)
+![](/bilder/blogg/Splenius-Capitis-Splenius-Cervicis-960x507.webp)
 
-<figure><img class=" wp-image-1044" src="https://fetsundkiropraktormarie.no/wp-content/uploads/Splenius-Capitis-Splenius-Cervicis2-.webp" alt="" width="385" height="260"><figcaption>Triggerpunkt øvre nakkemuskler</figcaption></figure>
+<figure><img class=" wp-image-1044" src="/bilder/blogg/Splenius-Capitis-Splenius-Cervicis2-.webp" alt="" width="385" height="260"><figcaption>Triggerpunkt øvre nakkemuskler</figcaption></figure>
 
 ## Skulderblad og overarm
 
@@ -79,9 +79,9 @@ Typiske symptomer:
 
 -   Forverring ved løft til siden, kasting, bæring eller mye «musearm»-arbeid
 
-<figure><img class="wp-image-1045" src="https://fetsundkiropraktormarie.no/wp-content/uploads/Infraspinatus-915x960.webp" alt="" width="331" height="347"><figcaption>Triggerpunkt infraspinatus</figcaption></figure>
+<figure><img class="wp-image-1045" src="/bilder/blogg/Infraspinatus-915x960.webp" alt="" width="331" height="347"><figcaption>Triggerpunkt infraspinatus</figcaption></figure>
 
-<figure><img class=" wp-image-1046" src="https://fetsundkiropraktormarie.no/wp-content/uploads/Teres-Minor.webp" alt="" width="346" height="296"><figcaption>Triggerpunkt Teres minor</figcaption></figure>
+<figure><img class=" wp-image-1046" src="/bilder/blogg/Teres-Minor.webp" alt="" width="346" height="296"><figcaption>Triggerpunkt Teres minor</figcaption></figure>
 
 ## Brystrygg og mellom skulderbladene
 
@@ -95,7 +95,7 @@ Typiske symptomer:
 
 -   Smerter som øker utover dagen, spesielt i stillesittende jobber.
 
-<figure><img class=" wp-image-1047" src="https://fetsundkiropraktormarie.no/wp-content/uploads/Rhomboid.webp" alt="" width="249" height="371"><figcaption>Triggerpunkt Rhomboideus</figcaption></figure>
+<figure><img class=" wp-image-1047" src="/bilder/blogg/Rhomboid.webp" alt="" width="249" height="371"><figcaption>Triggerpunkt Rhomboideus</figcaption></figure>
 
 ## Korsrygg og sete
 
@@ -111,13 +111,13 @@ Typiske symptomer:
 
 -   Forverring ved mye sitting, særlig på hardt underlag, eller ved løft
 
-<figure><img class="wp-image-1048" src="https://fetsundkiropraktormarie.no/wp-content/uploads/Gluteus-Maximus-960x395.webp" alt="" width="387" height="159"><figcaption>Gluteus maximus triggerpunkt</figcaption></figure>
+<figure><img class="wp-image-1048" src="/bilder/blogg/Gluteus-Maximus-960x395.webp" alt="" width="387" height="159"><figcaption>Gluteus maximus triggerpunkt</figcaption></figure>
 
-<figure><img class="wp-image-1049" src="https://fetsundkiropraktormarie.no/wp-content/uploads/Gluteus-Medius_0.webp" alt="" width="366" height="196"><figcaption>Muskelknute/triggerpunkt Gluteus medius</figcaption></figure>
+<figure><img class="wp-image-1049" src="/bilder/blogg/Gluteus-Medius_0.webp" alt="" width="366" height="196"><figcaption>Muskelknute/triggerpunkt Gluteus medius</figcaption></figure>
 
 <figure><figcaption>Triggerpunkt i Gluteus minimus. Dette kan minne om isjas, piriformissyndrom ol.</figcaption></figure>
 
-<figure><img class="wp-image-1064" src="https://fetsundkiropraktormarie.no/wp-content/uploads/Gluteus-Minimus-2-699x960.webp" alt="" width="215" height="295"><figcaption>Samme muskel, bare litt andre punkter.</figcaption></figure>
+<figure><img class="wp-image-1064" src="/bilder/blogg/Gluteus-Minimus-2-699x960.webp" alt="" width="215" height="295"><figcaption>Samme muskel, bare litt andre punkter.</figcaption></figure>
 
 ## Dype setemuskler (blant annet piriformis)
 
@@ -129,7 +129,7 @@ Dype triggerpunkter kan:
 
 -   Forverres ved mye gåing i trapper, løping eller lange bilturer
 
-<figure><img class="wp-image-1063 " src="https://fetsundkiropraktormarie.no/wp-content/uploads/Piriformis.webp" alt="" width="364" height="313"><figcaption>Piriformissyndrom er relativt godt kjent?</figcaption></figure>
+<figure><img class="wp-image-1063 " src="/bilder/blogg/Piriformis.webp" alt="" width="364" height="313"><figcaption>Piriformissyndrom er relativt godt kjent?</figcaption></figure>
 
 ## Lår og legger
 
@@ -145,7 +145,7 @@ Typiske symptomer:
 
 -   Ømhet ved trykk midt på låret
 
-<figure><img class="wp-image-1066" src="https://fetsundkiropraktormarie.no/wp-content/uploads/Rectus-Femoris-710x960.webp" alt="" width="369" height="499"><figcaption>Smerter i kneet og fremside lår kan forklares med denne muskelen!</figcaption></figure>
+<figure><img class="wp-image-1066" src="/bilder/blogg/Rectus-Femoris-710x960.webp" alt="" width="369" height="499"><figcaption>Smerter i kneet og fremside lår kan forklares med denne muskelen!</figcaption></figure>
 
 ## Leggmuskler (gastrocnemius)
 
@@ -157,7 +157,7 @@ Triggerpunkter i tykkleggen kan:
 
 -   Forverres ved løping, hopping eller mye ståing
 
-<figure><img class="wp-image-1067" src="https://fetsundkiropraktormarie.no/wp-content/uploads/Gastrocnemius-960x707.webp" alt="" width="521" height="384"><figcaption>Det kan vært lurt å sjekke ut disse triggerpunktene om du har smerter under foten eller i leggen!</figcaption></figure>
+<figure><img class="wp-image-1067" src="/bilder/blogg/Gastrocnemius-960x707.webp" alt="" width="521" height="384"><figcaption>Det kan vært lurt å sjekke ut disse triggerpunktene om du har smerter under foten eller i leggen!</figcaption></figure>
 
 ## Hvorfor oppstår muskel triggerpunkter?
 

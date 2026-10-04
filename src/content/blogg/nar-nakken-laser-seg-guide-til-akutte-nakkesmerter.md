@@ -3,13 +3,13 @@ title: "Når nakken låser seg – din guide til akutte nakkesmerter"
 description: "Årsaker, symptomer, behandling og øvelser som hjelper deg tilbake i normal aktivitet – trygge råd om når du bør oppsøke oss for god undersøkelse og behandling."
 date: 2026-01-14
 tema: nakke-og-hode
-image: "https://fetsundkiropraktormarie.no/wp-content/uploads/Kopi-av-70-CHIROPRACTOR-IG-POSTS-6.webp"
+image: "/bilder/blogg/Kopi-av-70-CHIROPRACTOR-IG-POSTS-6.webp"
 forfatter: "Marie Hermansen"
 ---
 
 Når nakken låser seg, kan det føles dramatisk – men i de aller fleste tilfeller handler akutte nakkesmerter om overbelastning, muskelspenning og låsninger i ledd, [ikke om noe farlig](https://nhi.no/sykdommer/muskelskjelett/rygg-nakke-bryst/nakken-kink). Akutt kink i nakken kan oppstå etter en uheldig bevegelse, mye jobbing foran skjerm, stress, kulde eller en natt i dårlig stilling. Plutselig kjennes hodet tungt, nakken stiv, og det er vanskelig å snu seg uten skarp smerte. Denne guiden gir deg enkle råd, trygge øvelser og forklarer hvordan kiropraktorbehandling kan hjelpe deg raskere tilbake i normal funksjon.
 
-<figure><img class="size-medium wp-image-1024" src="https://fetsundkiropraktormarie.no/wp-content/uploads/Bilde-6-960x539.webp" alt="" width="960" height="539"><figcaption>Vondt i nakken? Vi hjelper deg!</figcaption></figure>
+<figure><img class="size-medium wp-image-1024" src="/bilder/blogg/Bilde-6-960x539.webp" alt="" width="960" height="539"><figcaption>Vondt i nakken? Vi hjelper deg!</figcaption></figure>
 
 ## Hold deg i gang – ikke frys helt
 
@@ -93,7 +93,7 @@ Behandlingen kan omfatte:
 
 Målet er å redusere smerte, gjenvinne bevegelse og gi deg trygghet på hva du kan gjøre selv.
 
-<figure><img class="wp-image-1025" src="https://fetsundkiropraktormarie.no/wp-content/uploads/Bilde-7-768x960.webp" alt="" width="544" height="680"><figcaption>Etter behandling kjenner de fleste seg mye bedre</figcaption></figure>
+<figure><img class="wp-image-1025" src="/bilder/blogg/Bilde-7-768x960.webp" alt="" width="544" height="680"><figcaption>Etter behandling kjenner de fleste seg mye bedre</figcaption></figure>
 
 ## Når bør du ta kontakt – og når er det akutt?
 

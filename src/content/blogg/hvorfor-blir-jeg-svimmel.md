@@ -3,7 +3,7 @@ title: "Svimmelhet - de aller vanligste årsakene"
 description: "Svimmelhet, krystallsyke og ustøhet kan ha mange årsaker. Få en enkel guide til de vanligste typene svimmelhet – og når du bør få det undersøkt."
 date: 2026-01-13
 tema: svimmelhet
-image: "https://fetsundkiropraktormarie.no/wp-content/uploads/Untitled-design.webp"
+image: "/bilder/blogg/Untitled-design.webp"
 forfatter: "Marie Hermansen"
 ---
 
@@ -45,7 +45,7 @@ Da kan svimmelheten:
 
 Noen opplever mest en merkelig ustøhet og blir usikre fordi det ikke stemmer med det de har lest om krystallsyke. I slike tilfeller er det ekstra viktig med en grundig undersøkelse, der behandleren ser etter øyebevegelser (nystagmus), tester flere forskjellige posisjoner og tilpasser manøvrene til akkurat det som skjer i ditt balanseorgan.
 
-<figure><img class="size-full wp-image-1008" src="https://fetsundkiropraktormarie.no/wp-content/uploads/Kristallsjuka-olika-varianter-olika-kristallers-former.webp" alt="" width="816" height="720"><figcaption>Hvordan krystaller faktisk kan tenkes å se ut inni de semisirkulære buegangene. Her er det lett å tenke seg at de ikke vil gi ett bestemt symptom på alle som har krystallsyken?</figcaption></figure>
+<figure><img class="size-full wp-image-1008" src="/bilder/blogg/Kristallsjuka-olika-varianter-olika-kristallers-former.webp" alt="" width="816" height="720"><figcaption>Hvordan krystaller faktisk kan tenkes å se ut inni de semisirkulære buegangene. Her er det lett å tenke seg at de ikke vil gi ett bestemt symptom på alle som har krystallsyken?</figcaption></figure>
 
 ## Andre vanlige årsaker til svimmelhet fra balanseorganet
 
@@ -71,7 +71,7 @@ Opplevelsen av at det «svartner» når du reiser deg opp, eller at du blir svim
 
 Øynene forteller hjernen hvor du er i rommet. Endringer i syn, feil brillestyrke eller dårlig samspill mellom øyne, balanseorgan og muskler kan gi følelse av ustøhet, særlig i travle omgivelser, butikker eller foran skjerm. En grundig vurdering av både syn og balanse kan være viktig for å forstå helheten.
 
-<figure><img class=" wp-image-1019" src="https://fetsundkiropraktormarie.no/wp-content/uploads/Bilde-5-960x539.webp" alt="Sammenheng finnes mellom syn, briller, balanseorgan, pust og sittestilling. AI Generert bilde. " width="778" height="437"><figcaption>Det finnes en sammenheng mellom syn, briller, balanseorgan, pust og sittestilling. AI Generert bilde.</figcaption></figure>
+<figure><img class=" wp-image-1019" src="/bilder/blogg/Bilde-5-960x539.webp" alt="Sammenheng finnes mellom syn, briller, balanseorgan, pust og sittestilling. AI Generert bilde. " width="778" height="437"><figcaption>Det finnes en sammenheng mellom syn, briller, balanseorgan, pust og sittestilling. AI Generert bilde.</figcaption></figure>
 
 ## Nakke, muskelspenninger, pust og stress
 

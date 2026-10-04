@@ -3,7 +3,7 @@ title: "Vestibulær migrene – når migrene gir svimmelhet"
 description: "Vestibulær migrene er en vanlig årsak til svimmelhet, gynging og ustøhet. Symptomer, diagnose og behandling. Kiropraktor Marie Hermansen på Fetsund hjelper deg!"
 date: 2026-06-15
 tema: svimmelhet
-image: "https://fetsundkiropraktormarie.no/wp-content/uploads/e1b7d5c0-93b0-41fb-ae66-275eddd0556e.webp"
+image: "/bilder/blogg/e1b7d5c0-93b0-41fb-ae66-275eddd0556e.webp"
 forfatter: "Marie Hermansen"
 ---
 
@@ -13,7 +13,7 @@ Vestibulær migrene er en av de vanligste årsakene til tilbakevendende svimmelh
 
 Hos Fetsund Kiropraktorsenter tilbyr kiropraktor Marie Hermansen utredning av svimmelhet, balanseforstyrrelser og vestibulære tilstander. Målet er å finne årsaken til symptomene og skille mellom ulike former for svimmelhet slik at du kan få riktig oppfølging.
 
-<figure><img class="wp-image-1177" src="https://fetsundkiropraktormarie.no/wp-content/uploads/IMG_1616.webp" alt="" width="653" height="520"><figcaption>Svimmelhet kommer ikke alttid fra det indre øret! Les og lær mer om Vestibulær migrene videre i denne artikkelen</figcaption></figure>
+<figure><img class="wp-image-1177" src="/bilder/blogg/IMG_1616.webp" alt="" width="653" height="520"><figcaption>Svimmelhet kommer ikke alttid fra det indre øret! Les og lær mer om Vestibulær migrene videre i denne artikkelen</figcaption></figure>
 
 ## Hva er vestibulær migrene?
 
@@ -80,7 +80,7 @@ Mange forveksler vestibulær migrene med krystallsyke fordi begge tilstandene ka
 
 Det finnes imidlertid viktige forskjeller, som illustrert på bildet under her.
 
-![](https://fetsundkiropraktormarie.no/wp-content/uploads/22bdbd04-0f65-4056-8582-3e66174700d3-960x640.webp)
+![](/bilder/blogg/22bdbd04-0f65-4056-8582-3e66174700d3-960x640.webp)
 
 Noen pasienter kan også ha begge tilstandene samtidig, og/eller for eksempel PPPD. Da kompliseres dette skjemaet ytterligere!
 
@@ -131,7 +131,7 @@ På Fetsund Kiropraktorsenter benyttes blant annet VNG-briller ved utredning av 
 
 Målet er ikke bare å finne ut hva symptomene skyldes, men også å utelukke andre årsaker som kan kreve annen oppfølging.
 
-<figure><img class="wp-image-1179" src="https://fetsundkiropraktormarie.no/wp-content/uploads/IMG_1617.webp" alt="" width="409" height="407"><figcaption>Marie Synes det er veldig gøy å bruke VNG briller for å finne ut av hvor krystallene sitter, men med vestibulær migrene, må man tenke litt mer gjennom sykehistorien og være litt detektiv!</figcaption></figure>
+<figure><img class="wp-image-1179" src="/bilder/blogg/IMG_1617.webp" alt="" width="409" height="407"><figcaption>Marie Synes det er veldig gøy å bruke VNG briller for å finne ut av hvor krystallene sitter, men med vestibulær migrene, må man tenke litt mer gjennom sykehistorien og være litt detektiv!</figcaption></figure>
 
 ## Hvordan behandles vestibulær migrene?
 

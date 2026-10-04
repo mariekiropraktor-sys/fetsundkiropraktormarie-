@@ -76,12 +76,29 @@ export const svimmelhetstyper = [
   { navn: "Ustøhet og PPPD", tekst: "Gynging som blir verre i butikker og travle steder", lenke: "/svimmel-eller-usto-vanlige-arsaker-undersokelser-og-behandling/" },
 ];
 
+// Priser i to grupper: vanlige muskel- og leddplager, og svimmelhet (egne priser)
 export const priser = [
-  { navn: "Førstegangskonsultasjon", pris: "910 kr", tekst: "For deg som er ny pasient og aldri har vært hos oss før." },
-  { navn: "Svimmelhetsundersøkelse", pris: "1 100 kr", tekst: "En grundig undersøkelse ved svimmelhet, ustøhet eller balanseplager, med en plan for videre behandling." },
-  { navn: "Oppfølgende behandling", pris: "fra 580 kr", tekst: "Har du vært hos oss de siste 12 månedene med lignende plager. 20 minutter." },
-  { navn: "Dobbelttime / utvidet konsultasjon", pris: "fra 810 kr", tekst: "For tidligere pasienter som trenger ekstra tid. Avtales med kiropraktoren." },
+  {
+    gruppe: "Muskel- og leddplager",
+    intro: "Nakke, rygg, hodepine, kjeve, skulder, hofte og andre muskel- og leddplager.",
+    timer: [
+      { navn: "Førstegangskonsultasjon", pris: "910 kr", tekst: "For deg som er ny pasient og aldri har vært hos oss før." },
+      { navn: "Oppfølgende behandling", pris: "580 kr", tekst: "Har du vært hos oss de siste 12 månedene med lignende plager. 20 minutter." },
+      { navn: "Dobbelttime", pris: "810 kr", tekst: "For tidligere pasienter som trenger ekstra tid. Avtales med kiropraktoren." },
+    ],
+  },
+  {
+    gruppe: "Svimmelhet",
+    intro: "Svimmelhet har egne priser, fordi undersøkelsen og behandlingen tar mer tid og inkluderer VNG-briller.",
+    timer: [
+      { navn: "Svimmelhetsundersøkelse", pris: "1 100 kr", tekst: "Grundig undersøkelse ved svimmelhet, ustøhet eller balanseplager, med VNG-briller og en plan for videre behandling." },
+      { navn: "Oppfølgende behandling – svimmelhet", pris: "625 kr", tekst: "Oppfølging etter svimmelhetsundersøkelse. 20 minutter." },
+      { navn: "Dobbelttime – svimmelhet", pris: "855 kr", tekst: "Når svimmelheten trenger ekstra tid. Avtales med kiropraktoren." },
+    ],
+  },
 ];
+
+export const tilleggspris = { tekst: "Nålebehandling og kinesiotape", pris: "45 kr" };
 
 export const navigasjon = [
   { navn: "Svimmelhet", lenke: "/svimmelhet/" },

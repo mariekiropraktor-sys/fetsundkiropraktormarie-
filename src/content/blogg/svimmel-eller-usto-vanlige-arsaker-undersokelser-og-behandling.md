@@ -3,7 +3,7 @@ title: "Svimmel eller ustø? Vanlige årsaker, undersøkelser og behandling"
 description: "Føles det som om kroppen ikke helt samarbeider? Les om vanlige årsaker til svimmelhet og ustøhet, og hvordan målrettet utredning kan hjelpe."
 date: 2026-06-15
 tema: svimmelhet
-image: "https://fetsundkiropraktormarie.no/wp-content/uploads/fe16a7e8-4185-43a1-b7f4-288087408d55.webp"
+image: "/bilder/blogg/fe16a7e8-4185-43a1-b7f4-288087408d55.webp"
 forfatter: "Marie Hermansen"
 ---
 
@@ -19,7 +19,7 @@ På Fetsund Kiropraktorsenter tilbyr kiropraktor Marie Hermansen grundig utredni
 
 Svimmelhet og ustøhet kan skyldes mange ulike årsaker. Derfor er en grundig undersøkelse ofte nøkkelen til å finne riktig diagnose og behandling.
 
-<figure><img class="wp-image-1173" src="https://fetsundkiropraktormarie.no/wp-content/uploads/27c5c178-d5b8-4820-b3de-eaa5e3fa753a-960x720.webp" alt="" width="531" height="398"><figcaption><strong>**Svimmelhet kan ha mange ulike årsaker.** Derfor er en grundig undersøkelse ofte det viktigste første steget. Målet er å finne årsaken til symptomene og legge grunnlaget for riktig behandling.</strong></figcaption></figure>
+<figure><img class="wp-image-1173" src="/bilder/blogg/27c5c178-d5b8-4820-b3de-eaa5e3fa753a-960x720.webp" alt="" width="531" height="398"><figcaption><strong>**Svimmelhet kan ha mange ulike årsaker.** Derfor er en grundig undersøkelse ofte det viktigste første steget. Målet er å finne årsaken til symptomene og legge grunnlaget for riktig behandling.</strong></figcaption></figure>
 
 ## Hva er forskjellen på svimmelhet og ustøhet?
 
@@ -118,7 +118,7 @@ Typiske symptomer inkluderer:
 
 **Les mer om nakkesvimmelhet [her](/nakkesvimmelhet-hva-er-det/)**
 
-<figure><img class="wp-image-1134" src="https://fetsundkiropraktormarie.no/wp-content/uploads/yMmRKLGUbqBk2ZUXcmn3CjQm1qR17DDjKNHc5JyPb5I1aZR6sNYh7migFMDhZBXWVtqESOvdug-0JddXryRjSvKkx6ecJlAynxmYhe4vMTS_fekRABTC-G6hVIlBTgGD_ADGw38tPizXYacVq4oruqnYLH8SInKpnhTOt5NB1_kdzlhwGIzI3jUhL3NB1VUd.webp" alt="" width="504" height="336"><figcaption>Svimmel når du reiser deg opp av senga? Eller er du svimmel når du er ute og går? Årsakene kan være sammensatt, men relaterte.</figcaption></figure>
+<figure><img class="wp-image-1134" src="/bilder/blogg/innlegg-illustrasjon.webp" alt="" width="504" height="336"><figcaption>Svimmel når du reiser deg opp av senga? Eller er du svimmel når du er ute og går? Årsakene kan være sammensatt, men relaterte.</figcaption></figure>
 
 ## PPPD (vedvarende svimmelhet)
 
@@ -243,4 +243,4 @@ Ja. Aldersrelaterte endringer i syn, balanseorgan og muskelfunksjon kan påvirke
 
 ***Tidlig utredning kan ofte bidra til raskere bedring og større trygghet i hverdagen***
 
-<figure><img class="wp-image-1171 size-medium" src="https://fetsundkiropraktormarie.no/wp-content/uploads/ChatGPT-Image-15.-juni-2026-09_37_37-960x640.webp" alt="" width="960" height="640"><figcaption>Referanser: • <a href="https://journals.sagepub.com/doi/10.1177/0194599816689667">Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (2017)</a>• <a href="https://content.iospress.com/articles/journal-of-vestibular-research/ves696">Diagnostic Criteria for Persistent Postural-Perceptual Dizziness (PPPD) (2017)</a> • <a href="https://journals.lww.com/jneuro-ophthalmology/fulltext/2019/12000/vestibular_migraine__how_to_sort_it_out_and_what.18.aspx">Vestibular Migraine: How to Sort It Out and What to Do about it (2019)</a>• <a href="https://www.neurologic.theclinics.com/article/S0733-8619(15)00044-8/fulltext">TiTrATE: A Novel Approach to Diagnosing Acute Dizziness and Vertigo (2015)</a></figcaption></figure>
+<figure><img class="wp-image-1171 size-medium" src="/bilder/blogg/ChatGPT-Image-15.-juni-2026-09_37_37-960x640.webp" alt="" width="960" height="640"><figcaption>Referanser: • <a href="https://journals.sagepub.com/doi/10.1177/0194599816689667">Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (2017)</a>• <a href="https://content.iospress.com/articles/journal-of-vestibular-research/ves696">Diagnostic Criteria for Persistent Postural-Perceptual Dizziness (PPPD) (2017)</a> • <a href="https://journals.lww.com/jneuro-ophthalmology/fulltext/2019/12000/vestibular_migraine__how_to_sort_it_out_and_what.18.aspx">Vestibular Migraine: How to Sort It Out and What to Do about it (2019)</a>• <a href="https://www.neurologic.theclinics.com/article/S0733-8619(15)00044-8/fulltext">TiTrATE: A Novel Approach to Diagnosing Acute Dizziness and Vertigo (2015)</a></figcaption></figure>

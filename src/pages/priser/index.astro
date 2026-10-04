@@ -1,12 +1,12 @@
 ---
 import Layout from "../../layouts/Layout.astro";
 import BookingCTA from "../../components/BookingCTA.astro";
-import { site, priser } from "../../data/site";
+import { site, priser, tilleggspris } from "../../data/site";
 ---
 
 <Layout
   title="Priser"
-  description="Priser hos kiropraktor Marie Hermansen i Fetsund: førstegangskonsultasjon, svimmelhetsundersøkelse og oppfølgende behandling."
+  description="Priser hos kiropraktor Marie Hermansen i Fetsund: førstegangskonsultasjon, oppfølgende behandling og egne priser for svimmelhetsundersøkelse og -behandling."
 >
   <section class="wrap side-topp">
     <span class="eyebrow">Priser</span>
@@ -15,27 +15,32 @@ import { site, priser } from "../../data/site";
   </section>
 
   <section class="wrap innhold">
-    <div class="pris-liste">
-      {
-        priser.map((p) => (
-          <div class="card pris">
-            <div class="stack pris__tekst">
-              <h2 class="pris__navn">{p.navn}</h2>
-              <p class="muted">{p.tekst}</p>
-            </div>
-            <div class="pris__hoyre">
-              <span class="pris__belop">{p.pris}</span>
-              <a class="btn" href={site.booking}>
-                Bestill
-              </a>
-            </div>
+    {
+      priser.map((g) => (
+        <div class="pris-gruppe">
+          <h2 class="pris-gruppe__tittel">{g.gruppe}</h2>
+          <p class="muted pris-gruppe__intro">{g.intro}</p>
+          <div class="pris-liste">
+            {g.timer.map((p) => (
+              <div class="card pris">
+                <div class="stack pris__tekst">
+                  <h3 class="pris__navn">{p.navn}</h3>
+                  <p class="muted">{p.tekst}</p>
+                </div>
+                <div class="pris__hoyre">
+                  <span class="pris__belop">{p.pris}</span>
+                  <a class="btn" href={site.booking}>
+                    Bestill
+                  </a>
+                </div>
+              </div>
+            ))}
           </div>
-        ))
-      }
-    </div>
+        </div>
+      ))
+    }
     <p class="notis tillegg">
-      <strong>Tillegg:</strong> nålebehandling, kinesiotape og vurdering med VNG-briller kommer i tillegg til prisen for
-      oppfølgende behandling.
+      <strong>Tillegg:</strong> {tilleggspris.tekst.toLowerCase()} koster {tilleggspris.pris} i tillegg til timeprisen.
     </p>
   </section>
 
@@ -43,6 +48,18 @@ import { site, priser } from "../../data/site";
 </Layout>
 
 <style>
+  .pris-gruppe {
+    max-width: 900px;
+  }
+  .pris-gruppe + .pris-gruppe {
+    margin-top: 48px;
+  }
+  .pris-gruppe__tittel {
+    font-size: clamp(26px, 3vw, 32px);
+  }
+  .pris-gruppe__intro {
+    margin: 6px 0 18px;
+  }
   .pris-liste {
     display: flex;
     flex-direction: column;

@@ -3,13 +3,13 @@ title: "Krystallsyke og svimmelhet - disse 5 øvelsene hjelper!"
 description: "Krystallsyke og svimmelhet kan være vanskelig å forstå seg på! Her har vi presentert 5 øvelser som kan hjelpe deg på vei ut av karusellen. God bedring!"
 date: 2024-11-19
 tema: svimmelhet
-image: "https://fetsundkiropraktormarie.no/wp-content/uploads/406051985_3662765807375576_6730752410300302163_n.webp"
+image: "/bilder/blogg/406051985_3662765807375576_6730752410300302163_n.webp"
 forfatter: "Marie Hermansen"
 ---
 
 Har du blitt fått krystallsyke, blitt plutselig svimmel og er litt usikker på hva du skal gjøre? Eller har du vært hos legen og fått beskjed om å ta noen øvelser du ikke husker? Vår egen [kiropraktor Marie Hermansen](https://www.facebook.com/www.kiropraktor.marie.no/ "kiropraktor Marie Hermansen") vil gjerne hjelpe deg som sliter med svimmelhet og krystallsyke! Hun har derfor satt seg ned og laget en sammenfatning av øvelser for spesielt krystallsyke og svimmelhet. Disse er hovedsakelig ment for de som allerede har fått behandling og undersøkelse av oss på Fetsund Kiropraktorsenter, eller annet kvalifisert helsepersonell. Alternativt om det allerede er kjent hvilken type svimmelhet/krystallsyke vedkommende plages med.
 
-## ![](https://fetsundkiropraktormarie.no/wp-content/uploads/Din-avsnittstekst-2-960x679.webp)
+## ![](/bilder/blogg/Din-avsnittstekst-2-960x679.webp)
 
 ## Diagnose
 

@@ -3,7 +3,7 @@ title: "Stresshodepine, svimmelhet og kjevesmerter"
 description: "Våre kiropraktorer ser ofte sammensatte problemstillinger. Her er ett av eksemplene; Stresshodepine, svimmelhet og kjevesmerter. Les og lær!"
 date: 2025-02-28
 tema: nakke-og-hode
-image: "https://fetsundkiropraktormarie.no/wp-content/uploads/Seniorpasienten-og-2.webp"
+image: "/bilder/blogg/Seniorpasienten-og-2.webp"
 forfatter: "Marie Hermansen"
 ---
 
@@ -19,7 +19,7 @@ Vanlige symptomer på stresshodepine inkluderer:
 -   Stivhet og ømhet i nakke og skuldre.
 -   Økt følsomhet for lys og lyd, men uten de typiske migrene-symptomene som kvalme.
 
-<figure><img class="wp-image-867 size-medium" src="https://fetsundkiropraktormarie.no/wp-content/uploads/Kopi-av-70-CHIROPRACTOR-IG-POSTS-12-960x960.webp" alt="Hodepine" width="960" height="960"><figcaption>Hodepine</figcaption></figure>
+<figure><img class="wp-image-867 size-medium" src="/bilder/blogg/Kopi-av-70-CHIROPRACTOR-IG-POSTS-12-960x960.webp" alt="Hodepine" width="960" height="960"><figcaption>Hodepine</figcaption></figure>
 
 ## **Svimmelhet fra nakken – en oversett årsak**
 
@@ -56,7 +56,7 @@ For å lindre disse plagene er det være viktig å finne riktig årsak! Om du li
 -   **Behandle kjevespenninger**: Kjeveøvelser og bevissthet om tannpressing kan redusere ubehag.
 -   **Oppsøke behandling**: Kiropraktisk behandling kan bidra til å forbedre funksjonen i nakke, kjeve og øvre rygg, og dermed redusere smerter og svimmelhet. Med våre allsidige [behandlingsmetoder,](https://fetsundkiropraktor.no/behandlingsmetoder/) kan du være sikker på at du får akkurat den hjelpen du trenger. Om vi ikke kommer i mål, har våre kiropraktorer godt samarbeid med annet relevant helsepersonell.
 
-![](https://fetsundkiropraktormarie.no/wp-content/uploads/Din-avsnittstekst-3-960x679.webp)
+![](/bilder/blogg/Din-avsnittstekst-3-960x679.webp)
 
 ## **Når bør du oppsøke profesjonell hjelp?**
 

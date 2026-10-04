@@ -1,4 +1,5 @@
 ---
+import Kart from "../components/Kart.astro";
 import Layout from "../layouts/Layout.astro";
 import TrustStrip from "../components/TrustStrip.astro";
 import BookingCTA from "../components/BookingCTA.astro";
@@ -212,12 +213,7 @@ const innlegg = utvalgte.map((id) => alle.find((p) => p.id === id)).filter((p) =
         <p><a href={site.telefonLenke}>{site.telefon}</a></p>
         <a href="/kontakt-oss/"><strong>Kontakt og veibeskrivelse →</strong></a>
       </div>
-      <iframe
-        class="kart"
-        title="Kart: Garderbakken 1, Fetsund"
-        src="https://www.google.com/maps?q=Garderbakken+1,+1900+Fetsund&output=embed"
-        loading="lazy"
-        referrerpolicy="no-referrer-when-downgrade"></iframe>
+      <Kart hoyde={300} />
     </div>
   </section>
 
@@ -446,12 +442,5 @@ const innlegg = utvalgte.map((id) => alle.find((p) => p.id === id)).filter((p) =
 
   .finn {
     align-items: stretch;
-  }
-  .kart {
-    width: 100%;
-    min-height: 300px;
-    border: 0;
-    border-radius: var(--radius);
-    background: var(--line);
   }
 </style>

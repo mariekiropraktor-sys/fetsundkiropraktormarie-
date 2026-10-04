@@ -3,7 +3,7 @@ title: "Sammenhengen mellom korsryggsmerter, stram hofteleddsbøyer og magesmert
 description: "Hofteleddsbøyer, korsryggsmerter, lyskesmerter og magesmerter. Hvordan kan alt dette henge sammen? Kiropraktor Marie Hermansen har forsøkt å forklare dette her."
 date: 2025-02-21
 tema: rygg-og-ledd
-image: "https://fetsundkiropraktormarie.no/wp-content/uploads/Iliopsoas.webp"
+image: "/bilder/blogg/Iliopsoas.webp"
 forfatter: "Marie Hermansen"
 ---
 
@@ -13,7 +13,7 @@ Opplever du korsryggsmerter eller diffuse magesmerter uten en klar årsak? En st
 
 Hofteleddsbøyeren består hovedsakelig av psoas major og iliacus, som fester seg til korsryggen, bekkenet og lårbenet. Denne muskelen aktiveres når vi løfter benet, sitter lenge eller har en statisk holdning over tid. Faktorer som inaktivitet, dårlig holdning og stress kan føre til at muskelen blir stram og overaktiv. Man vil kunfå en såkalt [muskulær ubalanse](https://fetsundkiropraktor.no/behandlingsmetode/funksjonell-muskeltesting/). Hva slags symptomer dette kan gi, samt hvordan det henger sammen, skal vi gå litt nøyere gjennom i dette blogginnlegget.
 
-![](https://fetsundkiropraktormarie.no/wp-content/uploads/Din-avsnittstekst-1-960x679.webp)
+![](/bilder/blogg/Din-avsnittstekst-1-960x679.webp)
 
 ## **Sammenhengen mellom stram hofteleddsbøyer og korsryggsmerter**
 

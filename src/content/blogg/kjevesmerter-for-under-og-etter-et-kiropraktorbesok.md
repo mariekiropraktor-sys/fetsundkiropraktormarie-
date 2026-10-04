@@ -3,7 +3,7 @@ title: "Kjevesmerter - før, under og etter et kiropraktorbesøk."
 description: "Kiropraktor Marie Hermansen har skrevet en klinisk/praktisk rettet blogg rundt temaet kjevesmerter. Fokuset er å kommunisere det praktiske rundt behandling."
 date: 2024-02-20
 tema: nakke-og-hode
-image: "https://fetsundkiropraktormarie.no/wp-content/uploads/406315618_898607168278717_372496122684456257_n-1.webp"
+image: "/bilder/blogg/406315618_898607168278717_372496122684456257_n-1.webp"
 forfatter: "Marie Hermansen"
 ---
 

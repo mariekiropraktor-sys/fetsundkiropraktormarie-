@@ -3,7 +3,7 @@ title: "8 årsaker til ryggsmerter som kiropraktoren kan hjelpe deg med"
 description: "Vår egen Kiropraktor Marie Hermansen skrevet et lite blogginnlegg om ryggsmerter, som har til hensikt å forklare litt \"matnyttig\" ting rundt disse vondtene."
 date: 2024-04-15
 tema: rygg-og-ledd
-image: "https://fetsundkiropraktormarie.no/wp-content/uploads/406407022_326233203699765_2073441427513896689_n.webp"
+image: "/bilder/blogg/406407022_326233203699765_2073441427513896689_n.webp"
 forfatter: "Marie Hermansen"
 ---
 

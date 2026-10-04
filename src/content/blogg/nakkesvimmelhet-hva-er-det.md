@@ -3,7 +3,7 @@ title: "Nakkesvimmelhet aka Cervikogen svimmelhet - hva er det?"
 description: "Nakkesvimmelhet er en vanlig årsak til ustøhet og smerter. Plagene oppstår i forbindelse med stiv og vond nakke, og stadig flere opplever svimmelhet i perioder."
 date: 2025-10-08
 tema: svimmelhet
-image: "https://fetsundkiropraktormarie.no/wp-content/uploads/Kopi-av-70-CHIROPRACTOR-IG-POSTS-12.webp"
+image: "/bilder/blogg/Kopi-av-70-CHIROPRACTOR-IG-POSTS-12.webp"
 forfatter: "Marie Hermansen"
 ---
 
@@ -39,7 +39,7 @@ De fleste opplever gradvis bedring når nakken blir mykere og mer bevegelig. Sli
 
 Behandling av nakkesvimmelhet gir ofte umiddelbare på en svimmelhet! Om svimmelheten din kun kommer fra nakke og omkringliggende muskler opplever vi at de aller fleste blir bra på veldig få behandlinger.
 
-<figure><img class="wp-image-842" src="https://fetsundkiropraktor.no/wp-content/uploads/sky-freedom-happiness-2667455-768x496-1-3.webp" alt="" width="612" height="395"><figcaption>Både nakkesvimmelhet og krystallsyke har veldig god prognose med riktig og målrettet behandling!</figcaption></figure>
+<figure><img class="wp-image-842" src="/bilder/blogg/sky-freedom-happiness-2667455-768x496-1-480x310-1.webp" alt="" width="612" height="395"><figcaption>Både nakkesvimmelhet og krystallsyke har veldig god prognose med riktig og målrettet behandling!</figcaption></figure>
 
 ## Når bør du oppsøke hjelp?
 

@@ -3,7 +3,7 @@ title: "Skuldersmerter - før, under og etter en kiropraktorbehandling"
 description: "Velkommen til kiropraktor Marie sin egen videoblogg! Denne handler om skuldersmerter. Ta en titt på hva du bør tenke på før, under og etter kiropraktorbesøk."
 date: 2024-03-15
 tema: rygg-og-ledd
-image: "https://fetsundkiropraktormarie.no/wp-content/uploads/triggerpunkt_web.webp"
+image: "/bilder/blogg/triggerpunkt_web.webp"
 forfatter: "Marie Hermansen"
 ---
 
