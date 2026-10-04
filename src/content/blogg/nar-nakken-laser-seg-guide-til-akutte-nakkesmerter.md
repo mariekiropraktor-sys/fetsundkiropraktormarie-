@@ -83,7 +83,7 @@ Når du kommer til kiropraktor med akutte nakkesmerter, vil du først få en gru
 
 Behandlingen kan omfatte:
 
--   [leddjustering](https://fetsundkiropraktor.no/behandlingsmetode/kiropraktisk-manipulasjonsbehandling/) og [mobilisering](https://fetsundkiropraktor.no/behandlingsmetode/mobiliseringsbehandling/) av nakke og [brystrygg](/vare-beste-rad-og-ovelser-for-akutte-korsryggsmerter/)
+-   [leddjustering](https://fetsundkiropraktor.no/behandlingsmetode/kiropraktisk-manipulasjonsbehandling/) og [mobilisering](https://fetsundkiropraktor.no/behandlingsmetode/mobiliseringsbehandling/) av nakke og brystrygg
 
 -   muskel- og bindevevsbehandling, triggerpunkter og eventuelt nåler
 

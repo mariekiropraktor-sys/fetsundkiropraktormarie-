@@ -9,9 +9,9 @@ import { getCollection } from "astro:content";
 import { site, plager, metoder, andreMetoder, svimmelhetstyper } from "../data/site";
 
 const utvalgte = [
-  "vestibulaer-migrene-nar-migrene-gir-svimmelhet",
+  "svimmel-eller-usto-vanlige-arsaker-undersokelser-og-behandling",
   "nar-nakken-laser-seg-guide-til-akutte-nakkesmerter",
-  "vare-vanligste-triggerpunkter",
+  "krystallsyken-hos-de-eldre-vanligere-enn-mange-tror",
 ];
 const alle = await getCollection("blogg");
 const innlegg = utvalgte.map((id) => alle.find((p) => p.id === id)).filter((p) => p !== undefined);

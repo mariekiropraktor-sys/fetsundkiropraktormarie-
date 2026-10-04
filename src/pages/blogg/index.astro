@@ -5,6 +5,8 @@ import { getCollection } from "astro:content";
 import { temaNavn } from "../../data/site";
 
 const innlegg = (await getCollection("blogg")).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+// Vis bare tema som faktisk har innlegg
+const temaer = Object.entries(temaNavn).filter(([key]) => innlegg.some((p) => p.data.tema === key));
 ---
 
 <Layout
@@ -23,7 +25,7 @@ const innlegg = (await getCollection("blogg")).sort((a, b) => b.data.date.valueO
     <div class="filter" role="group" aria-label="Filtrer på tema">
       <button type="button" data-filter="alle" aria-pressed="true">Alle</button>
       {
-        Object.entries(temaNavn).map(([key, navn]) => (
+        temaer.map(([key, navn]) => (
           <button type="button" data-filter={key} aria-pressed="false">
             {navn}
           </button>

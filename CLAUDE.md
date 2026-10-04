@@ -67,3 +67,8 @@ Fra designlerretet «Valgt retning» (kombinasjon av forslag A og B).
 ## Svimmelhetssider (besluttet 4. okt. 2026)
 - Innleggene om nakkesvimmelhet og vestibulær migrene er flyttet til /svimmelhet/nakkesvimmelhet/ og /svimmelhet/vestibulaer-migrene/ med 301 fra gamle adresser.
 - «Svimmel eller ustø?» blir værende som blogginnlegg (oversikt).
+
+## Blogg vs. klinikksiden (besluttet 4. okt. 2026)
+- Seks innlegg om vanlige plager var ordrette kopier av fetsundkiropraktor.no. De er fjernet herfra og videresendes (301) til samme adresse på klinikksiden.
+- «Hvorfor blir jeg svimmel?» og «Stresshodepine, svimmelhet og kjevesmerter» er skrevet om (jeg-form) så de ikke er like klinikksidens versjoner.
+- Nye innlegg her skal handle om svimmelhet eller Marie selv; generelle plager hører hjemme på klinikksiden.

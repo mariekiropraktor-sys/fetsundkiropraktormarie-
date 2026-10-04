@@ -1,118 +1,80 @@
 ---
-title: "Svimmelhet - de aller vanligste årsakene"
-description: "Svimmelhet, krystallsyke og ustøhet kan ha mange årsaker. Få en enkel guide til de vanligste typene svimmelhet – og når du bør få det undersøkt."
+title: "Hvorfor blir jeg svimmel? De vanligste årsakene"
+description: "Snurr, gynging eller ustøhet? Kiropraktor Marie Hermansen forklarer de vanligste årsakene til svimmelhet, hvordan de skiller seg fra hverandre, og når du bør få det undersøkt."
 date: 2026-01-13
 tema: svimmelhet
 image: "/bilder/blogg/Untitled-design.webp"
 forfatter: "Marie Hermansen"
 ---
 
-## En enkel guide til de vanligste årsakene til svimmelhet - og når du bør få det sjekket.
+«Hvorfor blir jeg svimmel?» er et av spørsmålene jeg får aller oftest. Svaret er sjelden det samme fra person til person. Svimmelhet er et symptom, og det kan komme fra det indre øret, hjernen, synet, nakken eller sirkulasjonen. Her går jeg gjennom de vanligste årsakene, slik jeg møter dem i klinikken.
 
--   *Svimmelhet har mange årsaker – krystallsyke/BPPV er den vanligste ved korte, plutselige «snurr».*
+**Kort oppsummert:**
 
--   *Ikke all krystallsyke ser lik ut; «atypiske» varianter kan gi mer seig, ustø eller konstant svimmelhet.*
+- Korte, kraftige snurr når du snur deg i senga er som regel krystallsyke.
+- Krystallsyke ser ikke alltid ut som i læreboka, og kan også gi seig og langvarig ustøhet.
+- Andre vanlige årsaker er betennelse i balansenerven, vestibulær migrene, blodtrykk, syn og spenninger i nakken.
+- Ny, kraftig eller vedvarende svimmelhet bør alltid undersøkes.
 
--   *Andre vanlige årsaker er betennelse i balansenerven, migrenesvimmelhet, blodtrykks- og sirkulasjonsproblemer, synsutfordringer og nakke-/muskelspenninger.*
+## 1. Krystallsyke – den vanligste årsaken til korte snurr
 
--   *Svimmelhet bør utredes når den er ny, kraftig, vedvarende, endrer karakter – eller ikke passer med det du forventer av «typisk krystallsyke».*
+I det indre øret ligger små kalkkrystaller som hjelper hjernen å kjenne tyngdekraft og bevegelse. Ved [krystallsyke](/krystallsyke/) (BPPV) har noen av dem løsnet og havnet i en av buegangene. Når du beveger hodet, ruller krystallene med og sender feil signal til hjernen.
 
--   *Oppsøk akutt hjelp ved svimmelhet kombinert med lammelser, talevansker, kraftig hodepine, brystsmerter, pustevansker eller bevissthetstap.*
+Typisk kommer snurret når du legger deg ned, snur deg i senga, bøyer deg frem eller ser opp. Det varer bare noen sekunder, men kan være så intenst at du blir kvalm. Tilstanden er ufarlig, men kan øke risikoen for fall, særlig hos eldre.
 
--   *Lege, kiropraktor eller annen svimmelhetskyndig behandler kan hjelpe deg å finne årsaken og lage en målrettet behandlings- og treningsplan.*
+Den gode nyheten er at krystallsyke ofte kan behandles effektivt med [reposisjoneringsmanøvre](/krystallsyke-og-svimmelhet-5-ovelser-som-hjelper/) som flytter krystallene tilbake på plass. Mange blir merkbart bedre etter én eller noen få behandlinger.
 
-## Krystallsyke (BPPV) – den vanligste årsaken til kortvarig svimmelhet.
+## 2. Når krystallsyken ikke følger læreboka
 
-### Skrevet av kiropraktor Marie Hermansen
+Hos noen sitter krystallene fast på selve sanseorganet i buegangen, eller i en annen del av buegangen enn vanlig. Da kan svimmelheten:
 
-Den vanligste årsaken til plutselige, korte «snurr» i hodet er [krystallsyke](/krystallsyke/), også kalt BPPV. Inne i det indre øret sitter små kalkkrystaller som hjelper hjernen å registrere tyngdekraft og bevegelse. Når noen av disse krystallene løsner og havner i en buegang, kan de gi kraftige, men kortvarige anfall av svimmelhet.
+- vare lenger enn noen sekunder
+- kjennes seig, konstant eller «ullen»
+- endre seg med stillingen, men uten de klassiske snurrene
 
-Mange beskriver at det «slår til» når de legger seg ned, snur seg i senga, bøyer seg frem eller ser opp. Selve snurret varer ofte bare noen sekunder, men kan føles svært intenst og komme med kvalme eller ubehag. Krystallsyke er i seg selv ufarlig, men kan være ekstremt plagsomt og øke risikoen for fall – særlig hos eldre eller hos dem som blir redde og begynner å unngå bevegelse.
+Mange blir usikre fordi det de kjenner ikke stemmer med det de har lest. Da er det ekstra viktig å teste flere stillinger og se på øyebevegelsene med VNG-briller, slik at manøvrene kan tilpasses akkurat det som skjer i ditt balanseorgan.
 
-Heldigvis finnes det målrettede [behandlingsmanøvre](/krystallsyke-og-svimmelhet-5-ovelser-som-hjelper/) (som Epleys manøver) der man bruker bestemte hode- og kroppsbevegelser for å geleide krystallene [på plass igjen](https://www.vestreviken.no/behandlinger/krystallsyke-diagnostiske-manovrer/). Mange opplever rask bedring etter én eller noen få behandlinger hos erfaren behandler, som kiropraktor med kompetanse på krystallsyke.
+<figure><img src="/bilder/blogg/Kristallsjuka-olika-varianter-olika-kristallers-former.webp" alt="Illustrasjon av ulike former for krystaller i buegangene" width="816" height="720" loading="lazy"><figcaption>Krystallene kan ha ulik form og ligge på ulike steder. Derfor gir krystallsyke ikke de samme symptomene hos alle.</figcaption></figure>
 
-## Når krystallene ikke oppfører seg «som i læreboka»
+## 3. Betennelse i balansenerven
 
-Ikke all krystallsyke ser ut slik det står beskrevet i læreboka. Hos noen sitter krystallene fast på sanseorganet (cupulolithiasis), eller i andre deler av buegangen enn standardvarianten.
+Vestibularisnevritt (og labyrintitt, hvis hørselen også er påvirket) kommer gjerne brått: kraftig, vedvarende svimmelhet og kvalme i timer eller dager. Mange klarer knapt å stå de første dagene.
 
-Da kan svimmelheten:
+I motsetning til krystallsyke blir svimmelheten ikke tydelig verre eller bedre i bestemte stillinger. Det verste går som regel over av seg selv, men noen sitter igjen med ustøhet. Da hjelper vestibulær rehabilitering hjernen å kalibrere seg på nytt.
 
--   vare lenger enn bare noen sekunder
+## 4. Vestibulær migrene
 
--   kjennes mer seig, konstant eller «ulgen»
+Ved [vestibulær migrene](/svimmelhet/vestibulaer-migrene/) handler det om hvordan hjernen bearbeider balanse- og sanseinntrykk, ikke om krystaller. Noen har migrenehodepine i tillegg, andre nesten bare svimmelhet. Episodene varer fra minutter til dager og kommer ofte med lys- og lydfølsomhet, kvalme eller «hjernetåke».
 
--   endre seg med hode- og kropps­stilling, men uten de klassiske, korte snurrene
+Behandlingen er en kombinasjon av å kartlegge triggere, vestibulær rehabilitering og eventuelt medisiner fra fastlegen.
 
-Noen opplever mest en merkelig ustøhet og blir usikre fordi det ikke stemmer med det de har lest om krystallsyke. I slike tilfeller er det ekstra viktig med en grundig undersøkelse, der behandleren ser etter øyebevegelser (nystagmus), tester flere forskjellige posisjoner og tilpasser manøvrene til akkurat det som skjer i ditt balanseorgan.
+## 5. Blodtrykk og sirkulasjon
 
-<figure><img class="size-full wp-image-1008" src="/bilder/blogg/Kristallsjuka-olika-varianter-olika-kristallers-former.webp" alt="" width="816" height="720"><figcaption>Hvordan krystaller faktisk kan tenkes å se ut inni de semisirkulære buegangene. Her er det lett å tenke seg at de ikke vil gi ett bestemt symptom på alle som har krystallsyken?</figcaption></figure>
+Svartner det når du reiser deg, eller blir du svimmel når du anstrenger deg? Da kan det handle om blodtrykk, puls eller hjerterytme. Dette bør vurderes av fastlegen.
 
-## Andre vanlige årsaker til svimmelhet fra balanseorganet
+## 6. Synet
 
-## Betennelse i balansenerven (vestibulær nevritt / labyrintitt)
+Øynene forteller hjernen hvor du er i rommet. Endret syn, feil brillestyrke eller dårlig samspill mellom øyne og balanseorgan kan gi ustøhet, særlig i butikker, i travle omgivelser og foran skjerm.
 
-Vestibulær nevritt og labyrintitt gir ofte en helt annen type svimmelhet enn krystallsyke. Her kommer plagene gjerne brått: kraftig, vedvarende svimmelhet, kvalme og følelse av at alt snurrer – gjerne i mange timer eller dager. Mange klarer knapt å stå eller gå de første dagene.
+<figure><img src="/bilder/blogg/Bilde-5-960x539.webp" alt="Illustrasjon av sammenhengen mellom syn, briller, balanseorgan, pust og sittestilling" width="778" height="437" loading="lazy"><figcaption>Syn, balanseorgan, pust og sittestilling henger sammen. (Illustrasjonen er laget med KI.)</figcaption></figure>
 
-Ved undersøkelse med VNG-briller og posisjonstester vil ikke svimmelheten typisk bli verre eller bedre av spesifikke stillinger, slik den ofte gjør ved krystallsyke. Tilstanden går som regel gradvis tilbake, men kan etterlate seg en vedvarende ustøhet. Da kan målrettet vestibulær rehabilitering og trening hjelpe hjernen å «kalibrere seg» igjen.
+## 7. Nakke, spenninger og stress
 
-## Migrenesvimmelhet (vestibulær migrene)
-
-Migrenesvimmelhet skyldes ikke krystaller i øret, men hvordan hjernen håndterer balanse- og sanseinntrykk. Noen har typiske migrenehodepiner i tillegg, andre opplever nesten bare svimmelhet. Episodene kan vare fra minutter til dager, og er ofte ledsaget av lys- og lydsensitivitet, kvalme eller «hjernetåke».
-
-Denne typen svimmelhet krever en annen tilnærming enn ren krystallsyke. Behandlingen innebærer ofte en kombinasjon av medikamentell behandling via lege og vestibulær rehabilitering hos kiropraktor eller annen terapeut med kompetanse på svimmelhet.
-
-## Årsaker til svimmelhet utenfor øret
-
-## Blodtrykk og sirkulasjon
-
-Opplevelsen av at det «svartner» når du reiser deg opp, eller at du blir svimmel ved anstrengelse, kan henge sammen med blodtrykk, puls eller hjerterytme. Dette er forhold som bør vurderes hos fastlege, eventuelt med videre utredning ved behov.
-
-## Syn og samspill mellom sanser
-
-Øynene forteller hjernen hvor du er i rommet. Endringer i syn, feil brillestyrke eller dårlig samspill mellom øyne, balanseorgan og muskler kan gi følelse av ustøhet, særlig i travle omgivelser, butikker eller foran skjerm. En grundig vurdering av både syn og balanse kan være viktig for å forstå helheten.
-
-<figure><img class=" wp-image-1019" src="/bilder/blogg/Bilde-5-960x539.webp" alt="Sammenheng finnes mellom syn, briller, balanseorgan, pust og sittestilling. AI Generert bilde. " width="778" height="437"><figcaption>Det finnes en sammenheng mellom syn, briller, balanseorgan, pust og sittestilling. AI Generert bilde.</figcaption></figure>
-
-## Nakke, muskelspenninger, pust og stress
-
-Langvarig spenning i nakke og skuldre, overflatisk pust og et nervesystem som står litt for mye i «alarmmodus» kan gi en mer diffus, vuggende eller «rar» svimmelhet som er vanskelig å beskrive. Denne typen svimmelhet handler ofte om hvordan hjernen tolker signalene fra kroppen, og kan bli sterkere i perioder med mye stress, dårlig søvn eller smerter.
-
-Når en kiropraktor eller annen svimmelhetskyndig behandler undersøker slike plager, vurderes gjerne både balanseorgan, nakke og muskulatur, pustemønster og hvordan nervesystemet reagerer. Målet er å finne ut om svimmelheten først og fremst skyldes krystaller, en annen balanseforstyrrelse – eller et nervesystem som har blitt ekstra følsomt – slik at behandlingen kan skreddersys til deg.
+Langvarig spenning i nakke og skuldre, overfladisk pust og et nervesystem som står i «alarmberedskap» kan gi en diffus, gyngende svimmelhet som er vanskelig å sette ord på. Den blir ofte verre i perioder med stress, dårlig søvn eller smerter. Les mer om [nakkesvimmelhet](/svimmelhet/nakkesvimmelhet/), og om [PPPD](/svimmelhet/pppd/) hvis gyngingen har vart i flere måneder.
 
 ## Når bør du få svimmelheten undersøkt?
 
-Svimmelhet bør undersøkes når den er ny, uvanlig, veldig kraftig – eller kommer sammen med andre symptomer som kan tyde på noe mer alvorlig. Oppsøk akutt hjelp umiddelbart dersom svimmelheten kommer brått sammen med:
+**Ring 113** hvis svimmelheten kommer brått sammen med lammelser, kraftsvikt, talevansker, dobbeltsyn, plutselig kraftig hodepine, brystsmerter, pustevansker eller bevissthetstap.
 
--   lammelser eller kraftsvikt
+Ta kontakt med lege eller kiropraktor ganske raskt hvis svimmelheten:
 
--   talevansker eller dobbeltsyn
+- varer i flere dager uten å bli bedre
+- kommer i anfall som blir kraftigere eller hyppigere
+- gir kraftig kvalme eller oppkast ved små hodebevegelser
+- kommer sammen med fall, hørselsendringer, øresus eller trykk i ørene
 
--   plutselig, kraftig hodepine
+Har du hatt krystallsyke før, men kjenner at symptomene er annerledes denne gangen, bør du få en ny vurdering. Og ved krystallsyke gjelder det: jo før den behandles, jo bedre.
 
--   brystsmerter, pustevansker eller bevissthetstap
+## Slik jobber jeg
 
-Du bør også kontakte lege eller kiropraktor relativt raskt dersom svimmelheten:
-
--   varer over flere dager uten bedring
-
--   kommer i anfall som blir kraftigere eller hyppigere
-
--   utløses av små hodebevegelser og gir kraftig kvalme eller oppkast
-
--   er kombinert med ustøhet, falltendens, høreendringer, øresus eller trykkfølelse i hodet eller ørene
-
-Har du hatt krystallsyke tidligere, men opplever at symptomene endrer karakter, varer lenger enn normalt eller ikke bedres av vanlige øvelser, bør du få en ny vurdering. Ved tvil er det alltid bedre å få svimmelhet sjekket én gang for mye enn én gang for lite. Ved krystallsyke, er det ofte lurt å få den undersøkt og behandlet heller før enn siden.
-
-## Konklusjon
-
-Svimmelhet kan oppleves skremmende, men er heldigvis ofte mulig å forstå og påvirke når man får en grundig utredning og en forklaring som gir mening. Målet er ikke bare å «skru av» symptomene der og da, men å finne ut hva som faktisk driver svimmelheten hos akkurat deg – enten det handler om krystaller i indre øret, en balanseforstyrrelse, nakkeplager, stress eller en kombinasjon. Med riktig veiledning, tilpassede øvelser og eventuelt tverrfaglig samarbeid, er det mye som kan gjøres for å skape mer trygghet i kroppen, mindre uro i systemet og en mer stabil hverdag.
-
-## Kontakt oss!
-
-Vår kiropraktor Marie Hermansen jobber daglig med svimmelhetspasienter og har en særdeles interesse i både utredning og behandling av slike diagnoser.
-
-Kontakt oss gjerne på telefon 46332766 – eller benytt deg av vår [døgnåpne online booking](https://psno-patient-platform-fe.svc.pasientsky.no/embedded/planner/booking?serviceProviderId=54907264-049e-11eb-8fc8-26c6f94d64b7).
-
-Vi gleder oss til å hjelpe deg på vei til en bedre hverdag!
-
-Du kan lese mer om våre behandlere, priser og kontaktinformasjon ved å klikke deg fram i vår hovedmeny.
+Svimmelhet kan være skremmende, men den er nesten alltid mulig å forstå når man ser grundig på den. I en [svimmelhetsundersøkelse](/svimmelhet/) ser jeg på sykehistorien, balanseorganet med VNG-briller, nakken og hvordan kroppen reagerer. Målet er å finne ut hva som faktisk driver svimmelheten hos deg, og lage en plan som passer deg. Er det noe som bør utredes videre, henviser jeg deg.

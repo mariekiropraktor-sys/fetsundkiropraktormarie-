@@ -13,6 +13,36 @@
       "permanent": true
     },
     {
+      "source": "/8-arsaker-til-korsryggsmerter-som-kiropraktoren-kan-hjelpe-deg-med{/}?",
+      "destination": "https://fetsundkiropraktor.no/8-arsaker-til-korsryggsmerter-som-kiropraktoren-kan-hjelpe-deg-med/",
+      "permanent": true
+    },
+    {
+      "source": "/sammenhengen-mellom-korsryggsmerter-stram-hofteleddsboyer-og-magesmerter{/}?",
+      "destination": "https://fetsundkiropraktor.no/sammenhengen-mellom-korsryggsmerter-stram-hofteleddsboyer-og-magesmerter/",
+      "permanent": true
+    },
+    {
+      "source": "/vare-beste-rad-og-ovelser-for-akutte-korsryggsmerter{/}?",
+      "destination": "https://fetsundkiropraktor.no/vare-beste-rad-og-ovelser-for-akutte-korsryggsmerter/",
+      "permanent": true
+    },
+    {
+      "source": "/skuldersmerter-for-under-og-etter-ett-kiropraktorbesok{/}?",
+      "destination": "https://fetsundkiropraktor.no/skuldersmerter-for-under-og-etter-ett-kiropraktorbesok/",
+      "permanent": true
+    },
+    {
+      "source": "/topp-5-ting-som-kiropraktoren-kan-hjelpe-seniorpasienten-med{/}?",
+      "destination": "https://fetsundkiropraktor.no/topp-5-ting-som-kiropraktoren-kan-hjelpe-seniorpasienten-med/",
+      "permanent": true
+    },
+    {
+      "source": "/vare-vanligste-triggerpunkter{/}?",
+      "destination": "https://fetsundkiropraktor.no/vare-vanligste-triggerpunkter/",
+      "permanent": true
+    },
+    {
       "source": "/behandlingsmetode/funksjonell-muskeltesting{/}?",
       "destination": "https://fetsundkiropraktor.no/behandlingsmetode/funksjonell-muskeltesting/",
       "permanent": true
@@ -164,7 +194,7 @@
     },
     {
       "source": "/category/korsryggsmerter{/}?",
-      "destination": "/blogg/?tema=rygg-og-ledd",
+      "destination": "/blogg/",
       "permanent": true
     },
     {

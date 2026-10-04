@@ -1,67 +1,67 @@
 ---
-title: "Stresshodepine, svimmelhet og kjevesmerter"
-description: "Våre kiropraktorer ser ofte sammensatte problemstillinger. Her er ett av eksemplene; Stresshodepine, svimmelhet og kjevesmerter. Les og lær!"
+title: "Hodepine, svimmelhet og vond kjeve – når alt henger sammen"
+description: "Stresshodepine, svimmelhet og kjevesmerter kommer ofte samtidig. Kiropraktor Marie Hermansen forklarer sammenhengen mellom nakke, kjeve og stress, og hva du kan gjøre."
 date: 2025-02-28
 tema: nakke-og-hode
 image: "/bilder/blogg/Seniorpasienten-og-2.webp"
 forfatter: "Marie Hermansen"
 ---
 
-Dette oppleves ofte samtidig og kan ha felles årsaker som muskelspenninger, holdning og stress. På Fetsund Kiropraktorsenter finner vi sammenhengen og gir deg målrettet behandling, slik at du kan få raskt bedre livskvalitet!
+Mange som kommer til meg med hodepine, nevner nesten i en bisetning at de også er litt svimle, og at de biter tennene sammen om natta. Det er sjelden tilfeldig. Hodepine, svimmelhet og kjevesmerter deler ofte de samme årsakene: spente muskler, en stiv nakke og et nervesystem som har stått i høygir for lenge.
 
-## **Stresshodepine – når spenninger setter seg i hodet**
+## Stresshodepine – et bånd rundt hodet
 
-Stresshodepine, også kalt tensjonshodepine, kjennetegnes ofte av en trykkende smerte rundt pannen, tinningene eller bakhodet. Den oppstår ofte på grunn av spenninger i nakke-, skulder- og kjevemuskulaturen. Faktorer som stress, langvarig statisk arbeid foran en skjerm og dårlig arbeidsstilling kan bidra til vedvarende muskelspenninger som igjen kan utløse hodepine.
+Stresshodepine, eller spenningshodepine, kjennes som et jevnt trykk rundt pannen, tinningene eller bakhodet. Mange beskriver det som et stramt bånd rundt hodet. Den kan også sitte på én side, bak øyet eller mot øret.
 
-Vanlige symptomer på stresshodepine inkluderer:
+Typisk er:
 
--   En jevn trykkende smerte i hodet, ofte beskrevet som et stramt bånd rundt hodet. Det kan også være ensidig hodepine, lokalisert bak øynene, og inn ot øret.
--   Stivhet og ømhet i nakke og skuldre.
--   Økt følsomhet for lys og lyd, men uten de typiske migrene-symptomene som kvalme.
+- trykkende, ikke dunkende, smerte
+- stive og ømme muskler i nakke og skuldre
+- litt lys- eller lydfølsomhet, men sjelden kvalme slik som ved migrene
 
-<figure><img class="wp-image-867 size-medium" src="/bilder/blogg/Kopi-av-70-CHIROPRACTOR-IG-POSTS-12-960x960.webp" alt="Hodepine" width="960" height="960"><figcaption>Hodepine</figcaption></figure>
+Spenningene kommer ofte fra lange dager foran skjerm, en arbeidsstilling som ikke passer deg, og stress.
 
-## **Svimmelhet fra nakken – en oversett årsak**
+<figure><img src="/bilder/blogg/Kopi-av-70-CHIROPRACTOR-IG-POSTS-12-960x960.webp" alt="Kvinne med hodepine som holder seg til tinningen" width="960" height="960" loading="lazy"><figcaption>Spenningshodepine sitter ofte som et bånd rundt hodet.</figcaption></figure>
 
-Det er viktig å finne riktig diagnose og behandling om man opplever svimmelhet. Årsakene kan være mange, inkludert [krystallsyke](/svimmelhet/), vitaminmangel eller andre [alvorlige underliggende årsaker](https://nhi.no/symptomer/hjerne-og-nervesystem/svimmelhet). Kiropraktor Marie Hermansen kan hjelpe deg å finne riktig årsak. Mange som opplever svimmelhet, er ikke klar over at problemet kan komme fra nakken. Dette kalles cervikogen svimmelhet og skyldes ofte nedsatt bevegelighet i de øverste nakkeleddene, stramme nakkemuskler eller tidligere nakkeskader. Nakken spiller en viktig rolle i kroppens balanse- og propriosepsjonssystem, som hjelper hjernen med å forstå kroppens plassering i rommet. Når nakkens ledd eller muskler ikke fungerer optimalt, kan det påvirke balansenerven og gi en følelse av ustabilitet, svimmelhet eller ørhet.
+## Svimmelhet fra nakken
 
-Vanlige tegn på cervikogen svimmelhet:
+Svimmelhet kan ha mange årsaker, fra [krystallsyke](/krystallsyke/) til [vitaminmangel og mer alvorlige tilstander](https://nhi.no/symptomer/hjerne-og-nervesystem/svimmelhet). Det mange ikke vet, er at den også kan komme fra nakken.
 
--   En følelse av ustabilitet eller ørhet, spesielt ved raske nakkebevegelser.
--   Spenninger eller smerter i nakken.
--   Økt svimmelhet etter lange perioder med stillesitting eller statisk arbeid. Kan også trigges av psykisk eller fysisk stress.
--   Hodepine som oppstår sammen med svimmelheten.
--   Svimmelhet av en "gyngende" karakter.
--   Tåkete syn og følelsen av bomull i ørene.
+Nakken er full av sensorer som forteller hjernen hvor hodet er i forhold til kroppen. Når de øverste nakkeleddene er stive, eller musklene er stramme etter stress eller en gammel skade, blir signalene unøyaktige. Det kan gi en gyngende eller ør følelse. Dette kalles [nakkesvimmelhet](/svimmelhet/nakkesvimmelhet/), eller cervikogen svimmelhet.
 
-## **[Kjevesmerter](https://fetsundkiropraktor.no/behandlingsomrade/kjevesmerter/) og muskelknuter**
+Tegn som peker mot nakken:
 
-Kjevespenninger kan oppstå som følge av stress, tannpressing (bruksisme) eller feilfunksjon i kjeveleddet (TMD-dysfunksjon). Det er derfor ikke vanskelig å forestille seg sammenhengene. Kjeven har tett forbindelse med musklene i nakken og hodeskallen, og spenninger her kan ofte bidra til både hodepine og svimmelhet.
+- ustøhet eller ørhet, særlig når du snur hodet raskt
+- vond eller stiv nakke samtidig
+- verre etter lange perioder med stillesitting eller stress
+- hodepine som kommer sammen med svimmelheten
+- tåkesyn eller en følelse av «bomull i ørene»
 
-Vanlige årsaker til kjevesmerter inkluderer:
+## Kjeven – den manglende puslespillbrikken
 
--   Hyppig tanngnissing eller sammenbiting av tenner.
--   Stress og spenninger i ansikts- og kjevemusklene.
--   Feilfunksjon i kjeveleddet (TMJ-dysfunksjon), som kan gi klikkelyder eller smerter ved tygging.
--   Dårlig holdning, spesielt fremoverlent hodeposisjon, som legger unødvendig belastning på kjeven.
--   Dårlig søvnkvalitet, muligens som følge av overnevnte.
+[Kjevesmerter](https://fetsundkiropraktor.no/behandlingsomrade/kjevesmerter/) kommer ofte av stress, tannpressing eller tanngnissing (bruksisme) eller av at kjeveleddet ikke fungerer som det skal. Kjevemusklene henger tett sammen med musklene i nakken og rundt hodeskallen. Er de overbelastet, kan de bidra både til hodepine og til svimmelhet.
 
-## **Hva kan du gjøre?**
+Vanlige årsaker til vond kjeve:
 
-For å lindre disse plagene er det være viktig å finne riktig årsak! Om du likevel ønsker å forsøke litt på egenhånd, har vi snekret sammen noen tips og triks;
+- tannpressing, særlig om natta
+- stress og spente ansiktsmuskler
+- kjeveleddet klikker eller gjør vondt når du tygger
+- fremoverlent hodeholdning, som belaster kjeven ekstra
+- dårlig søvn, som igjen gjør det verre
 
--   **Redusere stress**: Pusteteknikker, meditasjon og avspenningsøvelser kan bidra til å løsne opp muskelspenninger.
--   **Forbedre holdning**: Ergonomiske tilpasninger på arbeidsplassen, riktig sittestilling og bevissthet om kroppsholdning kan redusere belastningen på nakke og kjeve. Våre kiropraktorer i Fetsund vil se på holdningen din, og finne ut av hvordan den kan forbedres!
--   **Løsne opp nakken**: Lett tøying, massasje og [spesifikke øvelser](https://fetsundkiropraktor.no/behandlingsmetode/ovelsesveiledning/) kan bidra til bedre bevegelighet og redusere svimmelhet.
--   **Behandle kjevespenninger**: Kjeveøvelser og bevissthet om tannpressing kan redusere ubehag.
--   **Oppsøke behandling**: Kiropraktisk behandling kan bidra til å forbedre funksjonen i nakke, kjeve og øvre rygg, og dermed redusere smerter og svimmelhet. Med våre allsidige [behandlingsmetoder,](https://fetsundkiropraktor.no/behandlingsmetoder/) kan du være sikker på at du får akkurat den hjelpen du trenger. Om vi ikke kommer i mål, har våre kiropraktorer godt samarbeid med annet relevant helsepersonell.
+## Dette kan du gjøre selv
 
-![](/bilder/blogg/Din-avsnittstekst-3-960x679.webp)
+Det viktigste er å finne ut hva som er årsaken hos deg. Men det er mye du kan prøve selv i mellomtiden:
 
-## **Når bør du oppsøke profesjonell hjelp?**
+- **Senk stressnivået:** rolig pust med magen, korte pauser og avspenning gjør mye for musklene.
+- **Se på arbeidsstillingen:** skjerm i øyehøyde og jevnlige pauser avlaster nakke og kjeve.
+- **Beveg nakken:** lett tøying og rolige bevegelser gjennom dagen gir bedre bevegelighet.
+- **Slipp kjeven:** legg merke til om du biter sammen. Tunga i ganen og tennene litt fra hverandre er hvilestillingen.
 
-Dersom du sliter med langvarig stresshodepine, svimmelhet eller kjevesmerter som ikke bedres med enkle tiltak, kan en vurdering hos kiropraktor være nyttig for å avdekke eventuelle underliggende årsaker.
+![Tips for nakke, kjeve og stress](/bilder/blogg/Din-avsnittstekst-3-960x679.webp)
 
-Hos **Fetsund Kiropraktorsenter** har vi bred erfaring med behandling av muskel- og skjelettrelaterte plager. **Kiropraktor Marie Hermansen** tilbyr en helhetlig tilnærming som inkluderer grundig undersøkelse, behandling og veiledning for å sikre langvarig lindring.
+## Når bør du få hjelp?
 
-Ta kontakt med oss på **Fetsund Kiropraktorsenter** for en vurdering, og la oss hjelpe deg tilbake til en bedre hverdag! Kontakt oss gjerne per telefon 46332766 eller besøk vår [døgnåpne online booking](https://psno-patient-platform-fe.svc.pasientsky.no/embedded/planner/booking?serviceProviderId=54907264-049e-11eb-8fc8-26c6f94d64b7)
+Har du hatt hodepine, svimmelhet eller vond kjeve en stund, og enkle tiltak ikke hjelper, er det lurt å få en vurdering. Hos meg starter vi med en grundig undersøkelse av nakke, kjeve og balanse. Behandlingen kan være leddbehandling, muskelbehandling, nålebehandling og øvelser, og jeg samarbeider med tannlege og fastlege når det trengs.
+
+Er du mest plaget av svimmelheten? Les mer om [svimmelhet og hvordan jeg utreder den](/svimmelhet/).
