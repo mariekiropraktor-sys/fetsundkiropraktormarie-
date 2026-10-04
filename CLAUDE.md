@@ -34,6 +34,7 @@ src/
 ├── layouts/Layout.astro
 ├── pages/              # én mappe per side; [slug].astro = blogginnlegg på rot-nivå
 └── styles/global.css   # farger, knapper, kort, artikkeltekst
+src/components/Kart.astro  # Google-kart som lastes først ved klikk (personvern)
 vercel.json             # 301-videresendinger fra gamle WordPress-adresser
 ```
 
@@ -52,9 +53,10 @@ Fra designlerretet «Valgt retning» (kombinasjon av forslag A og B).
 - Kjør `npm run build` før push.
 
 ## Gjenstår
-- Bildene i blogginnleggene hentes fortsatt fra den gamle WordPress-siden
-  (fetsundkiropraktormarie.no/wp-content/…). De må lastes ned og legges i
-  prosjektet før domenet flyttes og WordPress-hostingen avsluttes.
 - Sanity-oppsett (prosjekt-ID fra Marie).
 - Kurs på Om Marie-siden er lagt inn (4. okt. 2026). Mangler eksakt år for Neuroseminars og Klinikk for Alle (står «ca. 2018–2019").
-- Tilleggsprisen for nål/tape/VNG (stod «45 kr» på gammel side – bekreft).
+
+## Personvern (besluttet 4. okt. 2026)
+- Ingen Google Fonts-lenker: skriftene kommer fra @fontsource-variable (Fraunces, Outfit).
+- Google Maps kun via `Kart.astro` (lastes ved klikk). YouTube kun via youtube-nocookie.com.
+- Bloggbilder ligger i `public/bilder/blogg/`. Ikke lenk til bilder på andre nettsider.
