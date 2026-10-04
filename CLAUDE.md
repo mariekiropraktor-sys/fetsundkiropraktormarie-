@@ -71,4 +71,6 @@ Fra designlerretet «Valgt retning» (kombinasjon av forslag A og B).
 ## Blogg vs. klinikksiden (besluttet 4. okt. 2026)
 - Seks innlegg om vanlige plager var ordrette kopier av fetsundkiropraktor.no. De er fjernet herfra og videresendes (301) til samme adresse på klinikksiden.
 - «Hvorfor blir jeg svimmel?» og «Stresshodepine, svimmelhet og kjevesmerter» er skrevet om (jeg-form) så de ikke er like klinikksidens versjoner.
-- Nye innlegg her skal handle om svimmelhet eller Marie selv; generelle plager hører hjemme på klinikksiden.
+- Nye innlegg her skal handle om svimmelhet, hodepine og kjeve (Maries interessefelt), vinklet mot svimmelhet der det passer; generelle plager hører hjemme på klinikksiden.
+- Utkast: sett `utkast: true` i blogginnlegget. Siden bygges med noindex og et «Utkast»-merke, men vises ikke i lister eller sitemap. Fjern linjen for å publisere.
+- Planlagte innlegg: svimmel når du reiser deg/våkner, svimmelhet etter hjernerystelse/nakkesleng, svimmel i overgangsalderen, migrene vs. spenningshodepine (med svimmelhetsvinkling), hva skjer på en svimmelhetsundersøkelse.

@@ -16,14 +16,15 @@ const { post } = Astro.props;
 const { Content } = await render(post);
 const dato = post.data.date.toLocaleDateString("nb-NO", { day: "numeric", month: "long", year: "numeric" });
 
-const relaterte = (await getCollection("blogg"))
+const relaterte = (await getCollection("blogg", (p) => !p.data.utkast))
   .filter((p) => p.id !== post.id && p.data.tema === post.data.tema)
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
   .slice(0, 3);
 ---
 
-<Layout title={post.data.title} description={post.data.description} image={post.data.image} type="article">
+<Layout title={post.data.title} description={post.data.description} image={post.data.image} type="article" skjult={post.data.utkast}>
   <article class="wrap artikkel">
+    {post.data.utkast && <p class="notis utkast-merke"><strong>Utkast:</strong> denne siden er ikke publisert ennå og vises ikke i bloggen eller hos Google.</p>}
     <header class="artikkel__topp stack">
       <a class="eyebrow" href={`/blogg/?tema=${post.data.tema}`}>{temaNavn[post.data.tema]}</a>
       <h1 class="h1">{post.data.title}</h1>
@@ -52,6 +53,12 @@ const relaterte = (await getCollection("blogg"))
 </Layout>
 
 <style>
+  .utkast-merke {
+    background: #fff4e5;
+    border-left: 0;
+    max-width: 720px;
+    margin-bottom: 24px;
+  }
   .artikkel {
     padding-block: clamp(32px, 6vw, 64px);
     display: flex;

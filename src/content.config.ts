@@ -12,6 +12,9 @@ const blogg = defineCollection({
     tema: z.enum(["svimmelhet", "nakke-og-hode", "rygg-og-ledd"]),
     image: z.string().optional(),
     forfatter: z.string().default("Marie Hermansen"),
+    // utkast: true = siden bygges (så Marie kan lese den), men vises ikke i lister,
+    // sitemap eller hos Google før den settes til false
+    utkast: z.boolean().default(false),
   }),
 });
 

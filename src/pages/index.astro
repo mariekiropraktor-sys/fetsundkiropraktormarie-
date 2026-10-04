@@ -13,7 +13,7 @@ const utvalgte = [
   "nar-nakken-laser-seg-guide-til-akutte-nakkesmerter",
   "krystallsyken-hos-de-eldre-vanligere-enn-mange-tror",
 ];
-const alle = await getCollection("blogg");
+const alle = await getCollection("blogg", (p) => !p.data.utkast);
 const innlegg = utvalgte.map((id) => alle.find((p) => p.id === id)).filter((p) => p !== undefined);
 ---
 

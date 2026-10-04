@@ -4,7 +4,7 @@ import PostCard from "../../components/PostCard.astro";
 import { getCollection } from "astro:content";
 import { temaNavn } from "../../data/site";
 
-const innlegg = (await getCollection("blogg")).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+const innlegg = (await getCollection("blogg", (p) => !p.data.utkast)).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 // Vis bare tema som faktisk har innlegg
 const temaer = Object.entries(temaNavn).filter(([key]) => innlegg.some((p) => p.data.tema === key));
 ---

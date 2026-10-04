@@ -5,7 +5,7 @@ import PostCard from "../../components/PostCard.astro";
 import { getCollection } from "astro:content";
 import { site } from "../../data/site";
 
-const innlegg = (await getCollection("blogg", (p) => p.data.tema === "svimmelhet")).sort(
+const innlegg = (await getCollection("blogg", (p) => p.data.tema === "svimmelhet" && !p.data.utkast)).sort(
   (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
 );
 
