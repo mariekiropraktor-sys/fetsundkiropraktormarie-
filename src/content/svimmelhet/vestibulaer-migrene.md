@@ -58,7 +58,19 @@ Symptomene varierer mye. Noen beskriver det som å gå på en båt. Andre opplev
 
 De to forveksles ofte, fordi begge gir svimmelhet. Den viktigste forskjellen er varigheten: ved [krystallsyke](/krystallsyke/) varer svimmelheten sekunder og utløses av bestemte hodebevegelser. Ved vestibulær migrene varer episodene fra minutter til dager.
 
-![Sammenligning av vestibulær migrene og krystallsyke](/bilder/blogg/22bdbd04-0f65-4056-8582-3e66174700d3-960x640.webp)
+<table class="sammenligning">
+<caption>Symptomene kan overlappe, og noen har begge tilstandene samtidig. Derfor er en grundig undersøkelse viktig.</caption>
+<thead>
+<tr><th scope="col">Kjennetegn</th><th scope="col">Vestibulær migrene</th><th scope="col">Krystallsyke (BPPV)</th></tr>
+</thead>
+<tbody>
+<tr><th scope="row">Hvor lenge varer det?</th><td>Minutter til dager</td><td>Vanligvis sekunder</td></tr>
+<tr><th scope="row">Hva utløser det?</th><td>Kan komme uten at du beveger deg</td><td>Bestemte hodebevegelser</td></tr>
+<tr><th scope="row">Hvordan kjennes det?</th><td>Ofte gynging og ustøhet</td><td>Ofte snurrende svimmelhet</td></tr>
+<tr><th scope="row">Lys- og lydfølsomhet</th><td>Vanlig</td><td>Ikke typisk</td></tr>
+<tr><th scope="row">Hodepine</th><td>Kan komme både med og uten hodepine</td><td>Ikke knyttet til migrene</td></tr>
+</tbody>
+</table>
 
 ## Vestibulær migrene eller PPPD?
 

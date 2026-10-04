@@ -4,11 +4,23 @@ seoTittel: "Hodepine, svimmelhet og vond kjeve"
 description: "Stresshodepine, svimmelhet og kjevesmerter kommer ofte samtidig. Kiropraktor Marie Hermansen forklarer sammenhengen mellom nakke, kjeve og stress, og hva du kan gjøre."
 date: 2025-02-28
 tema: nakke-og-hode
-image: "/bilder/blogg/Seniorpasienten-og-2.webp"
+image: "/bilder/blogg/Kopi-av-70-CHIROPRACTOR-IG-POSTS-12-960x960.webp"
 forfatter: "Marie Hermansen"
 ---
 
 Mange som kommer til meg med hodepine, nevner nesten i en bisetning at de også er litt svimle, og at de biter tennene sammen om natta. Det er sjelden tilfeldig. Hodepine, svimmelhet og kjevesmerter deler ofte de samme årsakene: spente muskler, en stiv nakke og et nervesystem som har stått i høygir for lenge.
+
+<div class="boks">
+<p class="boks__tittel">Kjenner du deg igjen?</p>
+<ul class="sjekk">
+<li>Hodepine eller nakkesmerter som stråler til bakhodet, tinningen eller øyet</li>
+<li>Verk mellom skulderbladene etter en lang dag foran PC-en</li>
+<li>Du biter tennene sammen, eller våkner med stiv og øm kjeve</li>
+<li>En gyngende eller ør følelse når nakken er stiv</li>
+<li>Stress, dårlig søvn eller mye stillesitting gjør plagene verre</li>
+</ul>
+<p class="boks__slutt">Kjenner du deg igjen i flere av punktene, kan spente muskler i nakke og kjeve være en del av forklaringen.</p>
+</div>
 
 ## Stresshodepine – et bånd rundt hodet
 
@@ -21,8 +33,6 @@ Typisk er:
 - litt lys- eller lydfølsomhet, men sjelden kvalme slik som ved migrene
 
 Spenningene kommer ofte fra lange dager foran skjerm, en arbeidsstilling som ikke passer deg, og stress.
-
-<figure><img src="/bilder/blogg/Kopi-av-70-CHIROPRACTOR-IG-POSTS-12-960x960.webp" alt="Kvinne med hodepine som holder seg til tinningen" width="960" height="960" loading="lazy"><figcaption>Spenningshodepine sitter ofte som et bånd rundt hodet.</figcaption></figure>
 
 ## Svimmelhet fra nakken
 
@@ -58,8 +68,6 @@ Det viktigste er å finne ut hva som er årsaken hos deg. Men det er mye du kan 
 - **Se på arbeidsstillingen:** skjerm i øyehøyde og jevnlige pauser avlaster nakke og kjeve.
 - **Beveg nakken:** lett tøying og rolige bevegelser gjennom dagen gir bedre bevegelighet.
 - **Slipp kjeven:** legg merke til om du biter sammen. Tunga i ganen og tennene litt fra hverandre er hvilestillingen.
-
-![Tips for nakke, kjeve og stress](/bilder/blogg/Din-avsnittstekst-3-960x679.webp)
 
 ## Når bør du få hjelp?
 

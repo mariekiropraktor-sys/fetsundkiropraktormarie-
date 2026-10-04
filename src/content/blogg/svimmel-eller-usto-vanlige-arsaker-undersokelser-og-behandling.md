@@ -234,18 +234,21 @@ Ja. Aldersrelaterte endringer i syn, balanseorgan og muskelfunksjon kan påvirke
 
 **Les mer om krystallsyke hos eldre [her](/krystallsyken-hos-de-eldre-vanligere-enn-mange-tror/)**
 
-## ***Undersøkelse og behandling hos Kiropraktor Marie Hermansen***
+<div class="boks">
+<p class="boks__tittel">Undersøkelse og behandling hos meg</p>
+<p>Jeg har over ti års klinisk erfaring og omfattende kursing innen svimmelhet, krystallsyke og vestibulær rehabilitering. Målet er å finne årsaken til symptomene dine og gi deg behandling som er tilpasset nettopp deg. Tidlig utredning gir ofte raskere bedring og større trygghet i hverdagen.</p>
+<p><a class="btn" href="https://psno-patient-platform-fe.svc.pasientsky.no/embedded/planner/booking?serviceProviderId=54907264-049e-11eb-8fc8-26c6f94d64b7&timeslotType=4d6f6546-0875-11eb-8cb2-367c89629524&calendarId=8b02aa62-04b5-11eb-98d4-56c227606b2b">Bestill svimmelhetsundersøkelse</a></p>
+</div>
 
-***Kiropraktor Marie Hermansen har over 10 års klinisk erfaring og omfattende kursing innen svimmelhet, krystallsyke og vestibulær rehabilitering.***
-
-***Målet er å finne årsaken til symptomene og tilby behandling som er tilpasset den enkelte pasient.***
-
-***[Bestill time her!](https://psno-patient-platform-fe.svc.pasientsky.no/embedded/planner/booking?serviceProviderId=54907264-049e-11eb-8fc8-26c6f94d64b7&timeslotType=4d6f6546-0875-11eb-8cb2-367c89629524&calendarId=8b02aa62-04b5-11eb-98d4-56c227606b2b)***
-
-***Opplever du svimmelhet, ustøhet eller balanseproblemer?***
-
-***Ta kontakt med Kiropraktor Marie Hermansen ved Fetsund Kiropraktorsenter for vurdering og behandling.***
-
-***Tidlig utredning kan ofte bidra til raskere bedring og større trygghet i hverdagen***
-
-<figure><img class="wp-image-1171 size-medium" src="/bilder/blogg/ChatGPT-Image-15.-juni-2026-09_37_37-960x640.webp" alt="" width="960" height="640"><figcaption>Referanser: • <a href="https://journals.sagepub.com/doi/10.1177/0194599816689667">Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (2017)</a>• <a href="https://content.iospress.com/articles/journal-of-vestibular-research/ves696">Diagnostic Criteria for Persistent Postural-Perceptual Dizziness (PPPD) (2017)</a> • <a href="https://journals.lww.com/jneuro-ophthalmology/fulltext/2019/12000/vestibular_migraine__how_to_sort_it_out_and_what.18.aspx">Vestibular Migraine: How to Sort It Out and What to Do about it (2019)</a>• <a href="https://www.neurologic.theclinics.com/article/S0733-8619(15)00044-8/fulltext">TiTrATE: A Novel Approach to Diagnosing Acute Dizziness and Vertigo (2015)</a></figcaption></figure>
+<div class="boks boks--kilder">
+<p class="boks__tittel">Faglig grunnlag</p>
+<p>Artikkelen bygger på internasjonale kliniske retningslinjer, publisert forskning og anerkjente oppslagsverk om svimmelhet, balanseforstyrrelser, krystallsyke (BPPV), vestibulær migrene, PPPD og vestibulær rehabilitering. Informasjonen er generell pasientinformasjon og erstatter ikke individuell vurdering hos autorisert helsepersonell.</p>
+<ul>
+<li><a href="https://journals.sagepub.com/doi/10.1177/0194599816689667">Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (2017)</a></li>
+<li>Vestibular Rehabilitation Clinical Practice Guideline (2022)</li>
+<li><a href="https://content.iospress.com/articles/journal-of-vestibular-research/ves696">Diagnostic Criteria for Persistent Postural-Perceptual Dizziness (PPPD) (2017)</a></li>
+<li><a href="https://journals.lww.com/jneuro-ophthalmology/fulltext/2019/12000/vestibular_migraine__how_to_sort_it_out_and_what.18.aspx">Vestibular Migraine: How to Sort It Out and What to Do About It (2019)</a></li>
+<li><a href="https://www.neurologic.theclinics.com/article/S0733-8619(15)00044-8/fulltext">TiTrATE: A Novel Approach to Diagnosing Acute Dizziness and Vertigo (2015)</a></li>
+</ul>
+<p>Ved vedvarende, nyoppstått eller uforklarlig svimmelhet bør du undersøkes av kvalifisert helsepersonell.</p>
+</div>
