@@ -1,5 +1,6 @@
 ---
 title: "Hodepine, svimmelhet og vond kjeve – når alt henger sammen"
+seoTittel: "Hodepine, svimmelhet og vond kjeve"
 description: "Stresshodepine, svimmelhet og kjevesmerter kommer ofte samtidig. Kiropraktor Marie Hermansen forklarer sammenhengen mellom nakke, kjeve og stress, og hva du kan gjøre."
 date: 2025-02-28
 tema: nakke-og-hode

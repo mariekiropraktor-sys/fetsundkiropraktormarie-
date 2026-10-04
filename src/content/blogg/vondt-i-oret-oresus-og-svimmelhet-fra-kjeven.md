@@ -1,6 +1,7 @@
 ---
 title: "Vondt i øret, øresus og svimmelhet – kan det komme fra kjeven?"
-description: "Vondt i øret, men legen finner ingenting? Kjeven kan gi øreverk, tett øre, øresus og svimmelhet. Kiropraktor Marie Hermansen forklarer sammenhengen og hva som hjelper."
+seoTittel: "Vondt i øret og øresus fra kjeven?"
+description: "Vondt i øret eller øresus, men øret er friskt? Kjeven kan være årsaken. Kiropraktor Marie Hermansen i Fetsund forklarer sammenhengen og hva som hjelper."
 date: 2026-10-04
 tema: nakke-og-hode
 forfatter: "Marie Hermansen"
@@ -13,7 +14,7 @@ utkast: true
 
 Kjeveleddet sitter rett foran øregangen. Legg fingrene foran ørene og åpne munnen, så kjenner du det bevege seg. Kjeven og øret deler også nerver, og noen av de små musklene inne i øret styres av den samme nerven som tyggemusklene. Når kjeveleddet eller tyggemusklene er irritert og overbelastet, kan hjernen derfor tolke smerten som om den kommer fra øret.
 
-Studier viser at øreplager er vanlige hos personer med kjeveplager, og at øresus forekommer oftere hos dem enn hos andre.
+Kjeveplager kalles på fagspråket TMD (temporomandibulær dysfunksjon). Studier viser at øreplager er vanlige hos personer med TMD og kjevesmerter, og at øresus forekommer oftere hos dem enn hos andre.
 
 ## Typiske plager
 
@@ -25,7 +26,7 @@ Studier viser at øreplager er vanlige hos personer med kjeveplager, og at øres
 - Klikking, knasing eller låsing i kjeven
 - Stiv og øm kjeve om morgenen
 
-## Tegn på at kjeven kan være årsaken
+## Tegn på at vondt i øret kommer fra kjeven
 
 - Det gjør mer vondt når du tygger, gjesper eller snakker mye
 - Du biter sammen eller skjærer tenner, gjerne om natta eller når du er stresset
@@ -33,7 +34,7 @@ Studier viser at øreplager er vanlige hos personer med kjeveplager, og at øres
 - Plagene øker i perioder med stress eller dårlig søvn
 - Du har samtidig vond nakke eller spenningshodepine
 
-## Hva med svimmelheten?
+## Kan kjeven gi svimmelhet?
 
 Svimmelhet fra kjeven er sjelden en kraftig karusell. Det er heller en ør, gyngende følelse. Ofte henger den sammen med nakken: kjeve og nakke jobber tett sammen, og stramme muskler i begge kan gi unøyaktige signaler til hjernen om hvor hodet er. Les mer om [nakkesvimmelhet](/svimmelhet/nakkesvimmelhet/).
 
@@ -59,9 +60,9 @@ Ikke alle øreplager kommer fra kjeven. Kontakt lege samme dag ved:
 - feber, puss eller væske fra øret
 - skjevhet eller lammelser i ansiktet
 
-## Slik kan jeg hjelpe
+## Behandling hos kiropraktor i Fetsund
 
-Jeg starter med en grundig undersøkelse av kjeven, nakken og balansen, og spør om hvordan plagene oppfører seg. Behandlingen tilpasses deg, og kan bestå av:
+På Fetsund Kiropraktorsenter starter jeg med en grundig undersøkelse av kjeven, nakken og balansen, og spør om hvordan plagene oppfører seg. Behandlingen tilpasses deg, og kan bestå av:
 
 - behandling av tyggemusklene, også de som ligger inne i munnen
 - [nålebehandling](https://fetsundkiropraktor.no/behandlingsmetode/nalebehandling/) av stramme muskler

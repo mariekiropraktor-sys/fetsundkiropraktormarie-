@@ -1,5 +1,6 @@
 ---
 title: "Når nakken låser seg – din guide til akutte nakkesmerter"
+seoTittel: "Nakken låst? Guide til akutte nakkesmerter"
 description: "Årsaker, symptomer, behandling og øvelser som hjelper deg tilbake i normal aktivitet – trygge råd om når du bør oppsøke oss for god undersøkelse og behandling."
 date: 2026-01-14
 tema: nakke-og-hode

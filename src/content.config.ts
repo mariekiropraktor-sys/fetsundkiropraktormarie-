@@ -7,6 +7,7 @@ const blogg = defineCollection({
   loader: glob({ pattern: "*.md", base: "./src/content/blogg" }),
   schema: z.object({
     title: z.string(),
+    seoTittel: z.string().optional(), // kortere tittel for Google (maks ca. 60 tegn), ellers brukes title
     description: z.string().default(""),
     date: z.coerce.date(),
     tema: z.enum(["svimmelhet", "nakke-og-hode", "rygg-og-ledd"]),

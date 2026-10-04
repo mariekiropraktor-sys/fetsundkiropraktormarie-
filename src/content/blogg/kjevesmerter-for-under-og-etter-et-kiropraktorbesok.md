@@ -1,5 +1,6 @@
 ---
 title: "Kjevesmerter - før, under og etter et kiropraktorbesøk."
+seoTittel: "Kjevesmerter hos kiropraktor"
 description: "Kiropraktor Marie Hermansen har skrevet en klinisk/praktisk rettet blogg rundt temaet kjevesmerter. Fokuset er å kommunisere det praktiske rundt behandling."
 date: 2024-02-20
 tema: nakke-og-hode

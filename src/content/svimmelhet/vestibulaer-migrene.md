@@ -1,6 +1,6 @@
 ---
 tittel: "Vestibulær migrene"
-seoTittel: "Vestibulær migrene – når migrene gir svimmelhet"
+seoTittel: "Vestibulær migrene – svimmel av migrene"
 beskrivelse: "Vestibulær migrene gir episoder med svimmelhet, gynging og ustøhet – med eller uten hodepine. Les om symptomer, diagnose og behandling hos kiropraktor Marie Hermansen i Fetsund."
 ingress: "Svimmel, gyngende eller ustø, men testen for krystallsyke er negativ? Vestibulær migrene er en av de vanligste årsakene til tilbakevendende svimmelhet hos voksne, og du trenger ikke ha hodepine for å ha det."
 kortTekst: "Episoder med svimmelhet fra minutter til dager, med eller uten hodepine. En vanlig, men ofte oversett årsak."

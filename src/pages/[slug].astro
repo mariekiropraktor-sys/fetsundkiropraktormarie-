@@ -20,9 +20,29 @@ const relaterte = (await getCollection("blogg", (p) => !p.data.utkast))
   .filter((p) => p.id !== post.id && p.data.tema === post.data.tema)
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
   .slice(0, 3);
+
+// Strukturerte data: forteller Google at dette er en fagartikkel skrevet av Marie
+const artikkelData = {
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  headline: post.data.title,
+  description: post.data.description,
+  datePublished: post.data.date.toISOString().slice(0, 10),
+  image: new URL(post.data.image ?? "/bilder/marie-portrett.webp", Astro.site).href,
+  inLanguage: "nb-NO",
+  mainEntityOfPage: new URL(`/${post.id}/`, Astro.site).href,
+  author: {
+    "@type": "Person",
+    name: "Marie Hermansen",
+    jobTitle: "Kiropraktor",
+    url: new URL("/om-marie-hermansen/", Astro.site).href,
+  },
+  publisher: { "@type": "Organization", name: "Fetsund Kiropraktorsenter", url: Astro.site?.href },
+};
 ---
 
-<Layout title={post.data.title} description={post.data.description} image={post.data.image} type="article" skjult={post.data.utkast}>
+<Layout title={post.data.seoTittel ?? post.data.title} description={post.data.description} image={post.data.image} type="article" skjult={post.data.utkast}>
+  <script type="application/ld+json" set:html={JSON.stringify(artikkelData)} slot="head" />
   <article class="wrap artikkel">
     {post.data.utkast && <p class="notis utkast-merke"><strong>Utkast:</strong> denne siden er ikke publisert ennå og vises ikke i bloggen eller hos Google.</p>}
     <header class="artikkel__topp stack">

@@ -1,5 +1,6 @@
 ---
 title: "Krystallsyken hos de eldre-vanligere enn mange tror!"
+seoTittel: "Krystallsyke hos eldre"
 description: "Svimmelhet kan skyldes mange ting hos eldre, og krystallsyken er ofte noe av det siste man tenker på om det ikke følger ett \"vanlig \" sykdomsbilde."
 date: 2025-11-25
 tema: svimmelhet

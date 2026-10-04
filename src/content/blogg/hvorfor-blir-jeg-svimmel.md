@@ -1,5 +1,6 @@
 ---
 title: "Hvorfor blir jeg svimmel? De vanligste årsakene"
+seoTittel: "Hvorfor blir jeg svimmel? Vanlige årsaker"
 description: "Snurr, gynging eller ustøhet? Kiropraktor Marie Hermansen forklarer de vanligste årsakene til svimmelhet, hvordan de skiller seg fra hverandre, og når du bør få det undersøkt."
 date: 2026-01-13
 tema: svimmelhet

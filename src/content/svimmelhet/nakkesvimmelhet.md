@@ -1,6 +1,6 @@
 ---
 tittel: "Nakkesvimmelhet"
-seoTittel: "Nakkesvimmelhet (cervikogen svimmelhet) – undersøkelse og behandling i Fetsund"
+seoTittel: "Nakkesvimmelhet – årsak og behandling"
 beskrivelse: "Gyngende svimmelhet sammen med stiv og vond nakke? Kiropraktor Marie Hermansen i Fetsund utreder og behandler nakkesvimmelhet (cervikogen svimmelhet)."
 ingress: "Føles hodet «ute av synk» med kroppen når nakken er stiv og vond? Nakkesvimmelhet, eller cervikogen svimmelhet, gir en gyngende og diffus svimmelhet som henger sammen med plager i nakken. Den responderer ofte godt på behandling."
 kortTekst: "Diffus, gyngende svimmelhet sammen med stiv og vond nakke eller hodepine. Henger ofte sammen med nedsatt funksjon i muskler og ledd."

@@ -1,5 +1,6 @@
 ---
 title: "Svimmel eller ustø? Vanlige årsaker, undersøkelser og behandling"
+seoTittel: "Svimmel eller ustø? Vanlige årsaker"
 description: "Føles det som om kroppen ikke helt samarbeider? Les om vanlige årsaker til svimmelhet og ustøhet, og hvordan målrettet utredning kan hjelpe."
 date: 2026-06-15
 tema: svimmelhet

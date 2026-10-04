@@ -1,5 +1,6 @@
 ---
 title: "Krystallsyke og svimmelhet - disse 5 øvelsene hjelper!"
+seoTittel: "Krystallsyke – 5 øvelser som hjelper"
 description: "Krystallsyke og svimmelhet kan være vanskelig å forstå seg på! Her har vi presentert 5 øvelser som kan hjelpe deg på vei ut av karusellen. God bedring!"
 date: 2024-11-19
 tema: svimmelhet

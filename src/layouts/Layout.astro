@@ -16,7 +16,10 @@ interface Props {
 }
 
 const { title, description, image = "/bilder/marie-portrett.webp", type = "website", skjult = false } = Astro.props;
-const fullTitle = title.includes("Marie Hermansen") ? title : `${title} | Kiropraktor Marie Hermansen`;
+// En tittel som allerede har «|» eller Maries navn brukes som den er; ellers legges «Kiropraktor i Fetsund» til.
+// Hold titler under ca. 60 tegn totalt, ellers kutter Google dem.
+const fullTitle =
+  title.includes("Marie Hermansen") || title.includes(" | ") ? title : `${title} | Kiropraktor i Fetsund`;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const ogImage = new URL(image, Astro.site);
 
