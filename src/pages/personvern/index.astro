@@ -1,4 +1,5 @@
 ---
+import SideHode from "../../components/SideHode.astro";
 import Layout from "../../layouts/Layout.astro";
 import { site } from "../../data/site";
 ---
@@ -7,11 +8,11 @@ import { site } from "../../data/site";
   title="Personvern"
   description="Slik behandler fetsundkiropraktormarie.no personopplysninger: ingen informasjonskapsler, ingen sporing, og kart og videoer lastes bare når du selv velger det."
 >
-  <section class="wrap side-topp">
-    <span class="eyebrow">Personvern</span>
-    <h1 class="h1">Personvern på denne nettsiden</h1>
-    <p class="lead">Kort fortalt: nettsiden sporer deg ikke, og bruker ingen informasjonskapsler (cookies).</p>
-  </section>
+  <SideHode
+    tittel="Personvern på denne nettsiden"
+    ingress="Kort fortalt: nettsiden sporer deg ikke, og bruker ingen informasjonskapsler (cookies)."
+    smuler={[{ navn: "Personvern" }]}
+  />
 
   <section class="wrap innhold prose personvern">
     <h2>Hvem er ansvarlig</h2>

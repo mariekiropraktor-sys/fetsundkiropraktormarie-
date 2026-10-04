@@ -1,4 +1,5 @@
 ---
+import SideHode from "../../components/SideHode.astro";
 import Layout from "../../layouts/Layout.astro";
 import BookingCTA from "../../components/BookingCTA.astro";
 import PostCard from "../../components/PostCard.astro";
@@ -53,18 +54,16 @@ const typer = [
   title="Svimmelhet – utredning og behandling"
   description="Svimmel eller ustø? Kiropraktor Marie Hermansen i Fetsund utreder svimmelhet med VNG-briller og finner årsaken – krystallsyke, nakkesvimmelhet, vestibulær migrene og mer."
 >
-  <section class="wrap side-topp">
-    <span class="eyebrow">Svimmelhet</span>
-    <h1 class="h1">Svimmelhet er et symptom, ikke en diagnose</h1>
-    <p class="lead">
-      Rommet som snurrer, gyngingen som ikke gir seg, ustøheten når du går. Hver type har sin årsak, og behandlingen
-      er forskjellig. Derfor starter jeg alltid med en grundig undersøkelse.
-    </p>
+  <SideHode
+    tittel="Svimmelhet er et symptom, ikke en diagnose"
+    ingress="Rommet som snurrer, gyngingen som ikke gir seg, ustøheten når du går. Hver type har sin årsak, og behandlingen er forskjellig. Derfor starter jeg alltid med en grundig undersøkelse."
+    smuler={[{ navn: "Svimmelhet" }]}
+  >
     <div class="btn-row">
       <a class="btn" href={site.booking}>Bestill svimmelhetsundersøkelse</a>
       <a class="btn btn--ghost" href={site.telefonLenke}>Ring {site.telefon}</a>
     </div>
-  </section>
+  </SideHode>
 
   <section class="wrap innhold">
     <div class="card-grid">

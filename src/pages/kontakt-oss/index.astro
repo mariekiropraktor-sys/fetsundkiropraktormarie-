@@ -1,5 +1,6 @@
 ---
 import Kart from "../../components/Kart.astro";
+import SideHode from "../../components/SideHode.astro";
 import Layout from "../../layouts/Layout.astro";
 import { site } from "../../data/site";
 ---
@@ -8,11 +9,11 @@ import { site } from "../../data/site";
   title="Kontakt"
   description="Kontakt kiropraktor Marie Hermansen på Fetsund Kiropraktorsenter, Garderbakken 1 i Fetsund. Telefon 463 32 766. Bestill time på nett."
 >
-  <section class="wrap side-topp">
-    <span class="eyebrow">Kontakt</span>
-    <h1 class="h1">Velkommen til Fetsund Kiropraktorsenter</h1>
-    <p class="lead">Bestill time på nett når det passer deg, eller ring hvis du har spørsmål først.</p>
-  </section>
+  <SideHode
+    tittel="Velkommen til Fetsund Kiropraktorsenter"
+    ingress="Bestill time på nett når det passer deg, eller ring hvis du har spørsmål først."
+    smuler={[{ navn: "Kontakt" }]}
+  />
 
   <section class="wrap innhold grid-2 kontakt">
     <div class="card stack">

@@ -1,4 +1,5 @@
 ---
+import SideHode from "../../components/SideHode.astro";
 import Layout from "../../layouts/Layout.astro";
 import BookingCTA from "../../components/BookingCTA.astro";
 import { site, andreMetoder } from "../../data/site";
@@ -8,27 +9,25 @@ import { site, andreMetoder } from "../../data/site";
   title="Om Marie Hermansen – kiropraktor i Fetsund"
   description="Marie Hermansen er kiropraktor og gründer av Fetsund Kiropraktorsenter, med særlig kompetanse på svimmelhet, krystallsyke og nakkeplager."
 >
-  <section class="wrap om-topp grid-2">
-    <div class="stack">
-      <span class="eyebrow">Om Marie</span>
-      <h1 class="h1">Hei, jeg er Marie</h1>
-      <p class="lead">
-        Jeg er kiropraktor, og eier og gründer av {site.klinikk}. Jeg hjelper deg med alt fra vond nakke og hodepine
-        til svimmelhet – feltet jeg har fordypet meg mest i.
-      </p>
-      <div class="btn-row">
-        <a class="btn" href={site.booking}>Bestill time på nett</a>
-      </div>
+  <SideHode
+    tittel="Hei, jeg er Marie"
+    ingress={`Jeg er kiropraktor, og eier og gründer av ${site.klinikk}. Jeg hjelper deg med alt fra vond nakke og hodepine til svimmelhet – feltet jeg har fordypet meg mest i.`}
+    smuler={[{ navn: "Om Marie" }]}
+  >
+    <div class="btn-row">
+      <a class="btn" href={site.booking}>Bestill time på nett</a>
+      <a class="btn btn--ghost" href={site.telefonLenke}>Ring {site.telefon}</a>
     </div>
     <img
-      class="photo om-topp__bilde"
+      slot="side"
+      class="om-topp__bilde"
       src="/bilder/marie-portrett.webp"
       alt="Kiropraktor Marie Hermansen"
       width="960"
       height="1200"
       fetchpriority="high"
     />
-  </section>
+  </SideHode>
 
   <section class="section section--white">
     <div class="wrap prose om-tekst">
@@ -152,13 +151,15 @@ import { site, andreMetoder } from "../../data/site";
 </Layout>
 
 <style>
-  .om-topp {
-    padding-block: clamp(32px, 6vw, 64px);
-  }
   .om-topp__bilde {
+    width: 100%;
+    max-width: 440px;
+    margin-inline: auto;
     aspect-ratio: 4 / 5;
+    object-fit: cover;
     object-position: center top;
-    max-height: 600px;
+    border-radius: var(--radius);
+    box-shadow: 0 18px 50px rgb(11 110 129 / 0.12);
   }
   .om-tekst {
     max-width: calc(720px + 2 * var(--gutter));
@@ -168,6 +169,7 @@ import { site, andreMetoder } from "../../data/site";
     padding-left: 0;
   }
   .kursliste li {
+    padding-left: 0;
     display: grid;
     grid-template-columns: 7.5em 1fr;
     gap: 0.75em;

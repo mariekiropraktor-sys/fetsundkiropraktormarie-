@@ -4,8 +4,10 @@
 import Layout from "../layouts/Layout.astro";
 import BookingCTA from "../components/BookingCTA.astro";
 import PostCard from "../components/PostCard.astro";
+import SideHode from "../components/SideHode.astro";
+import { lesetid } from "../data/lesetid";
 import { getCollection, render } from "astro:content";
-import { temaNavn } from "../data/site";
+import { site, temaNavn } from "../data/site";
 
 export async function getStaticPaths() {
   const innlegg = await getCollection("blogg");
@@ -13,7 +15,10 @@ export async function getStaticPaths() {
 }
 
 const { post } = Astro.props;
-const { Content } = await render(post);
+const { Content, headings } = await render(post);
+const minutter = lesetid(post.body);
+// Innholdsfortegnelse: alle h2-overskrifter i innlegget
+const innhold = headings.filter((h) => h.depth === 2);
 const dato = post.data.date.toLocaleDateString("nb-NO", { day: "numeric", month: "long", year: "numeric" });
 
 const relaterte = (await getCollection("blogg", (p) => !p.data.utkast))
@@ -43,18 +48,68 @@ const artikkelData = {
 
 <Layout title={post.data.seoTittel ?? post.data.title} description={post.data.description} image={post.data.image} type="article" skjult={post.data.utkast}>
   <script type="application/ld+json" set:html={JSON.stringify(artikkelData)} slot="head" />
-  <article class="wrap artikkel">
-    {post.data.utkast && <p class="notis utkast-merke"><strong>Utkast:</strong> denne siden er ikke publisert ennå og vises ikke i bloggen eller hos Google.</p>}
-    <header class="artikkel__topp stack">
-      <a class="eyebrow" href={`/blogg/?tema=${post.data.tema}`}>{temaNavn[post.data.tema]}</a>
-      <h1 class="h1">{post.data.title}</h1>
-      <p class="muted">Skrevet av <a href="/om-marie-hermansen/">{post.data.forfatter}</a> · {dato}</p>
-    </header>
-    {post.data.image && <img class="photo artikkel__bilde" src={post.data.image} alt="" />}
-    <div class="prose">
-      <Content />
+
+  <SideHode
+    tittel={post.data.title}
+    smuler={[{ navn: "Blogg", lenke: "/blogg/" }, { navn: temaNavn[post.data.tema], lenke: `/blogg/?tema=${post.data.tema}` }]}
+    artikkel={!!post.data.image}
+  >
+    {post.data.utkast && <p class="utkast-merke"><strong>Utkast:</strong> denne siden er ikke publisert ennå og vises ikke i bloggen eller hos Google.</p>}
+    <div class="forfatterlinje">
+      <img src="/bilder/marie-portrett.webp" alt="" width="48" height="48" />
+      <p>
+        <a href="/om-marie-hermansen/">{post.data.forfatter}</a>, kiropraktor<br />
+        <span><time datetime={post.data.date.toISOString().slice(0, 10)}>{dato}</time> <span aria-hidden="true">–</span> {minutter} min lesing</span>
+      </p>
     </div>
-  </article>
+  </SideHode>
+
+  {
+    post.data.image && (
+      <div class="wrap forsidebilde">
+        <img src={post.data.image} alt="" />
+      </div>
+    )
+  }
+
+  <div class:list={["wrap artikkel", { "artikkel--med-innhold": innhold.length >= 3 }]}>
+    {
+      innhold.length >= 3 && (
+        <aside class="innholdsliste" aria-label="Innhold i artikkelen">
+          <details open>
+            <summary>I denne artikkelen</summary>
+            <ol>
+              {innhold.map((h) => (
+                <li>
+                  <a href={`#${h.slug}`}>{h.text}</a>
+                </li>
+              ))}
+            </ol>
+          </details>
+        </aside>
+      )
+    }
+    <article class="prose artikkel__tekst">
+      <Content />
+    </article>
+  </div>
+
+  <section class="wrap forfatterboks-ramme" aria-label="Om forfatteren">
+    <div class="forfatterboks">
+      <img src="/bilder/marie-portrett.webp" alt="Kiropraktor Marie Hermansen" width="160" height="200" loading="lazy" />
+      <div class="forfatterboks__tekst">
+        <h2 class="forfatterboks__tittel">Skrevet av Marie Hermansen</h2>
+        <p>
+          Kiropraktor siden 2015, og eier og gründer av {site.klinikk}. Jeg har svimmelhet som spesialfelt, og jobber
+          også mye med hodepine, nakke og kjeve.
+        </p>
+        <div class="btn-row">
+          <a class="btn" href={site.booking}>Bestill time</a>
+          <a class="btn btn--ghost" href="/om-marie-hermansen/">Mer om meg</a>
+        </div>
+      </div>
+    </div>
+  </section>
 
   {
     relaterte.length > 0 && (
@@ -72,34 +127,203 @@ const artikkelData = {
   <BookingCTA />
 </Layout>
 
+<script>
+  // Marker overskriften du leser nå i innholdslisten (bare på store skjermer)
+  const lenker = [...document.querySelectorAll<HTMLAnchorElement>(".innholdsliste a")];
+  const overskrifter = lenker
+    .map((a) => document.getElementById(decodeURIComponent(a.hash.slice(1))))
+    .filter((h): h is HTMLElement => h !== null);
+  if (overskrifter.length && "IntersectionObserver" in window) {
+    const synlige = new Set<Element>();
+    const obs = new IntersectionObserver(
+      (oppf) => {
+        oppf.forEach((o) => (o.isIntersecting ? synlige.add(o.target) : synlige.delete(o.target)));
+        const aktiv = overskrifter.find((h) => synlige.has(h));
+        if (!aktiv) return;
+        lenker.forEach((a) => a.toggleAttribute("aria-current", a.hash === "#" + aktiv.id));
+      },
+      { rootMargin: "-10% 0px -75% 0px" },
+    );
+    overskrifter.forEach((h) => obs.observe(h));
+  }
+  // På mobil starter innholdslisten lukket
+  if (matchMedia("(max-width: 1099px)").matches) {
+    document.querySelector(".innholdsliste details")?.removeAttribute("open");
+  }
+</script>
+
 <style>
   .utkast-merke {
     background: #fff4e5;
-    border-left: 0;
-    max-width: 720px;
-    margin-bottom: 24px;
+    border-radius: 12px;
+    padding: 12px 16px;
+    font-size: 15px;
   }
-  .artikkel {
-    padding-block: clamp(32px, 6vw, 64px);
+  .forfatterlinje {
     display: flex;
-    flex-direction: column;
+    align-items: center;
+    gap: 14px;
+    font-size: 15px;
+    line-height: 1.45;
+    color: var(--muted);
+  }
+  .forfatterlinje img {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center 15%;
+    border: 2px solid #fff;
+  }
+  .forfatterlinje a {
+    color: var(--ink);
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .forfatterlinje a:hover {
+    text-decoration: underline;
+  }
+
+  /* Forsidebildet ligger over kanten på toppfeltet */
+  .forsidebilde {
+    margin-top: clamp(-96px, -7vw, -40px);
+    position: relative;
+  }
+  .forsidebilde img {
+    width: 100%;
+    max-width: 1040px;
+    margin-inline: auto;
+    aspect-ratio: 2 / 1;
+    object-fit: cover;
+    object-position: center 35%;
+    border-radius: var(--radius);
+    background: var(--line);
+    box-shadow: 0 18px 50px rgb(16 25 35 / 0.12);
+  }
+  @media (max-width: 700px) {
+    .forsidebilde img {
+      aspect-ratio: 4 / 3;
+    }
+  }
+
+  .artikkel {
+    padding-block: clamp(36px, 6vw, 72px);
+    display: grid;
+    justify-content: center;
+    grid-template-columns: minmax(0, 700px);
+    gap: 28px;
+  }
+  @media (min-width: 1100px) {
+    .artikkel--med-innhold {
+      grid-template-columns: 240px minmax(0, 700px);
+      gap: 64px;
+    }
+  }
+
+  /* Innholdsliste */
+  .innholdsliste {
+    font-size: 15px;
+  }
+  @media (min-width: 1100px) {
+    .innholdsliste details {
+      position: sticky;
+      top: 104px;
+    }
+    .innholdsliste summary {
+      pointer-events: none;
+    }
+    .innholdsliste summary::marker,
+    .innholdsliste summary::-webkit-details-marker {
+      content: "";
+      display: none;
+    }
+  }
+  .innholdsliste details {
+    background: var(--surface);
+    border-radius: 16px;
+    padding: 16px 18px;
+  }
+  @media (min-width: 1100px) {
+    .innholdsliste details {
+      background: none;
+      padding: 0;
+      border-left: 2px solid var(--line-2);
+    }
+    .innholdsliste summary {
+      padding-left: 16px;
+    }
+  }
+  .innholdsliste summary {
+    font-weight: 600;
+    cursor: pointer;
+  }
+  .innholdsliste ol {
+    list-style: none;
+    margin: 12px 0 0;
+    padding: 0;
+    display: grid;
+    gap: 2px;
+  }
+  .innholdsliste a {
+    display: block;
+    padding: 6px 0;
+    color: var(--muted);
+    text-decoration: none;
+    line-height: 1.35;
+  }
+  @media (min-width: 1100px) {
+    .innholdsliste a {
+      padding: 6px 0 6px 16px;
+      margin-left: -2px;
+      border-left: 2px solid transparent;
+    }
+    .innholdsliste a[aria-current] {
+      color: var(--teal);
+      border-left-color: var(--teal);
+      font-weight: 600;
+    }
+  }
+  .innholdsliste a:hover {
+    color: var(--teal);
+  }
+
+  /* Forfatterboks */
+  .forfatterboks-ramme {
+    padding-bottom: clamp(16px, 3vw, 32px);
+  }
+  .forfatterboks {
+    max-width: 1004px;
+    margin-inline: auto;
+    background: var(--surface);
+    border-radius: var(--radius);
+    padding: clamp(22px, 3vw, 32px);
+    display: grid;
+    gap: 24px;
     align-items: center;
   }
-  .artikkel__topp {
-    max-width: 720px;
-    width: 100%;
+  @media (min-width: 640px) {
+    .forfatterboks {
+      grid-template-columns: 140px 1fr;
+    }
   }
-  .artikkel__topp .h1 {
-    font-size: clamp(32px, 5vw, 48px);
+  .forfatterboks img {
+    width: 140px;
+    aspect-ratio: 4 / 5;
+    object-fit: cover;
+    object-position: center top;
+    border-radius: 14px;
   }
-  .artikkel__bilde {
-    max-width: 900px;
-    width: 100%;
-    max-height: 480px;
-    margin-block: 32px;
+  .forfatterboks__tekst {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
   }
-  .prose {
-    width: 100%;
+  .forfatterboks__tittel {
+    font-size: 24px;
+  }
+  .forfatterboks__tekst p {
+    color: var(--muted);
+    max-width: 60ch;
   }
   .relaterte {
     margin-bottom: 28px;

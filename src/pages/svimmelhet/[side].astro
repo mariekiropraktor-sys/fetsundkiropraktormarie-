@@ -1,6 +1,7 @@
 ---
 // Mal for fagsidene om svimmelhet: /svimmelhet/nakkesvimmelhet/, /svimmelhet/pppd/ osv.
 // Innholdet ligger i src/content/svimmelhet/ (skal senere redigeres i Sanity).
+import SideHode from "../../components/SideHode.astro";
 import Layout from "../../layouts/Layout.astro";
 import BookingCTA from "../../components/BookingCTA.astro";
 import { getCollection, render } from "astro:content";
@@ -54,21 +55,14 @@ const strukturerteData = [
 <Layout title={d.seoTittel} description={d.beskrivelse} image={d.bilde} type="article">
   <script type="application/ld+json" set:html={JSON.stringify(strukturerteData)} slot="head" />
 
-  <section class="wrap side-topp fag-topp">
-    <div class="stack">
-      <nav class="smuler" aria-label="Brødsmuler">
-        <a href="/svimmelhet/">Svimmelhet</a> <span aria-hidden="true">›</span> <span>{d.tittel}</span>
-      </nav>
-      <h1 class="h1">{d.tittel}</h1>
-      <p class="lead">{d.ingress}</p>
-      <div class="btn-row">
-        <a class="btn" href={site.booking}>Bestill svimmelhetsundersøkelse</a>
-        <a class="btn btn--ghost" href={site.telefonLenke}>Ring {site.telefon}</a>
-      </div>
+  <SideHode tittel={d.tittel} ingress={d.ingress} smuler={[{ navn: "Svimmelhet", lenke: "/svimmelhet/" }, { navn: d.tittel }]}>
+    <div class="btn-row">
+      <a class="btn" href={site.booking}>Bestill svimmelhetsundersøkelse</a>
+      <a class="btn btn--ghost" href={site.telefonLenke}>Ring {site.telefon}</a>
     </div>
     {
       d.kjennetegn.length > 0 && (
-        <aside class="card kjennetegn">
+        <aside class="kjennetegn" slot="side">
           <h2 class="kjennetegn__tittel">Kjenner du deg igjen?</h2>
           <ul>
             {d.kjennetegn.map((k) => (
@@ -78,7 +72,7 @@ const strukturerteData = [
         </aside>
       )
     }
-  </section>
+  </SideHode>
 
   <section class="section section--white">
     <article class="wrap fag-tekst">
@@ -168,36 +162,11 @@ const strukturerteData = [
 </Layout>
 
 <style>
-  .fag-topp {
-    display: grid;
-    grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr);
-    gap: clamp(24px, 4vw, 56px);
-    align-items: center;
-  }
-  @media (max-width: 860px) {
-    .fag-topp {
-      grid-template-columns: 1fr;
-    }
-  }
-  .smuler {
-    font-size: 14px;
-    font-weight: 600;
-    letter-spacing: 0.04em;
-    text-transform: uppercase;
-    color: var(--teal);
-  }
-  .smuler a {
-    color: var(--teal);
-    text-decoration: none;
-  }
-  .smuler a:hover {
-    text-decoration: underline;
-  }
-  .smuler span:last-child {
-    color: var(--muted);
-  }
   .kjennetegn {
-    border-top: 4px solid var(--teal);
+    background: var(--surface);
+    border-radius: var(--radius);
+    padding: clamp(22px, 3vw, 32px);
+    box-shadow: 0 18px 50px rgb(11 110 129 / 0.1);
   }
   .kjennetegn__tittel {
     font-size: 22px;

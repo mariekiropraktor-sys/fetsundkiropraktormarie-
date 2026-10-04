@@ -1,4 +1,5 @@
 ---
+import SideHode from "../../components/SideHode.astro";
 import Layout from "../../layouts/Layout.astro";
 import BookingCTA from "../../components/BookingCTA.astro";
 import { site, priser, tilleggspris } from "../../data/site";
@@ -8,11 +9,11 @@ import { site, priser, tilleggspris } from "../../data/site";
   title="Priser"
   description="Priser hos kiropraktor Marie Hermansen i Fetsund: førstegangskonsultasjon, oppfølgende behandling og egne priser for svimmelhetsundersøkelse og -behandling."
 >
-  <section class="wrap side-topp">
-    <span class="eyebrow">Priser</span>
-    <h1 class="h1">Priser</h1>
-    <p class="lead">Du trenger ikke henvisning fra lege. Bestill time direkte på nett, eller ring hvis du er usikker på hvilken time du skal velge.</p>
-  </section>
+  <SideHode
+    tittel="Priser"
+    ingress="Du trenger ikke henvisning fra lege. Bestill time direkte på nett, eller ring hvis du er usikker på hvilken time du skal velge."
+    smuler={[{ navn: "Priser" }]}
+  />
 
   <section class="wrap innhold">
     {

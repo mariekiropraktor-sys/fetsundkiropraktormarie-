@@ -1,6 +1,8 @@
 ---
 import Layout from "../../layouts/Layout.astro";
 import PostCard from "../../components/PostCard.astro";
+import SideHode from "../../components/SideHode.astro";
+import { lesetid } from "../../data/lesetid";
 import { getCollection } from "astro:content";
 import { temaNavn } from "../../data/site";
 
@@ -13,17 +15,13 @@ const temaer = Object.entries(temaNavn).filter(([key]) => innlegg.some((p) => p.
   title="Blogg"
   description="Fagartikler og råd om svimmelhet, krystallsyke, nakke, hodepine og muskel- og leddplager fra kiropraktor Marie Hermansen i Fetsund."
 >
-  <section class="wrap side-topp">
-    <span class="eyebrow">Blogg</span>
-    <h1 class="h1">Råd og fagstoff</h1>
-    <p class="lead">
-      Klinisk informasjon uten å bli for tørt og tunglest – med videoer, illustrasjoner og øvelser du kan bruke selv.
-    </p>
-  </section>
-
-  <section class="wrap filter-seksjon">
-    <div class="filter" role="group" aria-label="Filtrer på tema">
-      <button type="button" data-filter="alle" aria-pressed="true">Alle</button>
+  <SideHode
+    tittel="Råd og fagstoff"
+    ingress="Om svimmelhet, hodepine, nakke og kjeve – forklart så det er lett å forstå, med øvelser og råd du kan bruke selv."
+    smuler={[{ navn: "Blogg" }]}
+  >
+    <div class="filter" role="group" aria-label="Vis innlegg om">
+      <button type="button" data-filter="alle" aria-pressed="true">Alle innlegg</button>
       {
         temaer.map(([key, navn]) => (
           <button type="button" data-filter={key} aria-pressed="false">
@@ -32,10 +30,22 @@ const temaer = Object.entries(temaNavn).filter(([key]) => innlegg.some((p) => p.
         ))
       }
     </div>
+  </SideHode>
+
+  <section class="wrap liste-seksjon">
     <div class="card-grid liste">
       {
-        innlegg.map((p) => (
-          <PostCard slug={p.id} title={p.data.title} tema={p.data.tema} date={p.data.date} image={p.data.image} />
+        innlegg.map((p, i) => (
+          <PostCard
+            slug={p.id}
+            title={p.data.title}
+            tema={p.data.tema}
+            date={p.data.date}
+            image={p.data.image}
+            beskrivelse={p.data.description}
+            lesetid={lesetid(p.body)}
+            stor={i === 0}
+          />
         ))
       }
     </div>
@@ -64,14 +74,18 @@ const temaer = Object.entries(temaNavn).filter(([key]) => innlegg.some((p) => p.
 </script>
 
 <style>
-  .filter-seksjon {
-    padding-bottom: clamp(56px, 8vw, 96px);
+  .liste-seksjon {
+    padding-block: clamp(32px, 5vw, 56px) clamp(56px, 8vw, 96px);
+  }
+  /* Det nyeste innlegget går over hele bredden */
+  .liste > :global(.post--stor) {
+    grid-column: 1 / -1;
   }
   .filter {
     display: flex;
     flex-wrap: wrap;
     gap: 8px;
-    margin-bottom: 28px;
+    margin-top: 6px;
   }
   .filter button {
     font: inherit;
@@ -80,8 +94,8 @@ const temaer = Object.entries(temaNavn).filter(([key]) => innlegg.some((p) => p.
     min-height: 44px;
     padding: 8px 18px;
     border-radius: 999px;
-    border: 1px solid var(--line-2);
-    background: var(--surface);
+    border: 1px solid #b7dfe6;
+    background: rgb(255 255 255 / 0.8);
     color: var(--ink);
     cursor: pointer;
   }
@@ -89,5 +103,8 @@ const temaer = Object.entries(temaNavn).filter(([key]) => innlegg.some((p) => p.
     background: var(--teal);
     border-color: var(--teal);
     color: #fff;
+  }
+  .filter button:hover {
+    border-color: var(--teal);
   }
 </style>
