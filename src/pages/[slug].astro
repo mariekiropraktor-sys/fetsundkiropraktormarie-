@@ -330,4 +330,29 @@ const artikkelData = {
   .relaterte {
     margin-bottom: 28px;
   }
-</style>
+  /* Mobil: lite, rundt bilde ved siden av overskriften i stedet for stort portrett */
+  @media (max-width: 639px) {
+    .forfatterboks {
+      grid-template-columns: 64px 1fr;
+      gap: 14px 16px;
+    }
+    .forfatterboks img {
+      width: 64px;
+      height: 64px;
+      aspect-ratio: 1;
+      border-radius: 50%;
+      object-position: center 15%;
+    }
+    .forfatterboks__tekst {
+      display: contents;
+    }
+    .forfatterboks__tittel {
+      align-self: center;
+      font-size: 21px;
+    }
+    .forfatterboks__tekst p,
+    .forfatterboks__tekst .btn-row {
+      grid-column: 1 / -1;
+    }
+  }
+  </style>

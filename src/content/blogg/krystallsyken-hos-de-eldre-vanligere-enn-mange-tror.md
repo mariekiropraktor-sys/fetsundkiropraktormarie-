@@ -66,12 +66,3 @@ Hos eldre kan krystallsyke vare litt lenger, og det er også vanligere med tilba
 -   Selv om den samlede behandlingseffekten ved BPPV ser ut til å være god i alle aldersgrupper, er behandlingen hos eldre ofte mer sammensatt og kan kreve flere reposisjonsmanøvre.
 
 Krystallsyke hos eldre er vanlig, men ofte underdiagnostisert. Med grundig undersøkelse og behandling kan de fleste bli kvitt svimmelheten, få tilbake tryggheten og redusere fallrisikoen betydelig.
-
-<div class="boks boks--bestill">
-<img src="/bilder/marie-portrett.webp" alt="" width="72" height="72" loading="lazy">
-<div>
-<p class="boks__tittel">Svimmel eller ustø, eller kjenner du noen som er det?</p>
-<p>Jeg tilpasser både undersøkelse og behandling til eldre pasienter.</p>
-<p><a class="btn" href="/bestill/">Bestill svimmelhetsundersøkelse</a></p>
-</div>
-</div>

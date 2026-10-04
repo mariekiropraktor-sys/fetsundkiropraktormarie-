@@ -24,6 +24,15 @@ Har du blitt fått krystallsyke, blitt plutselig svimmel og er litt usikker på 
 
 Denne settes relativt enkelt av en erfaren kiropraktor ved hjelp av sykehistorie, samt fremprovosering av nystagmus og svimmelhet i de forskjellige "testposisjonene". Man vil da se en karakteristisk type øyebevegelse, utifra hvilken posisjon hodet ligger i. Dette gir kiropraktoren din et hint om hvilken buegang i øret krystallene befinner seg i. Noen ganger kan det være behov for å bruke såkalte **Frenzel briller,** men dette er mer kostbart.  Derfor brukes dette ofte i mer [kompliserte og sammensatte](https://www.helsenorge.no/sykdom/svimmelhet-og-balanseforstyrrelser/krystallsyke/#oppsummering) krystallsyke pasienter. For våre godt voksne pasienter, kan det være nødvendig å henvise til TRV-stol/ØNH lege, om pasienten ikke klarer å utføre de bevegelsene som skal til. Våre kiropraktorer på Fetsund Kiropraktorsenter henviser alltid om vi blir stående fast! Svimmelhet kan også komme fra nakken eller andre type alvorligere tilstander. Les gjerne mer utfyllende om det [her](/svimmelhet/) eller kontakt oss om du skulle være i tvil.
 
+<div class="boks boks--bestill">
+<img src="/bilder/marie-portrett.webp" alt="" width="72" height="72" loading="lazy">
+<div>
+<p class="boks__tittel">Usikker på hvilken øvelse som passer deg?</p>
+<p>Jeg finner ut hvor krystallene sitter med VNG-briller, og viser deg øvelsene som passer.</p>
+<p><a class="btn" href="/bestill/">Bestill svimmelhetsundersøkelse</a></p>
+</div>
+</div>
+
 ## Krystallsyke/BPPV i bakre buegang
 
 ## #1: Epleys manøver - den desidert vanligste krystallsyke øvelsen
@@ -123,12 +132,3 @@ Her har vi kommet til en øvelse og diagnose som de lærde igjen strides om. Fin
 -   Til slutt sitter pasienten oppreist igjen.
 
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/ijyx5tVeaVo" title="Video fra YouTube" loading="lazy" allowfullscreen=""></iframe></div>
-
-<div class="boks boks--bestill">
-<img src="/bilder/marie-portrett.webp" alt="" width="72" height="72" loading="lazy">
-<div>
-<p class="boks__tittel">Usikker på hvilken øvelse som passer deg?</p>
-<p>Jeg finner ut hvor krystallene sitter med VNG-briller, og viser deg øvelsene som passer.</p>
-<p><a class="btn" href="/bestill/">Bestill svimmelhetsundersøkelse</a></p>
-</div>
-</div>

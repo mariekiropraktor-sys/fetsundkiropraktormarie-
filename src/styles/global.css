@@ -645,7 +645,12 @@ p {
 }
 @media (max-width: 480px) {
   .prose .boks--bestill {
-    grid-template-columns: 1fr;
+    grid-template-columns: 52px 1fr;
+    gap: 14px;
+  }
+  .prose .boks--bestill > img {
+    width: 52px;
+    height: 52px;
   }
 }
 /* Knapper inne i artikkeltekst skal ikke få lenkestrek */

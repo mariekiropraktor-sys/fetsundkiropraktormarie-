@@ -67,6 +67,15 @@ Vanlige årsaker til vond kjeve:
 - fremoverlent hodeholdning, som belaster kjeven ekstra
 - dårlig søvn, som igjen gjør det verre
 
+<div class="boks boks--bestill">
+<img src="/bilder/marie-portrett.webp" alt="" width="72" height="72" loading="lazy">
+<div>
+<p class="boks__tittel">Vil du ha hjelp med hodepine, kjeve eller svimmelhet?</p>
+<p>Jeg undersøker nakke, kjeve og balanse, og lager en plan som passer deg.</p>
+<p><a class="btn" href="/bestill/">Bestill time</a></p>
+</div>
+</div>
+
 ## Dette kan du gjøre selv
 
 Det viktigste er å finne ut hva som er årsaken hos deg. Men det er mye du kan prøve selv i mellomtiden.
@@ -86,12 +95,3 @@ Det viktigste er å finne ut hva som er årsaken hos deg. Men det er mye du kan 
 Har du hatt hodepine, svimmelhet eller vond kjeve en stund, og enkle tiltak ikke hjelper, er det lurt å få en vurdering. Hos meg starter vi med en grundig undersøkelse av nakke, kjeve og balanse. Behandlingen kan være leddbehandling, muskelbehandling, nålebehandling og øvelser, og jeg samarbeider med tannlege og fastlege når det trengs.
 
 Er du mest plaget av svimmelheten? Les mer om [svimmelhet og hvordan jeg utreder den](/svimmelhet/).
-
-<div class="boks boks--bestill">
-<img src="/bilder/marie-portrett.webp" alt="" width="72" height="72" loading="lazy">
-<div>
-<p class="boks__tittel">Vil du ha hjelp med hodepine, kjeve eller svimmelhet?</p>
-<p>Jeg undersøker nakke, kjeve og balanse, og lager en plan som passer deg.</p>
-<p><a class="btn" href="/bestill/">Bestill time</a></p>
-</div>
-</div>

@@ -102,6 +102,15 @@ Målet er å redusere smerte, gjenvinne bevegelse og gi deg trygghet på hva du 
 
 <figure><img class="wp-image-1025" src="/bilder/blogg/Bilde-7-768x960.webp" alt="" width="544" height="680"><figcaption>Etter behandling kjenner de fleste seg mye bedre</figcaption></figure>
 
+<div class="boks boks--bestill">
+<img src="/bilder/marie-portrett.webp" alt="" width="72" height="72" loading="lazy">
+<div>
+<p class="boks__tittel">Har nakken låst seg?</p>
+<p>Bestill time, så hjelper jeg deg tilbake i bevegelse.</p>
+<p><a class="btn" href="/bestill/">Bestill time</a></p>
+</div>
+</div>
+
 ## Når bør du ta kontakt – og når er det akutt?
 
 Ta kontakt relativt tidlig hvis:
@@ -123,12 +132,3 @@ Ta kontakt relativt tidlig hvis:
 </div>
 
 I alle andre tilfeller er terskelen lav for å ta kontakt for en trygg vurdering. Når nakken først har låst seg, er målet å hjelpe deg raskt og sikkert tilbake i bevegelse, og samtidig gi deg verktøy for å redusere risikoen for at det skjer igjen.
-
-<div class="boks boks--bestill">
-<img src="/bilder/marie-portrett.webp" alt="" width="72" height="72" loading="lazy">
-<div>
-<p class="boks__tittel">Har nakken låst seg?</p>
-<p>Bestill time, så hjelper jeg deg tilbake i bevegelse.</p>
-<p><a class="btn" href="/bestill/">Bestill time</a></p>
-</div>
-</div>

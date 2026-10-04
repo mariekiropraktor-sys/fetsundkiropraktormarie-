@@ -37,12 +37,3 @@ Hva gjør kiropraktoren av teknikker og vil det være vondt? Bruker h\*n bare en
 Etter behandlingen kan ting være litt sårt og ømt. Så hva kan du forvente deg i etterkant? Hvor ofte bør du gå på behandling og hva kan du selv gjøre for å bedre kjevesmertene dine i etterkant? Et lite hint er egeninnsats og avdramatisering. Her vil Marie hjelpe deg så godt hun kan, så du etterhvert vil klare deg på egenhånd.
 
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/ze2c4VPUoxs" title="Video fra YouTube" loading="lazy" allowfullscreen=""></iframe></div>
-
-<div class="boks boks--bestill">
-<img src="/bilder/marie-portrett.webp" alt="" width="72" height="72" loading="lazy">
-<div>
-<p class="boks__tittel">Plaget med kjevesmerter?</p>
-<p>Bestill time, så undersøker jeg kjeven og nakken din.</p>
-<p><a class="btn" href="/bestill/">Bestill time</a></p>
-</div>
-</div>
