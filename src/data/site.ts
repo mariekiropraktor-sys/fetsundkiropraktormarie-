@@ -71,9 +71,9 @@ export const andreMetoder = [
 
 export const svimmelhetstyper = [
   { navn: "Krystallsyke", tekst: "Snurr når du snur deg i senga eller ser opp", lenke: "/krystallsyke/" },
-  { navn: "Nakkesvimmelhet", tekst: "Gynging sammen med stiv og vond nakke", lenke: "/nakkesvimmelhet-hva-er-det/" },
-  { navn: "Vestibulær migrene", tekst: "Anfall av svimmelhet, med eller uten hodepine", lenke: "/vestibulaer-migrene-nar-migrene-gir-svimmelhet/" },
-  { navn: "Ustøhet og PPPD", tekst: "Gynging som blir verre i butikker og travle steder", lenke: "/svimmel-eller-usto-vanlige-arsaker-undersokelser-og-behandling/" },
+  { navn: "Nakkesvimmelhet", tekst: "Gynging sammen med stiv og vond nakke", lenke: "/svimmelhet/nakkesvimmelhet/" },
+  { navn: "Vestibulær migrene", tekst: "Anfall av svimmelhet, med eller uten hodepine", lenke: "/svimmelhet/vestibulaer-migrene/" },
+  { navn: "PPPD", tekst: "Vedvarende gynging som blir verre i butikker og travle steder", lenke: "/svimmelhet/pppd/" },
 ];
 
 // Priser i to grupper: vanlige muskel- og leddplager, og svimmelhet (egne priser)

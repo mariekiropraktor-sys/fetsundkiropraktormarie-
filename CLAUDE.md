@@ -30,6 +30,7 @@ Språk: all UI-tekst og kodekommentarer på **norsk (bokmål)**.
 src/
 ├── data/site.ts        # telefon, adresse, åpningstider, priser, navigasjon m.m.
 ├── content/blogg/      # blogginnlegg (filnavn = adresse)
+├── content/svimmelhet/ # fagsider: nakkesvimmelhet, vestibulær migrene, PPPD → /svimmelhet/<navn>/
 ├── components/         # Header (med hamburgermeny), Footer, TrustStrip, BookingCTA, PostCard
 ├── layouts/Layout.astro
 ├── pages/              # én mappe per side; [slug].astro = blogginnlegg på rot-nivå
@@ -53,10 +54,16 @@ Fra designlerretet «Valgt retning» (kombinasjon av forslag A og B).
 - Kjør `npm run build` før push.
 
 ## Gjenstår
-- Sanity-oppsett (prosjekt-ID fra Marie).
+- Sanity-oppsett (prosjekt-ID fra Marie). Fagsidene i content/svimmelhet/ skal bli Sanity-typen «svimmelhetsside» (samme feltnavn).
+- Marie må lese gjennom fagteksten på /svimmelhet/pppd/ (ny tekst, 4. okt. 2026).
+- Modernisere blogginnleggene; flagge lånte bilder (triggerpoints.net, muskelbloggis m.fl.).
 - Kurs på Om Marie-siden er lagt inn (4. okt. 2026). Mangler eksakt år for Neuroseminars og Klinikk for Alle (står «ca. 2018–2019").
 
 ## Personvern (besluttet 4. okt. 2026)
 - Ingen Google Fonts-lenker: skriftene kommer fra @fontsource-variable (Fraunces, Outfit).
 - Google Maps kun via `Kart.astro` (lastes ved klikk). YouTube kun via youtube-nocookie.com.
 - Bloggbilder ligger i `public/bilder/blogg/`. Ikke lenk til bilder på andre nettsider.
+
+## Svimmelhetssider (besluttet 4. okt. 2026)
+- Innleggene om nakkesvimmelhet og vestibulær migrene er flyttet til /svimmelhet/nakkesvimmelhet/ og /svimmelhet/vestibulaer-migrene/ med 301 fra gamle adresser.
+- «Svimmel eller ustø?» blir værende som blogginnlegg (oversikt).

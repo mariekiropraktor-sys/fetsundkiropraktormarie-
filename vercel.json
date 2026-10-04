@@ -3,6 +3,16 @@
   "trailingSlash": true,
   "redirects": [
     {
+      "source": "/nakkesvimmelhet-hva-er-det{/}?",
+      "destination": "/svimmelhet/nakkesvimmelhet/",
+      "permanent": true
+    },
+    {
+      "source": "/vestibulaer-migrene-nar-migrene-gir-svimmelhet{/}?",
+      "destination": "/svimmelhet/vestibulaer-migrene/",
+      "permanent": true
+    },
+    {
       "source": "/behandlingsmetode/funksjonell-muskeltesting{/}?",
       "destination": "https://fetsundkiropraktor.no/behandlingsmetode/funksjonell-muskeltesting/",
       "permanent": true

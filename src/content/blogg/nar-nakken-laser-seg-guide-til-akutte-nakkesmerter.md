@@ -79,7 +79,7 @@ Når du kommer til kiropraktor med akutte nakkesmerter, vil du først få en gru
 
 -   hvilke bevegelser som provoserer eller lindrer
 
--   om det er tegn til påvirkning av nerver (kraft, følelse, reflekser) eller andre røde flagg som [svimmelhet](/nakkesvimmelhet-hva-er-det/)
+-   om det er tegn til påvirkning av nerver (kraft, følelse, reflekser) eller andre røde flagg som [svimmelhet](/svimmelhet/nakkesvimmelhet/)
 
 Behandlingen kan omfatte:
 

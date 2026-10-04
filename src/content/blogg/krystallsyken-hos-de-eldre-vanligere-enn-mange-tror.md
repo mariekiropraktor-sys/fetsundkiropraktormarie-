@@ -27,7 +27,7 @@ Krystallsyken (BPPV) er en av de vanligste årsakene til svimmelhet hos eldre, o
 
 ## Hvorfor overser annet helsepersonell krystallsyken som svimmelhetsårsak hos de eldre?
 
--   **Diffuse symptomer:**  [Svimmelhet](/nakkesvimmelhet-hva-er-det/) kan skyldes mange ting hos eldre. Krystallsyke er ofte noe av det siste man tenker på om det ikke følger ett "vanlig  " sykdomsbilde. Svimmelheten hos de eldre er ofte litt mer preget av langvarig ustøhet. Ikke den klassiske "karusellsvimmelheten" som man vanligvis forbinder med krystallsyken. Den kan derfor forveksles med mer alvorlige årsaker eller noe så enkelt som lite inntak av væske.
+-   **Diffuse symptomer:**  [Svimmelhet](/svimmelhet/nakkesvimmelhet/) kan skyldes mange ting hos eldre. Krystallsyke er ofte noe av det siste man tenker på om det ikke følger ett "vanlig  " sykdomsbilde. Svimmelheten hos de eldre er ofte litt mer preget av langvarig ustøhet. Ikke den klassiske "karusellsvimmelheten" som man vanligvis forbinder med krystallsyken. Den kan derfor forveksles med mer alvorlige årsaker eller noe så enkelt som lite inntak av væske.
 
 -   **Manglende bruk av spesialutstyr:** Riktig diagnose krever god kunnskap, målrettede posisjonstester og gjerne VNG‑briller for å fange opp nystagmus. Mange har ikke erfaring eller tilgang på slikt utstyr, og utredningen blir ofte begrenset til blodtrykk, medisiner og generelle råd. VNG‑briller er særlig nyttig hos eldre eller pasienter med langvarige plager, fordi hjernen lærer seg å “kamuflere” svimmelheten ved å fokusere blikket. Brillene skjermer for ytre inntrykk og registrerer selv små øyebevegelser som ikke kan undertrykkes, og gir dermed en sikrere og tidligere diagnose slik at riktig behandling kan settes inn.
 

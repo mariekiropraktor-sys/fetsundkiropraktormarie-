@@ -102,6 +102,8 @@ Vanlige symptomer kan være:
 
 Behandlingen retter seg ofte mot symptomlindring, håndtering av triggere og bedre forståelse av symptomene.
 
+**Les mer om vestibulær migrene [her](/svimmelhet/vestibulaer-migrene/)**
+
 ## Nakkesvimmelhet
 
 Ved cervikogen svimmelhet, ofte kalt nakkesvimmelhet, ser man gjerne en kombinasjon av svimmelhet og plager fra nakken.
@@ -116,7 +118,7 @@ Typiske symptomer inkluderer:
 -   Ubalanse
 -   Diffus svimmelhet
 
-**Les mer om nakkesvimmelhet [her](/nakkesvimmelhet-hva-er-det/)**
+**Les mer om nakkesvimmelhet [her](/svimmelhet/nakkesvimmelhet/)**
 
 <figure><img class="wp-image-1134" src="/bilder/blogg/innlegg-illustrasjon.webp" alt="" width="504" height="336"><figcaption>Svimmel når du reiser deg opp av senga? Eller er du svimmel når du er ute og går? Årsakene kan være sammensatt, men relaterte.</figcaption></figure>
 
@@ -139,6 +141,8 @@ Vanlige symptomer er:
 -   Ustøhet
 -   Ubehag i butikker og kjøpesentre
 -   Forverring ved mye visuelle inntrykk
+
+**Les mer om PPPD [her](/svimmelhet/pppd/)**
 
 ## Hvorfor er riktig diagnose så viktig?
 

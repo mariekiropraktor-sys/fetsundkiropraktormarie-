@@ -59,7 +59,7 @@ Små, dype muskler øverst i nakken kan gi:
 
 -   Forverring ved mye skjermbruk, lesing eller når du skyver hodet fremover
 
--     Kan være bidragsyter til [nakkesvimmelhet](/nakkesvimmelhet-hva-er-det/)
+-     Kan være bidragsyter til [nakkesvimmelhet](/svimmelhet/nakkesvimmelhet/)
 
 ![](/bilder/blogg/Splenius-Capitis-Splenius-Cervicis-960x507.webp)
 
