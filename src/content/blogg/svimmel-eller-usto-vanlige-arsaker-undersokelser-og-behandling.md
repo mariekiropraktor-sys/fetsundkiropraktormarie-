@@ -25,7 +25,7 @@ På Fetsund Kiropraktorsenter tilbyr kiropraktor Marie Hermansen grundig utredni
 
 Svimmelhet og ustøhet kan skyldes mange ulike årsaker. Derfor er en grundig undersøkelse ofte nøkkelen til å finne riktig diagnose og behandling.
 
-<figure><img class="wp-image-1173" src="/bilder/blogg/27c5c178-d5b8-4820-b3de-eaa5e3fa753a-960x720.webp" alt="" width="531" height="398"><figcaption><strong>**Svimmelhet kan ha mange ulike årsaker.** Derfor er en grundig undersøkelse ofte det viktigste første steget. Målet er å finne årsaken til symptomene og legge grunnlaget for riktig behandling.</strong></figcaption></figure>
+<figure><img src="/bilder/blogg/27c5c178-d5b8-4820-b3de-eaa5e3fa753a-960x720.webp" alt="Marie forklarer øret og balanseorganet for en pasient med en modell" width="960" height="720" loading="lazy"><figcaption>Svimmelhet kan ha mange ulike årsaker. Derfor er en grundig undersøkelse det viktigste første steget.</figcaption></figure>
 
 ## Hva er forskjellen på svimmelhet og ustøhet?
 
@@ -126,7 +126,7 @@ Typiske symptomer inkluderer:
 
 **Les mer om nakkesvimmelhet [her](/svimmelhet/nakkesvimmelhet/)**
 
-<figure><img class="wp-image-1134" src="/bilder/blogg/innlegg-illustrasjon.webp" alt="" width="504" height="336"><figcaption>Svimmel når du reiser deg opp av senga? Eller er du svimmel når du er ute og går? Årsakene kan være sammensatt, men relaterte.</figcaption></figure>
+<figure><img src="/bilder/blogg/innlegg-illustrasjon.webp" alt="Person som er svimmel" width="504" height="336" loading="lazy"><figcaption>Svimmel når du reiser deg opp av senga? Eller er du svimmel når du er ute og går? Årsakene kan være sammensatt, men relaterte.</figcaption></figure>
 
 ### PPPD (vedvarende svimmelhet)
 

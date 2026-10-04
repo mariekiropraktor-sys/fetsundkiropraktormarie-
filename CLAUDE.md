@@ -56,7 +56,7 @@ Fra designlerretet «Valgt retning» (kombinasjon av forslag A og B).
 ## Gjenstår
 - Sanity-oppsett (prosjekt-ID fra Marie). Fagsidene i content/svimmelhet/ skal bli Sanity-typen «svimmelhetsside» (samme feltnavn).
 - Marie må lese gjennom fagteksten på /svimmelhet/pppd/ (ny tekst, 4. okt. 2026).
-- Modernisere blogginnleggene; flagge lånte bilder (triggerpoints.net, muskelbloggis m.fl.).
+- Alle innlegg er skrevet om (4. okt. 2026). Lånt Yrselcenter-bilde er erstattet med tabell. Marie bør sjekke risikotabellen i «Krystallsyke hos eldre» (f.eks. overgangsalder «sjeldent» under 55 år).
 - Kurs på Om Marie-siden er lagt inn (4. okt. 2026). Mangler eksakt år for Neuroseminars og Klinikk for Alle (står «ca. 2018–2019").
 
 ## Personvern (besluttet 4. okt. 2026)

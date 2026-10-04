@@ -600,6 +600,12 @@ p {
 @media (max-width: 560px) {
   .prose .sammenligning {
     font-size: 15px;
+    table-layout: fixed;
+  }
+  .prose .sammenligning th,
+  .prose .sammenligning td {
+    hyphens: auto;
+    overflow-wrap: break-word;
   }
   .prose .sammenligning th,
   .prose .sammenligning td {

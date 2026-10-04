@@ -35,7 +35,18 @@ Hos noen sitter krystallene fast på selve sanseorganet i buegangen, eller i en 
 
 Mange blir usikre fordi det de kjenner ikke stemmer med det de har lest. Da er det ekstra viktig å teste flere stillinger og se på øyebevegelsene med VNG-briller, slik at manøvrene kan tilpasses akkurat det som skjer i ditt balanseorgan.
 
-<figure><img src="/bilder/blogg/Kristallsjuka-olika-varianter-olika-kristallers-former.webp" alt="Illustrasjon av ulike former for krystaller i buegangene" width="816" height="720" loading="lazy"><figcaption>Krystallene kan ha ulik form og ligge på ulike steder. Derfor gir krystallsyke ikke de samme symptomene hos alle.</figcaption></figure>
+<table class="sammenligning">
+<caption>Hvor krystallene ligger, avgjør hvordan svimmelheten kjennes, og hvilken manøver som hjelper.</caption>
+<thead>
+<tr><th scope="col">Kjennetegn</th><th scope="col">Krystallene flyter fritt</th><th scope="col">Krystallene sitter fast</th></tr>
+</thead>
+<tbody>
+<tr><th scope="row">Hvor ligger de?</th><td>Løst i væsken i buegangen</td><td>Fast på sanseorganet i buegangen</td></tr>
+<tr><th scope="row">Hvor lenge varer det?</th><td>Sekunder, under ett minutt</td><td>Ofte lenger, så lenge stillingen holdes</td></tr>
+<tr><th scope="row">Hvordan kjennes det?</th><td>Kraftige, korte snurr</td><td>Seigere, mer konstant svimmelhet</td></tr>
+<tr><th scope="row">Behandling</th><td>Rolige manøvrer, som Epley</td><td>Ofte raskere manøvrer, som Semont eller Gufoni</td></tr>
+</tbody>
+</table>
 
 ## 3. Betennelse i balansenerven
 

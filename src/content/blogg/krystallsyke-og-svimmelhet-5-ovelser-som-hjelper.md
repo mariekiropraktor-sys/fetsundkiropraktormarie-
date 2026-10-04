@@ -1,7 +1,7 @@
 ---
-title: "Krystallsyke og svimmelhet - disse 5 øvelsene hjelper!"
+title: "Krystallsyke – 5 øvelser som hjelper"
 seoTittel: "Krystallsyke – 5 øvelser som hjelper"
-description: "Krystallsyke og svimmelhet kan være vanskelig å forstå seg på! Her har vi presentert 5 øvelser som kan hjelpe deg på vei ut av karusellen. God bedring!"
+description: "Epley, Semont, BBQ roll, Gufoni og deep head hanging: kiropraktor Marie Hermansen forklarer de fem øvelsene for krystallsyke, og hvordan du vet hvilken som passer deg."
 kortFortalt:
   - "Det finnes fem ulike øvelser for krystallsyke, og hvilken som hjelper avhenger av hvor krystallene sitter."
   - "Epleys manøver er den vanligste, og brukes når krystallene sitter i bakre buegang."
@@ -12,17 +12,20 @@ tema: svimmelhet
 image: "/bilder/blogg/406051985_3662765807375576_6730752410300302163_n.webp"
 forfatter: "Marie Hermansen"
 ---
+Har du fått krystallsyke og er usikker på hva du skal gjøre? Eller har du fått beskjed om å gjøre noen øvelser hjemme, men husker ikke helt hvordan? Her har jeg samlet de fem øvelsene jeg bruker mest, med fremgangsmåte og video.
 
-Har du blitt fått krystallsyke, blitt plutselig svimmel og er litt usikker på hva du skal gjøre? Eller har du vært hos legen og fått beskjed om å ta noen øvelser du ikke husker? Vår egen [kiropraktor Marie Hermansen](https://www.facebook.com/www.kiropraktor.marie.no/ "kiropraktor Marie Hermansen") vil gjerne hjelpe deg som sliter med svimmelhet og krystallsyke! Hun har derfor satt seg ned og laget en sammenfatning av øvelser for spesielt krystallsyke og svimmelhet. Disse er hovedsakelig ment for de som allerede har fått behandling og undersøkelse av oss på Fetsund Kiropraktorsenter, eller annet kvalifisert helsepersonell. Alternativt om det allerede er kjent hvilken type svimmelhet/krystallsyke vedkommende plages med.
+Øvelsene er først og fremst ment for deg som allerede er undersøkt, enten hos meg eller hos annet helsepersonell, og som vet hvilken type krystallsyke du har.
 
 <div class="boks boks--advarsel">
 <p class="boks__tittel">Ikke gjør øvelsene før du vet hvilken type krystallsyke du har</p>
 <p>Det finnes fem ulike øvelser for krystallsyke, og hvilken som hjelper avhenger av hvor krystallene sitter. Få diagnosen bekreftet av en svimmelhetsterapeut eller lege først. Det er ikke farlig å gjøre feil øvelse, men du risikerer å bli verre enn du allerede er.</p>
 </div>
 
-## Diagnose
+## Slik finner vi ut hvor krystallene sitter
 
-Denne settes relativt enkelt av en erfaren kiropraktor ved hjelp av sykehistorie, samt fremprovosering av nystagmus og svimmelhet i de forskjellige "testposisjonene". Man vil da se en karakteristisk type øyebevegelse, utifra hvilken posisjon hodet ligger i. Dette gir kiropraktoren din et hint om hvilken buegang i øret krystallene befinner seg i. Noen ganger kan det være behov for å bruke såkalte **Frenzel briller,** men dette er mer kostbart.  Derfor brukes dette ofte i mer [kompliserte og sammensatte](https://www.helsenorge.no/sykdom/svimmelhet-og-balanseforstyrrelser/krystallsyke/#oppsummering) krystallsyke pasienter. For våre godt voksne pasienter, kan det være nødvendig å henvise til TRV-stol/ØNH lege, om pasienten ikke klarer å utføre de bevegelsene som skal til. Våre kiropraktorer på Fetsund Kiropraktorsenter henviser alltid om vi blir stående fast! Svimmelhet kan også komme fra nakken eller andre type alvorligere tilstander. Les gjerne mer utfyllende om det [her](/svimmelhet/) eller kontakt oss om du skulle være i tvil.
+Diagnosen stilles ut fra sykehistorien og noen enkle testposisjoner. Når hodet legges i bestemte stillinger, setter krystallene i gang svimmelheten, og øynene gjør en karakteristisk rykkende bevegelse som kalles nystagmus. Retningen på den bevegelsen forteller hvilken buegang i øret krystallene ligger i.
+
+Jeg bruker VNG-briller under testene. De filmer øynene, så jeg ser nystagmusen tydelig, også når den er svak. Klarer du ikke å gjøre bevegelsene testene krever, for eksempel på grunn av en stiv nakke eller dårlig rygg, henviser jeg deg videre til øre-nese-hals-lege, som kan bruke en spesialstol. Svimmelhet kan også komme fra nakken eller fra andre tilstander, så les gjerne mer om [ulike typer svimmelhet](/svimmelhet/).
 
 <div class="boks boks--bestill">
 <img src="/bilder/marie-portrett.webp" alt="" width="72" height="72" loading="lazy">
@@ -33,102 +36,88 @@ Denne settes relativt enkelt av en erfaren kiropraktor ved hjelp av sykehistorie
 </div>
 </div>
 
-## Krystallsyke/BPPV i bakre buegang
+## Krystaller i bakre buegang
 
-## #1: Epleys manøver - den desidert vanligste krystallsyke øvelsen
+Dette er den vanligste varianten. Typisk blir du svimmel når du snur deg i senga, legger deg ned, eller sitter i noe som akselererer. Buegangene er fylt med væske. Når hodet beveger seg, flytter krystallene seg med væsken og sender overdrevne signaler til hjernen. Når væsken og krystallene blir liggende i ro, gir svimmelheten seg.
 
-Krystaller i bakre buegang merkes ofte som svimmelhetsanfall når man snur seg i senga eller om man sitter i noe som akselererer. Dette er pga. krystaller i buegangene som registrerer rotasjon (nei-bevegelse) av hodet, gi feil signaler opp til hjernen om hva slags bevegelse som utføres (videoforklaring følger i videoklippene under). I og med at buegangene inneholde væske, vil krystallene bevege seg i takt med væsken og signalene om at noe har beveget seg fra buegangene, vil være overdrevne og ikke harmonere med det som skjer ellers i kroppen. I de væsken og dermed krystallene slutter å bevege på seg, opphører også svimmelheten.
+### 1. Epleys manøver
 
-### Utførelse:
+Epleys manøver er den desidert mest brukte øvelsen for krystallsyke. Den bruker tyngdekraften til å flytte krystallene tilbake dit de hører hjemme.
 
-1.  **Sitt oppreist** på en seng, og vri hodet 45 grader mot siden du har fått beskjed om av lege/kiropraktor/fysio. Eller tenk at nesa skal halvveis mot skulderen.
-2.  **Legg deg bakover** med hodet hengende over en pute (ca 30 grader bakover), og hold hodet i denne posisjonen i omtrent 30 sekunder, til svimmelheten avtar.
-3.  **Vri hodet** 90 grader til motsatt side (når er nesa halvveis mot den andre skulderen), og hold det i 30 sekunder til svimmelheten avtar.
-4.  **Rull kroppen** til den siden hodet peker mot, slik at du ser ned mot gulvet. Hold også denne stillingen til svimmelheten avtar.
-5.  **Sett deg sakte opp** til utgangsposisjonen.
+1. Sitt oppreist på en seng, og vri hodet 45 grader mot siden du har fått beskjed om. Tenk at nesa skal halvveis mot skulderen.
+2. Legg deg bakover med en pute under skuldrene, så hodet heller litt bakover. Bli liggende i omtrent 30 sekunder, til svimmelheten gir seg.
+3. Vri hodet 90 grader til motsatt side, så nesa peker halvveis mot den andre skulderen. Hold i 30 sekunder, til svimmelheten gir seg.
+4. Rull kroppen over på siden hodet peker mot, så du ser ned mot gulvet. Hold til svimmelheten gir seg.
+5. Sett deg sakte opp.
 
-Gjenta ca 2-3 ganger daglig, til øvelsen ikke lenger fremprovoserer svimmelhet.
-
-Rådfør deg med kiropraktoren din om det er første gang du prøver dette.
+Gjenta to–tre ganger om dagen, til øvelsen ikke lenger gir svimmelhet. Er det første gang du gjør den, bør du få den vist av behandleren din først.
 
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/VmCItD9nDfY" title="Video fra YouTube" loading="lazy" allowfullscreen=""></iframe></div>
 
 <div class="boks boks--rad">
-<p class="boks__tittel">Tips</p>
+<p class="boks__tittel">Tips til Epleys manøver</p>
 <ul class="sjekk">
-<li>Dette er en manøver som bruker tyngdekraften til hjelp og det er derfor ikke behov for å gjøre denne manøveren i høy hastighet!</li>
-<li>Behold brillene på for å merke om svimmelheten fremprovoseres, eller avtar.</li>
-<li>Går videre til neste stilling når svimmelheten avtar</li>
-<li>Noen blir veldig dårlige av disse øvelsene. Om du er en av dem, hopp over kvelds øvelsen før du skal ut og gjøre noe sosialt.</li>
-<li>Noen kjenner seg litt stive og vonde i disse øvelsene, oppsøk din kiropraktor for å få løsnet litt i nakke og midt rygg.</li>
+<li>Du trenger ikke gjøre den fort. Tyngdekraften gjør jobben.</li>
+<li>Behold brillene på, så merker du lettere når svimmelheten kommer og gir seg.</li>
+<li>Gå videre til neste stilling først når svimmelheten har roet seg.</li>
+<li>Blir du veldig dårlig av øvelsen, kan du hoppe over kveldsøkten før du skal ut og være sosial.</li>
+<li>Blir du stiv og vond i nakken eller ryggen, kan behandleren din hjelpe deg å løsne opp.</li>
 </ul>
 </div>
 
-## #2: Alternativ til Epleys; *Seigmouts Manøver*\- for de seige krystallene som sitter fast i bakre buegang.
+### 2. Semonts manøver
 
-Semont-manøveren kan velges over Epleys manøver hvis pasienten har en spesifikk form for krystallsyke som ikke responderer godt på Epleys manøver. Semont-manøveren kan være mer effektiv i tilfeller der otolittene (krystallene) sitter fast og ikke beveger seg lett. Den gir også et mer kraftig mekanisk stimuli, noe som kan være nyttig for noen pasienter. Det skjer ved at øvelsen skal utføres rask, helst ved hjelp av din kiropraktor/annet helsepersonell. Valg av manøver avhenger av symptomene, pasientens respons på tidligere behandling, og kiropraktorens vurdering.
+Semonts manøver er et alternativ når krystallene sitter fast og Epleys manøver ikke har hjulpet. Den gir et kraftigere dytt, fordi bevegelsene skal gjøres raskt. Derfor bør den helst gjøres sammen med behandleren din, i hvert fall de første gangene.
 
-### Utførelse:
-
-1.  **Sitt på en benk**, med hodet vridd 45 grader mot den ene siden (den "friske", ikke symptomgivende siden/aka den siden du har fått beskjed om å bruke)
-2.  **Legg deg raskt ned** på den "svimle" siden, med hodet fortsatt vridd, og holdes der i 30 sekunder, eller til svimmelheten avtar.
-3.  **Beveg kroppen** raskt over til motsatt side uten å endre hodets posisjon, og holdes der i 30 sekunder før de settes opp igjen og symptomene har avtatt.
-
-Videolink:
+1. Sitt på en benk med hodet vridd 45 grader mot siden du har fått beskjed om.
+2. Legg deg raskt ned på den andre siden, med hodet fortsatt vridd. Bli liggende i 30 sekunder, eller til svimmelheten gir seg.
+3. Kast deg raskt over på motsatt side uten å endre stillingen på hodet. Bli liggende i 30 sekunder, og sett deg så rolig opp.
 
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/-omE6Vs6ZuU" title="Video fra YouTube" loading="lazy" allowfullscreen=""></iframe></div>
 
-Manøveren bør utføres under veiledning av kyndig helsepersonell og/eller kiropraktor.
+Ikke prøv denne på egen hånd uten å ha avtalt det med behandleren din. Den krever fart, og det er godt å ha noen ved siden av seg. Har du vondt for å bøye hodet bakover, kan Semont være et bedre valg enn Epley. Når du har fått lov, gjøres den én–to ganger om dagen.
 
-<div class="boks boks--rad">
-<p class="boks__tittel">Tips</p>
-<ul class="sjekk">
-<li>Ikke forsøk denne på egenhånd, denne krever fart og fysisk/psykisk støtte! Men det kan være lov å høre med behandleren din om denne kan forsøkes, om Epley\`s ikke har fungert.</li>
-<li>Spør din kiropraktor/lege om du kan bruke denne om du har vondt for å snu hodet bakover eller til en av sidene.</li>
-<li>Husk at denne krever fart!</li>
-<li>Gjøre 1-2 ganger daglig</li>
-</ul>
-</div>
+## Krystaller i den horisontale buegangen
 
-## Krystallsyke/BPPV i Horisontale buegang
+Her sitter krystallene i buegangen som registrerer når du dreier hodet fra side til side, som når du rister på hodet. Svimmelheten kommer ofte når du snur deg fra side til side i senga.
 
-## #3: BBQ roll (Lempert\`s manøver) - krystallsyke i de horisontale øregangene
+### 3. BBQ roll (Lemperts manøver)
 
-Denne øvelsen utføres ved relativt sakte bevegelser og er beregnet på de mindre krystallene som er relativt lette på flytte på kun ved hjelp av tyngdekraften.
+BBQ roll gjøres med rolige bevegelser og passer for mindre krystaller som flytter seg lett.
 
-BBQ-manøveren, også kjent som Barbecue Roll, er en øvelse som brukes til å reposisjonere krystaller i den horisontale buegangen ved benign paroksysmal posisjonsvertigo (BPPV).
-
-### **Utførelse:**
-
-1.  **Ligg på ryggen** med hodet vendt mot den berørte siden (den du har fått beskjed om å bruke)
-2.  **Roter hodet gradvis i motsatt retning**, 90 grader om gangen, til det er vendt mot "frisk" side.
-3.  **Fortsett å rulle** kroppen til magen og hold posisjonen noen minutter før oppreising (se video).
-4.  **Før oppreising** kan pasienten fortsette ved å rulle seg videre til ikke berørt side (hodet pekende rett fram), før man reiser seg opp igjen. De lærde strides om hvorvidt dette steget fremdeles er relevant, men det skader nok ikke å inkludere det.
+1. Ligg på ryggen med hodet vendt mot siden du har fått beskjed om.
+2. Drei hodet gradvis mot motsatt side, 90 grader om gangen.
+3. Fortsett å rulle kroppen over på magen, og bli liggende noen minutter.
+4. Rull videre over på siden og sett deg opp. Fagfolk er uenige om dette siste steget er nødvendig, men det skader ikke.
 
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/HCXU4IcTpr4" title="Video fra YouTube" loading="lazy" allowfullscreen=""></iframe></div>
 
-## **#4: Gufoni manøver - de seige krystallene i horisontale buegang**
+### 4. Gufonis manøver
 
-Denne øvelsen benytter seg av samme prinsipp som "semont manøver". Øvelsen er beregnet på de litt større og kanskje fastlåste krystallene. Denne øvelsen kan også være grei å bruke om man har [vondt i skuldrene](https://fetsundkiropraktor.no/behandlingsomrade/skuldersmerter/) eller albuene og ikke klarer å utføre BBQ roll.
+Gufonis manøver bygger på samme prinsipp som Semont, og er laget for litt større krystaller som sitter fast. Den er også et godt alternativ hvis du har [vondt i skuldrene](https://fetsundkiropraktor.no/behandlingsomrade/skuldersmerter/) eller albuene og ikke klarer BBQ roll.
 
-### Utførelse:
+1. Sitt på en benk med hodet rett frem.
+2. Legg deg raskt ned på siden du har fått beskjed om, med hodet rett. Bli liggende ett–to minutter.
+3. Drei hodet 45 grader ned mot gulvet, og bli liggende ett–to minutter til.
 
-1.  **Sitt på en benk** med hodet pekende rett fram.
-2.  **Legg deg raskt ned på siden** som ikke er påvirket av krystallene, eller der det observeres en treg type nystagmus. Hodet skal ligge vannrett og posisjonen holdes 1-2 minutter.
-3.  Hodet dreies 45 grader nedover mot gulvet og holdes i 1–2 minutter.
+Hvilken side du skal legge deg på, avhenger av hvordan øynene beveger seg under testen, så dette må behandleren din avgjøre.
 
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/N7LOSV-9DYE" title="Video fra YouTube" loading="lazy" allowfullscreen=""></iframe></div>
 
-## Krystallsyke/BPPV i øvre buegang
+## Krystaller i den fremre buegangen
 
-Her har vi kommet til en øvelse og diagnose som de lærde igjen strides om. Finnes egentlig krystallsyke i øvre buegang, eller er de "maskert" som krystaller i den bakre eller horisontale buegang? Om de finnes, så er de i så fall mye skjeldnere og mye mindre fremtredende i symptombildet enn de 2 andre variantene. De som har disse krystallene, vil ofte kjenne seg svimle når de ser opp og ned. Symptomene kan ha vart litt over en stund. Våre [seniorpasienter](https://fetsundkiropraktor.no/topp-5-ting-som-kiropraktoren-kan-hjelpe-seniorpasienten-med/) kan ofte oppleve disse symptomene, men denne øvelsen anbefales ikke for alle. Dette på grunn av posisjonen som kreves for å utføre øvelsen. Vi anbefaler derfor å komme til en undersøkelse for å avdekke riktig type krystallsyke. Slik sikrer vi at øvelsen er trygg og effektiv for akkurat deg!
+Krystallsyke i den fremre (øvre) buegangen er sjelden, og fagfolk diskuterer fortsatt hvor ofte den egentlig forekommer. De som har den, blir gjerne svimle når de ser opp og ned.
 
-## #5: "Deep head hanging" manøver - krystallsyke i den øvre buegangen
+### 5. Deep head hanging
 
-### Utførelse:
+Denne øvelsen krever at hodet henger godt bakover, og passer ikke for alle, særlig ikke for eldre med stiv nakke. Få den alltid vist og godkjent av behandleren din først.
 
--   Pasienten starter sittende og legger seg deretter raskt bakover slik at hodet henger nedover over kanten av benken eller sengen i omtrent 30 sekunder.
--   Deretter løftes hodet opp til en nøytral posisjon (fortsatt i liggende stilling) og holdes i 30 sekunder.
--   Til slutt sitter pasienten oppreist igjen.
+1. Sitt på en benk, og legg deg raskt bakover så hodet henger ned over kanten. Bli liggende omtrent 30 sekunder.
+2. Løft hodet opp til nøytral stilling mens du fortsatt ligger, og hold i 30 sekunder.
+3. Sett deg opp igjen.
 
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/ijyx5tVeaVo" title="Video fra YouTube" loading="lazy" allowfullscreen=""></iframe></div>
+
+## Vil du lære mer?
+
+På [Krystallsykehjelpen](https://www.krystallsykehjelpen.no/) har jeg samlet mye mer om krystallsyke, med forklaringer, flere øvelser og videoer.

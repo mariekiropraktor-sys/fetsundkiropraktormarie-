@@ -1,7 +1,7 @@
 ---
-title: "Krystallsyken hos de eldre-vanligere enn mange tror!"
+title: "Krystallsyke hos eldre – vanligere enn mange tror"
 seoTittel: "Krystallsyke hos eldre"
-description: "Svimmelhet kan skyldes mange ting hos eldre, og krystallsyken er ofte noe av det siste man tenker på om det ikke følger ett \"vanlig \" sykdomsbilde."
+description: "Hos eldre gir krystallsyke ofte diffus ustøhet i stedet for korte snurr, og blir lett oversett. Kiropraktor Marie Hermansen forklarer tegnene, risikofaktorene og behandlingen."
 kortFortalt:
   - "Krystallsyke (BPPV) er en av de vanligste årsakene til svimmelhet hos eldre."
   - "Hos eldre gir den ofte diffus og langvarig ustøhet i stedet for korte snurr, og blir lett oversett."
@@ -12,57 +12,51 @@ tema: svimmelhet
 image: "/bilder/blogg/generated-image.webp"
 forfatter: "Marie Hermansen"
 ---
+Krystallsyke er en av de vanligste årsakene til svimmelhet hos eldre. Likevel er det ofte noe av det siste man tenker på. Hos eldre ser krystallsyken nemlig sjelden ut som i læreboka. I stedet for korte, kraftige snurr når man snur seg i senga, blir mange bare litt ustø, litt usikre på beina, over lang tid.
 
-## Innledning
+Det er synd, for krystallsyke er en helt konkret tilstand i det indre øret, og den kan som regel behandles trygt og effektivt.
 
-Krystallsyken (BPPV) er en av de vanligste årsakene til svimmelhet hos eldre, og oppleves ofte sterkere og mer langvarig enn hos yngre. Mange har usikkerhet rundt diagnosen, og noen tror den er «alternativ» eller uforklarlig. Krystallsyke er derimot en fysisk, medisinsk tilstand med effektiv, trygg behandling – spesielt hos eksperter med moderne utstyr som VNG-briller. Dessverre blir diagnosen ofte oversett. Les hvorfor, konsekvensene, og hvordan du får hjelp!
+<figure><img src="/bilder/blogg/Bilde-960x720.webp" alt="Eldre kvinne som holder seg til hodet" width="960" height="720" loading="lazy"><figcaption>Hos eldre gir krystallsyke ofte en diffus ustøhet i stedet for korte snurr. (Illustrasjonen er laget med KI.)</figcaption></figure>
 
-<figure><img class="wp-image-961 size-medium" src="/bilder/blogg/Bilde-960x720.webp" alt="" width="960" height="720"><figcaption>AI-generert bilde Ved krystallsyke løsner små kalsiumkrystaller fra sin faste plass i det indre øret og havner i buegangene. Når vi beveger hodet, flyter disse krystallene med en geleaktig væskeog sender feilsignaler til hjernen om kroppens posisjon – noe som utløser plutselige svimmelhetsanfall</figcaption></figure>
+## Hvorfor blir krystallsyke oversett hos eldre?
 
-## Hvorfor overser annet helsepersonell krystallsyken som svimmelhetsårsak hos de eldre?
+Den viktigste grunnen er at symptomene er annerledes. Mange eldre beskriver ikke en karusell, men en vedvarende ustøhet. Den ligner på mye annet som er vanlig i denne alderen: lavt blodtrykk, bivirkninger av medisiner, for lite drikke eller svakere muskler. Da er det lett å lete andre steder.
 
--   **Diffuse symptomer:**  [Svimmelhet](/svimmelhet/nakkesvimmelhet/) kan skyldes mange ting hos eldre. Krystallsyke er ofte noe av det siste man tenker på om det ikke følger ett "vanlig  " sykdomsbilde. Svimmelheten hos de eldre er ofte litt mer preget av langvarig ustøhet. Ikke den klassiske "karusellsvimmelheten" som man vanligvis forbinder med krystallsyken. Den kan derfor forveksles med mer alvorlige årsaker eller noe så enkelt som lite inntak av væske.
+Det krever også litt utstyr og erfaring å finne den. Over tid lærer hjernen seg å dempe svimmelheten ved å feste blikket, og da kan de typiske øyebevegelsene være vanskelige å se. VNG-brillene jeg bruker, stenger ute synsinntrykk og filmer øynene, så selv små bevegelser blir synlige. Det gjør diagnosen sikrere, særlig hos eldre og hos dem som har hatt plager lenge.
 
--   **Manglende bruk av spesialutstyr:** Riktig diagnose krever god kunnskap, målrettede posisjonstester og gjerne VNG‑briller for å fange opp nystagmus. Mange har ikke erfaring eller tilgang på slikt utstyr, og utredningen blir ofte begrenset til blodtrykk, medisiner og generelle råd. VNG‑briller er særlig nyttig hos eldre eller pasienter med langvarige plager, fordi hjernen lærer seg å “kamuflere” svimmelheten ved å fokusere blikket. Brillene skjermer for ytre inntrykk og registrerer selv små øyebevegelser som ikke kan undertrykkes, og gir dermed en sikrere og tidligere diagnose slik at riktig behandling kan settes inn.
+Til slutt handler det om tid. En vanlig legetime er kort, og har man flere sykdommer samtidig, er det ikke rart at svimmelheten ikke blir undersøkt i detalj. Ikke alle har heller erfaring med behandlingen, og noen får beskjed om at det går over av seg selv. Det gjør det noen ganger, men ofte kan behandling forkorte forløpet mye.
 
--   **Manglende kunnskap om riktig behandling:** Mange leger og annet helsepersonell tror krystallsyken går over av seg selv, eller er ukjent med effektiv reposisjoneringsbehandling – resultatet er langvarige plager og økt fallrisiko.​
+## Hvorfor får eldre oftere krystallsyke?
 
--   **Tidsklemme:** Kort konsultasjon gjør det vanskelig å gå i dybden, særlig dersom pasienten har flere sykdommer.
+Eldre har flere risikofaktorer enn yngre. Balanseorganet eldes, og krystallene løsner lettere. I tillegg kommer ting som mangel på D-vitamin, benskjørhet, tidligere hodeskader, medisiner og perioder med mye sengeleie. Yngre får det oftere etter et slag mot hodet eller en virusinfeksjon.
 
-En kiropraktor med spesialkompetanse, som Marie Hermansen, avklarer ofte diagnosen raskt og gir riktig behandling.​
-
-## Risikofaktorer for krystallsyke -seniorpasienten versus de under 55 år
-
-I dette avsnittet har vi laget en sammenligning over risikofaktorer for krystallsyken i [seniorpasienten](https://fetsundkiropraktor.no/topp-5-ting-som-kiropraktoren-kan-hjelpe-seniorpasienten-med/) vs de under 55 år. Tabellen viser tydelig sammenheng mellom [høy alder og endrede symptomer på krystallsyken.](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2025.1623914/full)
+Tabellen viser en sammenligning av risikofaktorer hos eldre og hos dem under 55 år. Sammenhengen mellom høy alder og endrede symptomer er også beskrevet i [nyere forskning](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2025.1623914/full).
 
 <table class="sammenligning"><thead><tr><th scope="col">Risikofaktor</th><th scope="col">Seniorpasienten</th><th scope="col">Under 55 år</th></tr></thead><tbody><tr><th scope="row">Balanseorganets aldring</th><td>Vanlig</td><td>Sjeldent</td></tr><tr><th scope="row">Hodeskader</th><td>Vanlig, også milde</td><td>Kun større</td></tr><tr><th scope="row">Virus/betennelse i indre øret</th><td>Ofte</td><td>Av og til</td></tr><tr><th scope="row">Vitamin D-mangel/benskjørhet</th><td>Vanlig</td><td>Sjeldent</td></tr><tr><th scope="row">Langvarig inaktivitet/sengeleie</th><td>Vanlig</td><td>Sjeldent</td></tr><tr><th scope="row">Hormonforandringer/overgangsalder</th><td>Vanlig</td><td>Sjeldent</td></tr><tr><th scope="row">Øresykdommer (Ménière/labyrint.)</th><td>Vanlig</td><td>Sjeldent</td></tr><tr><th scope="row">Migrene</th><td>Kan forekomme</td><td>Kan forekomme</td></tr><tr><th scope="row">Medisinbivirkning</th><td>Vanlig</td><td>Sjeldent</td></tr><tr><th scope="row">Redusert muskel/balanse</th><td>Vanlig</td><td>Sjeldent</td></tr><tr><th scope="row">Kronisk sykdom</th><td>Vanlig</td><td>Sjeldent</td></tr></tbody></table>
 
-I sum har eldre mange flere og sterkere risikofaktorer for krystallsyke enn yngre voksne, særlig på grunn av aldersforandringer, sykdommer og medisiner. Yngre rammes oftest etter akutte traumer eller enkelte virusinfeksjoner.
+## Hvordan kjennes det?
 
-## Hvordan oppleves krystallsyke hos eldre?
+Yngre får som regel korte, kraftige anfall når de beveger hodet på bestemte måter. Eldre opplever oftere en mer langvarig svimmelhet og en ustøhet som ikke helt slipper taket. Mange blir redde for å falle, og begynner å bevege seg mindre. Det er forståelig, men det svekker både muskler og balanse, og kan gjøre fallrisikoen enda større.
 
-For vår yngre pasientgruppe oppleves ofte krystallsyken som kortvarig, posisjonsbetinget svimmelhet. Eldre med krystallsyke kan oppleve diffuse symptomer og lengre svimmelhet, og en vedvarende følelse av ustøhet som gjør at de blir redde for å falle og ofte blir mindre aktive. Denne langvarige, diffuse svimmelheten kan lett forveksles med andre vanlige årsaker til ustøhet hos eldre, slik som lavt blodtrykk, bivirkninger av medisiner, hjerneslag eller muskelsvakhet. Derfor kan krystallsyke ofte bli oversett eller feildiagnostisert i denne aldersgruppen.
+> Krystallsyke er en helt konkret tilstand i det indre øret, ikke noe man må «leve med».
 
-## Mange eldre tror diagnosen er «alternativ»
+## «Er ikke det noe alternativt?»
 
-Mange eldre kan gå i lang tid med diffuse svimmelhetsplager. Disse oppleves ofte som uforklarlige, psykiske eller bare noe man må "leve med". Når diagnosen krystallsyke til slutt blir stilt, kan den derfor forveksles med Noe alternativt" Muligens fordi symptomene har vært så vanskelige å forklare og har skilt seg lite fra andre vanlige plager hos eldre. Dessverre fører dette til at mange er skeptiske til at krystallsyken faktisk er reel.
+Det spørsmålet får jeg av og til. Har man gått lenge med svimmelhet som ingen har funnet forklaringen på, er det ikke rart at en ny diagnose møtes med skepsis. Men krystallsyke er godt kjent i medisinen, og behandlingen med reposisjoneringsmanøvrer er både [effektiv](https://pubmed.ncbi.nlm.nih.gov/25082244/) og [godt dokumentert](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2023.1328896/full). Med VNG-briller kan jeg også vise deg øyebevegelsene på skjermen, så du ser selv hva som skjer.
 
-Sannheten er at behandling med reposisjoneringsmanøvrer og bruk av VNG‑briller er både [effektiv](https://pubmed.ncbi.nlm.nih.gov/25082244/) og [godt dokumentert](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2023.1328896/full). En grundig utredning innebærer målrettede tester der VNG‑briller brukes til å observere øyebevegelser, slik at diagnosen blir tydelig for en erfaren behandler. Behandlingen er trygg, går raskt og har høy suksessrate. Når dette kombineres med god kommunikasjon og nøye klinisk undersøkelse, øker sjansen for riktig diagnose – og dermed også riktig behandling som kan gi bedre livskvalitet.
+<div class="boks boks--bestill">
+<img src="/bilder/marie-portrett.webp" alt="" width="72" height="72" loading="lazy">
+<div>
+<p class="boks__tittel">Svimmel eller ustø, eller kjenner du noen som er det?</p>
+<p>Jeg tilpasser både undersøkelse og behandling til eldre pasienter.</p>
+<p><a class="btn" href="/bestill/">Bestill svimmelhetsundersøkelse</a></p>
+</div>
+</div>
 
-## Slik behandles krystallsyken hos kiropraktor Marie Hermansen
+## Slik behandler jeg krystallsyke hos eldre
 
-Hos eldre kan krystallsyke vare litt lenger, og det er også vanligere med tilbakefall. Behandlingen virker fortsatt godt, men noen trenger flere reposisjonsmanøvre for å bli helt bra. Dette kan blant annet henge sammen med stivhet i nakken, lengre symptomvarighet og aldersrelaterte forandringer i balanseorganet.
+Behandlingen er den samme som hos yngre: rolige manøvrer som flytter krystallene tilbake dit de hører hjemme. Den virker godt i alle aldre, men hos eldre trenger man oftere flere behandlinger, og tilbakefall er vanligere.
 
--   Eldre pasienter kan ha et mer langvarig forløp ved BPPV, og tilbakefall forekommer oftere enn hos yngre.
+Det har flere forklaringer. Har plagene vart lenge, tar det gjerne litt lengre tid å bli kvitt dem. En stiv nakke kan gjøre det vanskelig å komme i de stillingene manøvrene krever, så jeg tilpasser dem til det kroppen tåler. Aldersforandringer i balanseorganet spiller også inn. Derfor trenger noen et par oppfølgingstimer, og balanseøvelser kan gjøre deg tryggere på beina.
 
--   En enkelt reposisjonsmanøver ser også ut til å ha noe lavere effekt hos eldre sammenlignet med yngre aldersgrupper.
-
--   Lengden på symptomene kan ha betydning for hvor godt manøverbehandlingen virker, og for risikoen for vedvarende svimmelhet etter behandling.
-
--   Nedsatt bevegelighet i nakken kan gjøre behandlingen mer utfordrende hos eldre, og noen vil derfor trenge flere behandlinger.
-
--   Aldersrelaterte forandringer i balanseorganet kan også være en del av forklaringen.
-
--   Selv om den samlede behandlingseffekten ved BPPV ser ut til å være god i alle aldersgrupper, er behandlingen hos eldre ofte mer sammensatt og kan kreve flere reposisjonsmanøvre.
-
-Krystallsyke hos eldre er vanlig, men ofte underdiagnostisert. Med grundig undersøkelse og behandling kan de fleste bli kvitt svimmelheten, få tilbake tryggheten og redusere fallrisikoen betydelig.
+Målet er ikke bare å bli kvitt svimmelheten, men at du igjen tør å bevege deg som før.

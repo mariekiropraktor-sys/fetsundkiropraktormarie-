@@ -1,7 +1,7 @@
 ---
-title: "Kjevesmerter - før, under og etter et kiropraktorbesøk."
+title: "Kjevesmerter – før, under og etter behandling hos kiropraktor"
 seoTittel: "Kjevesmerter hos kiropraktor"
-description: "Kiropraktor Marie Hermansen har skrevet en klinisk/praktisk rettet blogg rundt temaet kjevesmerter. Fokuset er å kommunisere det praktiske rundt behandling."
+description: "Hva skjer når du går til kiropraktor for kjevesmerter? I tre korte videoer forklarer Marie Hermansen hva du bør forberede, hvordan behandlingen foregår og hva du kan gjøre etterpå."
 kortFortalt:
   - "Tre korte videoer om hva som skjer før, under og etter kiropraktorbehandling av kjevesmerter."
   - "Du får vite hva du bør forberede, hvilke teknikker som brukes, og hva du kan forvente etterpå."
@@ -11,29 +11,24 @@ tema: nakke-og-hode
 image: "/bilder/blogg/406315618_898607168278717_372496122684456257_n-1.webp"
 forfatter: "Marie Hermansen"
 ---
+Lurer du på hva som faktisk skjer når du går til kiropraktor for kjevesmerter? Hva bør du tenke på før timen, hvilke teknikker bruker jeg, og hva kan du forvente etterpå? Jeg har laget tre korte videoer som svarer på det.
 
-## Har du noen gang lurt på litt rundt det praktiske når det gjelder ett kiropraktorbesøk og sliter du med kjevesmerter?
+Vil du heller lese om hvorfor kjevesmerter oppstår og hva de kan skyldes, finner du det på [klinikkens side om kjevesmerter](https://fetsundkiropraktor.no/behandlingsomrade/kjevesmerter/).
 
-*Dette innlegget om kjevesmerter er skrevet av [kiropraktor Marie Hermansen](/om-marie-hermansen/), eier, gründer og kiropraktor ved Fetsund Kiropraktorsenter.*
+## Før timen
 
-Hva slags teknikker bruker man og hva bør man gjøre eller unngå før behandling? Hva med det du lurer på etter besøket? Fikk du med deg alt kiropraktoren sa? Her får du svar på det kiropraktoren ønsker at du skal vite før, under og etter et kiropraktorbesøk.
+Hva bør du forberede, og hvorfor spør jeg om det jeg spør om? Her forklarer jeg hva jeg ser etter i samtalen, og hvordan du kan gjøre timen mest mulig nyttig for deg.
 
-Om du vil lese mer om forklarende om hvorfor kjevesmerter oppstår, hva det kan være, samt får en litt dypere forståelse, [klikk her](https://fetsundkiropraktor.no/behandlingsomrade/kjevesmerter/)
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/KhJpMbWEBks" title="Video: før et kiropraktorbesøk for kjevesmerter" loading="lazy" allowfullscreen=""></iframe></div>
 
-## Før et kiropraktorbesøk som omhandler kjevesmerter.
+## Under behandlingen
 
-Hva bør du forberede og hva skal du tenke på? Hva slags informasjon er kiropraktoren din ute etter og hvorfor? Her får du en liten innføring i hva Marie mener du bør vite.
+Hvilke teknikker bruker jeg, og gjør det vondt? Bruker jeg bare én metode, og virker det alltid? I denne videoen viser jeg hvordan en behandling av kjeven kan foregå.
 
-<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/KhJpMbWEBks" title="Video fra YouTube" loading="lazy" allowfullscreen=""></iframe></div>
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/2BQt5vT5xlI" title="Video: under behandling av kjevesmerter" loading="lazy" allowfullscreen=""></iframe></div>
 
-## Hva skjer underveis i behandlingen av kjevesmerter?
+## Etter behandlingen
 
-Hva gjør kiropraktoren av teknikker og vil det være vondt? Bruker h\*n bare en type teknikk og vil det alltid virke? Kanskje du får litt svar her. Les og lær!
+Det er vanlig at kjeven er litt øm og sår etterpå. Hva kan du forvente de neste dagene, hvor ofte bør du komme, og hva kan du gjøre selv? Et lite hint: egeninnsats, og å ikke gjøre det farligere enn det er. Målet er at du etter hvert skal klare deg på egen hånd.
 
-<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/2BQt5vT5xlI" title="Video fra YouTube" loading="lazy" allowfullscreen=""></iframe></div>
-
-## Hva skjer så etter kiropraktorbehandlingen av kjevesmerter?
-
-Etter behandlingen kan ting være litt sårt og ømt. Så hva kan du forvente deg i etterkant? Hvor ofte bør du gå på behandling og hva kan du selv gjøre for å bedre kjevesmertene dine i etterkant? Et lite hint er egeninnsats og avdramatisering. Her vil Marie hjelpe deg så godt hun kan, så du etterhvert vil klare deg på egenhånd.
-
-<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/ze2c4VPUoxs" title="Video fra YouTube" loading="lazy" allowfullscreen=""></iframe></div>
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/ze2c4VPUoxs" title="Video: etter behandling av kjevesmerter" loading="lazy" allowfullscreen=""></iframe></div>
