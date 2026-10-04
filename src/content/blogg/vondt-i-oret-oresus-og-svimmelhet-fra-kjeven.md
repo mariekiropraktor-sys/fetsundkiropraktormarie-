@@ -25,6 +25,8 @@ Det sier mange når jeg kjenner på tyggemuskelen foran øret. Det er gjerne fø
 
 Legg fingrene rett foran ørene og åpne munnen. Det du kjenner bevege seg, er kjeveleddet. Det ligger tett inntil øregangen, og kjeven og øret deler også nerver. Noen av de små musklene inne i øret styres faktisk av den samme nerven som tyggemusklene. Når kjeveleddet eller tyggemusklene er irritert og overbelastet, er det derfor ikke rart at hjernen tolker smerten som om den kommer fra øret.
 
+<figure><img src="/bilder/blogg/kjeveledd-og-ore.webp" alt="Forenklet illustrasjon av hodet fra siden: kjeveleddet ligger rett foran øret, og tyggemuskelen dekker kinnet" width="1200" height="900" loading="lazy"><figcaption>Kjeveleddet ligger rett foran øregangen, og tyggemuskelen dekker kinnet. Forenklet illustrasjon laget med KI.</figcaption></figure>
+
 På fagspråket kalles kjeveplager TMD, temporomandibulær dysfunksjon. Studier viser at øreplager er vanlige hos personer med TMD, og at øresus forekommer oftere hos dem enn hos andre.
 
 ## Hvordan kjennes det?
