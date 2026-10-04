@@ -2,11 +2,18 @@
 title: "Hodepine, svimmelhet og vond kjeve – når alt henger sammen"
 seoTittel: "Hodepine, svimmelhet og vond kjeve"
 description: "Stresshodepine, svimmelhet og kjevesmerter kommer ofte samtidig. Kiropraktor Marie Hermansen forklarer sammenhengen mellom nakke, kjeve og stress, og hva du kan gjøre."
+kortFortalt:
+  - "Spenningshodepine, svimmelhet og vond kjeve kommer ofte samtidig, og har gjerne felles årsaker."
+  - "Stive nakkemuskler kan gi en gyngende svimmelhet, kalt nakkesvimmelhet."
+  - "Tannpressing og stress overbelaster kjeven, og det kan gi både hodepine og ørhet."
+  - "Hvilestilling for kjeven, pauser fra skjerm og rolig pust er gode første tiltak."
 date: 2025-02-28
 tema: nakke-og-hode
 image: "/bilder/blogg/Kopi-av-70-CHIROPRACTOR-IG-POSTS-12-960x960.webp"
 forfatter: "Marie Hermansen"
 ---
+
+> Hodepine, svimmelhet og vond kjeve deler ofte de samme årsakene.
 
 Mange som kommer til meg med hodepine, nevner nesten i en bisetning at de også er litt svimle, og at de biter tennene sammen om natta. Det er sjelden tilfeldig. Hodepine, svimmelhet og kjevesmerter deler ofte de samme årsakene: spente muskler, en stiv nakke og et nervesystem som har stått i høygir for lenge.
 
@@ -62,15 +69,29 @@ Vanlige årsaker til vond kjeve:
 
 ## Dette kan du gjøre selv
 
-Det viktigste er å finne ut hva som er årsaken hos deg. Men det er mye du kan prøve selv i mellomtiden:
+Det viktigste er å finne ut hva som er årsaken hos deg. Men det er mye du kan prøve selv i mellomtiden.
 
-- **Senk stressnivået:** rolig pust med magen, korte pauser og avspenning gjør mye for musklene.
-- **Se på arbeidsstillingen:** skjerm i øyehøyde og jevnlige pauser avlaster nakke og kjeve.
-- **Beveg nakken:** lett tøying og rolige bevegelser gjennom dagen gir bedre bevegelighet.
-- **Slipp kjeven:** legg merke til om du biter sammen. Tunga i ganen og tennene litt fra hverandre er hvilestillingen.
+<div class="boks boks--rad">
+<p class="boks__tittel">Fire ting du kan prøve</p>
+<ul class="sjekk">
+<li><strong>Senk stressnivået:</strong> rolig pust med magen, korte pauser og avspenning gjør mye for musklene.</li>
+<li><strong>Se på arbeidsstillingen:</strong> skjerm i øyehøyde og jevnlige pauser avlaster nakke og kjeve.</li>
+<li><strong>Beveg nakken:</strong> lett tøying og rolige bevegelser gjennom dagen gir bedre bevegelighet.</li>
+<li><strong>Slipp kjeven:</strong> legg merke til om du biter sammen. Tunga i ganen og tennene litt fra hverandre er hvilestillingen.</li>
+</ul>
+</div>
 
 ## Når bør du få hjelp?
 
 Har du hatt hodepine, svimmelhet eller vond kjeve en stund, og enkle tiltak ikke hjelper, er det lurt å få en vurdering. Hos meg starter vi med en grundig undersøkelse av nakke, kjeve og balanse. Behandlingen kan være leddbehandling, muskelbehandling, nålebehandling og øvelser, og jeg samarbeider med tannlege og fastlege når det trengs.
 
 Er du mest plaget av svimmelheten? Les mer om [svimmelhet og hvordan jeg utreder den](/svimmelhet/).
+
+<div class="boks boks--bestill">
+<img src="/bilder/marie-portrett.webp" alt="" width="72" height="72" loading="lazy">
+<div>
+<p class="boks__tittel">Vil du ha hjelp med hodepine, kjeve eller svimmelhet?</p>
+<p>Jeg undersøker nakke, kjeve og balanse, og lager en plan som passer deg.</p>
+<p><a class="btn" href="/bestill/">Bestill time</a></p>
+</div>
+</div>

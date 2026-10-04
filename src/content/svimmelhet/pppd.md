@@ -2,6 +2,10 @@
 tittel: "PPPD – vedvarende svimmelhet"
 seoTittel: "PPPD – vedvarende gynging og ustøhet"
 beskrivelse: "Gyngende og ustø nesten hver dag i månedsvis? PPPD er en vanlig årsak til langvarig svimmelhet, og den kan behandles. Kiropraktor Marie Hermansen i Fetsund utreder og hjelper deg."
+kortFortalt:
+  - "PPPD er gynging og ustøhet de fleste dager i minst tre måneder, ofte etter en annen svimmelhetstilstand."
+  - "Det er verst når du står og går, og i butikker, trafikk og foran skjerm."
+  - "Tilstanden er ufarlig og kan behandles med forklaring, vestibulær rehabilitering og gradvis eksponering."
 ingress: "Føler du deg gyngende eller ustø nesten hver dag, og blir det verre i butikker og blant mye folk? PPPD er en av de vanligste årsakene til langvarig svimmelhet. Tilstanden er ufarlig, men svært plagsom, og den kan behandles."
 kortTekst: "Vedvarende gynging og ustøhet som blir verre i butikker og travle omgivelser, ofte etter en annen svimmelhetstilstand."
 rekkefolge: 4
@@ -54,9 +58,19 @@ PPPD kan behandles, men det tar ofte litt tid. Hjernen skal venne seg av med et 
 
 Det første steget er å forstå hva som skjer. Når du vet at svimmelheten ikke er farlig, er det lettere å tåle den mens du jobber deg ut av den. Så starter vi med vestibulær rehabilitering: øvelser som gradvis gjør hjernen mindre følsom for bevegelse og synsinntrykk. Etter hvert øver du deg tilbake til butikker og aktiviteter du har unngått, i et tempo du klarer.
 
-For mange er matbutikken den store prøven. Et typisk første mål er å gå inn, handle én ting og gå ut igjen, gjerne en rolig formiddag. Neste gang litt lenger inn. Det kjennes ofte lite ut, men det er slike små steg som lærer hjernen at butikken er trygg igjen. Fremgangen går sjelden i rett linje, og en dårlig dag betyr ikke at du er tilbake på start.
+For mange er matbutikken den store prøven. Et typisk første mål er å gå inn, handle én ting og gå ut igjen, gjerne en rolig formiddag. Neste gang litt lenger inn. Det kjennes ofte lite ut, men det er slike små steg som lærer hjernen at butikken er trygg igjen. 
+> Fremgangen går sjelden i rett linje, og en dårlig dag betyr ikke at du er tilbake på start.
 
 Spenninger i nakken følger ofte med, og dem behandler jeg underveis. Noen har også nytte av kognitiv terapi eller medisiner, og da samarbeider jeg med fastlegen din.
+
+<div class="boks boks--bestill">
+<img src="/bilder/marie-portrett.webp" alt="" width="72" height="72" loading="lazy">
+<div>
+<p class="boks__tittel">Kjenner du deg igjen?</p>
+<p>Bestill en svimmelhetsundersøkelse, så finner vi ut hva som skjer, og hva som hjelper.</p>
+<p><a class="btn" href="/bestill/">Bestill svimmelhetsundersøkelse</a></p>
+</div>
+</div>
 
 ## Når bør du ta kontakt?
 

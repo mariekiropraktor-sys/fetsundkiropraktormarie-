@@ -2,23 +2,16 @@
 title: "Krystallsyken hos de eldre-vanligere enn mange tror!"
 seoTittel: "Krystallsyke hos eldre"
 description: "Svimmelhet kan skyldes mange ting hos eldre, og krystallsyken er ofte noe av det siste man tenker på om det ikke følger ett \"vanlig \" sykdomsbilde."
+kortFortalt:
+  - "Krystallsyke (BPPV) er en av de vanligste årsakene til svimmelhet hos eldre."
+  - "Hos eldre gir den ofte diffus og langvarig ustøhet i stedet for korte snurr, og blir lett oversett."
+  - "Eldre har flere risikofaktorer: tidligere hodeskade, D-vitaminmangel, medisiner og kronisk sykdom."
+  - "Riktig behandling gir som regel god bedring og mindre risiko for fall."
 date: 2025-11-25
 tema: svimmelhet
 image: "/bilder/blogg/generated-image.webp"
 forfatter: "Marie Hermansen"
 ---
-
--   ***Marie Hermansen ved [Fetsund Kiropraktorsenter](https://fetsundkiropraktor.no/behandlingsomrade/krystallsyken/) har ekspertise på utredning og behandling av krystallsyken og svimmelhet – også tilpasset seniorpasienten.***
-
--   ***[Krystallsyken](https://www.helsenorge.no/sykdom/svimmelhet-og-balanseforstyrrelser/krystallsyke/) (BPPV) er den 3. vanligste årsaken til svimmelhet hos eldre, og gir ofte diffuse og mer langvarige plager enn hos de yngre.***
-
--   ***Diagnosen forveksles ofte med andre sykdommer eller misstolkes som «alternativ» hos både helsepersonell uten relevant kunnskap og blant de eldre.*** 
-
--   ***Mange eldre får ikke riktig diagnose før målrettet undersøkelse som VNG-briller tas i bruk.***
-
--   ***Riktig behandling gir som regel rask bedring og mindre risiko for omfattende skader som følge av  fall.***
-
--   ***Eldre har flere risikofaktorer enn yngre: alder, tidligere hodeskade, D-vitaminmangel, medisiner, overgangsalder og kronisk sykdom.***
 
 ## Innledning
 
@@ -72,10 +65,13 @@ Hos eldre kan krystallsyke vare litt lenger, og det er også vanligere med tilba
 
 -   Selv om den samlede behandlingseffekten ved BPPV ser ut til å være god i alle aldersgrupper, er behandlingen hos eldre ofte mer sammensatt og kan kreve flere reposisjonsmanøvre.
 
-## Kontakt oss
-
 Krystallsyke hos eldre er vanlig, men ofte underdiagnostisert. Med grundig undersøkelse og behandling kan de fleste bli kvitt svimmelheten, få tilbake tryggheten og redusere fallrisikoen betydelig.
 
-Ikke la svimmelhet styre livet – ta kontakt for moderne og trygg behandling hos oss på fetsund kiropraktorsenter  
-
-Ring oss på **463 32 766** eller benytte vår online booking.
+<div class="boks boks--bestill">
+<img src="/bilder/marie-portrett.webp" alt="" width="72" height="72" loading="lazy">
+<div>
+<p class="boks__tittel">Svimmel eller ustø, eller kjenner du noen som er det?</p>
+<p>Jeg tilpasser både undersøkelse og behandling til eldre pasienter.</p>
+<p><a class="btn" href="/bestill/">Bestill svimmelhetsundersøkelse</a></p>
+</div>
+</div>

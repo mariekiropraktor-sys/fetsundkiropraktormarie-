@@ -12,6 +12,7 @@ const blogg = defineCollection({
     date: z.coerce.date(),
     tema: z.enum(["svimmelhet", "nakke-og-hode", "rygg-og-ledd"]),
     image: z.string().optional(),
+    kortFortalt: z.array(z.string()).default([]), // 3–4 punkter øverst i innlegget
     forfatter: z.string().default("Marie Hermansen"),
     // utkast: true = siden bygges (så Marie kan lese den), men vises ikke i lister,
     // sitemap eller hos Google før den settes til false
@@ -32,6 +33,7 @@ const svimmelhet = defineCollection({
     rekkefolge: z.number().default(10),
     bilde: z.string().optional(),
     bildeTekst: z.string().optional(),
+    kortFortalt: z.array(z.string()).default([]), // 3–4 punkter øverst på siden
     kjennetegn: z.array(z.string()).default([]), // «Kjenner du deg igjen?»-listen
     faq: z.array(z.object({ sporsmal: z.string(), svar: z.string() })).default([]),
     kilder: z.array(z.object({ tekst: z.string(), lenke: z.string().optional() })).default([]),

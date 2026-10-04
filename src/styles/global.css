@@ -309,7 +309,8 @@ p {
   margin-top: 1.1em;
 }
 /* Første avsnitt litt større, som en ingress */
-.artikkel__tekst > p:first-child {
+.artikkel__tekst > p:first-child,
+.artikkel__tekst > .kort-fortalt + p {
   font-size: 21px;
   line-height: 1.55;
   color: var(--ink);
@@ -387,14 +388,16 @@ p {
   margin-top: 10px;
   text-align: center;
 }
+/* Uthevet sitat: skriv «> tekst» i Markdown */
 .prose blockquote {
-  margin: 1.8em 0;
-  padding: 4px 0 4px 22px;
-  border-left: 3px solid var(--teal-bright);
+  margin: 2em 0;
+  padding: 4px 0 4px 24px;
+  border-left: 4px solid var(--teal-bright);
   font-family: var(--serif);
-  font-size: 21px;
-  line-height: 1.5;
-  color: var(--ink);
+  font-size: clamp(22px, 2.6vw, 26px);
+  line-height: 1.4;
+  color: var(--teal);
+  text-wrap: balance;
 }
 .prose blockquote p {
   margin: 0;
@@ -602,4 +605,50 @@ p {
   .prose .sammenligning td {
     padding: 10px 10px;
   }
+}
+
+/* Råd og øvelser: «Dette kan du gjøre selv» */
+.prose .boks--rad {
+  background: var(--surface);
+  border: 2px solid var(--teal-line);
+}
+.prose .boks--rad::after {
+  content: none;
+}
+/* Liten bestillingsboks midt i innlegget */
+.prose .boks--bestill {
+  background: var(--surface);
+  display: grid;
+  grid-template-columns: 72px 1fr;
+  gap: 18px;
+  align-items: start;
+}
+.prose .boks--bestill::after {
+  content: none;
+}
+.prose .boks--bestill > img {
+  width: 72px;
+  height: 72px;
+  margin: 0;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center 15%;
+}
+.prose .boks--bestill > * + * {
+  margin-top: 0;
+}
+.prose .boks--bestill > div > * + * {
+  margin-top: 0.5em;
+}
+.prose .boks--bestill .btn {
+  margin-top: 6px;
+}
+@media (max-width: 480px) {
+  .prose .boks--bestill {
+    grid-template-columns: 1fr;
+  }
+}
+/* Knapper inne i artikkeltekst skal ikke få lenkestrek */
+.prose .btn {
+  text-decoration: none;
 }

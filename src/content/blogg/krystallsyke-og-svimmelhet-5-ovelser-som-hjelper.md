@@ -2,6 +2,11 @@
 title: "Krystallsyke og svimmelhet - disse 5 øvelsene hjelper!"
 seoTittel: "Krystallsyke – 5 øvelser som hjelper"
 description: "Krystallsyke og svimmelhet kan være vanskelig å forstå seg på! Her har vi presentert 5 øvelser som kan hjelpe deg på vei ut av karusellen. God bedring!"
+kortFortalt:
+  - "Det finnes fem ulike øvelser for krystallsyke, og hvilken som hjelper avhenger av hvor krystallene sitter."
+  - "Epleys manøver er den vanligste, og brukes når krystallene sitter i bakre buegang."
+  - "Få diagnosen bekreftet før du starter, ellers kan du bli verre."
+  - "Under hver øvelse finner du fremgangsmåte, tips og video."
 date: 2024-11-19
 tema: svimmelhet
 image: "/bilder/blogg/406051985_3662765807375576_6730752410300302163_n.webp"
@@ -39,13 +44,16 @@ Rådfør deg med kiropraktoren din om det er første gang du prøver dette.
 
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/VmCItD9nDfY" title="Video fra YouTube" loading="lazy" allowfullscreen=""></iframe></div>
 
-TIPS:
-
--   Dette er en manøver som bruker tyngdekraften til hjelp og det er derfor ikke behov for å gjøre denne manøveren i høy hastighet!
--   Behold brillene på for å merke om svimmelheten fremprovoseres, eller avtar.
--   Går videre til neste stilling når svimmelheten avtar
--   Noen blir veldig dårlige av disse øvelsene. Om du er en av dem, hopp over kvelds øvelsen før du skal ut og gjøre noe sosialt.
--   Noen kjenner seg litt stive og vonde i disse øvelsene, oppsøk din kiropraktor for å få løsnet litt i nakke og midt rygg.
+<div class="boks boks--rad">
+<p class="boks__tittel">Tips</p>
+<ul class="sjekk">
+<li>Dette er en manøver som bruker tyngdekraften til hjelp og det er derfor ikke behov for å gjøre denne manøveren i høy hastighet!</li>
+<li>Behold brillene på for å merke om svimmelheten fremprovoseres, eller avtar.</li>
+<li>Går videre til neste stilling når svimmelheten avtar</li>
+<li>Noen blir veldig dårlige av disse øvelsene. Om du er en av dem, hopp over kvelds øvelsen før du skal ut og gjøre noe sosialt.</li>
+<li>Noen kjenner seg litt stive og vonde i disse øvelsene, oppsøk din kiropraktor for å få løsnet litt i nakke og midt rygg.</li>
+</ul>
+</div>
 
 ## #2: Alternativ til Epleys; *Seigmouts Manøver*\- for de seige krystallene som sitter fast i bakre buegang.
 
@@ -63,12 +71,15 @@ Videolink:
 
 Manøveren bør utføres under veiledning av kyndig helsepersonell og/eller kiropraktor.
 
-TIPS:
-
--   Ikke forsøk denne på egenhånd, denne krever fart og fysisk/psykisk støtte! Men det kan være lov å høre med behandleren din om denne kan forsøkes, om Epley\`s ikke har fungert.
--   Spør din kiropraktor/lege om du kan bruke denne om du har vondt for å snu hodet bakover eller til en av sidene.
--   Husk at denne krever fart!
--   Gjøre 1-2 ganger daglig
+<div class="boks boks--rad">
+<p class="boks__tittel">Tips</p>
+<ul class="sjekk">
+<li>Ikke forsøk denne på egenhånd, denne krever fart og fysisk/psykisk støtte! Men det kan være lov å høre med behandleren din om denne kan forsøkes, om Epley\`s ikke har fungert.</li>
+<li>Spør din kiropraktor/lege om du kan bruke denne om du har vondt for å snu hodet bakover eller til en av sidene.</li>
+<li>Husk at denne krever fart!</li>
+<li>Gjøre 1-2 ganger daglig</li>
+</ul>
+</div>
 
 ## Krystallsyke/BPPV i Horisontale buegang
 
@@ -113,12 +124,11 @@ Her har vi kommet til en øvelse og diagnose som de lærde igjen strides om. Fin
 
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/ijyx5tVeaVo" title="Video fra YouTube" loading="lazy" allowfullscreen=""></iframe></div>
 
-## Kontakt oss!
-
-Våre kiropraktorer jobber daglig med krystallsyke og har en særdeles interesse i både utredning og behandling av svimmelhet.
-
-Kontakt oss gjerne på telefon 46332766 – eller benytt deg av vår [døgnåpne online booking](https://psno-patient-platform-fe.svc.pasientsky.no/embedded/planner/booking?serviceProviderId=54907264-049e-11eb-8fc8-26c6f94d64b7).
-
-Vi gleder oss til å hjelpe deg på vei til en bedre hverdag!
-
-Du kan lese mer om våre behandlere, [behandlingsområder](https://fetsundkiropraktor.no/behandlingsomrader/) og kontaktinformasjon ved å klikke deg fram i vår [hovedmeny](https://fetsundkiropraktor.no/).
+<div class="boks boks--bestill">
+<img src="/bilder/marie-portrett.webp" alt="" width="72" height="72" loading="lazy">
+<div>
+<p class="boks__tittel">Usikker på hvilken øvelse som passer deg?</p>
+<p>Jeg finner ut hvor krystallene sitter med VNG-briller, og viser deg øvelsene som passer.</p>
+<p><a class="btn" href="/bestill/">Bestill svimmelhetsundersøkelse</a></p>
+</div>
+</div>

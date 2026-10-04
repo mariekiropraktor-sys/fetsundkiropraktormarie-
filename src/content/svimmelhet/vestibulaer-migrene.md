@@ -2,6 +2,10 @@
 tittel: "Vestibulær migrene"
 seoTittel: "Vestibulær migrene – svimmel av migrene"
 beskrivelse: "Vestibulær migrene gir episoder med svimmelhet, gynging og ustøhet – med eller uten hodepine. Les om symptomer, diagnose og behandling hos kiropraktor Marie Hermansen i Fetsund."
+kortFortalt:
+  - "Vestibulær migrene gir episoder med svimmelhet fra minutter til dager, med eller uten hodepine."
+  - "Den forveksles ofte med krystallsyke, men varer lenger og utløses ikke bare av hodebevegelser."
+  - "Diagnosen stilles ut fra sykehistorien, og behandlingen handler om triggere, rehabilitering og samarbeid med fastlegen."
 ingress: "Svimmel, gyngende eller ustø, men testen for krystallsyke er negativ? Vestibulær migrene er en av de vanligste årsakene til tilbakevendende svimmelhet hos voksne, og du trenger ikke ha hodepine for å ha det."
 kortTekst: "Episoder med svimmelhet fra minutter til dager, med eller uten hodepine. En vanlig, men ofte oversett årsak."
 rekkefolge: 3
@@ -85,9 +89,20 @@ I tillegg gjør jeg en nevrologisk screening og en balanseundersøkelse, og jeg 
 
 ## Behandling
 
-Mange blir merkbart bedre bare av å forstå hva som skjer. Når du vet at svimmelheten ikke er farlig, og hva som setter den i gang, blir den mindre skremmende og lettere å styre.
+> Mange blir merkbart bedre bare av å forstå hva som skjer.
+
+Når du vet at svimmelheten ikke er farlig, og hva som setter den i gang, blir den mindre skremmende og lettere å styre.
 
 Sammen kartlegger vi triggerne dine og ser på søvn og stress. Gjennom vestibulær rehabilitering venner du hjernen gradvis til bevegelse og synsinntrykk igjen, og jeg behandler nakken og hodepinen hvis de er en del av bildet. Trenger du medisiner for å forebygge anfall, samarbeider jeg med fastlegen din.
+
+<div class="boks boks--bestill">
+<img src="/bilder/marie-portrett.webp" alt="" width="72" height="72" loading="lazy">
+<div>
+<p class="boks__tittel">Kjenner du deg igjen?</p>
+<p>Bestill en svimmelhetsundersøkelse, så finner vi ut hva som skjer, og hva som hjelper.</p>
+<p><a class="btn" href="/bestill/">Bestill svimmelhetsundersøkelse</a></p>
+</div>
+</div>
 
 ## Når bør du ta kontakt?
 

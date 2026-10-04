@@ -2,6 +2,11 @@
 title: "Svimmel eller ustø? Vanlige årsaker, undersøkelser og behandling"
 seoTittel: "Svimmel eller ustø? Vanlige årsaker"
 description: "Føles det som om kroppen ikke helt samarbeider? Les om vanlige årsaker til svimmelhet og ustøhet, og hvordan målrettet utredning kan hjelpe."
+kortFortalt:
+  - "Svimmelhet kjennes som snurr eller gynging, ustøhet handler mer om balanse og gange. Mange har begge deler."
+  - "Vanlige årsaker er krystallsyke, vestibularisnevritt, vestibulær migrene, nakkesvimmelhet og PPPD."
+  - "Behandlingen avhenger helt av årsaken, så en grundig undersøkelse kommer først."
+  - "Ring 113 ved svimmelhet med lammelser, talevansker, dobbeltsyn eller kraftig hodepine."
 date: 2026-06-15
 tema: svimmelhet
 image: "/bilder/blogg/fe16a7e8-4185-43a1-b7f4-288087408d55.webp"
@@ -26,7 +31,7 @@ Svimmelhet og ustøhet kan skyldes mange ulike årsaker. Derfor er en grundig un
 
 Mange bruker begrepene om hverandre, men de beskriver ofte ulike opplevelser.
 
-## Svimmelhet
+### Svimmelhet
 
 Svimmelhet kan oppleves på mange forskjellige måter. Noen kjenner at rommet snurrer rundt dem, mens andre beskriver en mer diffus følelse av gynging eller ustabilitet.
 
@@ -38,7 +43,7 @@ Vanlige beskrivelser er:
 -   Følelse av at omgivelsene beveger seg
 -   Ubehag ved hodebevegelser
 
-## Ustøhet
+### Ustøhet
 
 Ustøhet handler ofte mer om balanse og kontroll enn om selve svimmelhetsfølelsen.
 
@@ -54,7 +59,7 @@ Noen opplever bare svimmelhet. Andre opplever hovedsakelig ustøhet. Mange har e
 
 ## Vanlige årsaker til svimmelhet og ustøhet
 
-## Krystallsyke (BPPV)
+### Krystallsyke (BPPV)
 
 Krystallsyke er en av de vanligste årsakene til svimmelhet.
 
@@ -71,7 +76,7 @@ Mange opplever betydelig bedring etter målrettet behandling med reposisjonering
 
 **Les mer om krystallsyke [her](/krystallsyke/)**
 
-## Vestibularisnevritt
+### Vestibularisnevritt
 
 Vestibularisnevritt skyldes en betennelsesreaksjon i balansenerven.
 
@@ -87,7 +92,7 @@ Vanlige symptomer inkluderer:
 
 Selv om de kraftigste symptomene ofte avtar i løpet av dager eller uker, kan enkelte oppleve restsymptomer som krever vestibulær rehabilitering.
 
-## Vestibulær migrene
+### Vestibulær migrene
 
 Vestibulær migrene er en av de vanligste årsakene til tilbakevendende svimmelhet, men blir ofte oversett.
 
@@ -105,7 +110,7 @@ Behandlingen retter seg ofte mot symptomlindring, håndtering av triggere og bed
 
 **Les mer om vestibulær migrene [her](/svimmelhet/vestibulaer-migrene/)**
 
-## Nakkesvimmelhet
+### Nakkesvimmelhet
 
 Ved cervikogen svimmelhet, ofte kalt nakkesvimmelhet, ser man gjerne en kombinasjon av svimmelhet og plager fra nakken.
 
@@ -123,7 +128,7 @@ Typiske symptomer inkluderer:
 
 <figure><img class="wp-image-1134" src="/bilder/blogg/innlegg-illustrasjon.webp" alt="" width="504" height="336"><figcaption>Svimmel når du reiser deg opp av senga? Eller er du svimmel når du er ute og går? Årsakene kan være sammensatt, men relaterte.</figcaption></figure>
 
-## PPPD (vedvarende svimmelhet)
+### PPPD (vedvarende svimmelhet)
 
 PPPD står for Persistent Postural-Perceptual Dizziness.
 
@@ -147,7 +152,7 @@ Vanlige symptomer er:
 
 ## Hvorfor er riktig diagnose så viktig?
 
-Svimmelhet er et symptom – ikke en diagnose.
+> Svimmelhet er et symptom – ikke en diagnose.
 
 To personer kan oppleve tilsynelatende like symptomer, men ha helt forskjellige årsaker til plagene. Derfor vil heller ikke den samme behandlingen passe for alle.
 
@@ -182,14 +187,17 @@ Du bør få svimmelheten vurdert dersom:
 -   Svimmelheten påvirker jobb eller fritid
 -   Du unngår aktiviteter på grunn av symptomene
 
-## Kontakt akutt helsehjelp dersom svimmelheten oppstår sammen med:
-
--   Lammelser
--   Talevansker
--   Dobbeltsyn
--   Kraftig nyoppstått hodepine
--   Brystsmerter
--   Bevissthetstap
+<div class="boks boks--advarsel">
+<p class="boks__tittel">Kontakt akutt helsehjelp hvis svimmelheten kommer sammen med</p>
+<ul>
+<li>Lammelser</li>
+<li>Talevansker</li>
+<li>Dobbeltsyn</li>
+<li>Kraftig nyoppstått hodepine</li>
+<li>Brystsmerter</li>
+<li>Bevissthetstap</li>
+</ul>
+</div>
 
 ## Hvordan behandles svimmelhet?
 
@@ -212,23 +220,23 @@ Målet er å redusere symptomene, bedre balansen og hjelpe deg tilbake til norma
 
 ## Vanlige spørsmål om svimmelhet
 
-## Er svimmelhet farlig?
+### Er svimmelhet farlig?
 
 Som regel skyldes svimmelhet ufarlige tilstander, men nyoppstått eller uforklarlig svimmelhet bør undersøkes.
 
-## Kan stress gi svimmelhet?
+### Kan stress gi svimmelhet?
 
 Ja. Stress kan både utløse og forsterke svimmelhet hos enkelte personer.
 
-## Kan nakken gi svimmelhet?
+### Kan nakken gi svimmelhet?
 
 Ja. Nakkesvimmelhet er en kjent årsak til ubalanse og diffus svimmelhet.
 
-## Kan svimmelhet gå over av seg selv?
+### Kan svimmelhet gå over av seg selv?
 
 Noen tilstander kan bli bedre over tid, men riktig diagnose kan ofte forkorte forløpet betydelig.
 
-## Kan eldre bli mer ustø uten å være syke?
+### Kan eldre bli mer ustø uten å være syke?
 
 Ja. Aldersrelaterte endringer i syn, balanseorgan og muskelfunksjon kan påvirke balansen, men økende ustøhet bør likevel vurderes.
 

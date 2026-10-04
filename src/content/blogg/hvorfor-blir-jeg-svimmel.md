@@ -2,6 +2,11 @@
 title: "Hvorfor blir jeg svimmel? De vanligste årsakene"
 seoTittel: "Hvorfor blir jeg svimmel? Vanlige årsaker"
 description: "Snurr, gynging eller ustøhet? Kiropraktor Marie Hermansen forklarer de vanligste årsakene til svimmelhet, hvordan de skiller seg fra hverandre, og når du bør få det undersøkt."
+kortFortalt:
+  - "Korte, kraftige snurr når du snur deg i senga er som regel krystallsyke."
+  - "Krystallsyke ser ikke alltid ut som i læreboka, og kan også gi seig og langvarig ustøhet."
+  - "Andre vanlige årsaker er betennelse i balansenerven, vestibulær migrene, blodtrykk, syn og spenninger i nakken."
+  - "Ny, kraftig eller vedvarende svimmelhet bør alltid undersøkes."
 date: 2026-01-13
 tema: svimmelhet
 image: "/bilder/blogg/Untitled-design.webp"
@@ -10,12 +15,7 @@ forfatter: "Marie Hermansen"
 
 «Hvorfor blir jeg svimmel?» er et av spørsmålene jeg får aller oftest. Svaret er sjelden det samme fra person til person. Svimmelhet er et symptom, og det kan komme fra det indre øret, hjernen, synet, nakken eller sirkulasjonen. Her går jeg gjennom de vanligste årsakene, slik jeg møter dem i klinikken.
 
-**Kort oppsummert:**
-
-- Korte, kraftige snurr når du snur deg i senga er som regel krystallsyke.
-- Krystallsyke ser ikke alltid ut som i læreboka, og kan også gi seig og langvarig ustøhet.
-- Andre vanlige årsaker er betennelse i balansenerven, vestibulær migrene, blodtrykk, syn og spenninger i nakken.
-- Ny, kraftig eller vedvarende svimmelhet bør alltid undersøkes.
+> Svimmelhet er et symptom, ikke en diagnose. Det er årsaken vi må finne.
 
 ## 1. Krystallsyke – den vanligste årsaken til korte snurr
 
@@ -63,16 +63,28 @@ Svartner det når du reiser deg, eller blir du svimmel når du anstrenger deg? D
 
 Langvarig spenning i nakke og skuldre, overfladisk pust og et nervesystem som står i «alarmberedskap» kan gi en diffus, gyngende svimmelhet som er vanskelig å sette ord på. Den blir ofte verre i perioder med stress, dårlig søvn eller smerter. Les mer om [nakkesvimmelhet](/svimmelhet/nakkesvimmelhet/), og om [PPPD](/svimmelhet/pppd/) hvis gyngingen har vart i flere måneder.
 
+<div class="boks boks--bestill">
+<img src="/bilder/marie-portrett.webp" alt="" width="72" height="72" loading="lazy">
+<div>
+<p class="boks__tittel">Kjenner du deg igjen?</p>
+<p>Bestill en svimmelhetsundersøkelse, så finner vi ut hva som skjer, og hva som hjelper.</p>
+<p><a class="btn" href="/bestill/">Bestill svimmelhetsundersøkelse</a></p>
+</div>
+</div>
+
 ## Når bør du få svimmelheten undersøkt?
 
-**Ring 113** hvis svimmelheten kommer brått sammen med lammelser, kraftsvikt, talevansker, dobbeltsyn, plutselig kraftig hodepine, brystsmerter, pustevansker eller bevissthetstap.
-
-Ta kontakt med lege eller kiropraktor ganske raskt hvis svimmelheten:
-
-- varer i flere dager uten å bli bedre
-- kommer i anfall som blir kraftigere eller hyppigere
-- gir kraftig kvalme eller oppkast ved små hodebevegelser
-- kommer sammen med fall, hørselsendringer, øresus eller trykk i ørene
+<div class="boks boks--advarsel">
+<p class="boks__tittel">Når bør du kontakte lege?</p>
+<p><strong>Ring 113</strong> hvis svimmelheten kommer brått sammen med lammelser, kraftsvikt, talevansker, dobbeltsyn, plutselig kraftig hodepine, brystsmerter, pustevansker eller bevissthetstap.</p>
+<p>Ta kontakt med lege eller kiropraktor ganske raskt hvis svimmelheten:</p>
+<ul>
+<li>varer i flere dager uten å bli bedre</li>
+<li>kommer i anfall som blir kraftigere eller hyppigere</li>
+<li>gir kraftig kvalme eller oppkast ved små hodebevegelser</li>
+<li>kommer sammen med fall, hørselsendringer, øresus eller trykk i ørene</li>
+</ul>
+</div>
 
 Har du hatt krystallsyke før, men kjenner at symptomene er annerledes denne gangen, bør du få en ny vurdering. Og ved krystallsyke gjelder det: jo før den behandles, jo bedre.
 

@@ -5,6 +5,7 @@ import Layout from "../layouts/Layout.astro";
 import BookingCTA from "../components/BookingCTA.astro";
 import PostCard from "../components/PostCard.astro";
 import SideHode from "../components/SideHode.astro";
+import KortFortalt from "../components/KortFortalt.astro";
 import { lesetid } from "../data/lesetid";
 import { getCollection, render } from "astro:content";
 import { site, temaNavn } from "../data/site";
@@ -90,6 +91,7 @@ const artikkelData = {
       )
     }
     <article class="prose artikkel__tekst">
+      <KortFortalt punkter={post.data.kortFortalt} />
       <Content />
     </article>
   </div>

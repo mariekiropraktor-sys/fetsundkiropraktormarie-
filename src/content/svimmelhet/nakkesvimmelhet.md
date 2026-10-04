@@ -2,6 +2,10 @@
 tittel: "Nakkesvimmelhet"
 seoTittel: "Nakkesvimmelhet – årsak og behandling"
 beskrivelse: "Gyngende svimmelhet sammen med stiv og vond nakke? Kiropraktor Marie Hermansen i Fetsund utreder og behandler nakkesvimmelhet (cervikogen svimmelhet)."
+kortFortalt:
+  - "Nakkesvimmelhet er en gyngende, diffus svimmelhet som henger sammen med en stiv eller vond nakke."
+  - "Den kan komme etter krystallsyke, nakkesleng eller lange perioder med spenninger og stress."
+  - "Behandlingen er nakkebehandling, øvelser og råd, og mange merker bedring etter få behandlinger."
 ingress: "Føles hodet «ute av synk» med kroppen når nakken er stiv og vond? Nakkesvimmelhet, eller cervikogen svimmelhet, gir en gyngende og diffus svimmelhet som henger sammen med plager i nakken. Den responderer ofte godt på behandling."
 kortTekst: "Diffus, gyngende svimmelhet sammen med stiv og vond nakke eller hodepine. Henger ofte sammen med nedsatt funksjon i muskler og ledd."
 rekkefolge: 2
@@ -55,7 +59,16 @@ Like viktig er det å utelukke andre årsaker, som krystallsyke eller sykdom i d
 
 Hva vi gjør, avhenger av hva undersøkelsen viser. Som regel kombinerer jeg leddbehandling og mobilisering av nakken med behandling av stramme muskler og triggerpunkter. Noen ganger bruker jeg også [nålebehandling](https://fetsundkiropraktor.no/behandlingsmetode/nalebehandling/) eller traksjon.
 
-Du får øvelser for nakke, balanse og blikkstabilisering som du gjør hjemme, og vi ser på det rundt deg: arbeidsstillingen, hvor mye du beveger deg og hvordan du har det med stress. Målet er en nakke som beveger seg fritt, slik at hjernen igjen får tydelige signaler.
+Du får øvelser for nakke, balanse og blikkstabilisering som du gjør hjemme, og vi ser på det rundt deg: arbeidsstillingen, hvor mye du beveger deg og hvordan du har det med stress. > Målet er en nakke som beveger seg fritt, slik at hjernen igjen får tydelige signaler.
+
+<div class="boks boks--bestill">
+<img src="/bilder/marie-portrett.webp" alt="" width="72" height="72" loading="lazy">
+<div>
+<p class="boks__tittel">Kjenner du deg igjen?</p>
+<p>Bestill en svimmelhetsundersøkelse, så finner vi ut hva som skjer, og hva som hjelper.</p>
+<p><a class="btn" href="/bestill/">Bestill svimmelhetsundersøkelse</a></p>
+</div>
+</div>
 
 ## Hvordan går det?
 

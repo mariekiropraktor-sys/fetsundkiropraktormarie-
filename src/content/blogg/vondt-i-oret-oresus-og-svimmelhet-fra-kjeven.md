@@ -2,6 +2,11 @@
 title: "Vondt i øret, øresus og svimmelhet – kan det komme fra kjeven?"
 seoTittel: "Vondt i øret og øresus fra kjeven?"
 description: "Vondt i øret eller øresus, men øret er friskt? Kjeven kan være årsaken. Kiropraktor Marie Hermansen i Fetsund forklarer sammenhengen og hva som hjelper."
+kortFortalt:
+  - "Vondt i øret, tett øre og øresus kan komme fra kjeven, selv om øret er friskt."
+  - "Kjeveleddet ligger rett foran øret, og kjeve og øre deler nerver."
+  - "Tegn på kjeven: verre når du tygger eller gjesper, tannpressing og stress."
+  - "Plutselig hørselstap eller pulserende øresus skal sjekkes av lege samme dag."
 date: 2026-10-04
 tema: nakke-og-hode
 forfatter: "Marie Hermansen"
@@ -10,7 +15,9 @@ utkast: true
 
 «Legen så i øret og sa at alt var fint. Men det gjør jo vondt!» Den setningen hører jeg ofte. Mange som kommer til meg med vondt i øret, tett øre eller øresus, har allerede vært hos fastlegen og fått vite at øret er friskt. Og det er det gjerne. Plagene kommer i stedet fra kjeven, som ligger bare en centimeter eller to unna.
 
-Når jeg kjenner på tyggemuskelen foran øret, kommer det ofte et overrasket «Au, der er det jo!». Det er gjerne første gang noen har undersøkt kjeven, og første gang smerten i øret gir mening.
+> «Au, der er det jo!»
+
+Det sier mange når jeg kjenner på tyggemuskelen foran øret. Det er gjerne første gang noen har undersøkt kjeven, og første gang smerten i øret gir mening.
 
 ## Kjeven og øret er naboer
 
@@ -34,7 +41,7 @@ Kommer svimmelheten i korte, kraftige snurr når du snur deg i senga, er [krysta
 
 Det viktigste du kan gjøre, er å bli klar over når du biter sammen. Mange gjør det foran skjermen, i bilen eller når de konsentrerer seg, uten å merke det.
 
-<div class="boks">
+<div class="boks boks--rad">
 <p class="boks__tittel">Hvilestillingen for kjeven</p>
 <p>Leppene lukket, tennene litt fra hverandre og tunga hvilende lett mot ganen, rett bak fortennene. Sjekk deg selv flere ganger om dagen. Står tennene mot hverandre, slipp dem.</p>
 </div>
@@ -43,19 +50,33 @@ Gi kjeven en pause ved å droppe tyggegummi og veldig seig mat en periode. En va
 
 ## Når bør du kontakte lege raskt?
 
-Ikke alle øreplager kommer fra kjeven. Kontakt lege samme dag ved:
+Ikke alle øreplager kommer fra kjeven.
 
-- plutselig hørselstap på ett øre
-- kraftig svimmelhet sammen med nedsatt hørsel
-- øresus som pulserer i takt med hjertet
-- feber, puss eller væske fra øret
-- skjevhet eller lammelser i ansiktet
+<div class="boks boks--advarsel">
+<p class="boks__tittel">Kontakt lege samme dag ved</p>
+<ul>
+<li>plutselig hørselstap på ett øre</li>
+<li>kraftig svimmelhet sammen med nedsatt hørsel</li>
+<li>øresus som pulserer i takt med hjertet</li>
+<li>feber, puss eller væske fra øret</li>
+<li>skjevhet eller lammelser i ansiktet</li>
+</ul>
+</div>
 
 ## Behandling hos kiropraktor i Fetsund
 
 På Fetsund Kiropraktorsenter starter jeg med en grundig undersøkelse av kjeven, nakken og balansen, og vi snakker om hvordan plagene oppfører seg i hverdagen din.
 
 Behandlingen retter seg mot tyggemusklene, også de som ligger inne i munnen, og jeg bruker gjerne [nålebehandling](https://fetsundkiropraktor.no/behandlingsmetode/nalebehandling/) på muskler som er ekstra stramme. Kjeveleddet og nakken mobiliseres, og du får øvelser du kan gjøre hjemme. Når det trengs, samarbeider jeg med tannlege, fastlege eller øre-nese-hals-lege. Du kan også lese mer om [kjevebehandling hos Fetsund Kiropraktorsenter](https://fetsundkiropraktor.no/behandlingsomrade/kjevesmerter/).
+
+<div class="boks boks--bestill">
+<img src="/bilder/marie-portrett.webp" alt="" width="72" height="72" loading="lazy">
+<div>
+<p class="boks__tittel">Vondt i øret, men øret er friskt?</p>
+<p>Bestill en time, så undersøker jeg kjeven, nakken og balansen din.</p>
+<p><a class="btn" href="/bestill/">Bestill time</a></p>
+</div>
+</div>
 
 <div class="boks boks--kilder">
 <p class="boks__tittel">Kilder</p>

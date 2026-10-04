@@ -2,6 +2,11 @@
 title: "Når nakken låser seg – din guide til akutte nakkesmerter"
 seoTittel: "Nakken låst? Guide til akutte nakkesmerter"
 description: "Årsaker, symptomer, behandling og øvelser som hjelper deg tilbake i normal aktivitet – trygge råd om når du bør oppsøke oss for god undersøkelse og behandling."
+kortFortalt:
+  - "Akutt kink i nakken er som regel ufarlig, og handler oftest om overbelastning og muskelspenning."
+  - "Hold deg i rolig bevegelse i stedet for å holde nakken helt i ro."
+  - "Varme, god søvn og forsiktige øvelser hjelper i den akutte fasen."
+  - "Kraftsvikt, nummenhet, feber eller nylig ulykke skal sjekkes av lege med en gang."
 date: 2026-01-14
 tema: nakke-og-hode
 image: "/bilder/blogg/Kopi-av-70-CHIROPRACTOR-IG-POSTS-6.webp"
@@ -62,13 +67,14 @@ God søvn og mindre stress gjør det lettere for kroppen å roe ned smerter og s
 
 Har du ikke fått time ennå, eller ønsker du å gjøre noe forsiktig selv, kan du prøve noen milde øvelser – så lenge du holder deg innenfor «greit ubehag» og stopper ved skarp smerte.
 
-Forslag til øvelser:
-
--   Rolige nakkebevegelser: Sitt stødig. Beveg hodet forsiktig i små nikk, og deretter rolige rotasjoner side til side. Ikke press til ytterstilling.
-
--   Skulderrullinger: Rull skuldrene sakte bakover 10–15 ganger for å løsne litt opp i muskulaturen rundt nakken.
-
--   Skulderbladsstramming: Trekk skulderbladene lett sammen og ned, hold 3–5 sekunder og slipp. Gjenta 8–10 ganger.
+<div class="boks boks--rad">
+<p class="boks__tittel">Tre forsiktige øvelser</p>
+<ul class="sjekk">
+<li><strong>Rolige nakkebevegelser:</strong> Sitt stødig. Beveg hodet forsiktig i små nikk, og deretter rolige rotasjoner side til side. Ikke press til ytterstilling.</li>
+<li><strong>Skulderrullinger:</strong> Rull skuldrene sakte bakover 10–15 ganger for å løsne litt opp i muskulaturen rundt nakken.</li>
+<li><strong>Skulderbladsstramming:</strong> Trekk skulderbladene lett sammen og ned, hold 3–5 sekunder og slipp. Gjenta 8–10 ganger.</li>
+</ul>
+</div>
 
 Opplever du tydelig forverring eller utstrålende smerter/nummenhet, bør du avvente videre egenøvelser til du er undersøkt.
 
@@ -106,20 +112,23 @@ Ta kontakt relativt tidlig hvis:
 
 -   dette ikke er første gang nakken låser seg, og du ønsker hjelp til å forebygge nye episoder
 
-Kontakt lege/akuttmottak umiddelbart dersom nakkesmertene ledsages av:
+<div class="boks boks--advarsel">
+<p class="boks__tittel">Kontakt lege eller legevakt med en gang hvis nakkesmertene kommer sammen med</p>
+<ul>
+<li>plutselig kraftsvikt, nummenhet eller lammelser i arm eller bein</li>
+<li>problemer med å kontrollere armer/bein eller uttalt ustøhet</li>
+<li>feber og nedsatt allmenntilstand</li>
+<li>nylig fall/ulykke med mistanke om brudd eller alvorlig skade</li>
+</ul>
+</div>
 
--   plutselig kraftsvikt, nummenhet eller lammelser i arm eller bein
+I alle andre tilfeller er terskelen lav for å ta kontakt for en trygg vurdering. Når nakken først har låst seg, er målet å hjelpe deg raskt og sikkert tilbake i bevegelse, og samtidig gi deg verktøy for å redusere risikoen for at det skjer igjen.
 
--   problemer med å kontrollere armer/bein eller uttalt ustøhet
-
--   feber og nedsatt allmenntilstand
-
--   nylig fall/ulykke med mistanke om brudd eller alvorlig skade
-
-**I alle andre tilfeller er terskelen lav for å ta kontakt for en trygg vurdering og tilpasset behandling. Når nakken først har låst seg, er målet å hjelpe deg raskt og sikkert tilbake i bevegelse – og samtidig gi deg verktøy for å redusere risikoen for at det skjer igjen.**
-
-## Kontakt oss!
-
-Våre kiropraktorer har lang erfaring med utredning og behandling av akutte nakkesmerter. Behandling hos kiropraktor er [trygg,](https://pubmed.ncbi.nlm.nih.gov/17906581/) [effektiv](https://forskning.no/kronikk-fysioterapi-samfunnsmedisin/kronikk-derfor-virker-kiropraktikken/1175619) og med [få bivirkninger .](https://pubmed.ncbi.nlm.nih.gov/9345679/)
-
-Ring oss på 46332766 eller bestill time via vår [Online Booking](https://psno-patient-platform-fe.svc.pasientsky.no/embedded/planner/booking?serviceProviderId=54907264-049e-11eb-8fc8-26c6f94d64b7) dersom du ønsker en vurdering eller om du har noen spørsmål vedrørende din plager
+<div class="boks boks--bestill">
+<img src="/bilder/marie-portrett.webp" alt="" width="72" height="72" loading="lazy">
+<div>
+<p class="boks__tittel">Har nakken låst seg?</p>
+<p>Bestill time, så hjelper jeg deg tilbake i bevegelse.</p>
+<p><a class="btn" href="/bestill/">Bestill time</a></p>
+</div>
+</div>

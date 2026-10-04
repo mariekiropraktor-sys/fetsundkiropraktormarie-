@@ -2,6 +2,10 @@
 title: "Kjevesmerter - før, under og etter et kiropraktorbesøk."
 seoTittel: "Kjevesmerter hos kiropraktor"
 description: "Kiropraktor Marie Hermansen har skrevet en klinisk/praktisk rettet blogg rundt temaet kjevesmerter. Fokuset er å kommunisere det praktiske rundt behandling."
+kortFortalt:
+  - "Tre korte videoer om hva som skjer før, under og etter kiropraktorbehandling av kjevesmerter."
+  - "Du får vite hva du bør forberede, hvilke teknikker som brukes, og hva du kan forvente etterpå."
+  - "Egeninnsats og øvelser hjemme er en viktig del av behandlingen."
 date: 2024-02-20
 tema: nakke-og-hode
 image: "/bilder/blogg/406315618_898607168278717_372496122684456257_n-1.webp"
@@ -34,12 +38,11 @@ Etter behandlingen kan ting være litt sårt og ømt. Så hva kan du forvente de
 
 <div class="video"><iframe src="https://www.youtube-nocookie.com/embed/ze2c4VPUoxs" title="Video fra YouTube" loading="lazy" allowfullscreen=""></iframe></div>
 
-## Kontakt oss!
-
-Våre kiropraktorer jobber daglig med kjeveleddsplager og har en særdeles interesse i både utredning og behandling av slike diagnoser.
-
-Kontakt oss gjerne på telefon 46332766 – eller benytt deg av vår [døgnåpne online booking](https://psno-patient-platform-fe.svc.pasientsky.no/embedded/planner/booking?serviceProviderId=54907264-049e-11eb-8fc8-26c6f94d64b7).
-
-Vi gleder oss til å hjelpe deg på vei til en bedre hverdag!
-
-Du kan lese mer om våre behandlere, priser og kontaktinformasjon ved å klikke deg fram i vår hovedmeny.
+<div class="boks boks--bestill">
+<img src="/bilder/marie-portrett.webp" alt="" width="72" height="72" loading="lazy">
+<div>
+<p class="boks__tittel">Plaget med kjevesmerter?</p>
+<p>Bestill time, så undersøker jeg kjeven og nakken din.</p>
+<p><a class="btn" href="/bestill/">Bestill time</a></p>
+</div>
+</div>

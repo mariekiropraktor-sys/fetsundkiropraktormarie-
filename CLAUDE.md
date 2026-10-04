@@ -79,3 +79,8 @@ Fra designlerretet «Valgt retning» (kombinasjon av forslag A og B).
 - Ikke bruk bilder med tekst i innlegg. Bruk HTML-boksene fra global.css i Markdown:
   `<div class="boks">` (turkis, med ryggrad), `boks--advarsel` (oransje), `boks--kilder` (hvit),
   `<ul class="sjekk">` (haker), `<p class="boks__tittel">`, og `<table class="sammenligning">`.
+- Fast fargekode (maks 2–3 bokser per innlegg): turkis `boks` = sjekkliste/kjenner du deg igjen,
+  oransje `boks--advarsel` = når kontakte lege, hvit med turkis kant `boks--rad` = gjør selv/øvelser,
+  hvit `boks--kilder` = kilder, `boks--bestill` = liten bestillingsboks (lenker til /bestill/).
+- «Kort fortalt»: frontmatter-feltet `kortFortalt` (3–4 punkter) vises øverst automatisk.
+- Uthevet sitat: `> tekst` i Markdown. /bestill/ videresender til site.booking.

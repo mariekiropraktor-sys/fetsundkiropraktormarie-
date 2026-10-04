@@ -14,5 +14,5 @@ export default defineConfig({
   trailingSlash: "always",
   build: { format: "directory" },
   // Lager sitemap-index.xml automatisk (404-siden tas ikke med)
-  integrations: [sitemap({ filter: (side) => !side.includes("/404") && !utkast.some((u) => side.endsWith(u)) })],
+  integrations: [sitemap({ filter: (side) => !side.includes("/404") && !side.endsWith("/bestill/") && !utkast.some((u) => side.endsWith(u)) })],
 });

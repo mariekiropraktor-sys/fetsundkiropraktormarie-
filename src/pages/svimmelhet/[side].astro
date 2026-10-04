@@ -2,6 +2,7 @@
 // Mal for fagsidene om svimmelhet: /svimmelhet/nakkesvimmelhet/, /svimmelhet/pppd/ osv.
 // Innholdet ligger i src/content/svimmelhet/ (skal senere redigeres i Sanity).
 import SideHode from "../../components/SideHode.astro";
+import KortFortalt from "../../components/KortFortalt.astro";
 import Layout from "../../layouts/Layout.astro";
 import BookingCTA from "../../components/BookingCTA.astro";
 import { getCollection, render } from "astro:content";
@@ -85,6 +86,7 @@ const strukturerteData = [
         )
       }
       <div class="prose">
+        <KortFortalt punkter={d.kortFortalt} />
         <Content />
       </div>
       <p class="forfatter">
