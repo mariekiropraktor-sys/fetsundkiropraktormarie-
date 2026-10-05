@@ -5,7 +5,7 @@ description: "Hos eldre gir krystallsyke ofte diffus ustøhet i stedet for korte
 kortFortalt:
   - "Krystallsyke (BPPV) er en av de vanligste årsakene til svimmelhet hos eldre."
   - "Hos eldre gir den ofte diffus og langvarig ustøhet i stedet for korte snurr, og blir lett oversett."
-  - "Eldre har flere risikofaktorer: tidligere hodeskade, D-vitaminmangel, medisiner og kronisk sykdom."
+  - "Eldre har flere risikofaktorer: aldring av balanseorganet, benskjørhet, lavt D-vitamin og kronisk sykdom."
   - "Riktig behandling gir som regel god bedring og mindre risiko for fall."
 date: 2025-11-25
 tema: svimmelhet
@@ -20,7 +20,7 @@ Det er synd, for krystallsyke er en helt konkret tilstand i det indre øret, og 
 
 ## Hvorfor blir krystallsyke oversett hos eldre?
 
-Den viktigste grunnen er at symptomene er annerledes. Mange eldre beskriver ikke en karusell, men en vedvarende ustøhet. Den ligner på mye annet som er vanlig i denne alderen: lavt blodtrykk, bivirkninger av medisiner, for lite drikke eller svakere muskler. Da er det lett å lete andre steder.
+Den viktigste grunnen er at symptomene er annerledes. Mange eldre beskriver ikke en karusell, men en vedvarende ustøhet. Den ligner på mye annet som er vanlig i denne alderen: lavt blodtrykk, bivirkninger av medisiner, for lite drikke eller svakere muskler og balanse. Dette er ikke årsaker til krystallsyke, men det kan gi ustøhet i seg selv og gjøre krystallsyken vanskeligere å oppdage. Da er det lett å lete andre steder.
 
 Det krever også litt utstyr og erfaring å finne den. Over tid lærer hjernen seg å dempe svimmelheten ved å feste blikket, og da kan de typiske øyebevegelsene være vanskelige å se. VNG-brillene jeg bruker, stenger ute synsinntrykk og filmer øynene, så selv små bevegelser blir synlige. Det gjør diagnosen sikrere, særlig hos eldre og hos dem som har hatt plager lenge.
 
@@ -28,11 +28,11 @@ Til slutt handler det om tid. En vanlig legetime er kort, og har man flere sykdo
 
 ## Hvorfor får eldre oftere krystallsyke?
 
-Eldre har flere risikofaktorer enn yngre. Balanseorganet eldes, og krystallene løsner lettere. I tillegg kommer ting som mangel på D-vitamin, benskjørhet, tidligere hodeskader, medisiner og perioder med mye sengeleie. Yngre får det oftere etter et slag mot hodet eller en virusinfeksjon.
+Eldre har flere risikofaktorer enn yngre. Balanseorganet eldes, og krystallene løsner lettere. I tillegg kommer ting som lavt D-vitamin, benskjørhet, kronisk sykdom og perioder med mye sengeleie. Et slag mot hodet kan utløse krystallsyke i alle aldre, også et mildt slag. Hos eldre er det ofte et fall. Kvinner rammes oftere enn menn, særlig rundt og etter overgangsalderen.
 
-Tabellen viser en sammenligning av risikofaktorer hos eldre og hos dem under 55 år. Sammenhengen mellom høy alder og endrede symptomer er også beskrevet i [nyere forskning](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2025.1623914/full).
+Tabellen viser hvordan kjente risikofaktorer fordeler seg hos eldre og yngre. Forskningen viser at faktorene henger sammen med krystallsyke, men sier mindre om nøyaktig hvor vanlige de er i hver aldersgruppe. Tabellen er derfor en grov oversikt. Sammenhengen mellom høy alder og endrede symptomer er også beskrevet i [nyere forskning](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2025.1623914/full).
 
-<table class="sammenligning"><thead><tr><th scope="col">Risikofaktor</th><th scope="col">Seniorpasienten</th><th scope="col">Under 55 år</th></tr></thead><tbody><tr><th scope="row">Balanseorganets aldring</th><td>Vanlig</td><td>Sjeldent</td></tr><tr><th scope="row">Hodeskader</th><td>Vanlig, også milde</td><td>Kun større</td></tr><tr><th scope="row">Virus/betennelse i indre øret</th><td>Ofte</td><td>Av og til</td></tr><tr><th scope="row">Vitamin D-mangel/benskjørhet</th><td>Vanlig</td><td>Sjeldent</td></tr><tr><th scope="row">Langvarig inaktivitet/sengeleie</th><td>Vanlig</td><td>Sjeldent</td></tr><tr><th scope="row">Hormonforandringer/overgangsalder</th><td>Vanlig</td><td>Sjeldent</td></tr><tr><th scope="row">Øresykdommer (Ménière/labyrint.)</th><td>Vanlig</td><td>Sjeldent</td></tr><tr><th scope="row">Migrene</th><td>Kan forekomme</td><td>Kan forekomme</td></tr><tr><th scope="row">Medisinbivirkning</th><td>Vanlig</td><td>Sjeldent</td></tr><tr><th scope="row">Redusert muskel/balanse</th><td>Vanlig</td><td>Sjeldent</td></tr><tr><th scope="row">Kronisk sykdom</th><td>Vanlig</td><td>Sjeldent</td></tr></tbody></table>
+<table class="sammenligning"><thead><tr><th scope="col">Risikofaktor</th><th scope="col">Eldre</th><th scope="col">Yngre</th></tr></thead><tbody><tr><th scope="row">Aldring av balanseorganet</th><td>Vanligere</td><td>Mindre vanlig</td></tr><tr><th scope="row">Hodeskade (også mild)</th><td>Like vanlig, ofte etter fall</td><td>Like vanlig, ofte idrett eller ulykke</td></tr><tr><th scope="row">Virus eller betennelse i balansenerven</th><td>Like vanlig</td><td>Like vanlig</td></tr><tr><th scope="row">Benskjørhet</th><td>Vanligere</td><td>Mindre vanlig</td></tr><tr><th scope="row">Lavt D-vitamin</th><td>Vanligere</td><td>Forekommer også</td></tr><tr><th scope="row">Langvarig sengeleie</th><td>Vanligere</td><td>Mindre vanlig</td></tr><tr><th scope="row">Høyt blodtrykk, diabetes, lavt stoffskifte</th><td>Vanligere</td><td>Mindre vanlig</td></tr><tr><th scope="row">Ménières sykdom (sjelden, debuterer oftest 40–60 år)</th><td>Like vanlig</td><td>Like vanlig</td></tr><tr><th scope="row">Migrene</th><td>Forekommer</td><td>Forekommer</td></tr></tbody></table>
 
 ## Hvordan kjennes det?
 
