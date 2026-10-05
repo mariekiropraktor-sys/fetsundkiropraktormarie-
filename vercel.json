@@ -198,6 +198,21 @@
       "permanent": true
     },
     {
+      "source": "/tag/:slug*",
+      "destination": "/blogg/",
+      "permanent": true
+    },
+    {
+      "source": "/testimonialtype/:slug*",
+      "destination": "/om-marie-hermansen/",
+      "permanent": true
+    },
+    {
+      "source": "/author/:slug*",
+      "destination": "/om-marie-hermansen/",
+      "permanent": true
+    },
+    {
       "source": "/category/:slug*",
       "destination": "/blogg/",
       "permanent": true
