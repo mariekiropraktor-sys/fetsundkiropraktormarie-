@@ -273,11 +273,19 @@ const innlegg = utvalgte.map((id) => alle.find((p) => p.id === id)).filter((p) =
       grid-template-columns: 1fr 1fr;
       min-height: 620px;
     }
+    /* Hele portrettet vises (også øreplakaten), innenfor samme bredde som menyen */
     .hero__bilde {
       order: 0;
-      aspect-ratio: auto;
-      height: 100%;
+      width: min(100%, 460px);
+      height: auto;
+      aspect-ratio: 4 / 5;
       max-height: none;
+      object-position: center;
+      justify-self: end;
+      align-self: center;
+      margin-block: 56px;
+      margin-right: max(var(--gutter), calc((100vw - var(--max)) / 2 + var(--gutter)));
+      border-radius: 24px;
       -webkit-mask-image: none;
       mask-image: none;
     }
