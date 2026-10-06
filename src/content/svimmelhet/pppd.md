@@ -52,6 +52,8 @@ Ved PPPD er undersøkelsene som regel normale, og det kan være frustrerende å 
 
 Deretter tester jeg balansen, undersøker nakken og gjør posisjonstester med VNG-briller for å se om det fortsatt er krystallsyke eller en annen vestibulær tilstand i bildet. Mange har nemlig både PPPD og noe annet samtidig, og da må begge deler behandles. Er det noe som bør utredes videre, henviser jeg deg.
 
+<figure><img src="/bilder/blogg/IMG_1616.webp" alt="Kiropraktor Marie Hermansen undersøker nakken til en pasient foran en plakat av balanseorganet" width="806" height="642" loading="lazy"><figcaption>Undersøkelsen ved svimmelhet omfatter både balansen, øyebevegelsene og nakken.</figcaption></figure>
+
 ## Behandling
 
 PPPD kan behandles, men det tar ofte litt tid. Hjernen skal venne seg av med et mønster den har lært over flere måneder.

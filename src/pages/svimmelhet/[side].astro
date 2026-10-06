@@ -80,7 +80,7 @@ const strukturerteData = [
       {
         d.bilde && (
           <figure class="fag-bilde">
-            <img class="photo" src={d.bilde} alt={d.bildeTekst ?? ""} loading="lazy" />
+            <img class="photo" src={d.bilde} alt={d.bildeTekst ?? ""} loading="eager" fetchpriority="high" />
             {d.bildeTekst && <figcaption>{d.bildeTekst}</figcaption>}
           </figure>
         )
@@ -200,6 +200,11 @@ const strukturerteData = [
   }
   .fag-tekst {
     max-width: calc(760px + 2 * var(--gutter));
+  }
+  /* Toppbilde og forfatterlinje like brede som teksten (700px), så kantene flukter på PC */
+  .fag-bilde,
+  .forfatter {
+    max-width: 700px;
   }
   .fag-bilde {
     margin: 0 0 32px;

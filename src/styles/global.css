@@ -378,6 +378,14 @@ p {
   border-radius: 16px;
   margin-inline: auto;
 }
+/* Høye bilder (stående/kvadratiske) skal ikke fylle hele skjermen på PC */
+@media (min-width: 700px) {
+  .prose figure img {
+    width: auto;
+    max-width: 100%;
+    max-height: 520px;
+  }
+}
 .prose figure {
   margin: 2em 0;
 }
