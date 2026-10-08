@@ -80,16 +80,17 @@ import { site, navigasjon } from "../data/site";
     min-height: 88px;
   }
   .topbar__logo img {
-    height: clamp(70px, 7.5vw, 84px);
+    height: clamp(77px, 8.25vw, 92px);
     width: auto;
   }
   .topbar__nav {
     display: none;
-    gap: 26px;
+    gap: clamp(16px, 1.8vw, 26px);
     font-weight: 500;
     font-size: 16px;
   }
   .topbar__nav a {
+    white-space: nowrap;
     color: var(--ink);
     text-decoration: none;
   }
@@ -97,6 +98,7 @@ import { site, navigasjon } from "../data/site";
     color: var(--teal);
   }
   .topbar__book {
+    white-space: nowrap;
     display: none;
     min-height: 44px;
     padding: 10px 20px;
@@ -174,7 +176,7 @@ import { site, navigasjon } from "../data/site";
 
   @media (min-width: 1024px) {
     .topbar__inner {
-      min-height: 104px;
+      min-height: 112px;
     }
     .topbar__nav,
     .topbar__book {
