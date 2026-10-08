@@ -1,10 +1,10 @@
 ---
-title: "Vondt i kneet, ankelen eller foten – vanlige årsaker og hva som hjelper"
-seoTittel: "Vondt i kneet, ankelen eller foten? Årsaker og råd"
-description: "Vondt i kneet, overtråkk eller smerter under foten? Les om vanlige årsaker, hva du kan gjøre selv og når du bør få hjelp. Kiropraktor i Fetsund."
+title: "Vondt i hofta, kneet, ankelen eller foten – vanlige årsaker og hva som hjelper"
+seoTittel: "Vondt i hofta, kneet eller foten? Årsaker og råd"
+description: "Vondt i hofta eller kneet, overtråkk eller smerter under foten? Les om vanlige årsaker, egenråd og når du bør få hjelp. Kiropraktor i Fetsund."
 kortFortalt:
-  - "De fleste smerter i kne, ankel og fot skyldes overbelastning eller en forstuing, og blir bedre med riktig belastning."
-  - "Øvelser er det tiltaket med best dokumentasjon, både for kneet, ankelen og foten."
+  - "De fleste smerter i hofte, kne, ankel og fot skyldes overbelastning eller en forstuing, og blir bedre med riktig belastning."
+  - "Øvelser er det tiltaket med best dokumentasjon, både for hofta, kneet, ankelen og foten."
   - "Et overtråkk påvirker balansen. Balansetrening reduserer risikoen for å tråkke over igjen."
   - "Klarer du ikke å stå på beinet, eller er leggen hoven og øm, skal du til lege."
 date: 2026-10-08
@@ -12,7 +12,18 @@ tema: rygg-og-ledd
 forfatter: "Marie Hermansen"
 ---
 
-Knær, ankler og føtter bærer oss gjennom hele dagen, så det er ikke rart at de av og til sier fra. Har du **vondt i kneet, ankelen eller foten**, er det oftest snakk om en overbelastning eller en forstuing, og ikke noe farlig. Samtidig kan smertene gjøre det vanskelig å gå tur, trene og jobbe. Her får du en oversikt over de vanligste årsakene, hva du kan gjøre selv, og når du bør få hjelp.
+Hofter, knær, ankler og føtter bærer oss gjennom hele dagen, så det er ikke rart at de av og til sier fra. Har du **vondt i hofta, kneet, ankelen eller foten**, er det oftest snakk om en overbelastning eller en forstuing, og ikke noe farlig. Mange har også senebetennelser, som egentlig sjelden er en betennelse, men en overbelastet sene. Samtidig kan smertene gjøre det vanskelig å gå tur, trene og jobbe. Her får du en oversikt over de vanligste årsakene, hva du kan gjøre selv, og når du bør få hjelp.
+
+## Vondt i hofta
+
+Hofteleddet sitter dypt inne i lysken, så smerter fra selve leddet kjennes ofte i lysken og ikke på siden av hofta. De vanligste årsakene til hoftesmerter er:
+
+- **Smerter på utsiden av hofta.** Ofte kalt slimposebetennelse eller senebetennelse i hofta, men skyldes som regel overbelastede sener fra setemusklene. Typisk vondt å ligge på siden om natten, gå i trapper eller stå lenge på ett bein. Vanligst hos kvinner over 40.
+- **Slitasje (artrose) i hofta.** Gir stivhet og smerter i lysken, ofte verst om morgenen og etter hvile, og kan gjøre det vanskelig å ta på sokker og sko.
+- **Smerter fra korsryggen.** Vondt i setet og bak på hofta kan også komme fra ryggen eller bekkenleddene. Derfor undersøker jeg alltid ryggen når hofta er vond.
+- **Lyskesmerter hos aktive**, for eksempel etter fotball eller løping.
+
+Ved smerter på utsiden av hofta er det godt dokumentert at informasjon og et tilpasset øvelsesprogram gir bedre resultat på sikt enn å vente og se.
 
 ## Vondt i kneet
 
@@ -40,7 +51,7 @@ Andre vanlige plager er smerter i forfoten (ofte under tærne) og plager i stort
 <div class="boks boks--advarsel">
 <p class="boks__tittel">Kontakt lege eller legevakt (116 117) hvis</p>
 <ul>
-<li>du ikke klarer å stå på beinet eller gå fire skritt etter en skade</li>
+<li>du ikke klarer å stå på beinet eller gå fire skritt etter en skade eller et fall – særlig hvis du er eldre og har vondt i hofta</li>
 <li>du har kraftig hevelse og tydelig ømhet rett på knoklene i ankelen eller foten</li>
 <li>kneet, ankelen eller foten er feilstilt etter en skade</li>
 <li>leddet er rødt, varmt og hovent, særlig sammen med feber</li>
@@ -51,13 +62,13 @@ Andre vanlige plager er smerter i forfoten (ofte under tærne) og plager i stort
 
 ## Hva kan du gjøre selv?
 
-Felles for de fleste plager i kne, ankel og fot er at riktig mengde belastning er viktigere enn full hvile. Øvelser er det tiltaket med best dokumentasjon, både for knesmerter, artrose, overtråkk og smerter under foten.
+Felles for de fleste plager i hofte, kne, ankel og fot er at riktig mengde belastning er viktigere enn full hvile. Øvelser er det tiltaket med best dokumentasjon, både for knesmerter, artrose, overtråkk og smerter under foten.
 
 <div class="boks boks--rad">
 <p class="boks__tittel">Fem gode råd</p>
 <ul class="sjekk">
 <li><strong>Juster, ikke stopp.</strong> Reduser det som gjør mest vondt en periode, men hold deg i bevegelse. Litt smerte under trening er greit så lenge den roer seg til neste dag.</li>
-<li><strong>Styrk musklene rundt leddet.</strong> Sterke lår- og hoftemuskler avlaster kneet, og sterke leggmuskler avlaster ankelen og foten.</li>
+<li><strong>Styrk musklene rundt leddet.</strong> Sterke sete- og hoftemuskler avlaster hofta og kneet, og sterke leggmuskler avlaster ankelen og foten.</li>
 <li><strong>Tren balansen etter overtråkk.</strong> Stå på ett bein mens du pusser tennene. Gjør det vanskeligere ved å lukke øynene eller stå på en pute.</li>
 <li><strong>Øk gradvis.</strong> Mange plager kommer etter en brå økning i løping, gåing eller hopping. Øk med litt om gangen.</li>
 <li><strong>Se på skoene.</strong> Ved smerter under hælen kan sko med god demping og støtte gjøre hverdagen lettere en periode.</li>
@@ -74,9 +85,13 @@ Du kan også lese om [kne- og ankel-/fotsmerter på klinikksiden vår](https://f
 
 ## Ofte stilte spørsmål
 
-### Bør jeg hvile når jeg har vondt i kneet?
+### Bør jeg hvile når jeg har vondt i hofta eller kneet?
 
-Som regel ikke helt. Kort avlastning kan være lurt de første dagene etter en skade, men de fleste knesmerter blir bedre med tilpasset bevegelse og styrketrening.
+Som regel ikke helt. Kort avlastning kan være lurt de første dagene etter en skade, men de fleste hofte- og knesmerter blir bedre med tilpasset bevegelse og styrketrening.
+
+### Hvorfor er det vondt å ligge på siden om natten?
+
+Ved smerter på utsiden av hofta blir senene klemt når du ligger på den vonde siden. Prøv å ligge på den andre siden med en pute mellom knærne, så hofta ikke faller innover.
 
 ### Hvor lang tid tar et overtråkk å gro?
 
@@ -92,12 +107,13 @@ Nei. Kiropraktorer er autorisert helsepersonell, og du kan bestille time direkte
 
 ## Bestill time hos kiropraktor i Fetsund
 
-Har du vondt i kneet, ankelen eller foten, og vil ha en grundig vurdering og en plan for opptreningen? Jeg tar imot pasienter fra Fetsund, Lillestrøm og resten av Nedre Romerike. [Bestill time her](/bestill/).
+Har du vondt i hofta, kneet, ankelen eller foten, og vil ha en grundig vurdering og en plan for opptreningen? Jeg tar imot pasienter fra Fetsund, Lillestrøm og resten av Nedre Romerike. [Bestill time her](/bestill/).
 
 <div class="boks boks--kilder">
 <p class="boks__tittel">Kilder</p>
 <ul>
 <li><a href="https://www.nice.org.uk/guidance/ng226">NICE: Osteoarthritis in over 16s – diagnosis and management (NG226). 2022.</a></li>
+<li><a href="https://www.bmj.com/content/361/bmj.k1662">Mellor R, et al. Education plus exercise versus corticosteroid injection use versus a wait and see approach on global outcome and pain from gluteal tendinopathy: prospective, single blinded, randomised clinical trial. BMJ. 2018.</a></li>
 <li><a href="https://bjsm.bmj.com/content/50/14/839">Crossley KM, et al. 2016 Patellofemoral pain consensus statement. British Journal of Sports Medicine. 2016.</a></li>
 <li><a href="https://bjsm.bmj.com/content/52/15/956">Vuurberg G, et al. Diagnosis, treatment and prevention of ankle sprains: an evidence-based clinical guideline. British Journal of Sports Medicine. 2018.</a></li>
 <li><a href="https://www.jospt.org/doi/10.2519/jospt.2023.0303">Koc TA, et al. Heel pain – plantar fasciitis: revision 2023. Journal of Orthopaedic & Sports Physical Therapy. 2023.</a></li>

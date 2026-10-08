@@ -32,7 +32,7 @@ export const plager = [
   { navn: "Kjeve", tekst: "Smerter og klikking", lenke: `${k}/behandlingsomrade/kjevesmerter/` },
   { navn: "Korsrygg", tekst: "Akutt og langvarig", lenke: `${k}/behandlingsomrade/vondt-i-ryggen/` },
   { navn: "Skulder", tekst: "Smerter og nedsatt bevegelse", lenke: `${k}/behandlingsomrade/muskelsmerter/` },
-  { navn: "Hofte og kne", tekst: "Også senebetennelser", lenke: `${k}/behandlingsomrade/kne-og-ankel-fotsmerter/` },
+  { navn: "Hofte og kne", tekst: "Også senebetennelser", lenke: "/vondt-i-hofte-kne-ankel-og-fot/" }, // egen artikkel på denne siden
 ];
 
 export const metoder = [

@@ -3,6 +3,11 @@
   "trailingSlash": true,
   "redirects": [
     {
+      "source": "/vondt-i-kne-ankel-og-fot{/}?",
+      "destination": "/vondt-i-hofte-kne-ankel-og-fot/",
+      "permanent": true
+    },
+    {
       "source": "/nakkesvimmelhet-hva-er-det{/}?",
       "destination": "/svimmelhet/nakkesvimmelhet/",
       "permanent": true
