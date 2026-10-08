@@ -80,7 +80,7 @@ import { site, navigasjon } from "../data/site";
     min-height: 88px;
   }
   .topbar__logo img {
-    height: clamp(58px, 6vw, 68px);
+    height: clamp(70px, 7.5vw, 84px);
     width: auto;
   }
   .topbar__nav {
@@ -173,6 +173,9 @@ import { site, navigasjon } from "../data/site";
   }
 
   @media (min-width: 1024px) {
+    .topbar__inner {
+      min-height: 104px;
+    }
     .topbar__nav,
     .topbar__book {
       display: flex;
