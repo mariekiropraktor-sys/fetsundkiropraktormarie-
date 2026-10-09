@@ -57,7 +57,7 @@ const artikkelData = {
   >
     {post.data.utkast && <p class="utkast-merke"><strong>Utkast:</strong> denne siden er ikke publisert ennå og vises ikke i bloggen eller hos Google.</p>}
     <div class="forfatterlinje">
-      <img src="/bilder/marie-portrett.webp" alt="" width="48" height="48" />
+      <img src="/bilder/marie-portrett.webp" alt="" width="72" height="72" />
       <p>
         <a href="/om-marie-hermansen/">{post.data.forfatter}</a>, kiropraktor<br />
         <span><time datetime={post.data.date.toISOString().slice(0, 10)}>{dato}</time> <span aria-hidden="true">–</span> {minutter} min lesing</span>
@@ -171,8 +171,9 @@ const artikkelData = {
     color: var(--muted);
   }
   .forfatterlinje img {
-    width: 48px;
-    height: 48px;
+    width: var(--portrett-liten);
+    height: var(--portrett-liten);
+    flex: none;
     border-radius: 50%;
     object-fit: cover;
     object-position: center 15%;
@@ -342,12 +343,12 @@ const artikkelData = {
   /* Mobil: lite, rundt bilde ved siden av overskriften i stedet for stort portrett */
   @media (max-width: 639px) {
     .forfatterboks {
-      grid-template-columns: 64px 1fr;
+      grid-template-columns: var(--portrett-liten) 1fr;
       gap: 14px 16px;
     }
     .forfatterboks img {
-      width: 64px;
-      height: 64px;
+      width: var(--portrett-liten);
+      height: var(--portrett-liten);
       aspect-ratio: 1;
       border-radius: 50%;
       object-position: center 15%;

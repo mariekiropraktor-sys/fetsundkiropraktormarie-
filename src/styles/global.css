@@ -18,6 +18,8 @@
   --radius: 20px;
   --max: 1200px;
   --gutter: clamp(20px, 4vw, 40px);
+  /* Størrelsen på det lille, runde bildet av Marie – likt på alle sider */
+  --portrett-liten: 72px;
 }
 
 *,
@@ -647,7 +649,7 @@ p {
 .prose .boks--bestill {
   background: var(--surface);
   display: grid;
-  grid-template-columns: 72px 1fr;
+  grid-template-columns: var(--portrett-liten) 1fr;
   gap: 18px;
   align-items: start;
 }
@@ -655,8 +657,8 @@ p {
   content: none;
 }
 .prose .boks--bestill > img {
-  width: 72px;
-  height: 72px;
+  width: var(--portrett-liten);
+  height: var(--portrett-liten);
   margin: 0;
   border-radius: 50%;
   object-fit: cover;
