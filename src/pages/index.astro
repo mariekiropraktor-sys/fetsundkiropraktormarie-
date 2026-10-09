@@ -146,7 +146,13 @@ const innlegg = utvalgte.map((id) => alle.find((p) => p.id === id)).filter((p) =
     </div>
     <div class="andre">
       <p><strong>Jeg bruker også:</strong></p>
-      <ul class="chip-list">{andreMetoder.map((m) => <li>{m}</li>)}</ul>
+      <ul class="chip-list">
+        {
+          andreMetoder.map((m) => (
+            <li>{m.lenke ? <a class="chip-link" href={m.lenke}>{m.navn} <span aria-hidden="true">→</span></a> : <span class="chip">{m.navn}</span>}</li>
+          ))
+        }
+      </ul>
     </div>
   </section>
 

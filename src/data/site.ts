@@ -58,15 +58,17 @@ export const metoder = [
   },
 ];
 
-export const andreMetoder = [
-  "Triggerpunktbehandling",
-  "Mobilisering",
-  "Bindevevsmassasje",
-  "Traksjon",
-  "Kinesiotape",
-  "Aktiv release-tøying",
-  "Reposisjonering ved krystallsyke",
-  "Vestibulær rehabilitering",
+// Lenke der det finnes en egen side: metoder til klinikksiden, svimmelhet til denne siden.
+// Uten lenke vises de som vanlige merkelapper.
+export const andreMetoder: { navn: string; lenke?: string }[] = [
+  { navn: "Triggerpunktbehandling", lenke: `${k}/behandlingsmetode/triggerpunktsmassasje/` },
+  { navn: "Mobilisering", lenke: `${k}/behandlingsmetode/mobiliseringsbehandling/` },
+  { navn: "Bindevevsmassasje", lenke: `${k}/behandlingsmetode/bindevevsmassasje/` },
+  { navn: "Traksjon" },
+  { navn: "Kinesiotape" },
+  { navn: "Aktiv release-tøying" },
+  { navn: "Reposisjonering ved krystallsyke", lenke: "/krystallsyke/" },
+  { navn: "Vestibulær rehabilitering", lenke: "/svimmelhet/" },
 ];
 
 export const svimmelhetstyper = [

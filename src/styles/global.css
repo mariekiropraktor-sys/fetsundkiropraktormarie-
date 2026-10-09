@@ -252,11 +252,25 @@ p {
   margin: 0;
 }
 .chip-list li {
+  display: flex;
+}
+.chip-list .chip,
+.chip-list .chip-link {
   background: var(--surface);
   border: 1px solid var(--line-2);
   border-radius: 999px;
   padding: 6px 14px;
   font-size: 15px;
+}
+/* Merkelapper som lenker: turkis tekst og pil, så de skiller seg fra de uten lenke */
+.chip-list .chip-link {
+  color: var(--teal);
+  text-decoration: none;
+  transition: border-color 0.2s, background 0.2s;
+}
+.chip-list .chip-link:hover {
+  border-color: var(--teal);
+  background: var(--bg);
 }
 
 /* ---------- Bilder ---------- */
