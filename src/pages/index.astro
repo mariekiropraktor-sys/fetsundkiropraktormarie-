@@ -19,7 +19,7 @@ const innlegg = utvalgte.map((id) => alle.find((p) => p.id === id)).filter((p) =
 
 <Layout
   title="Kiropraktor i Fetsund – Marie Hermansen"
-  description="Kiropraktor Marie Hermansen i Fetsund: særlig kompetanse på svimmelhet og krystallsyke, og hjelp for nakke, hodepine, kjeve, rygg og ledd."
+  description="Kiropraktor Marie Hermansen i Fetsund: særlig kompetanse på svimmelhet og krystallsyke, med kjeve og hodepine som interessefelt. Også hjelp for nakke, rygg og ledd."
 >
   <!-- Topp: bilde og tekst på dempet turkis flate -->
   <div class="hero-ramme">
@@ -28,9 +28,9 @@ const innlegg = utvalgte.map((id) => alle.find((p) => p.id === id)).filter((p) =
         <span class="eyebrow eyebrow--lys">Kiropraktor i Fetsund</span>
         <h1 class="h1">Trygg hjelp når kroppen ikke spiller på lag</h1>
         <p class="lead">
-          Jeg er allmennkiropraktor med særlig kompetanse på svimmelhet og krystallsyke. Hos meg får du grundig
-          undersøkelse, målrettet behandling og øvelser du kan gjøre selv – enten det gjelder svimmelhet, nakke,
-          hodepine eller vonde ledd.
+          Jeg er allmennkiropraktor med svimmelhet og krystallsyke som spesialfelt. Nest etter kommer kjeve og
+          hodepine. Hos meg får du grundig undersøkelse, målrettet behandling og øvelser du kan gjøre selv – også
+          for nakke, rygg og vonde ledd.
         </p>
         <div class="btn-row">
           <a class="btn btn--bright" href={site.booking}>Bestill time på nett</a>
@@ -55,8 +55,8 @@ const innlegg = utvalgte.map((id) => alle.find((p) => p.id === id)).filter((p) =
     <div class="section-head">
       <h2 class="h2">Hva kan jeg hjelpe deg med?</h2>
       <p class="muted">
-        Svimmelhet er feltet jeg har fordypet meg mest i. Men de fleste pasientene mine kommer med helt vanlige
-        muskel- og leddplager.
+        Svimmelhet er feltet jeg har fordypet meg mest i, og nest etter det kommer kjeve og hodepine. Men de fleste
+        pasientene mine kommer med helt vanlige muskel- og leddplager.
       </p>
     </div>
     <div class="hjelp">
@@ -88,7 +88,8 @@ const innlegg = utvalgte.map((id) => alle.find((p) => p.id === id)).filter((p) =
         <div class="plager">
           {
             plager.map((p) => (
-              <a class="plager__kort" href={p.lenke}>
+              <a class:list={["plager__kort", { "plager__kort--interesse": p.interesse }]} href={p.lenke}>
+                {p.interesse && <span class="plager__merke">Interessefelt</span>}
                 <strong>{p.navn}</strong>
                 <span>{p.tekst}</span>
               </a>
@@ -383,6 +384,20 @@ const innlegg = utvalgte.map((id) => alle.find((p) => p.id === id)).filter((p) =
     color: var(--ink);
     display: flex;
     flex-direction: column;
+  }
+  /* Kjeve og hodepine: Maries interessefelt, med turkis kant og eget merke */
+  .plager__kort--interesse {
+    background: var(--surface);
+    box-shadow: inset 0 0 0 1.5px var(--teal);
+  }
+  .plager__kort .plager__merke {
+    order: -1;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--teal);
+    margin-bottom: 4px;
   }
   .plager__kort span {
     font-size: 14px;

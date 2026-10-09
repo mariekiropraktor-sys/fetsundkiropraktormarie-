@@ -26,10 +26,11 @@ export const site = {
 
 // Klinikksiden eier de generelle plagene og metodene (se kartleggingen).
 const k = "https://fetsundkiropraktor.no";
-export const plager = [
+export const plager: { navn: string; tekst: string; lenke: string; interesse?: boolean }[] = [
+  // interesse: true = Maries interessefelt (nest etter svimmelhet), vises først med eget merke
+  { navn: "Kjeve", tekst: "Smerter og klikking", lenke: `${k}/behandlingsomrade/kjevesmerter/`, interesse: true },
+  { navn: "Hodepine", tekst: "Spenning og stress", lenke: `${k}/behandlingsomrade/hodepine/`, interesse: true },
   { navn: "Nakke", tekst: "Låst, stiv eller vond", lenke: `${k}/behandlingsomrade/akutte-kroniske-nakkeplager/` },
-  { navn: "Hodepine", tekst: "Spenning og stress", lenke: `${k}/behandlingsomrade/hodepine/` },
-  { navn: "Kjeve", tekst: "Smerter og klikking", lenke: `${k}/behandlingsomrade/kjevesmerter/` },
   { navn: "Korsrygg", tekst: "Akutt og langvarig", lenke: `${k}/behandlingsomrade/vondt-i-ryggen/` },
   { navn: "Skulder", tekst: "Smerter og nedsatt bevegelse", lenke: `${k}/behandlingsomrade/muskelsmerter/` },
   { navn: "Hofte og kne", tekst: "Også senebetennelser", lenke: "/vondt-i-hofte-kne-ankel-og-fot/" }, // egen artikkel på denne siden
