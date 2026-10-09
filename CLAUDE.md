@@ -31,6 +31,7 @@ src/
 ├── data/site.ts        # telefon, adresse, åpningstider, priser, navigasjon m.m.
 ├── content/blogg/      # blogginnlegg (filnavn = adresse)
 ├── content/svimmelhet/ # fagsider: nakkesvimmelhet, vestibulær migrene, PPPD → /svimmelhet/<navn>/
+├── content/behandlingsmetode/ # traksjon, kinesiotape, aktiv release-tøying → /behandlingsmetode/<navn>/
 ├── components/         # Header (med hamburgermeny), Footer, TrustStrip, BookingCTA, PostCard
 ├── layouts/Layout.astro
 ├── pages/              # én mappe per side; [slug].astro = blogginnlegg på rot-nivå
@@ -52,6 +53,10 @@ Fra designlerretet «Valgt retning» (kombinasjon av forslag A og B).
   gamle adresser. Ikke flytt dem under /blogg/.
 - Gamle adresser som fjernes skal få en 301 i `vercel.json`.
 - Kjør `npm run build` før push.
+
+## Behandlingsmetoder (besluttet 9. okt. 2026)
+- Metoder med egen side på klinikksiden lenker dit. Traksjon, kinesiotape og aktiv release-tøying har egne sider her: src/content/behandlingsmetode/ → /behandlingsmetode/<navn>/.
+- Merkelappene under «Jeg bruker også» på forsiden styres fra `andreMetoder` i src/data/site.ts.
 
 ## Gjenstår
 - Sanity-oppsett (prosjekt-ID fra Marie). Fagsidene i content/svimmelhet/ skal bli Sanity-typen «svimmelhetsside» (samme feltnavn).

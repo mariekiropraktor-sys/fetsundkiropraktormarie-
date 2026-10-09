@@ -78,7 +78,7 @@ Like viktig er det å utelukke andre årsaker, som krystallsyke eller sykdom i d
 
 ## Behandling
 
-Hva vi gjør, avhenger av hva undersøkelsen viser. Som regel kombinerer jeg leddbehandling og mobilisering av nakken med behandling av stramme muskler og triggerpunkter. Noen ganger bruker jeg også [nålebehandling](https://fetsundkiropraktor.no/behandlingsmetode/nalebehandling/) eller traksjon.
+Hva vi gjør, avhenger av hva undersøkelsen viser. Som regel kombinerer jeg leddbehandling og mobilisering av nakken med behandling av stramme muskler og triggerpunkter. Noen ganger bruker jeg også [nålebehandling](https://fetsundkiropraktor.no/behandlingsmetode/nalebehandling/) eller [traksjon](/behandlingsmetode/traksjon/).
 
 Du får øvelser for nakke, balanse og blikkstabilisering som du gjør hjemme, og vi ser på det rundt deg: arbeidsstillingen, hvor mye du beveger deg og hvordan du har det med stress.
 

@@ -58,15 +58,15 @@ export const metoder = [
   },
 ];
 
-// Lenke der det finnes en egen side: metoder til klinikksiden, svimmelhet til denne siden.
-// Uten lenke vises de som vanlige merkelapper.
+// Lenke til egen side: metoder som finnes på klinikksiden lenker dit, resten til
+// /behandlingsmetode/ her. Uten lenke vises de som vanlige merkelapper.
 export const andreMetoder: { navn: string; lenke?: string }[] = [
   { navn: "Triggerpunktbehandling", lenke: `${k}/behandlingsmetode/triggerpunktsmassasje/` },
   { navn: "Mobilisering", lenke: `${k}/behandlingsmetode/mobiliseringsbehandling/` },
   { navn: "Bindevevsmassasje", lenke: `${k}/behandlingsmetode/bindevevsmassasje/` },
-  { navn: "Traksjon" },
-  { navn: "Kinesiotape" },
-  { navn: "Aktiv release-tøying" },
+  { navn: "Traksjon", lenke: "/behandlingsmetode/traksjon/" },
+  { navn: "Kinesiotape", lenke: "/behandlingsmetode/kinesiotape/" },
+  { navn: "Aktiv release-tøying", lenke: "/behandlingsmetode/aktiv-release-toying/" },
   { navn: "Reposisjonering ved krystallsyke", lenke: "/krystallsyke/" },
   { navn: "Vestibulær rehabilitering", lenke: "/svimmelhet/" },
 ];

@@ -42,4 +42,23 @@ const svimmelhet = defineCollection({
   }),
 });
 
-export const collections = { blogg, svimmelhet };
+// Sider om behandlingsmetoder som ikke finnes på klinikksiden:
+// src/content/behandlingsmetode/<adresse>.md → /behandlingsmetode/<adresse>/
+const behandlingsmetode = defineCollection({
+  loader: glob({ pattern: "*.md", base: "./src/content/behandlingsmetode" }),
+  schema: z.object({
+    tittel: z.string(), // overskriften på siden
+    seoTittel: z.string(), // tittelen Google viser
+    beskrivelse: z.string(), // teksten Google viser under tittelen
+    ingress: z.string(), // første avsnitt øverst på siden
+    kortTekst: z.string(), // kort tekst på kortene under «Andre metoder»
+    rekkefolge: z.number().default(10),
+    kortFortalt: z.array(z.string()).default([]), // 3–4 punkter øverst på siden
+    brukesVed: z.array(z.string()).default([]), // «Brukes ofte ved»-listen i toppen
+    faq: z.array(z.object({ sporsmal: z.string(), svar: z.string() })).default([]),
+    kilder: z.array(z.object({ tekst: z.string(), lenke: z.string().optional() })).default([]),
+    oppdatert: z.coerce.date(),
+  }),
+});
+
+export const collections = { blogg, svimmelhet, behandlingsmetode };
