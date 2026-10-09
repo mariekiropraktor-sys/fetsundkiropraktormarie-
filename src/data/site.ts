@@ -105,6 +105,8 @@ export const tilleggspris = { tekst: "Nålebehandling og kinesiotape", pris: "45
 
 export const navigasjon = [
   { navn: "Svimmelhet", lenke: "/svimmelhet/" },
+  { navn: "Hodepine", lenke: "/hodepine/" },
+  { navn: "Kjeve", lenke: "/kjevesmerter/" },
   { navn: "Andre plager", lenke: "/#plager" },
   { navn: "Behandling", lenke: "/#behandling" },
   { navn: "Om Marie", lenke: "/om-marie-hermansen/" },
