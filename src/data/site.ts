@@ -28,8 +28,8 @@ export const site = {
 const k = "https://fetsundkiropraktor.no";
 export const plager: { navn: string; tekst: string; lenke: string; interesse?: boolean }[] = [
   // interesse: true = Maries interessefelt (nest etter svimmelhet), vises først med eget merke
-  { navn: "Kjeve", tekst: "Smerter og klikking", lenke: `${k}/behandlingsomrade/kjevesmerter/`, interesse: true },
-  { navn: "Hodepine", tekst: "Spenning og stress", lenke: `${k}/behandlingsomrade/hodepine/`, interesse: true },
+  { navn: "Kjeve", tekst: "Smerter og klikking", lenke: "/kjevesmerter/", interesse: true },
+  { navn: "Hodepine", tekst: "Spenning og stress", lenke: "/hodepine/", interesse: true },
   { navn: "Nakke", tekst: "Låst, stiv eller vond", lenke: `${k}/behandlingsomrade/akutte-kroniske-nakkeplager/` },
   { navn: "Korsrygg", tekst: "Akutt og langvarig", lenke: `${k}/behandlingsomrade/vondt-i-ryggen/` },
   { navn: "Skulder", tekst: "Smerter og nedsatt bevegelse", lenke: `${k}/behandlingsomrade/muskelsmerter/` },

@@ -15,7 +15,7 @@ Språk: all UI-tekst og kodekommentarer på **norsk (bokmål)**.
 - **Krystallsykehjelpen**: eier krystallsyke i dybden (øvelser, video). Denne
   siden lenker dit, ikke omvendt.
 - **fetsundkiropraktor.no (klinikksiden)**: generelle plager og
-  behandlingsmetoder. Kortene for «Muskel- og leddplager» og «Slik behandler
+  behandlingsmetoder (unntak: hodepine og kjeve har egne sider her). Kortene for «Muskel- og leddplager» og «Slik behandler
   jeg» lenker dit. Ikke kopier klinikksidens tekster hit (dobbelt innhold).
 
 ## Tech stack
@@ -31,6 +31,7 @@ src/
 ├── data/site.ts        # telefon, adresse, åpningstider, priser, navigasjon m.m.
 ├── content/blogg/      # blogginnlegg (filnavn = adresse)
 ├── content/svimmelhet/ # fagsider: nakkesvimmelhet, vestibulær migrene, PPPD → /svimmelhet/<navn>/
+├── content/fagomrade/  # hodepine.md → /hodepine/, kjevesmerter.md → /kjevesmerter/ (mal: components/Fagomrade.astro)
 ├── content/behandlingsmetode/ # traksjon, kinesiotape, aktiv release-tøying → /behandlingsmetode/<navn>/
 ├── components/         # Header (med hamburgermeny), Footer, TrustStrip, BookingCTA, PostCard
 ├── layouts/Layout.astro
@@ -57,6 +58,10 @@ Fra designlerretet «Valgt retning» (kombinasjon av forslag A og B).
 ## Behandlingsmetoder (besluttet 9. okt. 2026)
 - Metoder med egen side på klinikksiden lenker dit. Traksjon, kinesiotape og aktiv release-tøying har egne sider her: src/content/behandlingsmetode/ → /behandlingsmetode/<navn>/.
 - Merkelappene under «Jeg bruker også» på forsiden styres fra `andreMetoder` i src/data/site.ts.
+
+## Hodepine og kjeve (besluttet 9. okt. 2026)
+- Maries interessefelt nest etter svimmelhet. Egne fagsider /hodepine/ og /kjevesmerter/ her, ikke lenker til klinikksiden.
+- Forsidekortene Kjeve og Hodepine lenker hit (merket «Interessefelt»). Gamle /behandlingsomrade/hodepine/ og /behandlingsomrade/kjevesmerter/ videresendes hit.
 
 ## Gjenstår
 - Sanity-oppsett (prosjekt-ID fra Marie). Fagsidene i content/svimmelhet/ skal bli Sanity-typen «svimmelhetsside» (samme feltnavn).

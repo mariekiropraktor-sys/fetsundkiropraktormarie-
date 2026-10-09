@@ -57,7 +57,7 @@ Tegn som peker mot nakken:
 
 ## Kjeven – den manglende puslespillbrikken
 
-[Kjevesmerter](https://fetsundkiropraktor.no/behandlingsomrade/kjevesmerter/) kommer ofte av stress, tannpressing eller tanngnissing (bruksisme) eller av at kjeveleddet ikke fungerer som det skal. Kjevemusklene henger tett sammen med musklene i nakken og rundt hodeskallen. Er de overbelastet, kan de bidra både til hodepine og til svimmelhet.
+[Kjevesmerter](/kjevesmerter/) kommer ofte av stress, tannpressing eller tanngnissing (bruksisme) eller av at kjeveleddet ikke fungerer som det skal. Kjevemusklene henger tett sammen med musklene i nakken og rundt hodeskallen. Er de overbelastet, kan de bidra både til hodepine og til svimmelhet.
 
 Kjeven kan også gi vondt i øret og øresus. Les mer i [Vondt i øret, øresus og svimmelhet – kan det komme fra kjeven?](/vondt-i-oret-oresus-og-svimmelhet-fra-kjeven/)
 

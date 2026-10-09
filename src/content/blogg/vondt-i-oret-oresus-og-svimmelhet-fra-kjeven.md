@@ -70,7 +70,7 @@ Ikke alle øreplager kommer fra kjeven.
 
 På Fetsund Kiropraktorsenter starter jeg med en grundig undersøkelse av kjeven, nakken og balansen, og vi snakker om hvordan plagene oppfører seg i hverdagen din.
 
-Behandlingen retter seg mot tyggemusklene, også de som ligger inne i munnen, og jeg bruker gjerne [nålebehandling](https://fetsundkiropraktor.no/behandlingsmetode/nalebehandling/) på muskler som er ekstra stramme. Kjeveleddet og nakken mobiliseres, og du får øvelser du kan gjøre hjemme. Når det trengs, samarbeider jeg med tannlege, fastlege eller øre-nese-hals-lege. Du kan også lese mer om [kjevebehandling hos Fetsund Kiropraktorsenter](https://fetsundkiropraktor.no/behandlingsomrade/kjevesmerter/).
+Behandlingen retter seg mot tyggemusklene, også de som ligger inne i munnen, og jeg bruker gjerne [nålebehandling](https://fetsundkiropraktor.no/behandlingsmetode/nalebehandling/) på muskler som er ekstra stramme. Kjeveleddet og nakken mobiliseres, og du får øvelser du kan gjøre hjemme. Når det trengs, samarbeider jeg med tannlege, fastlege eller øre-nese-hals-lege. Du kan også lese mer på siden min om [kjevesmerter](/kjevesmerter/).
 
 <div class="boks boks--bestill">
 <img src="/bilder/marie-portrett.webp" alt="" width="72" height="72" loading="lazy">

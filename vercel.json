@@ -109,7 +109,7 @@
     },
     {
       "source": "/behandlingsomrade/kjevesmerter{/}?",
-      "destination": "https://fetsundkiropraktor.no/behandlingsomrade/kjevesmerter/",
+      "destination": "/kjevesmerter/",
       "permanent": true
     },
     {
@@ -119,7 +119,7 @@
     },
     {
       "source": "/behandlingsomrade/hodepine{/}?",
-      "destination": "https://fetsundkiropraktor.no/behandlingsomrade/hodepine/",
+      "destination": "/hodepine/",
       "permanent": true
     },
     {
@@ -164,7 +164,7 @@
     },
     {
       "source": "/kjevebehandling-for-under-og-etter-et-kiropraktorbesok{/}?",
-      "destination": "https://fetsundkiropraktor.no/behandlingsomrade/kjevesmerter/",
+      "destination": "/kjevesmerter/",
       "permanent": true
     },
     {

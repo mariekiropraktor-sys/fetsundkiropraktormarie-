@@ -61,4 +61,27 @@ const behandlingsmetode = defineCollection({
   }),
 });
 
-export const collections = { blogg, svimmelhet, behandlingsmetode };
+// Interessefeltene etter svimmelhet: hodepine og kjeve. Én fil per side:
+// src/content/fagomrade/hodepine.md → /hodepine/, kjevesmerter.md → /kjevesmerter/
+// (sidene ligger i src/pages/<adresse>/index.astro og bruker komponenten Fagomrade.astro)
+const fagomrade = defineCollection({
+  loader: glob({ pattern: "*.md", base: "./src/content/fagomrade" }),
+  schema: z.object({
+    tittel: z.string(),
+    seoTittel: z.string(),
+    beskrivelse: z.string(),
+    ingress: z.string(),
+    bilde: z.string().optional(),
+    bildeTekst: z.string().optional(),
+    kortFortalt: z.array(z.string()).default([]),
+    kjennetegn: z.array(z.string()).default([]), // «Kjenner du deg igjen?»-listen
+    typerTittel: z.string(), // overskrift over kortene, f.eks. «Typer hodepine»
+    typer: z.array(z.object({ navn: z.string(), tekst: z.string(), lenke: z.string().optional() })).default([]),
+    innlegg: z.array(z.string()).default([]), // blogginnlegg som vises nederst (filnavn uten .md)
+    faq: z.array(z.object({ sporsmal: z.string(), svar: z.string() })).default([]),
+    kilder: z.array(z.object({ tekst: z.string(), lenke: z.string().optional() })).default([]),
+    oppdatert: z.coerce.date(),
+  }),
+});
+
+export const collections = { blogg, svimmelhet, behandlingsmetode, fagomrade };
