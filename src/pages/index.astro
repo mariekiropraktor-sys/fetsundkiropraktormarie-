@@ -8,13 +8,11 @@ import Ryggrad from "../components/Ryggrad.astro";
 import { getCollection } from "astro:content";
 import { site, plager, metoder, andreMetoder, svimmelhetstyper } from "../data/site";
 
-const utvalgte = [
-  "svimmel-eller-usto-vanlige-arsaker-undersokelser-og-behandling",
-  "nar-nakken-laser-seg-guide-til-akutte-nakkesmerter",
-  "krystallsyken-hos-de-eldre-vanligere-enn-mange-tror",
-];
+// De tre nyeste publiserte innleggene vises automatisk på forsiden
 const alle = await getCollection("blogg", (p) => !p.data.utkast);
-const innlegg = utvalgte.map((id) => alle.find((p) => p.id === id)).filter((p) => p !== undefined);
+const innlegg = alle
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf() || a.id.localeCompare(b.id))
+  .slice(0, 3);
 ---
 
 <Layout
