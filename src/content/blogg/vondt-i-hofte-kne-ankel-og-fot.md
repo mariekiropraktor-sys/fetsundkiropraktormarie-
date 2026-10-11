@@ -9,6 +9,8 @@ kortFortalt:
   - "Klarer du ikke å stå på beinet, eller er leggen hoven og øm, skal du til lege."
 date: 2026-10-08
 tema: rygg-og-ledd
+image: "/bilder/blogg/vondt-i-hofte-kne-ankel-og-fot.webp"
+bildeTekst: "Bildet er laget med KI."
 forfatter: "Marie Hermansen"
 ---
 

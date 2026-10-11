@@ -9,6 +9,8 @@ kortFortalt:
   - "Skånsomme tiltak som hvilestilling, varme og rolige bevegelser er første valg."
 date: 2026-10-08
 tema: nakke-og-hode
+image: "/bilder/blogg/vondt-i-kjeven.webp"
+bildeTekst: "Bildet er laget med KI."
 forfatter: "Marie Hermansen"
 ---
 

@@ -9,6 +9,8 @@ kortFortalt:
   - "Besvimelse, brystsmerter eller lammelser krever akutt hjelp."
 date: 2026-10-07
 tema: svimmelhet
+image: "/bilder/blogg/svimmel-nar-jeg-reiser-meg.webp"
+bildeTekst: "Bildet er laget med KI."
 forfatter: "Marie Hermansen"
 ---
 
