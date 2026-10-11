@@ -9,6 +9,8 @@ kortFortalt:
   - "Plutselig, svært kraftig hodepine skal alltid vurderes av lege med en gang."
 date: 2026-10-06
 tema: nakke-og-hode
+image: "/bilder/blogg/spenningshodepine.webp"
+bildeTekst: "Bildet er laget med KI."
 forfatter: "Marie Hermansen"
 ---
 
