@@ -20,6 +20,8 @@ Har du kjent at det svartner for øynene, eller at alt føles ørt og «tomt» i
 
 Når du går fra å ligge eller sitte til å stå, trekker tyngdekraften blod ned mot beina. Kroppen kompenserer normalt lynraskt: hjertet slår litt fortere og blodårene trekker seg sammen, slik at hjernen fortsatt får nok blod. Er denne reguleringen litt for treg, faller blodtrykket et øyeblikk, og du kjenner det som ørhet, svartsyn eller at du må holde deg fast.
 
+<figure><img src="/bilder/blogg/svimmel-nar-jeg-reiser-meg-2.webp" alt="Kvinne sitter på sengekanten og holder seg til hodet fordi hun er svimmel etter å ha reist seg" width="1536" height="1024" loading="lazy"><figcaption>Ørhet eller svartsyn når du reiser deg skyldes ofte et kort blodtrykksfall. (Illustrasjonen er laget med KI.)</figcaption></figure>
+
 Når blodtrykket faller tydelig ved oppreisning, kalles det **ortostatisk hypotensjon**. Det blir vanligere med alderen, og forskning tyder på at det gjelder omtrent hver femte eldre person, men det kan også ramme unge og spreke.
 
 ### Vanlige grunner til blodtrykksfall
