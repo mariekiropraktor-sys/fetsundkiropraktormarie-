@@ -239,11 +239,15 @@ const innlegg = alle
   }
   .hero__bilde {
     order: -1;
-    width: 100%;
-    aspect-ratio: 1 / 1;
-    max-height: 480px;
+    /* Mobil: litt «zoomet ut» – hele portrettet vises, med luft på sidene */
+    width: 86%;
+    align-self: center;
+    margin-top: 20px;
+    border-radius: 20px 20px 0 0;
+    aspect-ratio: 4 / 5;
+    max-height: 520px;
     object-fit: cover;
-    object-position: center 20%;
+    object-position: center top;
     /* Mobil: bildet tones gradvis over i den blågrå flaten */
     -webkit-mask-image: linear-gradient(to bottom, #000 55%, transparent 100%);
     mask-image: linear-gradient(to bottom, #000 55%, transparent 100%);
