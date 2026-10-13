@@ -23,8 +23,8 @@ const innlegg = alle
   <div class="hero-ramme">
     <section class="hero">
       <div class="hero__tekst stack">
-        <span class="eyebrow eyebrow--lys">Kiropraktor i Fetsund</span>
-        <h1 class="h1">Trygg hjelp når kroppen ikke spiller på lag</h1>
+        <span class="eyebrow eyebrow--lys">Marie Hermansen · Fetsund Kiropraktorsenter</span>
+        <h1 class="h1">Kiropraktor i Fetsund – for svimmelhet, hodepine og smerter</h1>
         <p class="lead">
           Jeg er allmennkiropraktor med svimmelhet og krystallsyke som spesialfelt. Nest etter kommer kjeve og
           hodepine. Hos meg får du grundig undersøkelse, målrettet behandling og øvelser du kan gjøre selv – også
@@ -216,6 +216,11 @@ const innlegg = alle
           }
         </p>
         <p><a href={site.telefonLenke}>{site.telefon}</a></p>
+        <p>{site.parkering}</p>
+        <p class="muted">
+          Pasientene mine kommer fra hele Lillestrøm kommune og nabokommunene, blant annet
+          {site.naeromrader.slice(1, -1).join(", ")} og {site.naeromrader.at(-1)}.
+        </p>
         <a href="/kontakt-oss/"><strong>Kontakt og veibeskrivelse →</strong></a>
       </div>
       <Kart hoyde={300} />

@@ -13,6 +13,9 @@ export const site = {
     { dager: "Tirsdag, torsdag", tid: "10.00–17.00" },
   ],
   apningstiderKort: "Man, ons, fre 08–15 · Tir, tor 10–17",
+  parkering: "Gratis parkering rett ved klinikken, kort vei fra bussen.",
+  // Stedsnavn pasientene kommer fra. Brukes på forsiden, kontaktsiden og i strukturerte data (lokal SEO).
+  naeromrader: ["Fetsund", "Sørumsand", "Lillestrøm", "Blaker", "Rælingen", "Nes"],
   google: {
     vurdering: "4,9",
     antall: 9,
