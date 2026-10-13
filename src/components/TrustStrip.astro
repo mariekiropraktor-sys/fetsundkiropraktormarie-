@@ -4,6 +4,10 @@ import { site } from "../data/site";
 
 <section class="trust" aria-label="Kort om Marie">
   <div class="wrap">
+    <a href={site.legelisten.lenke}>
+      <strong><span class="star" aria-hidden="true">★</span> {site.legelisten.vurdering} på Legelisten</strong>
+      <span>{site.legelisten.antall} anmeldelser</span>
+    </a>
     <a href={site.google.lenke}>
       <strong><span class="star" aria-hidden="true">★</span> {site.google.vurdering} på Google</strong>
       <span>{site.google.antall} anmeldelser</span>

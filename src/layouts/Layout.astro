@@ -39,6 +39,7 @@ const jsonLd = {
     addressLocality: "Fetsund",
     addressCountry: "NO",
   },
+  sameAs: [site.legelisten.lenke, site.facebook, site.instagram],
   areaServed: site.naeromrader.map((sted) => ({ "@type": "Place", name: sted })),
   openingHoursSpecification: [
     { "@type": "OpeningHoursSpecification", dayOfWeek: ["Monday", "Wednesday", "Friday"], opens: "08:00", closes: "15:00" },

@@ -21,6 +21,11 @@ export const site = {
     antall: 9,
     lenke: "https://www.google.com/maps/place/?q=place_id:ChIJAY8EPNG-2mYR_n2JnITzxAE",
   },
+  legelisten: {
+    vurdering: "5,0",
+    antall: 14,
+    lenke: "https://www.legelisten.no/behandlere/17726-marie-hermansen/kiropraktor",
+  },
   facebook: "https://www.facebook.com/www.kiropraktor.marie.no/",
   instagram: "https://www.instagram.com/fetsundkiropraktorsenter/",
   klinikkside: "https://fetsundkiropraktor.no/",
@@ -123,3 +128,12 @@ export const temaNavn: Record<string, string> = {
   "nakke-og-hode": "Nakke og hode",
   "rygg-og-ledd": "Rygg og ledd",
 };
+
+// Overskriftene pasientene selv har gitt anmeldelsene sine på Legelisten (alle 5 av 5).
+// Bytt gjerne ut med lengre sitater – bruk da pasientens egne ord, ikke omskrivinger.
+export const anmeldelser = [
+  { tittel: "Faglig dyktig, trygg og tillitvekkende", dato: "Februar 2024" },
+  { tittel: "Kunnskapsrik og trygg", dato: "Mars 2024" },
+  { tittel: "Dyktig og kunnskapsrik", dato: "April 2024" },
+  { tittel: "Imøtekommende og dyktig!", dato: "Mars 2024" },
+];

@@ -6,7 +6,7 @@ import BookingCTA from "../components/BookingCTA.astro";
 import PostCard from "../components/PostCard.astro";
 import Ryggrad from "../components/Ryggrad.astro";
 import { getCollection } from "astro:content";
-import { site, plager, metoder, andreMetoder, svimmelhetstyper } from "../data/site";
+import { site, anmeldelser, plager, metoder, andreMetoder, svimmelhetstyper } from "../data/site";
 
 // De tre nyeste publiserte innleggene vises automatisk på forsiden
 const alle = await getCollection("blogg", (p) => !p.data.utkast);
@@ -181,6 +181,31 @@ const innlegg = alle
     </div>
   </section>
 
+  <!-- Anmeldelser -->
+  <section class="section wrap">
+    <div class="section-head">
+      <h2 class="h2">Hva pasientene sier</h2>
+      <p class="muted">
+        Alle de {site.legelisten.antall} anmeldelsene mine på Legelisten har gitt 5 av 5 stjerner.
+      </p>
+    </div>
+    <div class="card-grid anmeldelser">
+      {
+        anmeldelser.map((a) => (
+          <figure class="card anmeldelse">
+            <span class="anmeldelse__stjerner" aria-label="5 av 5 stjerner">★★★★★</span>
+            <blockquote>«{a.tittel}»</blockquote>
+            <figcaption class="muted">Pasient på Legelisten · {a.dato}</figcaption>
+          </figure>
+        ))
+      }
+    </div>
+    <p class="anmeldelser__lenker">
+      <a href={site.legelisten.lenke}><strong>Les alle anmeldelsene på Legelisten →</strong></a>
+      <a href={site.google.lenke}><strong>Se anmeldelsene på Google →</strong></a>
+    </p>
+  </section>
+
   <!-- Blogg -->
   <section class="section wrap">
     <div class="blogg-head">
@@ -231,6 +256,32 @@ const innlegg = alle
 </Layout>
 
 <style>
+  .anmeldelse {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .anmeldelse__stjerner {
+    color: var(--star);
+    letter-spacing: 2px;
+  }
+  .anmeldelse blockquote {
+    margin: 0;
+    font-family: var(--serif);
+    font-size: 1.25rem;
+    line-height: 1.35;
+  }
+  .anmeldelse figcaption {
+    font-size: 0.9rem;
+    margin-top: auto;
+  }
+  .anmeldelser__lenker {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px 28px;
+    margin-top: 24px;
+  }
   /* Hvit flate rundt, så hjørnene under buen matcher stripen under */
   .hero-ramme {
     background: var(--surface);
