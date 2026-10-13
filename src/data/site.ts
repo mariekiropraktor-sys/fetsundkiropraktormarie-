@@ -129,11 +129,37 @@ export const temaNavn: Record<string, string> = {
   "rygg-og-ledd": "Rygg og ledd",
 };
 
-// Overskriftene pasientene selv har gitt anmeldelsene sine på Legelisten (alle 5 av 5).
-// Bytt gjerne ut med lengre sitater – bruk da pasientens egne ord, ikke omskrivinger.
+// Ekte anmeldelser fra Google (klinikkprofilen) der Marie nevnes ved navn. Alle 5 av 5.
+// Bruk pasientens egne ord. «…» markerer at deler av teksten er utelatt.
 export const anmeldelser = [
-  { tittel: "Faglig dyktig, trygg og tillitvekkende", dato: "Februar 2024" },
-  { tittel: "Kunnskapsrik og trygg", dato: "Mars 2024" },
-  { tittel: "Dyktig og kunnskapsrik", dato: "April 2024" },
-  { tittel: "Imøtekommende og dyktig!", dato: "Mars 2024" },
+  {
+    tekst: "Fantastisk søt, imøtekommende, omsorgsfull og dyktig kiropraktor Marie fikset krystallsyken … Varme anbefalinger fra meg!",
+    navn: "Linda E.",
+    ar: 2026,
+  },
+  {
+    tekst: "Er godt fornøyd med den behandlingen jeg har fått hos Marie. Svimmelhet, nakke og skuldre, isjias.",
+    navn: "Håvard L.",
+    ar: 2026,
+  },
+  {
+    tekst: "Marie Hermansen har vært min redning ved flere anledninger, hvor jeg nesten ikke har vært i stand til at gå. … M.H. er MEGET kompetent i tillegg alltid smilende og forstående.",
+    navn: "Hans T.",
+    ar: 2025,
+  },
+  {
+    tekst: "Faglig dyktig og hyggelig. Verdt å pendle til Fetsund for time hos Marie.",
+    navn: "Berit R.",
+    ar: 2021,
+  },
+  {
+    tekst: "Fikk fikset en akutt låsning i nakken og klarte å få time kjapt. … Marie er veldig dyktig og serviceminded. Nakken og ryggen ble veldig mye bedre!",
+    navn: "Linn E.",
+    ar: 2021,
+  },
+  {
+    tekst: "Kjempe hyggelig og dyktig til jobben sin. Forklarte alt som hun gjorde og hvorfor.",
+    navn: "Alexander H.",
+    ar: 2021,
+  },
 ];

@@ -186,7 +186,8 @@ const innlegg = alle
     <div class="section-head">
       <h2 class="h2">Hva pasientene sier</h2>
       <p class="muted">
-        Alle de {site.legelisten.antall} anmeldelsene mine på Legelisten har gitt 5 av 5 stjerner.
+        Alle de {site.legelisten.antall} anmeldelsene mine på Legelisten har gitt 5 av 5 stjerner. Her er noen av
+        dem som har skrevet om meg på Google.
       </p>
     </div>
     <div class="card-grid anmeldelser">
@@ -194,8 +195,8 @@ const innlegg = alle
         anmeldelser.map((a) => (
           <figure class="card anmeldelse">
             <span class="anmeldelse__stjerner" aria-label="5 av 5 stjerner">★★★★★</span>
-            <blockquote>«{a.tittel}»</blockquote>
-            <figcaption class="muted">Pasient på Legelisten · {a.dato}</figcaption>
+            <blockquote>«{a.tekst}»</blockquote>
+            <figcaption class="muted"><strong>{a.navn}</strong> · Google · {a.ar}</figcaption>
           </figure>
         ))
       }
@@ -269,8 +270,8 @@ const innlegg = alle
   .anmeldelse blockquote {
     margin: 0;
     font-family: var(--serif);
-    font-size: 1.25rem;
-    line-height: 1.35;
+    font-size: 1.1rem;
+    line-height: 1.45;
   }
   .anmeldelse figcaption {
     font-size: 0.9rem;
