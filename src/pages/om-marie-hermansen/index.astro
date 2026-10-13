@@ -159,10 +159,48 @@ import { site, andreMetoder } from "../../data/site";
     </div>
   </section>
 
+  <!-- Personlig -->
+  <section class="section section--white" id="utenfor-klinikken">
+    <div class="wrap grid-2 personlig">
+      <div class="prose">
+        <h2>Utenfor klinikken</h2>
+        <p>
+          Jeg er født og oppvokst i Gansdalen, bare sju minutter fra klinikken. {site.klinikk} ligger altså i mitt
+          eget nærmiljø.
+        </p>
+        <p>
+          Hjemme bor jeg med samboeren min og hunden vår, Luna. Har du vært hos meg, har du kanskje møtt henne
+          allerede.
+        </p>
+        <p>
+          Jeg er glad i å løpe og holde meg i form, helst ute i naturen, og trives godt på hesteryggen. Ellers er jeg
+          frivillig i Røde Kors, og setter pris på en tur i teateret, gode middager med venner og å reise med
+          samboeren min.
+        </p>
+      </div>
+      <img
+        class="photo personlig__bilde"
+        src="/bilder/marie-og-luna.webp"
+        alt="Marie Hermansen med hunden Luna i armene"
+        width="900"
+        height="1200"
+        loading="lazy"
+      />
+    </div>
+  </section>
+
   <BookingCTA tittel="Vil du komme til meg?" />
 </Layout>
 
 <style>
+  .personlig {
+    align-items: center;
+  }
+  .personlig__bilde {
+    aspect-ratio: 4 / 5;
+    max-height: 560px;
+    object-position: center 30%;
+  }
   .om-topp__bilde {
     width: 100%;
     max-width: 440px;
