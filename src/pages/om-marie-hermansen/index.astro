@@ -99,7 +99,10 @@ import { site, andreMetoder } from "../../data/site";
         {andreMetoder.slice(0, 5).map((m) => <li>{m.navn}</li>)}
         <li>Tilpassede øvelser og veiledning</li>
       </ul>
-
+    </div>
+    <!-- Slik jobber jeg: tekst til venstre, bilde fra behandlingsrommet til høyre -->
+    <div class="wrap grid-2 slik-jobber">
+      <div class="prose">
       <h2>Slik jobber jeg</h2>
       <p>
         <strong>Grundig først.</strong> Vi starter alltid med en samtale og en undersøkelse. Jeg vil forstå hvorfor du
@@ -113,6 +116,15 @@ import { site, andreMetoder } from "../../data/site";
         <strong>Du skal klare deg selv.</strong> Du får øvelser og råd du kan bruke hjemme. Målet er at du blir bedre
         – ikke bare i dag, men også på sikt.
       </p>
+      </div>
+      <img
+        class="photo"
+        src="/bilder/marie-klinikk-ryggrad.webp"
+        alt="Marie Hermansen i behandlingsrommet med en ryggradsmodell"
+        width="753"
+        height="941"
+        loading="lazy"
+      />
     </div>
   </section>
 
@@ -203,6 +215,14 @@ import { site, andreMetoder } from "../../data/site";
 <style>
   .personlig {
     align-items: center;
+  }
+  .slik-jobber {
+    margin-top: clamp(40px, 6vw, 64px);
+  }
+  .slik-jobber .photo {
+    aspect-ratio: 4 / 5;
+    max-height: 560px;
+    object-position: center 30%;
   }
   .personlig__lop {
     margin-top: 8px;
