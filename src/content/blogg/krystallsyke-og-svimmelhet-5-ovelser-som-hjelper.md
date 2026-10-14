@@ -32,7 +32,7 @@ Jeg bruker VNG-briller under testene. De filmer øynene, så jeg ser nystagmusen
 <div>
 <p class="boks__tittel">Usikker på hvilken øvelse som passer deg?</p>
 <p>Jeg finner ut hvor krystallene sitter med VNG-briller, og viser deg øvelsene som passer.</p>
-<p><a class="btn" href="/bestill/">Bestill svimmelhetsundersøkelse</a></p>
+<p><a class="btn" href="/bestill-svimmelhet/">Bestill svimmelhetsundersøkelse</a></p>
 </div>
 </div>
 

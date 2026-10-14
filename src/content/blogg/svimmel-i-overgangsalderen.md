@@ -97,7 +97,7 @@ Nei, du kan bestille time direkte uten henvisning.
 
 ## Bestill time for svimmelhet i Fetsund
 
-Er du plaget av svimmelhet i overgangsalderen, er du velkommen til en grundig undersøkelse hos meg på Fetsund Kiropraktorsenter, et kort stykke fra Lillestrøm og resten av Nedre Romerike. [Bestill time](/bestill/), så finner vi ut av det sammen.
+Er du plaget av svimmelhet i overgangsalderen, er du velkommen til en grundig undersøkelse hos meg på Fetsund Kiropraktorsenter, et kort stykke fra Lillestrøm og resten av Nedre Romerike. [Bestill time](/bestill-svimmelhet/), så finner vi ut av det sammen.
 
 <div class="boks boks--kilder">
 <p class="boks__tittel">Kilder</p>

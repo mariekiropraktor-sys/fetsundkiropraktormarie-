@@ -70,7 +70,7 @@ Spenninger i nakken følger ofte med, og dem behandler jeg underveis. Noen har o
 <div>
 <p class="boks__tittel">Kjenner du deg igjen?</p>
 <p>Bestill en svimmelhetsundersøkelse, så finner vi ut hva som skjer, og hva som hjelper.</p>
-<p><a class="btn" href="/bestill/">Bestill svimmelhetsundersøkelse</a></p>
+<p><a class="btn" href="/bestill-svimmelhet/">Bestill svimmelhetsundersøkelse</a></p>
 </div>
 </div>
 

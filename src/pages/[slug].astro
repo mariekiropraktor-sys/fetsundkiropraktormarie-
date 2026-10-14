@@ -107,7 +107,13 @@ const artikkelData = {
           også mye med hodepine, nakke og kjeve.
         </p>
         <div class="btn-row">
-          <a class="btn" href={site.booking}>Bestill time</a>
+          {
+            post.data.tema === "svimmelhet" ? (
+              <a class="btn" href={site.bookingSvimmelhet}>Bestill svimmelhetsundersøkelse</a>
+            ) : (
+              <a class="btn" href={site.booking}>Bestill time</a>
+            )
+          }
           <a class="btn btn--ghost" href="/om-marie-hermansen/">Mer om meg</a>
         </div>
       </div>

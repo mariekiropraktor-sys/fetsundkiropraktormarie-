@@ -1,13 +1,20 @@
 // Fakta som brukes mange steder på siden. Endres her, så oppdateres alt.
 
+const pasientsky =
+  "https://psno-patient-platform-fe.svc.pasientsky.no/embedded/planner/booking?serviceProviderId=54907264-049e-11eb-8fc8-26c6f94d64b7";
+const kalender = "8b02aa62-04b5-11eb-98d4-56c227606b2b"; // Maries kalender
+
 export const site = {
   navn: "Kiropraktor Marie Hermansen",
   klinikk: "Fetsund Kiropraktorsenter",
   adresse: "Garderbakken 1, 1900 Fetsund",
   telefon: "463 32 766",
   telefonLenke: "tel:+4746332766",
-  booking:
-    "https://psno-patient-platform-fe.svc.pasientsky.no/embedded/planner/booking?serviceProviderId=54907264-049e-11eb-8fc8-26c6f94d64b7",
+  // Timebestilling rett i Maries egen kalender i Pasientsky (ikke klinikkens felles oversikt)
+  booking: `${pasientsky}&timeslotType=4d6f6546-0875-11eb-8cb2-367c89629524&calendarId=${kalender}`, // førstegangsundersøkelse
+  bookingSvimmelhet: `${pasientsky}&timeslotType=d2162c00-a508-11f0-9831-e62cb3f7a407&calendarId=${kalender}`, // førstegangsundersøkelse svimmelhet
+  bookingOppfolging: `${pasientsky}&timeslotType=6accef46-04b5-11eb-9a4f-ee3259d83450&calendarId=${kalender}`, // oppfølgende behandling
+  bookingKalender: `${pasientsky}&calendarId=${kalender}`, // alle timetyper i Maries kalender
   apningstider: [
     { dager: "Mandag, onsdag, fredag", tid: "08.00–15.00" },
     { dager: "Tirsdag, torsdag", tid: "10.00–17.00" },
@@ -93,18 +100,18 @@ export const priser = [
     gruppe: "Muskel- og leddplager",
     intro: "Nakke, rygg, hodepine, kjeve, skulder, hofte og andre muskel- og leddplager.",
     timer: [
-      { navn: "Førstegangskonsultasjon", pris: "910 kr", tekst: "For deg som er ny pasient og aldri har vært hos oss før." },
-      { navn: "Oppfølgende behandling", pris: "580 kr", tekst: "Har du vært hos oss de siste 12 månedene med lignende plager. 20 minutter." },
-      { navn: "Dobbelttime", pris: "810 kr", tekst: "For tidligere pasienter som trenger ekstra tid. Avtales med kiropraktoren." },
+      { navn: "Førstegangskonsultasjon", bestill: "forstegang", pris: "910 kr", tekst: "For deg som er ny pasient og aldri har vært hos oss før." },
+      { navn: "Oppfølgende behandling", bestill: "oppfolging", pris: "580 kr", tekst: "Har du vært hos oss de siste 12 månedene med lignende plager. 20 minutter." },
+      { navn: "Dobbelttime", bestill: "ring", pris: "810 kr", tekst: "For tidligere pasienter som trenger ekstra tid. Avtales med kiropraktoren." },
     ],
   },
   {
     gruppe: "Svimmelhet",
     intro: "Svimmelhet har egne priser, fordi undersøkelsen og behandlingen tar mer tid og inkluderer VNG-briller.",
     timer: [
-      { navn: "Svimmelhetsundersøkelse", pris: "1 100 kr", tekst: "Grundig undersøkelse ved svimmelhet, ustøhet eller balanseplager, med VNG-briller og en plan for videre behandling." },
-      { navn: "Oppfølgende behandling – svimmelhet", pris: "625 kr", tekst: "Oppfølging etter svimmelhetsundersøkelse. 20 minutter." },
-      { navn: "Dobbelttime – svimmelhet", pris: "855 kr", tekst: "Når svimmelheten trenger ekstra tid. Avtales med kiropraktoren." },
+      { navn: "Svimmelhetsundersøkelse", bestill: "svimmelhet", pris: "1 100 kr", tekst: "Grundig undersøkelse ved svimmelhet, ustøhet eller balanseplager, med VNG-briller og en plan for videre behandling." },
+      { navn: "Oppfølgende behandling – svimmelhet", bestill: "kalender", pris: "625 kr", tekst: "Oppfølging etter svimmelhetsundersøkelse. 20 minutter." },
+      { navn: "Dobbelttime – svimmelhet", bestill: "ring", pris: "855 kr", tekst: "Når svimmelheten trenger ekstra tid. Avtales med kiropraktoren." },
     ],
   },
 ];

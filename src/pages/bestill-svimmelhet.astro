@@ -1,0 +1,19 @@
+---
+// /bestill-svimmelhet/ sender videre til svimmelhetsundersøkelsen i Maries kalender.
+// Brukes i innlegg, så bestillingslenken bare står ett sted (src/data/site.ts).
+import { site } from "../data/site";
+---
+
+<!doctype html>
+<html lang="nb">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="robots" content="noindex" />
+    <meta http-equiv="refresh" content={`0; url=${site.bookingSvimmelhet}`} />
+    <link rel="canonical" href={site.bookingSvimmelhet} />
+    <title>Bestill svimmelhetsundersøkelse</title>
+  </head>
+  <body>
+    <p><a href={site.bookingSvimmelhet}>Gå til bestilling av svimmelhetsundersøkelse</a></p>
+  </body>
+</html>

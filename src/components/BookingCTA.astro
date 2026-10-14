@@ -20,11 +20,17 @@ const {
     <div class="btn-row">
       <a class="btn btn--light" href={site.booking}>Bestill time på nett</a>
       <a class="btn btn--outline-light" href={site.telefonLenke}>Ring {site.telefon}</a>
+      <a class="cta__oppfolging" href={site.bookingOppfolging}>Vært hos meg før? Bestill oppfølgende behandling →</a>
     </div>
   </div>
 </section>
 
 <style>
+  .cta__oppfolging {
+    flex-basis: 100%;
+    color: #fff;
+    font-weight: 600;
+  }
   .cta {
     background: var(--teal);
     color: #fff;

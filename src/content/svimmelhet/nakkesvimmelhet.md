@@ -93,7 +93,7 @@ To systematiske oversikter fra 2025 tyder på at manuell behandling av nakken, g
 <div>
 <p class="boks__tittel">Kjenner du deg igjen?</p>
 <p>Bestill en svimmelhetsundersøkelse, så finner vi ut hva som skjer, og hva som hjelper.</p>
-<p><a class="btn" href="/bestill/">Bestill svimmelhetsundersøkelse</a></p>
+<p><a class="btn" href="/bestill-svimmelhet/">Bestill svimmelhetsundersøkelse</a></p>
 </div>
 </div>
 

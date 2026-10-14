@@ -105,6 +105,6 @@ Ja, du trenger ikke henvisning for å bestille time hos kiropraktor.
 
 ## Bestill time for svimmelhet i Fetsund
 
-Er du usikker på hva svimmelheten din skyldes? Jeg tar imot pasienter fra Fetsund, Lillestrøm og resten av Nedre Romerike. [Bestill time](/bestill/), så finner vi ut av det sammen.
+Er du usikker på hva svimmelheten din skyldes? Jeg tar imot pasienter fra Fetsund, Lillestrøm og resten av Nedre Romerike. [Bestill time](/bestill-svimmelhet/), så finner vi ut av det sammen.
 
 *Artikkelen er generell informasjon og erstatter ikke en personlig undersøkelse.*

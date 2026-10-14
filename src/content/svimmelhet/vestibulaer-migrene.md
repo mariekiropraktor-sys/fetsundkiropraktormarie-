@@ -100,7 +100,7 @@ Sammen kartlegger vi triggerne dine og ser på søvn og stress. Gjennom vestibul
 <div>
 <p class="boks__tittel">Kjenner du deg igjen?</p>
 <p>Bestill en svimmelhetsundersøkelse, så finner vi ut hva som skjer, og hva som hjelper.</p>
-<p><a class="btn" href="/bestill/">Bestill svimmelhetsundersøkelse</a></p>
+<p><a class="btn" href="/bestill-svimmelhet/">Bestill svimmelhetsundersøkelse</a></p>
 </div>
 </div>
 

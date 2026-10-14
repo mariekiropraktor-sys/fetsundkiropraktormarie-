@@ -49,7 +49,7 @@ Det spørsmålet får jeg av og til. Har man gått lenge med svimmelhet som inge
 <div>
 <p class="boks__tittel">Svimmel eller ustø, eller kjenner du noen som er det?</p>
 <p>Jeg tilpasser både undersøkelse og behandling til eldre pasienter.</p>
-<p><a class="btn" href="/bestill/">Bestill svimmelhetsundersøkelse</a></p>
+<p><a class="btn" href="/bestill-svimmelhet/">Bestill svimmelhetsundersøkelse</a></p>
 </div>
 </div>
 

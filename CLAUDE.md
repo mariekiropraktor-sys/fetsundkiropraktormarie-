@@ -93,3 +93,11 @@ Fra designlerretet «Valgt retning» (kombinasjon av forslag A og B).
   hvit `boks--kilder` = kilder, `boks--bestill` = liten bestillingsboks (lenker til /bestill/).
 - «Kort fortalt»: frontmatter-feltet `kortFortalt` (3–4 punkter) vises øverst automatisk.
 - Uthevet sitat: `> tekst` i Markdown. /bestill/ videresender til site.booking.
+
+## Timebestilling (besluttet 14. okt. 2026)
+- Alle knapper går til Maries egen kalender i Pasientsky (calendarId 8b02aa62…), ikke klinikkens felles oversikt.
+- `site.booking` = førstegangsundersøkelse, `site.bookingSvimmelhet` = førstegangsundersøkelse svimmelhet,
+  `site.bookingOppfolging` = oppfølgende behandling, `site.bookingKalender` = alle timetyper.
+- Svimmelhetssider, krystallsyke og blogginnlegg med `tema: svimmelhet` bruker svimmelhetslenken.
+  I Markdown: `/bestill/` (førstegang) eller `/bestill-svimmelhet/`.
+- Prissiden: hver timetype har riktig lenke (feltet `bestill` i `priser`). Dobbelttimer = «Ring for time».
