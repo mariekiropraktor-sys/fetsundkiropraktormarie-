@@ -23,7 +23,7 @@ I det indre øret ligger små kalkkrystaller som hjelper hjernen å kjenne tyngd
 
 Typisk kommer snurret når du legger deg ned, snur deg i senga, bøyer deg frem eller ser opp. Det varer bare noen sekunder, men kan være så intenst at du blir kvalm. Tilstanden er ufarlig, men kan øke risikoen for fall, særlig hos eldre.
 
-Den gode nyheten er at krystallsyke ofte kan behandles effektivt med [reposisjoneringsmanøvre](/krystallsyke-og-svimmelhet-5-ovelser-som-hjelper/) som flytter krystallene tilbake på plass. Mange blir merkbart bedre etter én eller noen få behandlinger.
+Den gode nyheten er at krystallsyke ofte kan behandles effektivt med [reposisjoneringsmanøvre](https://www.krystallsykehjelpen.no/blogg/krystallsyke-5-ovelser-som-hjelper/) som flytter krystallene tilbake på plass. Mange blir merkbart bedre etter én eller noen få behandlinger.
 
 ## 2. Når krystallsyken ikke følger læreboka
 
