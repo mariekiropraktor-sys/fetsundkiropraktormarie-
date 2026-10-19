@@ -83,7 +83,7 @@ Hos meg starter vi med en grundig samtale og undersøkelse. Jeg ser på leddet s
 
 Behandlingen tilpasses deg og består som regel av et øvelsesprogram, råd om belastning og eventuelt manuell behandling av ledd og muskler som et supplement. Tyder undersøkelsen på brudd, en større skade eller noe som bør utredes med bildeundersøkelse, henviser jeg deg videre.
 
-Du kan også lese om [kne- og ankel-/fotsmerter på klinikksiden vår](https://fetsundkiropraktor.no/behandlingsomrade/kne-og-ankel-fotsmerter/).
+Du kan også lese om [kne- og ankel-/fotsmerter på klinikksiden vår](https://fetsundkiropraktor.no/behandlingsomrade/fot-og-ankel-smerter/).
 
 ## Ofte stilte spørsmål
 

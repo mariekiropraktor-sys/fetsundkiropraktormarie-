@@ -47,7 +47,7 @@ export const plager: { navn: string; tekst: string; lenke: string; interesse?: b
   { navn: "Hodepine", tekst: "Spenning og stress", lenke: "/hodepine/", interesse: true },
   { navn: "Nakke", tekst: "Låst, stiv eller vond", lenke: `${k}/behandlingsomrade/akutte-kroniske-nakkeplager/` },
   { navn: "Korsrygg", tekst: "Akutt og langvarig", lenke: `${k}/behandlingsomrade/vondt-i-ryggen/` },
-  { navn: "Skulder", tekst: "Smerter og nedsatt bevegelse", lenke: `${k}/behandlingsomrade/muskelsmerter/` },
+  { navn: "Skulder", tekst: "Smerter og nedsatt bevegelse", lenke: `${k}/skuldersmerter-for-under-og-etter-ett-kiropraktorbesok/` },
   { navn: "Hofte og kne", tekst: "Også senebetennelser", lenke: "/vondt-i-hofte-kne-ankel-og-fot/" }, // egen artikkel på denne siden
 ];
 

@@ -124,7 +124,7 @@
     },
     {
       "source": "/behandlingsomrade/skuldersmerter{/}?",
-      "destination": "https://fetsundkiropraktor.no/behandlingsomrade/muskelsmerter/",
+      "destination": "https://fetsundkiropraktor.no/skuldersmerter-for-under-og-etter-ett-kiropraktorbesok/",
       "permanent": true
     },
     {
@@ -134,7 +134,7 @@
     },
     {
       "source": "/behandlingsomrade/kne-og-ankel-fotsmerter{/}?",
-      "destination": "https://fetsundkiropraktor.no/behandlingsomrade/kne-og-ankel-fotsmerter/",
+      "destination": "https://fetsundkiropraktor.no/behandlingsomrade/fot-og-ankel-smerter/",
       "permanent": true
     },
     {
