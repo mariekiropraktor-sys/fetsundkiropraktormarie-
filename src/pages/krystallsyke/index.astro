@@ -40,6 +40,7 @@ const faqLd = {
 
 <Layout
   title="Krystallsyke (BPPV) – behandling"
+  image="/bilder/krystallsyke-hero.webp"
   description="Svimmel når du snur deg i sengen? Kiropraktor Marie Hermansen i Fetsund undersøker og behandler krystallsyke (BPPV) med VNG-briller og reposisjoneringsmanøvre."
 >
   <script type="application/ld+json" set:html={JSON.stringify(faqLd)} slot="head" />
@@ -53,6 +54,15 @@ const faqLd = {
       <a class="btn" href={site.bookingSvimmelhet}>Bestill svimmelhetsundersøkelse</a>
       <a class="btn btn--ghost" href={site.telefonLenke}>Ring {site.telefon}</a>
     </div>
+    <img
+      slot="side"
+      class="krystall-hero"
+      src="/bilder/krystallsyke-hero.webp"
+      alt="Kvinne som sitter i sengen og holder seg til hodet fordi hun er svimmel"
+      width="1672"
+      height="941"
+      fetchpriority="high"
+    />
   </SideHode>
 
   <section class="section section--white">
@@ -155,6 +165,15 @@ const faqLd = {
 </Layout>
 
 <style>
+  /* Toppbilde: kvinnen står til høyre i bildet, så utsnittet holdes der på smale skjermer */
+  .krystall-hero {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    object-position: 72% center;
+    border-radius: var(--radius);
+    box-shadow: 0 18px 50px rgb(11 110 129 / 0.12);
+  }
   .faq {
     background: var(--surface);
     border-radius: 14px;
