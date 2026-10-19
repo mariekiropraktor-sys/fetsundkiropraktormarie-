@@ -97,28 +97,6 @@ const artikkelData = {
     </article>
   </div>
 
-  <section class="wrap forfatterboks-ramme" aria-label="Om forfatteren">
-    <div class="forfatterboks">
-      <img src="/bilder/marie-portrett.webp" alt="Kiropraktor Marie Hermansen" width="160" height="200" loading="lazy" />
-      <div class="forfatterboks__tekst">
-        <h2 class="forfatterboks__tittel">Skrevet av Marie Hermansen</h2>
-        <p>
-          Kiropraktor siden 2015, og eier og gründer av {site.klinikk}. Jeg har svimmelhet som spesialfelt, og jobber
-          også mye med hodepine, nakke og kjeve.
-        </p>
-        <div class="btn-row">
-          {
-            post.data.tema === "svimmelhet" ? (
-              <a class="btn" href={site.bookingSvimmelhet}>Bestill svimmelhetsundersøkelse</a>
-            ) : (
-              <a class="btn" href={site.booking}>Bestill time</a>
-            )
-          }
-          <a class="btn btn--ghost" href="/om-marie-hermansen/">Mer om meg</a>
-        </div>
-      </div>
-    </div>
-  </section>
 
   {
     relaterte.length > 0 && (
@@ -305,70 +283,7 @@ const artikkelData = {
     color: var(--teal);
   }
 
-  /* Forfatterboks */
-  .forfatterboks-ramme {
-    padding-bottom: clamp(16px, 3vw, 32px);
-  }
-  .forfatterboks {
-    max-width: 1004px;
-    margin-inline: auto;
-    background: var(--surface);
-    border-radius: var(--radius);
-    padding: clamp(22px, 3vw, 32px);
-    display: grid;
-    gap: 24px;
-    align-items: center;
-  }
-  @media (min-width: 640px) {
-    .forfatterboks {
-      grid-template-columns: 140px 1fr;
-    }
-  }
-  .forfatterboks img {
-    width: 140px;
-    aspect-ratio: 4 / 5;
-    object-fit: cover;
-    object-position: center top;
-    border-radius: 14px;
-  }
-  .forfatterboks__tekst {
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
-  }
-  .forfatterboks__tittel {
-    font-size: 24px;
-  }
-  .forfatterboks__tekst p {
-    color: var(--muted);
-    max-width: 60ch;
-  }
   .relaterte {
     margin-bottom: 28px;
-  }
-  /* Mobil: lite, rundt bilde ved siden av overskriften i stedet for stort portrett */
-  @media (max-width: 639px) {
-    .forfatterboks {
-      grid-template-columns: var(--portrett-liten) 1fr;
-      gap: 14px 16px;
-    }
-    .forfatterboks img {
-      width: var(--portrett-liten);
-      height: var(--portrett-liten);
-      aspect-ratio: 1;
-      border-radius: 50%;
-      object-position: center 15%;
-    }
-    .forfatterboks__tekst {
-      display: contents;
-    }
-    .forfatterboks__tittel {
-      align-self: center;
-      font-size: 21px;
-    }
-    .forfatterboks__tekst p,
-    .forfatterboks__tekst .btn-row {
-      grid-column: 1 / -1;
-    }
   }
   </style>

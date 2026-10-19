@@ -16,7 +16,6 @@ export async function getStaticPaths() {
 const { side } = Astro.props;
 const d = side.data;
 const { Content } = await render(side);
-const oppdatert = d.oppdatert.toLocaleDateString("nb-NO", { day: "numeric", month: "long", year: "numeric" });
 
 // «Andre typer svimmelhet»: de andre fagsidene + krystallsyke
 const andre = [
@@ -89,13 +88,6 @@ const strukturerteData = [
         <KortFortalt punkter={d.kortFortalt} />
         <Content />
       </div>
-      <p class="forfatter">
-        <img src="/bilder/marie-portrett.webp" alt="" width="72" height="72" loading="lazy" />
-        <span>
-          Skrevet av <a href="/om-marie-hermansen/">kiropraktor Marie Hermansen</a>, som har svimmelhet som
-          spesialfelt.<br /><span class="muted">Sist oppdatert {oppdatert}</span>
-        </span>
-      </p>
     </article>
   </section>
 
@@ -201,12 +193,9 @@ const strukturerteData = [
   .fag-tekst {
     max-width: calc(760px + 2 * var(--gutter));
   }
-  /* Toppbilde og forfatterlinje like brede som teksten (700px), så kantene flukter på PC */
-  .fag-bilde,
-  .forfatter {
-    max-width: 700px;
-  }
+  /* Toppbildet like bredt som teksten (700px), så kantene flukter på PC */
   .fag-bilde {
+    max-width: 700px;
     margin: 0 0 32px;
   }
   .fag-bilde img {
@@ -221,23 +210,6 @@ const strukturerteData = [
   }
   .prose :global(h2:first-child) {
     margin-top: 0;
-  }
-  .forfatter {
-    display: flex;
-    align-items: center;
-    gap: 14px;
-    margin-top: 40px;
-    padding-top: 24px;
-    border-top: 1px solid var(--line);
-    font-size: 15px;
-  }
-  .forfatter img {
-    width: var(--portrett-liten);
-    height: var(--portrett-liten);
-    border-radius: 50%;
-    object-fit: cover;
-    object-position: center top;
-    flex: none;
   }
   .akutt {
     border-left: 0;

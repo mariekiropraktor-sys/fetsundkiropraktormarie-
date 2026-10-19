@@ -17,7 +17,6 @@ export async function getStaticPaths() {
 const { side } = Astro.props;
 const d = side.data;
 const { Content } = await render(side);
-const oppdatert = d.oppdatert.toLocaleDateString("nb-NO", { day: "numeric", month: "long", year: "numeric" });
 
 // «Andre metoder jeg bruker»: de andre sidene her + hovedmetodene på klinikksiden
 const andre = [
@@ -82,14 +81,6 @@ const strukturerteData = [
         <KortFortalt punkter={d.kortFortalt} />
         <Content />
       </div>
-      <p class="forfatter">
-        <img src="/bilder/marie-portrett.webp" alt="" width="72" height="72" loading="lazy" />
-        <span>
-          Skrevet av <a href="/om-marie-hermansen/">kiropraktor Marie Hermansen</a>.<br /><span class="muted"
-            >Sist oppdatert {oppdatert}</span
-          >
-        </span>
-      </p>
     </article>
   </section>
 
@@ -186,24 +177,6 @@ const strukturerteData = [
   }
   .fag-tekst {
     max-width: calc(760px + 2 * var(--gutter));
-  }
-  .forfatter {
-    max-width: 700px;
-    display: flex;
-    align-items: center;
-    gap: 14px;
-    margin-top: 40px;
-    padding-top: 24px;
-    border-top: 1px solid var(--line);
-    font-size: 15px;
-  }
-  .forfatter img {
-    width: var(--portrett-liten);
-    height: var(--portrett-liten);
-    border-radius: 50%;
-    object-fit: cover;
-    object-position: center top;
-    flex: none;
   }
   .faq {
     background: var(--surface);
