@@ -649,16 +649,17 @@ p {
 .prose .boks--bestill {
   background: var(--surface);
   display: grid;
-  grid-template-columns: var(--portrett-liten) 1fr;
+  grid-template-columns: 112px 1fr;
   gap: 18px;
   align-items: start;
 }
 .prose .boks--bestill::after {
   content: none;
 }
+/* Portrettet i bestillingsboksen er litt større enn i forfatterlinjene */
 .prose .boks--bestill > img {
-  width: var(--portrett-liten);
-  height: var(--portrett-liten);
+  width: 112px;
+  height: 112px;
   margin: 0;
   border-radius: 50%;
   object-fit: cover;
@@ -675,12 +676,12 @@ p {
 }
 @media (max-width: 480px) {
   .prose .boks--bestill {
-    grid-template-columns: 52px 1fr;
+    grid-template-columns: 76px 1fr;
     gap: 14px;
   }
   .prose .boks--bestill > img {
-    width: 52px;
-    height: 52px;
+    width: 76px;
+    height: 76px;
   }
 }
 /* Knapper inne i artikkeltekst skal ikke få lenkestrek */
