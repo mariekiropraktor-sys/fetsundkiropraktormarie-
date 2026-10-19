@@ -38,7 +38,7 @@ oppdatert: 2026-10-04
 
 PPPD står for *persistent postural-perceptual dizziness*, på norsk vedvarende postural-perseptuell svimmelhet. Det er en funksjonell tilstand. Balanseorganet og hjernen er ikke skadet, men hjernen har endret måten den bearbeider balanse- og synsinntrykk på.
 
-Som regel starter det etter noe som har satt balansen ut av spill: [krystallsyke](/krystallsyke/), en betennelse i balansenerven, [vestibulær migrene](/svimmelhet/vestibulaer-migrene/), en hjernerystelse eller en periode med mye sykdom eller stress. Mens det sto på, var det klokt av hjernen å være ekstra på vakt og lene seg mer på synet. Ved PPPD blir den værende i den beredskapen lenge etter at den opprinnelige årsaken er borte.
+Som regel starter det etter noe som har satt balansen ut av spill: [krystallsyke](/krystallsyke/), en [betennelse i balansenerven](/svimmelhet/vestibularisnevritt/), [vestibulær migrene](/svimmelhet/vestibulaer-migrene/), en hjernerystelse eller en periode med mye sykdom eller stress. Mens det sto på, var det klokt av hjernen å være ekstra på vakt og lene seg mer på synet. Ved PPPD blir den værende i den beredskapen lenge etter at den opprinnelige årsaken er borte.
 
 ## Hvordan kjennes det?
 

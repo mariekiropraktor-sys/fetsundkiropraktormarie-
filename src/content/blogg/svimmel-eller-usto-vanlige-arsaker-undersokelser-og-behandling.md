@@ -78,7 +78,7 @@ Mange opplever betydelig bedring etter målrettet behandling med reposisjonering
 
 ### Vestibularisnevritt
 
-Vestibularisnevritt skyldes en betennelsesreaksjon i balansenerven.
+[Vestibularisnevritt](/svimmelhet/vestibularisnevritt/) skyldes en betennelsesreaksjon i balansenerven.
 
 Tilstanden kommer ofte plutselig og kan oppleves dramatisk. Mange beskriver at de våkner eller blir akutt dårlige med kraftig svimmelhet og kvalme.
 
