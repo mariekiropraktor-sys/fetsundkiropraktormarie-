@@ -10,6 +10,8 @@ kortFortalt:
 ingress: "Våknet du en morgen og hele rommet snurret, og det ga seg ikke? Vestibularisnevritt er en betennelse i balansenerven og en vanlig årsak til plutselig, kraftig svimmelhet. Det er skremmende, men som regel ufarlig, og de fleste blir gradvis bra."
 kortTekst: "Betennelse i balansenerven. Kommer brått med kraftig svimmelhet og kvalme i timer eller dager, og kan etterlate ustøhet."
 rekkefolge: 3.5
+bilde: "/bilder/vestibularisnevritt-hero.webp"
+bildeTekst: "Ustø i ukene etter en vestibularisnevritt? Det er vanlig, og balansetrening hjelper. Bildet er laget med KI."
 kjennetegn:
   - "Svimmelheten kom brått og var der hele tiden, også når du lå stille"
   - "Kvalme eller oppkast de første dagene"
