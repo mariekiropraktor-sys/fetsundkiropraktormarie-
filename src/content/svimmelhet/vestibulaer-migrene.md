@@ -9,7 +9,7 @@ kortFortalt:
 ingress: "Svimmel, gyngende eller ustø, men testen for krystallsyke er negativ? Vestibulær migrene er en av de vanligste årsakene til tilbakevendende svimmelhet hos voksne, og du trenger ikke ha hodepine for å ha det."
 kortTekst: "Episoder med svimmelhet fra minutter til dager, med eller uten hodepine. En vanlig, men ofte oversett årsak."
 rekkefolge: 3
-bilde: "/bilder/blogg/e1b7d5c0-93b0-41fb-ae66-275eddd0556e.webp"
+bilde: "/bilder/vestibulaer-migrene-hero.webp"
 bildeTekst: "Svimmelhet kommer ikke alltid fra det indre øret."
 kjennetegn:
   - "Episoder med svimmelhet som varer fra minutter til dager"
