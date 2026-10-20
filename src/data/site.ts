@@ -25,7 +25,7 @@ export const site = {
   naeromrader: ["Fetsund", "Sørumsand", "Lillestrøm", "Blaker", "Rælingen", "Nes"],
   google: {
     vurdering: "4,9",
-    antall: 9,
+    antall: 10,
     lenke: "https://www.google.com/maps/place/?q=place_id:ChIJAY8EPNG-2mYR_n2JnITzxAE",
   },
   legelisten: {
