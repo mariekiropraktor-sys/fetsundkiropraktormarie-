@@ -9,9 +9,9 @@ kortFortalt:
   - "Mellom anfallene kan balansetrening og gode hverdagsrutiner gjøre det lettere å leve med sykdommen."
 date: 2026-10-20
 tema: svimmelhet
+image: "/bilder/blogg/menieres-sykdom.webp"
 bildeTekst: "Bildet er laget med KI."
 forfatter: "Marie Hermansen"
-utkast: true
 ---
 
 **Menières sykdom** er en sykdom i det indre øret som gir anfall av kraftig svimmelhet, ofte sammen med øresus, en følelse av trykk eller tetthet i øret og nedsatt hørsel. Anfallene kommer gjerne uten forvarsel og kan vare i flere timer. Mange blir redde første gang, og det er lett å forstå.
