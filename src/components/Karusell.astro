@@ -1,0 +1,110 @@
+---
+// Horisontal sveipe-rad for kort (anmeldelser, blogginnlegg).
+// Mobil: sveip med fingeren. PC: piler, eller Shift + musehjul / styreflate.
+// Neste kort stikker litt fram i kanten, så man ser at det er mer.
+interface Props {
+  etikett: string; // beskrivelse for skjermlesere, f.eks. «Anmeldelser»
+  bredde?: string; // kortbredde, f.eks. "340px"
+}
+const { etikett, bredde = "320px" } = Astro.props;
+---
+
+<div class="karusell" data-karusell style={`--kort-bredde: ${bredde}`}>
+  <div class="karusell__spor" role="region" aria-label={etikett} tabindex="0">
+    <slot />
+  </div>
+  <div class="karusell__piler">
+    <button type="button" class="karusell__pil" data-retning="-1" aria-label="Forrige" disabled>←</button>
+    <button type="button" class="karusell__pil" data-retning="1" aria-label="Neste">→</button>
+  </div>
+</div>
+
+<style>
+  .karusell {
+    position: relative;
+  }
+  .karusell__spor {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: min(82%, var(--kort-bredde));
+    gap: 16px;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    overscroll-behavior-x: contain;
+    padding: 4px 4px 12px;
+    margin: -4px -4px 0;
+    scrollbar-width: none;
+  }
+  .karusell__spor::-webkit-scrollbar {
+    display: none;
+  }
+  .karusell__spor:focus-visible {
+    outline: 2px solid var(--teal);
+    outline-offset: 4px;
+    border-radius: 12px;
+  }
+  .karusell__spor > :global(*) {
+    scroll-snap-align: start;
+  }
+  .karusell__piler {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-top: 12px;
+  }
+  .karusell__pil {
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    border: 1px solid var(--line);
+    background: var(--surface, #fff);
+    color: var(--ink);
+    font-size: 1.15rem;
+    cursor: pointer;
+    transition: background 0.15s, color 0.15s, opacity 0.15s;
+  }
+  .karusell__pil:hover:not(:disabled) {
+    background: var(--teal);
+    border-color: var(--teal);
+    color: #fff;
+  }
+  .karusell__pil:disabled {
+    opacity: 0.35;
+    cursor: default;
+  }
+  /* Skjul pilene når alt får plass (styres fra skriptet) */
+  .karusell[data-alt-synlig] .karusell__piler {
+    display: none;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .karusell__spor {
+      scroll-behavior: auto;
+    }
+  }
+</style>
+
+<script>
+  document.querySelectorAll<HTMLElement>("[data-karusell]").forEach((k) => {
+    const spor = k.querySelector<HTMLElement>(".karusell__spor")!;
+    const [forrige, neste] = k.querySelectorAll<HTMLButtonElement>(".karusell__pil");
+
+    const oppdater = () => {
+      const maks = spor.scrollWidth - spor.clientWidth;
+      k.toggleAttribute("data-alt-synlig", maks <= 2);
+      forrige.disabled = spor.scrollLeft <= 2;
+      neste.disabled = spor.scrollLeft >= maks - 2;
+    };
+
+    k.querySelectorAll<HTMLButtonElement>(".karusell__pil").forEach((knapp) => {
+      knapp.addEventListener("click", () => {
+        const retning = Number(knapp.dataset.retning);
+        spor.scrollBy({ left: retning * spor.clientWidth * 0.9 });
+      });
+    });
+
+    spor.addEventListener("scroll", oppdater, { passive: true });
+    new ResizeObserver(oppdater).observe(spor);
+    oppdater();
+  });
+</script>
