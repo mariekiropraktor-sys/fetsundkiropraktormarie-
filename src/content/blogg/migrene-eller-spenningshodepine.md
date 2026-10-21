@@ -9,9 +9,9 @@ kortFortalt:
   - "Ny, plutselig eller endret hodepine skal vurderes av lege."
 date: 2026-10-15
 tema: nakke-og-hode
+image: "/bilder/blogg/migrene-eller-spenningshodepine.webp"
 bildeTekst: "Bildet er laget med KI."
 forfatter: "Marie Hermansen"
-utkast: true
 ---
 
 Er det **migrene eller spenningshodepine** du har? Det er et av de vanligste spørsmålene jeg får om hodepine. Begge er svært vanlige, de kan ligne på hverandre, og mange har faktisk begge deler. Likevel er det nyttig å kjenne forskjellen, fordi rådene og behandlingen ikke er helt de samme.
