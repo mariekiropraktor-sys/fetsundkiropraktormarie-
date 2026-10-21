@@ -9,9 +9,9 @@ kortFortalt:
   - "Bittskinne beskytter tennene, mens bevissthet, avspenning og behandling av muskler kan dempe plagene."
 date: 2026-10-16
 tema: nakke-og-hode
+image: "/bilder/blogg/tanngnissing.webp"
 bildeTekst: "Bildet er laget med KI."
 forfatter: "Marie Hermansen"
-utkast: true
 ---
 
 Våkner du med stram kjeve, ømme tenner eller hodepine i tinningene? Eller oppdager du at du sitter og biter tennene hardt sammen foran skjermen? Da kan det handle om **tanngnissing** eller tannpress, det fagfolk kaller *bruksisme*. Det er svært vanlig, og for mange er det ikke noe problem i det hele tatt. Men hos noen gir det kjevesmerter, hodepine og slitte tenner. Her forklarer jeg hva tanngnissing er, hvorfor det skjer, og hva du kan gjøre selv.
