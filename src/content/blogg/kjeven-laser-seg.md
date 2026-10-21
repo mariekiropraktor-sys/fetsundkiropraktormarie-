@@ -9,9 +9,9 @@ kortFortalt:
   - "Får du ikke lukket munnen, eller kom låsingen etter et slag, bør du kontakte legevakt eller tannlegevakt."
 date: 2026-10-21
 tema: nakke-og-hode
+image: "/bilder/blogg/kjeven-laser-seg.webp"
 bildeTekst: "Bildet er laget med KI."
 forfatter: "Marie Hermansen"
-utkast: true
 ---
 
 Kjenner du at kjeven låser seg når du gaper, gjesper eller tar en stor bit? Eller våkner du og får ikke åpnet munnen helt? Det kan kjennes skremmende, men hos de fleste skyldes det kjeveleddet og tyggemusklene, ikke noe farlig. Her forklarer jeg hva som skjer når kjeven låser seg, hva du kan gjøre selv, og når det er lurt å få hjelp.
