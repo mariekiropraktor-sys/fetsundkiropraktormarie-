@@ -26,7 +26,7 @@ export const site = {
   google: {
     vurdering: "4,9",
     antall: 10,
-    lenke: "https://www.google.com/maps/place/?q=place_id:ChIJAY8EPNG-2mYR_n2JnITzxAE",
+    lenke: "https://www.google.com/maps/search/?api=1&query=Fetsund+Kiropraktorsenter&query_place_id=ChIJAY8EPNG-2mYR_n2JnITzxAE",
   },
   legelisten: {
     vurdering: "5,0",
