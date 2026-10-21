@@ -9,9 +9,9 @@ kortFortalt:
   - "Ny, plutselig eller svært kraftig hodepine skal alltid vurderes av lege med en gang."
 date: 2026-10-19
 tema: nakke-og-hode
+image: "/bilder/blogg/hodepine-fra-nakken.webp"
 bildeTekst: "Bildet er laget med KI."
 forfatter: "Marie Hermansen"
-utkast: true
 ---
 
 Kjenner du at **hodepinen starter i nakken** og kryper opp i bakhodet, kanskje helt frem mot tinningen eller bak øyet? Da kan det være hodepine fra nakken, eller cervikogen hodepine, som det heter på fagspråket. Det er en av de typene hodepine jeg ser oftest på klinikken i Fetsund, og den henger ofte sammen med en stiv nakke, lange skjermdager og stress.
