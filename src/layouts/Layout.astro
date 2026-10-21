@@ -16,8 +16,8 @@ interface Props {
   skjult?: boolean; // true = Google skal ikke indeksere siden (utkast)
 }
 
-// Standard delingsbilde (1200×630) er beskåret så hele ansiktet vises i lenkeforhåndsvisninger
-const { title, description, image = "/bilder/og-marie.jpg", type = "website", skjult = false } = Astro.props;
+// Standard delingsbilde (1200×630): zoomet ut med luft over håret, så hele ansiktet vises selv når Safari/Facebook beskjærer. Nytt filnavn ved bytte (hurtigminne).
+const { title, description, image = "/bilder/og-marie-2.jpg", type = "website", skjult = false } = Astro.props;
 // En tittel som allerede har «|» eller Maries navn brukes som den er; ellers legges «Kiropraktor i Fetsund» til.
 // Hold titler under ca. 60 tegn totalt, ellers kutter Google dem.
 const fullTitle =
@@ -63,8 +63,8 @@ const jsonLd = {
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:image" content={ogImage} />
-    {ogImage.pathname === "/bilder/og-marie.jpg" && <meta property="og:image:width" content="1200" />}
-    {ogImage.pathname === "/bilder/og-marie.jpg" && <meta property="og:image:height" content="630" />}
+    {ogImage.pathname === "/bilder/og-marie-2.jpg" && <meta property="og:image:width" content="1200" />}
+    {ogImage.pathname === "/bilder/og-marie-2.jpg" && <meta property="og:image:height" content="630" />}
     <meta property="og:image:alt" content="Kiropraktor Marie Hermansen" />
     <meta name="twitter:image" content={ogImage} />
     <meta property="og:url" content={canonical} />
