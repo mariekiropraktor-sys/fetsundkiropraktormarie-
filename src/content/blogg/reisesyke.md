@@ -9,6 +9,7 @@ kortFortalt:
   - "Gynger det i dagevis etter at du har gått i land, eller blir du svimmel av bevegelse også i hverdagen, er det lurt å få det undersøkt."
 date: 2026-10-22
 tema: svimmelhet
+image: "/bilder/blogg/reisesyke.webp"
 bildeTekst: "Bildet er laget med KI."
 forfatter: "Marie Hermansen"
 utkast: true
