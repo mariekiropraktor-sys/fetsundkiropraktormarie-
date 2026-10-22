@@ -12,7 +12,6 @@ tema: svimmelhet
 image: "/bilder/blogg/reisesyke.webp"
 bildeTekst: "Bildet er laget med KI."
 forfatter: "Marie Hermansen"
-utkast: true
 ---
 
 **Reisesyke** er den velkjente kvalmen, svimmelheten og uroen som kan komme når du sitter i bil, båt, buss eller fly. Mange husker bilsyke fra barndommen, med stopp i veikanten på vei til hytta. For noen gir det seg med alderen, for andre blir det med videre i livet.
