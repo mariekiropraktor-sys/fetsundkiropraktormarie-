@@ -31,7 +31,7 @@ Når blodtrykket faller tydelig ved oppreisning, kalles det **ortostatisk hypote
 - **Legemidler**, blant annet blodtrykksmedisin, vanndrivende og enkelte antidepressiva.
 - **Varme.** Varm dusj, badstue eller varme dager får blodårene til å utvide seg.
 - **Store måltider og alkohol.** Begge kan senke blodtrykket en periode.
-- **Andre tilstander**, som lav blodprosent, diabetes eller sykdom i nervesystemet. Dette må vurderes av lege.
+- **Andre tilstander**, som lav blodprosent, diabetes eller sykdom i nervesystemet. Mistenker jeg noe slikt, henviser jeg deg til fastlegen for blodprøver og videre utredning.
 
 ## Er det blodtrykket – eller krystallsyke?
 

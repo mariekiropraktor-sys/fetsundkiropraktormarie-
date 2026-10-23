@@ -16,7 +16,7 @@ forfatter: "Marie Hermansen"
 
 Mange kvinner opplever å bli **svimmel i overgangsalderen**, og mange blir overrasket over det. Hetetokter og søvnproblemer er godt kjent, men at verden kan begynne å gynge, eller at det snurrer når du snur deg i senga, er det færre som snakker om. Den gode nyheten er at svimmelhet i denne perioden ofte har en forklaring som kan undersøkes, og at mye av det kan behandles eller lindres.
 
-Her går jeg gjennom de vanligste årsakene, hva du kan gjøre selv, og når du bør ta kontakt med lege.
+Her går jeg gjennom de vanligste årsakene, hva du kan gjøre selv, og når du bør søke hjelp.
 
 ## Hvorfor kan man bli svimmel i overgangsalderen?
 

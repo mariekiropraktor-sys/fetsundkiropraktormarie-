@@ -1,7 +1,7 @@
 ---
 title: "Migrene eller spenningshodepine? Slik kjenner du forskjellen"
 seoTittel: "Migrene eller spenningshodepine? Slik ser du forskjellen"
-description: "Migrene eller spenningshodepine? Lær forskjellen, hvorfor migrene kan gi svimmelhet, hva du kan gjøre selv og når du bør gå til lege."
+description: "Migrene eller spenningshodepine? Lær forskjellen, hvorfor migrene kan gi svimmelhet, hva du kan gjøre selv og når du bør søke hjelp raskt."
 kortFortalt:
   - "Spenningshodepine kjennes oftest som et stramt bånd rundt hodet. Migrene kommer i anfall og er ofte dunkende, med kvalme og lysfølsomhet."
   - "Mange har begge typer, og en hodepinedagbok gjør det lettere å se mønsteret."
@@ -74,9 +74,9 @@ Har du kort, kraftig spinning når du snur deg i senga eller ser opp, kan det v�
 
 ## Hva kan kiropraktor hjelpe med?
 
-Ved spenningshodepine og hodepine fra nakken kan behandling av muskler og ledd i nakke, skuldre og kjeve, sammen med øvelser, gi mindre og sjeldnere hodepine for mange. Ved migrene er det fastlegen som har hovedansvaret for utredning og medisinsk behandling. Behandling av en stiv og vond nakke kan likevel være et nyttig tillegg for noen, særlig hvis nakken er en av utløserne.
+Ved spenningshodepine og hodepine fra nakken kan behandling av muskler og ledd i nakke, skuldre og kjeve, sammen med øvelser, gi mindre og sjeldnere hodepine for mange. Ved migrene kan jeg undersøke deg og stille diagnosen, mens medisinsk behandling får du hos fastlegen. Behandling av en stiv og vond nakke kan være et nyttig tillegg for noen, særlig hvis nakken er en av utløserne.
 
-Når du kommer til meg, starter vi med en grundig samtale om hodepinen og eventuell svimmelhet. Deretter undersøker jeg nakken, kjeven og balansen, og gjør en enkel nevrologisk undersøkelse. Er det tegn på at du bør utredes videre, henviser jeg deg til fastlegen. Les mer om [hvordan jeg jobber med hodepine](/hodepine/).
+Når du kommer til meg, starter vi med en grundig samtale om hodepinen og eventuell svimmelhet. Deretter undersøker jeg nakken, kjeven og balansen, og gjør en enkel nevrologisk undersøkelse. Er det tegn på at du bør utredes videre, henviser jeg deg selv, for eksempel til MR, spesialist eller fastlege. Les mer om [hvordan jeg jobber med hodepine](/hodepine/).
 
 <div class="boks boks--advarsel">
 <p class="boks__tittel">Kontakt lege raskt hvis</p>
