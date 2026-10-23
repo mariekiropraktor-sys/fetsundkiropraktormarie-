@@ -62,7 +62,7 @@ Små endringer i hverdagen gjør ofte mer enn man tror.
 
 ## Kan kiropraktor hjelpe ved spenningshodepine?
 
-Hos meg starter vi med en grundig samtale og undersøkelse av nakke, skuldre, kjeve og nervesystem. Målet er å vurdere hvilken type hodepine det kan dreie seg om, og om noe tyder på at du heller bør utredes hos lege.
+Hos meg starter vi med en grundig samtale og undersøkelse av nakke, skuldre, kjeve og nervesystem. Målet er å vurdere hvilken type hodepine det kan dreie seg om, og om noe tyder på at du bør utredes videre. Som kiropraktor er jeg primærkontakt: jeg stiller diagnose selv, og henviser til MR, spesialist eller fastlege når det trengs.
 
 Behandlingen tilpasses deg og kan bestå av øvelser, råd om belastning og hverdagsvaner, og manuell behandling av ledd og muskulatur. Systematiske oversikter tyder på at manuell behandling kombinert med øvelser kan redusere hyppighet og intensitet av spenningshodepine for noen, men kvaliteten på forskningen er varierende. Effekten er ikke lik for alle, og derfor følger vi opp underveis og justerer planen.
 
@@ -76,7 +76,7 @@ Hodepine henger dessuten ofte sammen med andre plager. Mange som kommer med hode
 <li>hodepine med lammelser, nummenhet, talevansker, synsforstyrrelser eller forvirring</li>
 <li>hodepine etter et slag mot hodet</li>
 </ul>
-<p>Kontakt fastlegen hvis hodepinen er ny og vedvarende (særlig etter fylte 50 år), stadig blir verre, endrer karakter eller vekker deg om natten.</p>
+<p>Ta kontakt raskt for en vurdering, hos meg eller fastlegen, hvis hodepinen er ny og vedvarende (særlig etter fylte 50 år), stadig blir verre, endrer karakter eller vekker deg om natten.</p>
 </div>
 
 ## Vanlige spørsmål om spenningshodepine

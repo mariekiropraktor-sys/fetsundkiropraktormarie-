@@ -5,7 +5,7 @@ description: "Menières sykdom gir anfall av kraftig svimmelhet, øresus og tett
 kortFortalt:
   - "Menières sykdom gir anfall av spinnende svimmelhet som varer fra 20 minutter til flere timer, sammen med øresus, tett øre og nedsatt hørsel på ett øre."
   - "Sykdommen er ganske sjelden. Mange som tror de har Ménière, har heller vestibulær migrene eller krystallsyke."
-  - "Diagnosen stilles av øre-nese-hals-lege med hørselstest. Behandlingen tar sikte på færre og mildere anfall."
+  - "Diagnosen krever hørselstest hos øre-nese-hals-lege, og jeg kan henvise deg dit. Behandlingen tar sikte på færre og mildere anfall."
   - "Mellom anfallene kan balansetrening og gode hverdagsrutiner gjøre det lettere å leve med sykdommen."
 date: 2026-10-20
 tema: svimmelhet
@@ -85,9 +85,9 @@ Mange opplever også at sykdommen roer seg med årene, selv om forløpet variere
 
 Mellom anfallene kan **balansetrening** (vestibulær rehabilitering) være til god hjelp, særlig hvis du har blitt gående ustø eller usikker på deg selv. Dette er noe jeg jobber mye med, og vi kan sette opp øvelser tilpasset deg, i samarbeid med fastlegen eller øre-nese-hals-lege.
 
-## Når bør du kontakte lege?
+## Når bør du søke hjelp?
 
-Har du anfall av svimmelhet sammen med øresus, tett øre eller dårligere hørsel, bør du snakke med fastlegen. Plutselig hørselstap bør vurderes av lege raskt, helst samme dag.
+Har du anfall av svimmelhet sammen med øresus, tett øre eller dårligere hørsel, bør det utredes. Jeg kan undersøke svimmelheten og henvise deg til øre-nese-hals-lege, eller du kan gå via fastlegen. Plutselig hørselstap skal vurderes raskt, helst samme dag, av legevakt eller øre-nese-hals-lege.
 
 <div class="boks boks--advarsel">
 <p class="boks__tittel">Ring 113 eller legevakt (116 117) hvis svimmelheten kommer plutselig sammen med</p>
@@ -111,7 +111,7 @@ Den er ganske sjelden. Mange som har svimmelhet med øresus, har andre årsaker,
 
 ### Kan kiropraktor behandle Menières sykdom?
 
-Diagnose og medisinsk behandling hører hjemme hos lege og øre-nese-hals-lege. Som kiropraktor kan jeg undersøke svimmelheten, skille mellom ulike typer, henvise videre og hjelpe med balansetrening mellom anfallene.
+Som kiropraktor kan jeg undersøke svimmelheten, skille mellom ulike typer og henvise deg til øre-nese-hals-lege for hørselstest. Mellom anfallene kan jeg hjelpe med balansetrening. Den medisinske behandlingen av selve sykdommen styres av øre-nese-hals-lege og fastlege.
 
 ### Trenger jeg henvisning for å komme til deg?
 

@@ -16,7 +16,7 @@ forfatter: "Marie Hermansen"
 
 Kjenner du at **hodepinen starter i nakken** og kryper opp i bakhodet, kanskje helt frem mot tinningen eller bak øyet? Da kan det være hodepine fra nakken, eller cervikogen hodepine, som det heter på fagspråket. Det er en av de typene hodepine jeg ser oftest på klinikken i Fetsund, og den henger ofte sammen med en stiv nakke, lange skjermdager og stress.
 
-Her forklarer jeg hva som kjennetegner hodepine fra nakken, hvordan den skiller seg fra andre typer hodepine, hva du kan gjøre selv, og når du bør kontakte lege.
+Her forklarer jeg hva som kjennetegner hodepine fra nakken, hvordan den skiller seg fra andre typer hodepine, hva du kan gjøre selv, og når du bør søke hjelp raskt.
 
 ## Hva er hodepine fra nakken?
 

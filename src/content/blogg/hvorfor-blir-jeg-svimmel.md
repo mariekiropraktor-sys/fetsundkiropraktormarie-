@@ -86,9 +86,9 @@ Langvarig spenning i nakke og skuldre, overfladisk pust og et nervesystem som st
 ## Når bør du få svimmelheten undersøkt?
 
 <div class="boks boks--advarsel">
-<p class="boks__tittel">Når bør du kontakte lege?</p>
+<p class="boks__tittel">Når bør du søke hjelp raskt?</p>
 <p><strong>Ring 113</strong> hvis svimmelheten kommer brått sammen med lammelser, kraftsvikt, talevansker, dobbeltsyn, plutselig kraftig hodepine, brystsmerter, pustevansker eller bevissthetstap.</p>
-<p>Ta kontakt med lege eller kiropraktor ganske raskt hvis svimmelheten:</p>
+<p>Ta kontakt ganske raskt, med meg eller fastlegen, hvis svimmelheten:</p>
 <ul>
 <li>varer i flere dager uten å bli bedre</li>
 <li>kommer i anfall som blir kraftigere eller hyppigere</li>

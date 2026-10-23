@@ -7,7 +7,7 @@ kortFortalt:
   - "Det finnes mange typer hodepine. Spenningshodepine og hodepine fra nakken er de vanligste jeg ser."
   - "Nakke, kjeve, stress, søvn og skjermtid spiller ofte sammen."
   - "Behandlingen er rettet mot muskler og ledd i nakke og kjeve, sammen med øvelser og råd."
-  - "Noen typer hodepine skal utredes av lege. Jeg henviser deg hvis det trengs."
+  - "Jeg undersøker og stiller diagnose selv, og henviser til MR, spesialist eller fastlege hvis det trengs."
 kjennetegn:
   - "Trykk eller stramt bånd rundt hodet"
   - "Hodepine som starter i nakken og trekker opp bak øyet"
@@ -25,7 +25,7 @@ typer:
     tekst: "Stramme tyggemuskler kan gi smerter i tinningen og rundt øret. Henger ofte sammen med tanngnissing og stress."
     lenke: "/stresshodepine-svimmelhet-og-kjevesmerter/"
   - navn: "Migrene"
-    tekst: "Anfall med kraftig, ofte dunkende hodepine, gjerne med kvalme og lysømfintlighet. Utredes og behandles av lege, men nakken kan være en av utløserne."
+    tekst: "Anfall med kraftig, ofte dunkende hodepine, gjerne med kvalme og lysømfintlighet. Medisinsk behandling får du hos fastlegen, men nakken kan være en av utløserne."
   - navn: "Vestibulær migrene"
     tekst: "En form for migrene der svimmelhet er hovedplagen, med eller uten hodepine. Et av feltene jeg jobber mest med."
     lenke: "/svimmelhet/vestibulaer-migrene/"
@@ -36,13 +36,13 @@ innlegg:
   - "stresshodepine-svimmelhet-og-kjevesmerter"
 faq:
   - sporsmal: "Kan kiropraktor hjelpe mot hodepine?"
-    svar: "Ved spenningshodepine og hodepine fra nakken kan behandling av muskler og ledd, kombinert med øvelser, gi mindre og sjeldnere hodepine for mange. Ved migrene er det legen som har hovedansvaret, men behandling av nakken kan være et nyttig tillegg."
+    svar: "Ved spenningshodepine og hodepine fra nakken kan behandling av muskler og ledd, kombinert med øvelser, gi mindre og sjeldnere hodepine for mange. Ved migrene er medisinsk behandling hos fastlegen ofte sentralt, og behandling av nakken kan være et nyttig tillegg."
   - sporsmal: "Hvordan vet jeg om hodepinen kommer fra nakken?"
     svar: "Typisk starter den i nakken og trekker oppover, kommer oftest på samme side og blir verre ved bestemte bevegelser eller etter lang tid i samme stilling. Ved undersøkelsen tester jeg om jeg kan fremkalle eller lindre hodepinen ved å undersøke nakken."
   - sporsmal: "Hvor mange behandlinger trenger jeg?"
     svar: "Det varierer. Mange merker bedring etter noen få behandlinger. Vi lager en plan etter undersøkelsen og vurderer underveis om det hjelper. Øvelsene du gjør hjemme er en viktig del."
   - sporsmal: "Bør jeg ta bilder av nakken?"
-    svar: "Som regel ikke. Bilder viser sjelden årsaken til hodepine. Er det tegn på at noe annet er galt, henviser jeg deg til lege eller videre utredning. Som kiropraktor kan jeg også henvise til MR og røntgen når det trengs."
+    svar: "Som regel ikke. Bilder viser sjelden årsaken til hodepine. Er det tegn på at noe annet er galt, henviser jeg deg selv videre, til MR, røntgen, spesialist eller fastlege."
   - sporsmal: "Trenger jeg henvisning?"
     svar: "Nei. Kiropraktorer er autorisert helsepersonell med primærkontaktstatus, så du kan bestille time direkte."
 kilder:

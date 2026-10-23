@@ -103,7 +103,7 @@ Du får også enkle øvelser for kjeven, og råd om hvordan du kan avlaste den i
 <li>du har hevelse, feber eller tannverk</li>
 <li>kjeven plutselig låser seg slik at du ikke får lukket munnen</li>
 <li>du får nummenhet i ansiktet</li>
-<li>plagene ikke blir bedre etter noen uker med behandling</li>
 </ul>
+<p>Blir ikke plagene bedre etter noen uker med behandling, henviser jeg deg videre.</p>
 <p>Får du smerter i kjeven sammen med trykk eller smerter i brystet, særlig ved anstrengelse: ring 113. Det kan være hjertet.</p>
 </div>
