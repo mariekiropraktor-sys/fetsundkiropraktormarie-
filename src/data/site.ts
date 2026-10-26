@@ -10,6 +10,8 @@ export const site = {
   adresse: "Garderbakken 1, 1900 Fetsund",
   telefon: "463 32 766",
   telefonLenke: "tel:+4746332766",
+  epost: "mariekiropraktor@gmail.com",
+  epostLenke: "mailto:mariekiropraktor@gmail.com",
   // Timebestilling rett i Maries egen kalender i Pasientsky (ikke klinikkens felles oversikt)
   booking: `${pasientsky}&timeslotType=4d6f6546-0875-11eb-8cb2-367c89629524&calendarId=${kalender}`, // førstegangsundersøkelse
   bookingSvimmelhet: `${pasientsky}&timeslotType=d2162c00-a508-11f0-9831-e62cb3f7a407&calendarId=${kalender}`, // førstegangsundersøkelse svimmelhet
