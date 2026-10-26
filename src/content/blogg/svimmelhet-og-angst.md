@@ -9,9 +9,9 @@ kortFortalt:
   - "Undersøkelse, forklaring og tilpasset vestibulær rehabilitering kan hjelpe. Noen har også nytte av psykologisk behandling."
 date: 2026-10-24
 tema: svimmelhet
+image: "/bilder/blogg/svimmelhet-og-angst.webp"
 bildeTekst: "Bildet er laget med KI."
 forfatter: "Marie Hermansen"
-utkast: true
 ---
 
 **Svimmelhet og angst** kan påvirke hverandre i begge retninger. Noen blir svimle i perioder med stress eller uro. Andre opplever at bekymringen kommer etter et svimmelhetsanfall: Hva om det skjer igjen når jeg handler, kjører bil eller er på jobb?
