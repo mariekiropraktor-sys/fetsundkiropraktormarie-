@@ -7,11 +7,11 @@ import { site } from "../../data/site";
 
 <Layout
   title="Kontakt"
-  description="Kontakt kiropraktor Marie Hermansen på Fetsund Kiropraktorsenter, Garderbakken 1 i Fetsund. Telefon 463 32 766. Bestill time på nett."
+  description="Kontakt kiropraktor Marie Hermansen på Fetsund Kiropraktorsenter, Garderbakken 1 i Fetsund. Telefon 463 32 766, e-post mariekiropraktor@gmail.com. Bestill time på nett."
 >
   <SideHode
     tittel="Velkommen til Fetsund Kiropraktorsenter"
-    ingress="Bestill time på nett når det passer deg, eller ring hvis du har spørsmål først."
+    ingress="Bestill time på nett når det passer deg, eller ring eller send en e-post hvis du har spørsmål først."
     smuler={[{ navn: "Kontakt" }]}
   />
 
@@ -38,6 +38,13 @@ import { site } from "../../data/site";
       <div>
         <h2 class="kontakt__tittel">Telefon</h2>
         <p><a href={site.telefonLenke}>{site.telefon}</a></p>
+      </div>
+      <div>
+        <h2 class="kontakt__tittel">E-post</h2>
+        <p><a href={site.epostLenke}>{site.epost}</a></p>
+        <p class="muted liten">
+          Ikke send helseopplysninger på e-post. Ring meg heller, eller ta det opp når du kommer til time.
+        </p>
       </div>
       <div class="btn-row">
         <a class="btn" href={site.booking}>Bestill time på nett</a>
