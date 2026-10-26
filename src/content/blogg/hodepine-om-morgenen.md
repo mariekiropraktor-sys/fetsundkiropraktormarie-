@@ -9,9 +9,9 @@ kortFortalt:
   - "Plutselig ekstrem hodepine eller hodepine med akutte nevrologiske symptomer krever øyeblikkelig hjelp. Andre faresignaler trenger rask medisinsk vurdering."
 date: 2026-10-25
 tema: nakke-og-hode
+image: "/bilder/blogg/hodepine-om-morgenen.webp"
 bildeTekst: "Bildet er laget med KI."
 forfatter: "Marie Hermansen"
-utkast: true
 ---
 
 Våkner du med en dump verk i hodet før dagen egentlig har begynt? Kanskje løsner den etter frokost, eller kanskje den følger deg videre utover formiddagen. **Hodepine om morgenen** kan ha flere forklaringer, og det er ikke alltid selve natten som er årsaken.
