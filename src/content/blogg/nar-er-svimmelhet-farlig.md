@@ -6,7 +6,7 @@ kortFortalt:
   - "De fleste som blir svimle, har en ufarlig årsak, som krystallsyke, betennelse i balansenerven eller vestibulær migrene."
   - "Svimmelhet som kommer brått sammen med tale- eller synsforstyrrelser, lammelser, nummenhet eller kraftig ustøhet, kan være hjerneslag. Ring 113."
   - "Ny, vedvarende svimmelhet som ikke går over i løpet av noen timer, bør undersøkes samme dag."
-  - "Svimmelhet som kommer og går over tid, er sjelden akutt, men fortjener en grundig undersøkelse."
+  - "Svimmelhet som kommer og går, er sjelden akutt. Behandlingen tilpasses årsaken, for eksempel reposisjoneringsmanøvrer, balansetrening eller behandling av nakken."
 date: 2026-10-28
 tema: svimmelhet
 bildeTekst: "Bildet er laget med KI."
@@ -72,11 +72,35 @@ Korte snurr ved hodebevegelser skyldes ofte krystallsyke, som kan behandles. Anf
 </ul>
 </div>
 
-## Slik undersøker jeg svimmelhet
+## Slik undersøker og behandler jeg svimmelhet
 
-Som kiropraktor er jeg primærkontakt, så du trenger ikke henvisning. Jeg starter med en grundig samtale om hvordan svimmelheten oppleves, og undersøker blant annet balansen, øyebevegelsene, nervesystemet og nakken. Ved mistanke om krystallsyke gjør jeg posisjonstester.
+Som kiropraktor er jeg primærkontakt, så du trenger ikke henvisning. Jeg starter med en grundig samtale om hvordan svimmelheten oppleves. Deretter undersøker jeg blant annet balansen, øyebevegelsene (med VNG-briller), nervesystemet og nakken. Ved mistanke om krystallsyke gjør jeg posisjonstester.
 
-Finner jeg tegn som peker mot noe annet enn det jeg behandler, henviser jeg videre, for eksempel til øre-nese-hals-lege, nevrolog eller bildediagnostikk. Behandlingen tilpasses årsaken og kan omfatte reposisjoneringsmanøvrer, [øvelser mot svimmelhet](/ovelser-mot-svimmelhet/) og behandling av nakken når den er en del av bildet.
+Finner jeg tegn som peker mot noe annet enn det jeg behandler, henviser jeg videre, for eksempel til øre-nese-hals-lege, nevrolog eller bildediagnostikk. Behandlingen avhenger av hva som er årsaken til svimmelheten din.
+
+### Krystallsyke
+
+Ved krystallsyke behandler jeg med reposisjoneringsmanøvrer. Det er rolige, styrte bevegelser av hodet og kroppen som hjelper krystallene tilbake på plass i balanseorganet. Mange blir merkbart bedre etter én eller noen få behandlinger. Du finner mer om krystallsyke på [Krystallsykehjelpen](https://krystallsykehjelpen.no/).
+
+### Restsvimmelhet og ustøhet
+
+Etter for eksempel betennelse i balansenerven eller ved [PPPD](/svimmelhet/pppd/) bruker jeg vestibulær rehabilitering. Det er tilpasset balansetrening der hjernen gradvis venner seg til bevegelse igjen. Den kan bestå av:
+
+- blikkstabiliseringsøvelser, der du holder blikket på et punkt mens du beveger hodet
+- balanseøvelser som gradvis blir mer krevende
+- tilvenningsøvelser for bevegelser og omgivelser som utløser svimmelheten
+
+Øvelsene tilpasses deg, og vi justerer dem underveis. Les mer i [Øvelser mot svimmelhet](/ovelser-mot-svimmelhet/).
+
+### Svimmelhet med nakkeplager
+
+Henger svimmelheten sammen med nakken, som ved [nakkesvimmelhet](/svimmelhet/nakkesvimmelhet/), behandler jeg nakken. Det kan være manipulasjonsbehandling eller leddmobilisering, bløtvevsbehandling, [traksjon](/behandlingsmetode/traksjon/) og nålebehandling. I tillegg får du øvelser for bevegelighet og kontroll i nakken.
+
+### Vestibulær migrene
+
+Ved [vestibulær migrene](/svimmelhet/vestibulaer-migrene/) kartlegger vi sammen hva som utløser anfallene, og ser på søvn, stress og nakkespenninger. Balansetrening kan dempe ustøheten mellom anfallene. Trenger du forebyggende medisiner, går det via fastlegen.
+
+Hvor raskt det går, varierer fra person til person. Jeg gir deg en ærlig vurdering etter undersøkelsen, og en plan for hva vi gjør videre.
 
 ## Vanlige spørsmål om farlig svimmelhet
 
