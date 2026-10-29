@@ -61,7 +61,7 @@ Selve forandringene i leddet forsvinner ikke, men plagene gjør ofte det. Studie
 <div class="boks boks--rad">
 <p class="boks__tittel">Fem råd for et ømt kjeveledd</p>
 <ul class="sjekk">
-<li><strong>Avlast i gode perioder og dårlige perioder.</strong> Velg mykere mat når det er verst, del maten i små biter og dropp tyggegummi.</li>
+<li><strong>Avlast i de vonde periodene.</strong> Velg mykere mat når det er verst, del maten i små biter og dropp tyggegummi.</li>
 <li><strong>Finn hvilestillingen.</strong> Leppene lukket, tennene litt fra hverandre og tungen lett mot ganen.</li>
 <li><strong>Beveg rolig.</strong> Åpne og lukk munnen sakte foran speilet, så langt det går uten å forverre smerten, 5–10 ganger et par ganger om dagen.</li>
 <li><strong>Varme.</strong> En varm klut mot kinnet i 10–15 minutter kan dempe stivhet og stramme muskler.</li>
