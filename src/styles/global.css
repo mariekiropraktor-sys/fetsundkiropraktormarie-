@@ -1,15 +1,18 @@
-/* Farger og skrift fra designet «Valgt retning» (turkis fra logoen) */
+/* Farger: «Havbris og fersken» (valgt okt. 2026) – havblå, lys havbris og fersken, turkis fra logoen */
 :root {
-  --ink: #101923;
-  --muted: #475569;
-  --bg: #eef2f7;
+  --ink: #10303a;
+  --muted: #475f68;
+  --bg: #f6fbfc;
   --surface: #ffffff;
-  --line: #dde6f0;
-  --line-2: #cbd7e7;
-  --teal: #0b6e81; /* knapper og lenker – lesbar mot hvitt */
+  --line: #d8ebee;
+  --line-2: #c2dfe4;
+  --teal: #0a6f7e; /* havblå: knapper og lenker – lesbar mot hvitt */
   --teal-bright: #18bad3; /* logoens turkis, brukes på mørk bakgrunn */
   --teal-soft: #baeff7;
   --teal-line: #4fa3b3;
+  --havbris: #dff3f6; /* lys flate øverst på forsiden */
+  --fersken: #f4a27e; /* varm knappefarge, alltid med mørk tekst */
+  --fersken-lys: #fde7dc;
   --star: #b7791f;
 
   --serif: "Fraunces Variable", Georgia, serif;
@@ -181,6 +184,17 @@ p {
 .btn--light:hover {
   background: var(--teal-soft);
   border-color: var(--teal-soft);
+  color: var(--ink);
+}
+/* Ferskenknapp – hovedknappen på mørk og lys havbris-bakgrunn */
+.btn--fersken {
+  background: var(--fersken);
+  border-color: var(--fersken);
+  color: var(--ink);
+}
+.btn--fersken:hover {
+  background: #fff;
+  border-color: #fff;
   color: var(--ink);
 }
 .btn--outline-light {
