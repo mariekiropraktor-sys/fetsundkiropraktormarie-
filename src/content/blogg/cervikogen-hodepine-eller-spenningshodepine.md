@@ -9,9 +9,9 @@ kortFortalt:
   - "Plutselig, svært kraftig eller ny og annerledes hodepine skal vurderes samme dag. Ved tegn på hjerneslag: ring 113."
 date: 2026-10-30
 tema: nakke-og-hode
+image: "/bilder/blogg/cervikogen-hodepine-eller-spenningshodepine.webp"
 bildeTekst: "Bildet er laget med KI."
 forfatter: "Marie Hermansen"
-utkast: true
 ---
 
 **Cervikogen hodepine eller spenningshodepine** – hva er egentlig forskjellen? Begge henger ofte sammen med en stiv og øm nakke, og mange tror derfor at de er det samme. Det er de ikke. Cervikogen hodepine er smerte som kommer *fra* nakken og kjennes i hodet. Spenningshodepine er en egen hodepinetype der nakken kan være med og spille inn, men ikke er selve kilden.
