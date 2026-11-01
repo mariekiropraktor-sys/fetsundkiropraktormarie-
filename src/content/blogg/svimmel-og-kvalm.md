@@ -1,7 +1,7 @@
 ---
 title: "Svimmel og kvalm – hva kan det skyldes, og hva kan du gjøre?"
 seoTittel: "Svimmel og kvalm – vanlige årsaker og gode råd"
-description: "Svimmel og kvalm samtidig? Les hvorfor balansesystemet gir kvalme, hva mønsteret sier om årsaken, hva du kan gjøre selv, og når du skal søke hjelp raskt."
+description: "Svimmel og kvalm samtidig? Les hvorfor balansen gir kvalme, hva mønsteret sier om årsaken, hva du kan gjøre selv, og når du bør søke hjelp raskt."
 kortFortalt:
   - "Balanseorganet og hjernens kvalmesenter er tett koblet. Derfor gir svimmelhet ofte kvalme, uansett årsak."
   - "Hvor lenge svimmelheten varer, og hva som utløser den, sier mye om årsaken: krystallsyke, betennelse i balansenerven, vestibulær migrene, Ménière, reisesyke eller blodtrykket."
