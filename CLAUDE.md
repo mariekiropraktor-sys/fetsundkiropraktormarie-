@@ -42,8 +42,9 @@ vercel.json             # 301-videresendinger fra gamle WordPress-adresser
 ```
 
 ## Design
-Fra designlerretet «Valgt retning» (kombinasjon av forslag A og B).
-- Farger: `--ink` #101923, `--bg` #eef2f7, `--teal` #0b6e81 (knapper/lenker),
+Layout fra designlerretet «Valgt retning». Fargepalett «Havbris og fersken» (valgt 30. okt. 2026):
+- `--ink` #10303a (tekst og mørke flater), `--bg` #f6fbfc, `--teal` #0a6f7e (havblå: knapper/lenker),
+  `--havbris` #dff3f6 (lys toppflate på forsiden), `--fersken` #f4a27e (hovedknapp, alltid med mørk tekst: `.btn--fersken`),
   `--teal-bright` #18bad3 (logoens turkis, kun på mørk bakgrunn)
 - Fonter: Fraunces (overskrifter), Outfit (brødtekst)
 - Bilder i `public/bilder/`
