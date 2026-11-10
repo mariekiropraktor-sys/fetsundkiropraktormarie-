@@ -101,3 +101,8 @@ Fra designlerretet «Valgt retning» (kombinasjon av forslag A og B).
 - Svimmelhetssider, krystallsyke og blogginnlegg med `tema: svimmelhet` bruker svimmelhetslenken.
   I Markdown: `/bestill/` (førstegang) eller `/bestill-svimmelhet/`.
 - Prissiden: hver timetype har riktig lenke (feltet `bestill` i `priser`). Dobbelttimer = «Ring for time».
+
+## Google Ads-måling (besluttet 10. nov. 2026)
+- Samme annonsekonto og samtykkebanner som klinikksiden (`components/CookieSamtykke.astro`, `googleAds` i site.ts).
+- Alle bestillingsklikk (Maries kalender, /bestill/, /bestill-svimmelhet/) telles som «Bestillingsklikk Marie».
+- Ingenting fra Google lastes før den besøkende har trykket «Godta». Personvernsiden er oppdatert.

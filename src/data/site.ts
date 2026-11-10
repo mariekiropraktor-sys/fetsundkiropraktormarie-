@@ -4,6 +4,16 @@ const pasientsky =
   "https://psno-patient-platform-fe.svc.pasientsky.no/embedded/planner/booking?serviceProviderId=54907264-049e-11eb-8fc8-26c6f94d64b7";
 const kalender = "8b02aa62-04b5-11eb-98d4-56c227606b2b"; // Maries kalender
 
+// Google Ads-måling (samme annonsekonto som fetsundkiropraktor.no). Står id tom, lastes ingen Google-kode
+// og det vises ikke noe cookie-banner. Måler bare klikk til timebestilling, ikke ferdige bestillinger.
+export const googleAds = {
+  id: "AW-520953726",
+  bestillMarie: "xe9CCP6Y2LUdEP6-tPgB", // «Bestillingsklikk Marie (Pasientsky)»
+  bestill: "STS1CIrUy5wdEP6-tPgB", // «Klikk til timebestilling pasientsky» – felles booking uten Maries kalender
+  ring: "",
+  kalender,
+};
+
 export const site = {
   navn: "Kiropraktor Marie Hermansen",
   klinikk: "Fetsund Kiropraktorsenter",
