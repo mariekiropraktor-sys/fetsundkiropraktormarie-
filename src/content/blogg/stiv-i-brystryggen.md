@@ -77,11 +77,12 @@ Begge tilstandene er ufarlige og går som regel over av seg selv, men det kan ta
 Det viktigste er jevnlig bevegelse. Korte pauser mange ganger om dagen gir ofte mer enn én lang økt i uka.
 
 <div class="boks boks--rad">
-<p class="boks__tittel">Tre enkle øvelser for brystryggen</p>
+<p class="boks__tittel">Fire enkle øvelser for brystryggen</p>
 
 - **Vridning i sideliggende («bok som åpner seg»):** Ligg på siden med knærne bøyd og armene strak fram. Før den øverste armen i en bue over til den andre siden, og la blikket følge hånden. Pust rolig ut. 8–10 ganger per side.
 - **Bakoverbøy over stolryggen:** Sitt på en stol med lav rygg, hendene bak hodet. Len deg rolig bakover over stolryggen og pust inn. 8–10 ganger.
 - **Katt og ku på alle fire:** Skyt ryggen rolig opp mot taket, og senk den deretter forsiktig ned. Følg pusten. 8–10 ganger.
+- **Foamroller under brystryggen:** Ligg på ryggen med foamrolleren på tvers under brystryggen, knærne bøyd og hendene bak hodet for å støtte nakken. Len deg rolig bakover over rullen og pust ut, og kom opp igjen. Flytt rullen litt opp eller ned og gjenta. Hold rullen mellom skulderbladene og nederste ribbein, ikke under korsryggen eller nakken. 1–2 minutter.
 
 Øvelsene skal kjennes som en god strekk, ikke gi skarp smerte. Gjør dem gjerne et par ganger om dagen, og legg inn små bevegelsespauser hver halvtime når du sitter mye.
 </div>
