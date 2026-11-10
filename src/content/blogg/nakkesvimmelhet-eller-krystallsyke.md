@@ -9,6 +9,8 @@ kortFortalt:
   - "Begge kan testes og behandles hos kiropraktor, og du trenger ingen henvisning."
 date: 2026-11-10
 tema: svimmelhet
+image: "/bilder/blogg/nakkesvimmelhet-eller-krystallsyke.webp"
+bildeTekst: "Bildet er laget med KI."
 forfatter: "Marie Hermansen"
 ---
 
