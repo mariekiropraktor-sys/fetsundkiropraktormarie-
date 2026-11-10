@@ -12,7 +12,6 @@ tema: rygg-og-ledd
 image: "/bilder/blogg/stiv-i-brystryggen.webp"
 bildeTekst: "Bildet er laget med KI."
 forfatter: "Marie Hermansen"
-utkast: true
 ---
 
 Mange som kommer til meg med vondt i nakken eller skuldrene, er også **stiv i brystryggen**, ofte uten å ha tenkt over det selv. Brystryggen er den delen av ryggen som går fra nakken og ned til korsryggen, der ribbeina fester seg. Den er laget for å rotere og bøye seg, men i en hverdag med mye sitting får den sjelden bruke hele bevegeligheten sin.
