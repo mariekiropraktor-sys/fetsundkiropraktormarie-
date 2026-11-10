@@ -77,11 +77,12 @@ Begge tilstandene er ufarlige og går som regel over av seg selv, men det kan ta
 Det viktigste er jevnlig bevegelse. Korte pauser mange ganger om dagen gir ofte mer enn én lang økt i uka.
 
 <div class="boks boks--rad">
-<p class="boks__tittel">Fire enkle øvelser for brystryggen</p>
+<p class="boks__tittel">Fem enkle øvelser for brystryggen</p>
 
 - **Vridning i sideliggende («bok som åpner seg»):** Ligg på siden med knærne bøyd og armene strak fram. Før den øverste armen i en bue over til den andre siden, og la blikket følge hånden. Pust rolig ut. 8–10 ganger per side.
 - **Bakoverbøy over stolryggen:** Sitt på en stol med lav rygg, hendene bak hodet. Len deg rolig bakover over stolryggen og pust inn. 8–10 ganger.
 - **Katt og ku på alle fire:** Skyt ryggen rolig opp mot taket, og senk den deretter forsiktig ned. Følg pusten. 8–10 ganger.
+- **Wall angels («engel mot veggen»):** Stå med ryggen mot en vegg, med hælene et lite stykke ut fra veggen og knærne litt bøyd. Ha bakhodet, skulderbladene og korsryggen inntil veggen. Løft armene til siden med albuene bøyd, som en «W», og la armene ligge mot veggen. Skyv armene rolig opp langs veggen så langt du klarer uten at korsryggen svaier eller armene slipper veggen, og før dem ned igjen. Pust rolig. 8–10 ganger.
 - **Foamroller under brystryggen:** Ligg på ryggen med foamrolleren på tvers under brystryggen, knærne bøyd og hendene bak hodet for å støtte nakken. Len deg rolig bakover over rullen og pust ut, og kom opp igjen. Flytt rullen litt opp eller ned og gjenta. Hold rullen mellom skulderbladene og nederste ribbein, ikke under korsryggen eller nakken. 1–2 minutter. Har du benskjørhet, eller har du nylig hatt et fall, bør du ikke bruke foamroller på ryggen før du har fått det vurdert.
 
 Øvelsene skal kjennes som en god strekk, ikke gi skarp smerte. Gjør dem gjerne et par ganger om dagen, og legg inn små bevegelsespauser hver halvtime når du sitter mye.
