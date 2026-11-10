@@ -1,7 +1,7 @@
 ---
 title: "Stiv i brystryggen – hvorfor det skjer, og hva du kan gjøre selv"
 seoTittel: "Stiv i brystryggen – årsaker og øvelser som hjelper"
-description: "Stiv i brystryggen? Les hvordan stivheten kan påvirke nakke, skuldre, korsrygg og hofter, hvorfor ribbeina kan verke, enkle øvelser og når du bør søke hjelp."
+description: "Stiv i brystryggen? Les hvordan stivheten kan påvirke nakke, skuldre, korsrygg og hofter, hvorfor ribbeina kan verke, øvelser og når du bør søke hjelp."
 kortFortalt:
   - "Brystryggen er laget for å rotere og bøye seg bakover, men mye sitting gjør at vi bruker den lite. Da kjennes den ofte stiv."
   - "En stiv brystrygg kan gi mer belastning på nakken og skuldrene over, og på korsryggen og hoftene under."
