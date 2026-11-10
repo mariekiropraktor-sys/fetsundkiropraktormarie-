@@ -9,6 +9,7 @@ kortFortalt:
   - "Stivhet som er verst om morgenen, varer mer enn en halvtime og blir bedre av bevegelse, særlig hvis du er under 45 år, bør undersøkes for betennelsessykdom som Bekhterevs sykdom."
 date: 2026-11-10
 tema: rygg-og-ledd
+image: "/bilder/blogg/stiv-i-brystryggen.webp"
 bildeTekst: "Bildet er laget med KI."
 forfatter: "Marie Hermansen"
 utkast: true
