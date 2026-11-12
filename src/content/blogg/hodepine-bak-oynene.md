@@ -12,7 +12,6 @@ tema: nakke-og-hode
 image: "/bilder/blogg/hodepine-bak-oynene.webp"
 bildeTekst: "Bildet er laget med KI."
 forfatter: "Marie Hermansen"
-utkast: true
 ---
 
 **Hodepine bak øynene** er noe mange kjenner seg igjen i: et trykk, en verk eller en dunkende smerte som sitter bak det ene eller begge øynene. Som regel er årsaken ufarlig. I min erfaring som kiropraktor kommer den svært ofte fra øvre del av nakken, fra kjeven eller fra stramme muskler i nakke og skuldre, men også migrene og slitne øyne etter lange skjermdager er vanlige årsaker. Noen ganger kommer hodepinen sammen med svimmelhet eller ørhet, og det er et område jeg jobber mye med. Her forklarer jeg hva som kan ligge bak, hva du kan gjøre selv, og hvilke tegn du ikke skal vente med.
