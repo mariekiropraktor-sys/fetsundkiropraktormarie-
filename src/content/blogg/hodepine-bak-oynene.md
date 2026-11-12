@@ -9,6 +9,7 @@ kortFortalt:
   - "Plutselig smerte i øyet med rødt øye, tåkesyn eller synstap skal vurderes akutt."
 date: 2026-11-12
 tema: nakke-og-hode
+image: "/bilder/blogg/hodepine-bak-oynene.webp"
 bildeTekst: "Bildet er laget med KI."
 forfatter: "Marie Hermansen"
 utkast: true
