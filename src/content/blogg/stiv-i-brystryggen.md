@@ -14,7 +14,7 @@ bildeTekst: "Bildet er laget med KI."
 forfatter: "Marie Hermansen"
 ---
 
-Mange som kommer til meg med vondt i nakken eller skuldrene, er også **stiv i brystryggen**, ofte uten å ha tenkt over det selv. Brystryggen er den delen av ryggen som går fra nakken og ned til korsryggen, der ribbeina fester seg. Den er laget for å rotere og bøye seg, men i en hverdag med mye sitting får den sjelden bruke hele bevegeligheten sin.
+MMMange som kommer til meg med vondt i nakken eller skuldrene, er også **stiv i brystryggen**, ofte uten å ha tenkt over det selv. Brystryggen er den delen av ryggen som går fra nakken og ned til korsryggen, der ribbeina fester seg. Den er laget for å rotere og bøye seg, men i en hverdag med mye sitting får den sjelden bruke hele bevegeligheten sin.
 
 I denne artikkelen forklarer jeg hvorfor brystryggen blir stiv, hva det kan ha å si for nakke, skuldre, korsrygg, hofter og ribbein, hva du kan gjøre selv, og når stivheten bør undersøkes nærmere.
 
@@ -86,6 +86,7 @@ Det viktigste er jevnlig bevegelse. Korte pauser mange ganger om dagen gir ofte 
 - **Foamroller under brystryggen:** Ligg på ryggen med foamrolleren på tvers under brystryggen, knærne bøyd og hendene bak hodet for å støtte nakken. Len deg rolig bakover over rullen og pust ut, og kom opp igjen. Flytt rullen litt opp eller ned og gjenta. Hold rullen mellom skulderbladene og nederste ribbein, ikke under korsryggen eller nakken. 1–2 minutter. Har du benskjørhet, eller har du nylig hatt et fall, bør du ikke bruke foamroller på ryggen før du har fått det vurdert.
 
 Øvelsene skal kjennes som en god strekk, ikke gi skarp smerte. Gjør dem gjerne et par ganger om dagen, og legg inn små bevegelsespauser hver halvtime når du sitter mye.
+
 </div>
 
 Gåturer med armsving, svømming og langrenn er også fine aktiviteter, fordi brystryggen får rotere naturlig.
@@ -107,6 +108,7 @@ Kjenner du deg igjen, bør du undersøkes. Jeg undersøker deg og henviser vider
 - **Ring 113** ved trykk, tyngde eller smerter i brystet, særlig hvis det stråler ut i armen, kjeven eller ryggen, eller kommer med tung pust, kaldsvette eller kvalme. Hjerteinfarkt kan av og til kjennes som smerter mellom skulderbladene.
 - **Ring legevakt (116 117)** ved plutselige, sterke ryggsmerter med feber, eller ved ryggsmerter med tung pust som ikke går over.
 - **Søk hjelp samme dag – hos meg, fastlegen eller legevakt** ved ryggsmerter etter et fall eller slag, særlig hvis du har benskjørhet, ved nummenhet eller svakhet i bena, eller ved smerter sammen med uforklarlig vekttap eller kjent kreftsykdom.
+
 </div>
 
 ## Undersøkelse og behandling hos kiropraktor
@@ -157,4 +159,5 @@ Er du stiv i brystryggen, eller har du plager i nakke og skuldre som ikke gir se
 - Norsk Helseinformatikk (NHI): Tietzes syndrom og Kostokondritt. nhi.no
 - Physiopedia: Anatomy, Biomechanics and Regional Interdependence of the Thorax.
 - Helsenorge: Hjerteinfarkt – symptomer og når du skal ringe 113.
+
 </div>
