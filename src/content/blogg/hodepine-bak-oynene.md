@@ -1,12 +1,12 @@
 ---
 title: "Hodepine bak øynene – hva kan det skyldes, og hva kan du gjøre?"
 seoTittel: "Hodepine bak øynene – vanlige årsaker og råd"
-description: "Har du hodepine bak øynene? Les om vanlige årsaker som spenningshodepine, migrene, skjerm og bihuler, hva du kan gjøre selv og når du bør søke hjelp raskt."
+description: "Har du hodepine bak øynene? Ofte kommer den fra øvre del av nakken, kjeven eller stramme muskler. Les om årsaker, egenråd og når du bør søke hjelp."
 kortFortalt:
-  - "Hodepine bak øynene skyldes oftest spenningshodepine, migrene, slitne øyne eller stramme muskler i nakken."
+  - "Hodepine bak øynene kommer ofte fra øvre del av nakken, kjeven og stramme muskler som trapezius."
+  - "Ømme punkter (triggerpunkter) i nakke- og kjevemusklene kan sende smerte frem til øyet."
   - "Migrene bak øyet kan komme sammen med svimmelhet, kvalme og lysømfintlighet."
   - "Plutselig smerte i øyet med rødt øye, tåkesyn eller synstap skal vurderes akutt."
-  - "Skjermpauser, jevn søvn og en hodepinedagbok er gode første steg."
 date: 2026-11-12
 tema: nakke-og-hode
 bildeTekst: "Bildet er laget med KI."
@@ -14,13 +14,41 @@ forfatter: "Marie Hermansen"
 utkast: true
 ---
 
-**Hodepine bak øynene** er noe mange kjenner seg igjen i: et trykk, en verk eller en dunkende smerte som sitter bak det ene eller begge øynene. Som regel er årsaken ufarlig, for eksempel spenningshodepine, migrene eller slitne øyne etter lange dager foran skjermen. Noen ganger kommer hodepinen sammen med svimmelhet eller ørhet, og det er et område jeg jobber mye med. Her forklarer jeg hva som kan ligge bak, hva du kan gjøre selv, og hvilke tegn du ikke skal vente med.
+**Hodepine bak øynene** er noe mange kjenner seg igjen i: et trykk, en verk eller en dunkende smerte som sitter bak det ene eller begge øynene. Som regel er årsaken ufarlig. I min erfaring som kiropraktor kommer den svært ofte fra øvre del av nakken, fra kjeven eller fra stramme muskler i nakke og skuldre, men også migrene og slitne øyne etter lange skjermdager er vanlige årsaker. Noen ganger kommer hodepinen sammen med svimmelhet eller ørhet, og det er et område jeg jobber mye med. Her forklarer jeg hva som kan ligge bak, hva du kan gjøre selv, og hvilke tegn du ikke skal vente med.
 
 ## Hvorfor får man vondt bak øynene?
 
-Området rundt øyet får nerveforsyning fra den samme store ansiktsnerven som også tar imot signaler fra pannen, tinningen og den øverste delen av nakken. Derfor kan smerte fra muskler, ledd og bihuler kjennes som om den sitter «bak øyet», selv om den starter et annet sted. Det er sjelden selve øyet som er problemet. Mønsteret, altså hvordan hodepinen kjennes, når den kommer og hva som følger med, sier mer enn hvor den sitter.
+Området rundt øyet får nerveforsyning fra den samme store ansiktsnerven som også tar imot signaler fra pannen, tinningen og den øverste delen av nakken. Derfor kan smerte fra muskler, ledd og bihuler kjennes som om den sitter «bak øyet», selv om den starter et annet sted. Nervene fra de øverste leddene i nakken kobles sammen med denne ansiktsnerven i hjernestammen, og det er grunnen til at en stiv øvre nakke kan kjennes som smerte bak øyet. Det er sjelden selve øyet som er problemet. Mønsteret, altså hvordan hodepinen kjennes, når den kommer og hva som følger med, sier mer enn hvor den sitter.
 
 ## Vanlige årsaker til hodepine bak øynene
+
+### Øvre del av nakken
+
+Dette er en av de vanligste kildene jeg ser på klinikken. Stive ledd og stramme muskler øverst i nakken, rett under bakhodet, kan gi smerte som starter i bakhodet og stråler frem til tinningen og bak øyet, ofte på samme side hver gang. Den blir gjerne verre av lange perioder med hodet fremoverbøyd, for eksempel over PC-en eller mobilen. Les mer om [hodepine fra nakken](/hodepine-fra-nakken/).
+
+### Triggerpunkter: når musklene sender smerte til øyet
+
+Et triggerpunkt er et ømt, stramt punkt i en muskel som kan gi smerte et annet sted enn der punktet sitter. Flere muskler i nakke, skuldre og kjeve har kjente smertemønstre som når frem til øyet:
+
+<table class="sammenligning">
+<thead>
+<tr><th>Muskel</th><th>Hvor den sitter</th><th>Hvor smerten ofte kjennes</th></tr>
+</thead>
+<tbody>
+<tr><td>Små muskler under bakhodet (suboksipitale muskler)</td><td>Rett under kanten av bakhodet</td><td>Bånd fra bakhodet frem mot øyet og tinningen</td></tr>
+<tr><td>Øvre trapezius</td><td>Fra nakken og ut mot skulderen</td><td>Bak øret, i tinningen og bak øyet</td></tr>
+<tr><td>Sternocleidomastoideus</td><td>Fra bak øret og ned mot kragebeinet, på siden av halsen</td><td>Rundt og bak øyet, i pannen og ved øret, noen kjenner også ørhet</td></tr>
+<tr><td>Splenius-musklene</td><td>Bak i nakken, under trapezius</td><td>Dypt bak øyet og opp mot toppen av hodet</td></tr>
+<tr><td>Temporalis (tyggemuskel)</td><td>I tinningen</td><td>Tinningen, øyebrynet og overtennene</td></tr>
+<tr><td>Masseter (tyggemuskel)</td><td>På kinnet, over kjeven</td><td>Over øyebrynet, i kjeven og ved øret</td></tr>
+</tbody>
+</table>
+
+Mønstrene varierer fra person til person, og flere muskler er ofte med samtidig.
+
+### Kjeven og tyggemusklene
+
+Biter du tennene sammen når du konsentrerer deg, eller skjærer tenner om natten, jobber tyggemusklene hele tiden. Det kan gi verk i tinningen, over øyebrynet og bak øyet, ofte sammen med ømme kjevemuskler eller stivhet når du gaper. Kjeven og øvre nakke henger tett sammen, så plager i den ene påvirker ofte den andre. Les mer om [tanngnissing](/tanngnissing/) og [vondt i kjeven](/vondt-i-kjeven/).
 
 ### Spenningshodepine
 
@@ -35,10 +63,6 @@ Mange vet ikke at migrene også kan gi **svimmelhet**, enten som en snurrende f�
 ### Slitne øyne og skjermbruk
 
 Når du ser på en skjerm i lang tid, blunker du sjeldnere, og øyemusklene jobber med å fokusere på kort avstand. Det kan gi tørre, slitne øyne og en verk bak øynene utover dagen. Ukorrigert syn, for eksempel behov for nye briller, kan bidra. Får du ofte hodepine etter skjermarbeid eller lesing, er det lurt å sjekke synet hos optiker. Noen opplever også at synsbelastning gjør dem litt ørhet eller «tunge i hodet».
-
-### Hodepine fra nakken
-
-Smerte fra leddene og musklene øverst i nakken kan stråle opp i bakhodet og videre frem mot pannen og øyet, ofte på samme side hver gang. Den blir gjerne verre av bestemte nakkestillinger, som når du sitter fremoverbøyd over PC-en. Les mer om [hodepine fra nakken](/hodepine-fra-nakken/).
 
 ### Bihulebetennelse
 
@@ -64,7 +88,7 @@ Klasehodepine gir anfall av ekstremt sterk, borende smerte rundt ett øye, ofte 
 
 Hos meg starter vi med en grundig samtale: når hodepinen kom, hvordan den kjennes, hvor lenge den varer, og om du har andre symptomer som svimmelhet, kvalme, synsforstyrrelser eller kjeveplager. Så undersøker jeg nakken, kjeven og nervesystemet, og ved svimmelhet også balansen og øyebevegelsene. Målet er først å finne ut hva slags hodepine det er, og å utelukke faresignaler.
 
-Peker funnene mot muskler og ledd, kan behandlingen bestå av bløtvevsbehandling, leddmobilisering eller manipulasjonsbehandling av nakken, nålebehandling og [traksjon](/behandlingsmetode/traksjon/), i tillegg til øvelser og råd til hverdagen. Hører svimmelhet med, kan balansetrening være en del av opplegget. Hvor mye det hjelper, varierer fra person til person. Trenger du synsundersøkelse, utredning for migrene eller annen oppfølging, henviser jeg deg videre. Du kan lese mer om hvordan jeg jobber med [hodepine](/hodepine/).
+Jeg kjenner etter på leddene øverst i nakken, og leter etter ømme triggerpunkter i nakke-, skulder- og kjevemusklene som gir den samme smerten du kjenner bak øyet. Peker funnene mot muskler og ledd, består behandlingen gjerne av leddmobilisering eller manipulasjonsbehandling av øvre nakke, triggerpunktbehandling av musklene, nålebehandling og eventuelt [traksjon](/behandlingsmetode/traksjon/), i tillegg til øvelser og råd til hverdagen. Er kjeven med, behandler jeg også tyggemusklene. Hører svimmelhet med, kan balansetrening være en del av opplegget. Hvor mye det hjelper, varierer fra person til person. Trenger du synsundersøkelse, utredning for migrene eller annen oppfølging, henviser jeg deg videre. Du kan lese mer om hvordan jeg jobber med [hodepine](/hodepine/).
 
 <div class="boks boks--advarsel">
 <p class="boks__tittel">Ring 113 ved akutte faresignaler</p>
@@ -77,11 +101,15 @@ Peker funnene mot muskler og ledd, kan behandlingen bestå av bløtvevsbehandlin
 
 ### Er hodepine bak øynene farlig?
 
-Som regel ikke. De fleste har spenningshodepine, migrene eller slitne øyne. Men plutselig, kraftig smerte i øyet, rødt øye eller synsforstyrrelser skal vurderes akutt.
+Som regel ikke. De fleste har plager fra nakken, kjeven eller musklene, spenningshodepine, migrene eller slitne øyne. Men plutselig, kraftig smerte i øyet, rødt øye eller synsforstyrrelser skal vurderes akutt.
 
 ### Kan hodepine bak øynene gi svimmelhet?
 
 Ja. Særlig migrene kan gi svimmelhet, gynging eller ustøhet, med eller uten hodepine. Spenninger i nakken og slitne øyne kan også gi en ør følelse. Kommer svimmelheten plutselig, er kraftig og ny for deg, skal den vurderes akutt.
+
+### Kan nakken gi hodepine bak øynene?
+
+Ja. Stive ledd og stramme muskler øverst i nakken kan sende smerte frem til tinningen og bak øyet, fordi nervene derfra kobles sammen med nervene i ansiktet. Det er en av de vanligste årsakene jeg ser.
 
 ### Kan skjermbruk gi hodepine bak øynene?
 
@@ -104,6 +132,7 @@ Plages du med hodepine bak øynene, kanskje sammen med svimmelhet, hjelper jeg d
 <li><a href="https://www.helsenorge.no/sykdom/oyesykdommer/glaukom/">Helsenorge: Grønn stær (glaukom)</a>.</li>
 <li><a href="https://www.helsenorge.no/sykdom/ore-nese-hals/bihulebetennelse/">Helsenorge: Bihulebetennelse</a>.</li>
 <li>International Headache Society. <a href="https://ichd-3.org/">ICHD-3: The International Classification of Headache Disorders</a>.</li>
+<li>Simons DG, Travell JG, Simons LS. <em>Myofascial Pain and Dysfunction: The Trigger Point Manual</em>. 2. utg. Williams &amp; Wilkins; 1999.</li>
 <li><a href="https://pubmed.ncbi.nlm.nih.gov/23131837/">Lempert T mfl. Vestibular migraine: diagnostic criteria. J Vestib Res. 2012.</a></li>
 </ul>
 </div>
