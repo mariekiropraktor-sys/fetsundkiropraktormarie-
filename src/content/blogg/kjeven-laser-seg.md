@@ -30,6 +30,14 @@ Av og til glir ikke leddhodet forbi skiven. Da stopper kjeven opp, og du får ik
 
 Ikke all låsing kommer fra skiven. Overbelastede tyggemuskler, for eksempel etter tannpress, stress eller lang tannlegebehandling, kan gjøre at kjeven føles stiv og «sperret», særlig om morgenen. Ofte er det en kombinasjon av muskler og ledd.
 
+### De øverste leddene i nakken kan bidra
+
+Kjeven og nakken jobber tett sammen. Når du gaper, vipper hodet samtidig litt bakover i de øverste leddene i nakken, og når du lukker munnen, går det tilbake. Er de øverste nakkeleddene stive, mister kjeven noe av denne «hjelpen», og tyggemusklene og kjeveleddet må jobbe hardere.
+
+Nervene fra den øverste delen av nakken kobles også sammen med nerven som styrer tyggemusklene, i hjernestammen. Irriterte ledd og stramme muskler øverst i nakken kan derfor gi økt spenning i tyggemusklene, slik at kjeven kjennes stiv, trang eller «sperret». En fremoverskjøvet hodestilling, for eksempel etter mange timer foran PC eller mobil, endrer i tillegg hvordan kjeven hviler, og kan øke belastningen på kjeveleddet over tid.
+
+Mange som har plager med kjeven som låser seg, har også en stiv eller øm nakke, gjerne med hodepine fra bakhodet. Derfor undersøker jeg alltid de øverste nakkeleddene og nakkemusklene når kjeven låser seg, og behandler nakken sammen med kjeven når funnene peker dit. Les mer om [hodepine fra nakken](/hodepine-fra-nakken/).
+
 ### Når kjeven låser seg i åpen stilling
 
 Det motsatte – at du ikke får **lukket** munnen etter et stort gjesp eller et tannlegebesøk – er sjeldnere. Da har leddhodet glidd for langt frem. Noen ganger glir det tilbake av seg selv når du slapper av, men henger det fast, trenger du rask hjelp.
@@ -66,7 +74,7 @@ Støtt gjerne haken med hånden når du gjesper, så kjeven ikke går helt ytter
 
 Hos meg starter vi med en samtale og en grundig undersøkelse av kjeve, tyggemuskler og nakke. Jeg måler hvor mye du får gapt, ser hvordan kjeven beveger seg, og vurderer om plagene mest ser ut til å komme fra leddet, musklene eller begge deler. Jeg ser også etter tegn som tilsier at du bør til tannlege eller lege.
 
-Behandlingen tilpasses deg, og kan for eksempel være skånsom mobilisering av kjeveleddet, behandling av tygge- og nakkemuskler, øvelser du kan gjøre hjemme og råd om vaner som tannpress. Ved behov samarbeider jeg med tannlege, for eksempel om bittskinne. Hvor raskt det går, varierer fra person til person.
+Behandlingen tilpasses deg, og kan for eksempel være skånsom mobilisering av kjeveleddet, leddmobilisering eller manipulasjonsbehandling av de øverste nakkeleddene, triggerpunktbehandling og nålebehandling av tygge- og nakkemuskler, øvelser du kan gjøre hjemme og råd om vaner som tannpress. Ved behov samarbeider jeg med tannlege, for eksempel om bittskinne. Hvor raskt det går, varierer fra person til person.
 
 Har du også [vondt i kjeven](/vondt-i-kjeven/) til vanlig, eller plager med øret, kan det henge sammen. Les gjerne om [vondt i øret, øresus og svimmelhet fra kjeven](/vondt-i-oret-oresus-og-svimmelhet-fra-kjeven/).
 
