@@ -6,7 +6,7 @@ kortFortalt:
   - "Akutt kink i nakken er som regel ufarlig, og handler oftest om overbelastning og muskelspenning."
   - "Hold deg i rolig bevegelse i stedet for å holde nakken helt i ro."
   - "Varme, god søvn og forsiktige øvelser hjelper i den akutte fasen."
-  - "Kraftsvikt, nummenhet, feber eller nylig ulykke skal sjekkes av lege med en gang."
+  - "Kraftsvikt eller nummenhet bør undersøkes samme dag, hos kiropraktor eller lege. Ved feber eller etter en ulykke: kontakt legevakt (116 117)."
 date: 2026-01-14
 tema: nakke-og-hode
 image: "/bilder/blogg/Kopi-av-70-CHIROPRACTOR-IG-POSTS-6.webp"

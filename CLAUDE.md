@@ -106,3 +106,8 @@ Fra designlerretet «Valgt retning» (kombinasjon av forslag A og B).
 - Samme annonsekonto og samtykkebanner som klinikksiden (`components/CookieSamtykke.astro`, `googleAds` i site.ts).
 - Alle bestillingsklikk (Maries kalender, /bestill/, /bestill-svimmelhet/) telles som «Bestillingsklikk Marie».
 - Ingenting fra Google lastes før den besøkende har trykket «Godta». Personvernsiden er oppdatert.
+
+## Kiropraktor eller lege (besluttet 15. nov. 2026)
+- Kiropraktor og lege er likestilte primærkontakter for muskel- og leddplager. Ved ikke-akutte plager: skriv «hos kiropraktor eller lege», ikke bare «lege».
+- Nevn gjerne at kiropraktoren kan lindre plagene med behandling, råd og øvelser, og at legen kan hjelpe med medisiner.
+- Akutte røde flagg (hjerte, hjerneslag, cauda equina, feber + stiv nakke o.l.): 113 eller legevakt 116 117, ikke kiropraktor som første kontakt.

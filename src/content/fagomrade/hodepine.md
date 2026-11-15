@@ -93,7 +93,7 @@ Like viktig er det du gjør selv. Du får øvelser som er tilpasset deg, og vi s
 Mange som kommer med hodepine, har også svimmelhet, og omvendt. Stiv og vond nakke kan gi [nakkesvimmelhet](/svimmelhet/nakkesvimmelhet/), og migrene kan gi svimmelhet uten at du har vondt i hodet. Fordi svimmelhet er mitt spesialfelt, ser jeg på begge deler samtidig.
 
 <div class="boks boks--advarsel">
-<p class="boks__tittel">Kontakt lege raskt hvis</p>
+<p class="boks__tittel">Kontakt legevakt (116 117) raskt hvis</p>
 <ul>
 <li>hodepinen kommer plutselig og er den verste du har hatt</li>
 <li>du har feber, stiv nakke eller utslett samtidig</li>

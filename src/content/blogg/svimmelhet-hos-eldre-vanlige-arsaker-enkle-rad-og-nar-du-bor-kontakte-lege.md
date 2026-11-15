@@ -1,11 +1,11 @@
 ---
-title: "Svimmelhet hos eldre: vanlige årsaker, enkle råd og når du bør kontakte lege"
-description: "Svimmelhet hos eldre har ofte flere årsaker. Les om vanlige forklaringer, råd for trygghet i hverdagen og når du bør kontakte lege."
+title: "Svimmelhet hos eldre: vanlige årsaker, enkle råd og når du bør søke hjelp"
+description: "Svimmelhet hos eldre har ofte flere årsaker. Les om vanlige forklaringer, råd for trygghet i hverdagen og når du bør søke hjelp."
 kortFortalt:
   - "Svimmelhet er vanlig med økende alder, og ofte er det flere forhold som virker sammen."
-  - "Blodtrykksfall ved oppreisning og medisinbruk bør vurderes av lege."
+  - "Blodtrykksfall ved oppreisning bør undersøkes, hos kiropraktor eller lege. Medisinene gjennomgås av fastlegen."
   - "Ustøhet kan øke risikoen for fall, så trygghet i hverdagen er viktig."
-  - "Plutselig talebesvær, lammelser, kraftig hodepine, synsforstyrrelser eller brystsmerter krever øyeblikkelig legehjelp."
+  - "Plutselig talebesvær, lammelser, kraftig hodepine, synsforstyrrelser eller brystsmerter krever øyeblikkelig hjelp. Ring 113."
 date: 2026-11-13
 tema: svimmelhet
 forfatter: "Marie Hermansen"
@@ -57,7 +57,7 @@ Det er flere ting du kan gjøre selv for å gjøre hverdagen tryggere:
 
 Noter gjerne ned når svimmelheten kommer, hvor lenge den varer, og hva du gjorde da den startet. Slike opplysninger er til stor hjelp for den som skal undersøke deg.
 
-## Når du bør kontakte lege
+## Når du bør søke hjelp
 
 Det er viktig å skille mellom svimmelhet som bør utredes, og svimmelhet som krever rask hjelp.
 
@@ -70,10 +70,10 @@ Det er viktig å skille mellom svimmelhet som bør utredes, og svimmelhet som kr
 - brystsmerter, tung pust eller uregelmessig hjerterytme
 - besvimelse eller bevissthetstap
 
-Kontakt også fastlegen hvis svimmelheten er ny, blir verre, kommer ofte, eller du har falt eller nesten falt. Det samme gjelder hvis du mistenker at medisiner kan spille inn.
+Bestill også time hos kiropraktor eller fastlege hvis svimmelheten er ny, blir verre, kommer ofte, eller du har falt eller nesten falt. Mistenker du at medisiner kan spille inn, ta det opp med fastlegen.
 
 ## Hva kan en kiropraktor bidra med?
 
-Som kiropraktor med særlig interesse for svimmelhet starter jeg alltid med en samtale og en grundig undersøkelse. Jeg vurderer blant annet balanse, øyebevegelser og funksjon i nakke, og undersøker om det er tegn på krystallsyke. Hvis noe tyder på at årsaken ligger utenfor mitt fagfelt, henviser jeg videre eller anbefaler at du kontakter lege.
+Som kiropraktor med særlig interesse for svimmelhet starter jeg alltid med en samtale og en grundig undersøkelse. Jeg vurderer blant annet balanse, øyebevegelser og funksjon i nakke, og undersøker om det er tegn på krystallsyke. Hvis noe tyder på at årsaken ligger utenfor mitt fagfelt, henviser jeg deg videre.
 
 Hvis du er usikker på hva som ligger bak svimmelheten din, er du velkommen til å ta kontakt med Fetsund Kiropraktorsenter. Vi tar oss tid til å lytte og forklare, slik at du vet hva som kan gjøres videre.
