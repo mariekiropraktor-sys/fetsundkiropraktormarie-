@@ -9,6 +9,7 @@ kortFortalt:
   - "Forskning tyder på at manuell behandling kan redusere svimmelhet som henger sammen med nakken, men studiene er få. Ta gjerne kontakt tidlig, før svimmelheten gjør deg redd for å bevege deg."
 date: 2026-11-16
 tema: svimmelhet
+image: "/bilder/blogg/behandling-av-svimmelhet-hos-eldre.webp"
 bildeTekst: "Bildet er laget med KI."
 forfatter: "Marie Hermansen"
 utkast: true
