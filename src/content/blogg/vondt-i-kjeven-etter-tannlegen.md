@@ -4,8 +4,8 @@ seoTittel: "Vondt i kjeven etter tannlegen? Årsaker og gode råd"
 description: "Vondt i kjeven etter tannlegen eller visdomstann? Les hvorfor kjeven blir stiv, hva du kan gjøre selv og når du bør få hjelp. Kiropraktor Marie i Fetsund."
 kortFortalt:
   - "Det er vanlig å få vondt i kjeven etter lang tannbehandling eller uttrekking av visdomstann, fordi musklene og kjeveleddet har jobbet hardt."
-  - "Stølhet og nedsatt gapeevne går som regel over av seg selv i løpet av dager til et par uker."
-  - "Myk mat, varme, rolige bevegelser og hvilestilling for kjeven hjelper de fleste."
+  - "Mild stølhet går ofte over på noen dager. Er kjeven ikke tydelig bedre etter en uke, eller er det vondt å spise og gape, er det lurt å få den undersøkt tidlig."
+  - "Som kiropraktor undersøker og behandler jeg tyggemusklene, kjeveleddet og nakken – du trenger ikke henvisning, og jeg samarbeider gjerne med tannlegen din."
   - "Feber, økende hevelse, vond smak eller svelgevansker kan bety infeksjon – kontakt tannlegen eller legevakt samme dag."
 date: 2026-11-16
 tema: nakke-og-hode
@@ -14,7 +14,7 @@ forfatter: "Marie Hermansen"
 utkast: true
 ---
 
-Har du fått vondt i kjeven etter tannlegen? Kanskje du lå lenge med åpen munn, fikk bedøvelse i underkjeven eller trakk en visdomstann, og nå er kjeven stiv, støl eller vond å gape med. Det er ganske vanlig, og som regel ufarlig. Her forklarer jeg hvorfor kjeven kan verke etter tannbehandling, hva du kan gjøre selv, og når det er lurt å ta kontakt.
+Har du fått vondt i kjeven etter tannlegen? Kanskje du lå lenge med åpen munn, fikk bedøvelse i underkjeven eller trakk en visdomstann, og nå er kjeven stiv, støl eller vond å gape med. Det er ganske vanlig, og som regel ufarlig. Når tannen og såret er i orden hos tannlegen, er det ofte tyggemusklene og kjeveleddet som verker – og det er nettopp muskler og ledd jeg som kiropraktor undersøker og behandler. Her forklarer jeg hvorfor kjeven kan verke etter tannbehandling, hva du kan gjøre selv, og når det er lurt å ta kontakt.
 
 ## Hvorfor får man vondt i kjeven etter tannlegen?
 
@@ -42,17 +42,17 @@ Mange ligger med bøyd nakke og spente skuldre i tannlegestolen, og noen biter h
 
 ## Når går vondt i kjeven etter tannlegen over?
 
-Vanlig stølhet i tyggemusklene går ofte over i løpet av noen dager. Nedsatt gapeevne etter bedøvelse eller uttrekking av visdomstann blir som regel gradvis bedre i løpet av én til to uker. Varer plagene lenger, eller blir de verre i stedet for bedre, bør du få det undersøkt.
+Mild stølhet i tyggemusklene går ofte over i løpet av noen dager, og etter uttrekking av visdomstann blir gapeevnen som regel gradvis bedre i løpet av den første uken eller to.
+
+Du trenger likevel ikke vente i ukevis. Er kjeven ikke tydelig bedre etter rundt en uke, er det vondt å spise eller gape, eller har du hatt kjeveplager før, er det lurt å ta kontakt tidlig. Jo raskere stramme muskler og et irritert ledd får riktig hjelp, desto mindre er sjansen for at plagene setter seg.
 
 <div class="boks boks--advarsel">
-<p class="boks__tittel">Kontakt tannlegen eller legevakt (116 117) samme dag hvis</p>
+<p class="boks__tittel">Kontakt tannlegen eller legevakt (116 117) samme dag ved</p>
 <ul>
-<li>du får feber, eller hevelsen øker etter tredje dag</li>
-<li>du kjenner vond smak eller lukt fra såret, eller får sterkt økende smerter noen dager etter uttrekking</li>
-<li>gapeevnen blir dårligere og dårligere i stedet for bedre</li>
-<li>du har nummenhet i leppe, hake eller tunge som ikke gir seg</li>
+<li>feber, økende hevelse eller vond smak fra såret</li>
+<li>gapeevne som blir dårligere, eller nummenhet som ikke gir seg</li>
 </ul>
-<p><strong>Ring 113</strong> hvis hevelsen sprer seg mot halsen eller under tungen, eller du får vansker med å puste eller svelge. Ring også 113 ved kjevesmerter sammen med trykk i brystet eller tung pust.</p>
+<p><strong>Ring 113</strong> ved hevelse mot halsen, vansker med å puste eller svelge, eller trykk i brystet.</p>
 </div>
 
 ## Hva kan du gjøre selv ved vondt i kjeven etter tannlegen?
@@ -74,7 +74,7 @@ Har du en lang tannbehandling foran deg og kjenner kjeven din godt? Be gjerne om
 
 ## Hvordan kan en kiropraktor hjelpe?
 
-Varer plagene utover et par uker, eller har kjeven blitt vanskeligere etter behandlingen, kan det være lurt med en undersøkelse. Jeg spør om hva som ble gjort hos tannlegen, undersøker hvordan kjeven åpner og lukker seg, kjenner på tyggemusklene og kjeveleddet, og undersøker nakken samtidig.
+Er kjeven ikke tydelig bedre etter en ukes tid, eller er det vondt å spise og gape, kan en undersøkelse hos kiropraktor hjelpe deg raskere videre. Jeg spør om hva som ble gjort hos tannlegen, undersøker hvordan kjeven åpner og lukker seg, kjenner på tyggemusklene og kjeveleddet, og undersøker nakken samtidig.
 
 Behandlingen tilpasses deg, og kan være skånsom behandling av tyggemusklene (også de inne i munnen), mobilisering av kjeveleddet, leddmobilisering eller manipulasjon av nakken, og nålebehandling. Du får også enkle øvelser og råd for hverdagen. Ser jeg tegn på noe som hører hjemme hos tannlegen, for eksempel en tann eller et sår som ikke gror som det skal, sender jeg deg dit. Les mer om [kjevesmerter og behandling](/kjevesmerter/).
 
@@ -86,7 +86,7 @@ Ja. Støle tyggemuskler og et ømt kjeveledd er vanlig etter lang behandling med
 
 ### Hvor lenge er kjeven stiv etter visdomstann?
 
-Hevelse og nedsatt gapeevne er ofte verst de første to–tre dagene og blir gradvis bedre i løpet av en til to uker. Blir det verre i stedet for bedre, kontakt tannlegen.
+Hevelse og nedsatt gapeevne er ofte verst de første to–tre dagene og blir gradvis bedre i løpet av en til to uker. Blir det verre i stedet for bedre, kontakt tannlegen. Er såret i orden, men kjeven fortsatt stiv og vond etter en ukes tid, kan du ta kontakt med meg.
 
 ### Kan tannbehandling gi kjeveleddsplager?
 
@@ -98,7 +98,7 @@ Nei. Kiropraktorer er primærkontakter, så du kan bestille time direkte. Spørs
 
 ## Bestill time hos kiropraktor i Fetsund
 
-Har kjeven ikke blitt helt god etter tannbehandlingen? Jeg tar imot pasienter fra Fetsund, Lillestrøm og resten av Nedre Romerike, og du trenger ikke henvisning. [Bestill time her](/bestill/).
+Har du vondt i kjeven etter tannbehandlingen? Du trenger ikke vente til det har gått flere uker – jo tidligere vi ser på det, desto enklere er det ofte å få ro i kjeven. Jeg tar imot pasienter fra Fetsund, Lillestrøm og resten av Nedre Romerike, og du trenger ikke henvisning. [Bestill time her](/bestill/).
 
 <div class="boks boks--kilder">
 <p class="boks__tittel">Kilder</p>
