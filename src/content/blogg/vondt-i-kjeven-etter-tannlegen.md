@@ -4,22 +4,20 @@ seoTittel: "Vondt i kjeven etter tannlegen? Årsaker og gode råd"
 description: "Vondt i kjeven etter tannlegen eller visdomstann? Les hvorfor kjeven blir stiv, hva du kan gjøre selv og når du bør få hjelp. Kiropraktor Marie i Fetsund."
 kortFortalt:
   - "Det er vanlig å få vondt i kjeven etter lang tannbehandling eller uttrekking av visdomstann, fordi musklene og kjeveleddet har jobbet hardt."
-  - "Mild stølhet går ofte over på noen dager. Er kjeven ikke tydelig bedre etter en uke, eller er det vondt å spise og gape, er det lurt å få den undersøkt tidlig."
+  - "Mild stølhet går ofte over på noen dager. Er kjeven ikke tydelig bedre etter en uke, eller er det vondt å spise og gape, er det lurt å få den undersøkt."
   - "Som kiropraktor undersøker og behandler jeg tyggemusklene, kjeveleddet og nakken – du trenger ikke henvisning, og jeg samarbeider gjerne med tannlegen din."
   - "Feber, økende hevelse, vond smak eller svelgevansker kan bety infeksjon – kontakt tannlegen eller legevakt samme dag."
 date: 2026-11-16
 tema: nakke-og-hode
-bildeTekst: "Bildet er laget med KI."
 forfatter: "Marie Hermansen"
-utkast: true
-forslag: true
+image: "/bilder/blogg/vondt-i-kjeven-etter-tannlegen-mwj1ldb8.jpg"
 ---
 
 Har du fått vondt i kjeven etter tannlegen? Kanskje du lå lenge med åpen munn, fikk bedøvelse i underkjeven eller trakk en visdomstann, og nå er kjeven stiv, støl eller vond å gape med. Det er ganske vanlig, og som regel ufarlig. Når tannen og såret er i orden hos tannlegen, er det ofte tyggemusklene og kjeveleddet som verker – og det er nettopp muskler og ledd jeg som kiropraktor undersøker og behandler. Her forklarer jeg hvorfor kjeven kan verke etter tannbehandling, hva du kan gjøre selv, og når det er lurt å ta kontakt.
 
 ## Hvorfor får man vondt i kjeven etter tannlegen?
 
-Kjeven er ikke laget for å stå vidåpen i lang tid. Under en tannbehandling holder tyggemusklene og kjeveleddet en ytterstilling i mange minutter, ofte mens du spenner deg litt. Det kan gi plager på flere måter.
+Kjeven er ikke laget for å stå vidåpen i lang tid. Under en tannbehandling holder tyggemusklene og kjeveleddet en ytterstilling i mange minutter, ofte mens du spenner deg litt. Det kan gi plager på flere måter, som vi skal se på videre i denne artikkelen.
 
 ### Overbelastede tyggemuskler
 
@@ -27,11 +25,11 @@ Musklene som åpner og lukker kjeven kan bli støle, omtrent som andre muskler e
 
 ### Irritert kjeveledd
 
-Kjeveleddet sitter rett foran øregangen. Når det har vært i ytterstilling lenge, kan det bli ømt, og noen merker klikking eller at kjeven «går skjevt» når de gaper. Har du hatt kjeveplager fra før, er det ekstra vanlig at de blusser opp etter en lang behandling.
+Kjeveleddet sitter rett foran øregangen. Når det har vært i ytterstilling lenge, kan det bli ømt, og noen merker klikking eller at kjeven «går skjevt» når de gaper. Har du hatt kjeveplager fra før, er det ekstra vanlig at de blusser opp etter en lang behandling som dette.
 
 ### Stiv kjeve etter bedøvelse
 
-Bedøvelse i underkjeven settes nær en av musklene som lukker kjeven. Av og til blir muskelen irritert eller det dannes en liten blødning der, og da kan det bli vanskelig å gape i noen dager. Dette kalles trismus, og går som regel gradvis over.
+Bedøvelse i underkjeven settes nær en av musklene som lukker kjeven. Av og til blir muskelen irritert eller det dannes en liten blødning der, og da kan det bli vanskelig å gape i noen dager. Dette kalles trismus, og går som regel gradvis over av seg selv.
 
 ### Etter uttrekking av visdomstann
 
@@ -41,7 +39,7 @@ Etter at en visdomstann er fjernet, er det normalt med hevelse, ømhet og nedsat
 
 Mange ligger med bøyd nakke og spente skuldre i tannlegestolen, og noen biter hardt sammen i dagene etter fordi det er ømt. Da kan også nakken og hodet verke, og en [spenningshodepine](/spenningshodepine/) kan henge seg på.
 
-## Når går vondt i kjeven etter tannlegen over?
+## Når går kjevesmertene etter ett tannlegebesøk over?
 
 Mild stølhet i tyggemusklene går ofte over i løpet av noen dager, og etter uttrekking av visdomstann blir gapeevnen som regel gradvis bedre i løpet av den første uken eller to.
 
@@ -54,6 +52,7 @@ Du trenger likevel ikke vente i ukevis. Er kjeven ikke tydelig bedre etter rundt
 <li>gapeevne som blir dårligere, eller nummenhet som ikke gir seg</li>
 </ul>
 <p><strong>Ring 113</strong> ved hevelse mot halsen, vansker med å puste eller svelge, eller trykk i brystet.</p>
+
 </div>
 
 ## Hva kan du gjøre selv ved vondt i kjeven etter tannlegen?
@@ -69,6 +68,7 @@ Når tannlegen har sagt at alt ser fint ut, er det mye du kan gjøre selv for å
 <li><strong>Rolige bevegelser.</strong> Åpne og lukk munnen sakte, så langt det går uten smerte, 5–10 ganger et par ganger om dagen. Ikke press kjeven opp med fingrene.</li>
 <li><strong>Slipp spenningen.</strong> Legg merke til om du biter sammen, og senk skuldrene noen ganger i løpet av dagen.</li>
 </ul>
+
 </div>
 
 Har du en lang tannbehandling foran deg og kjenner kjeven din godt? Be gjerne om små pauser underveis, og spør om du kan bruke en bittblokk å hvile kjeven mot. Det tilbyr mange tannleger gjerne.
@@ -108,4 +108,5 @@ Har du vondt i kjeven etter tannbehandlingen? Du trenger ikke vente til det har 
 <li><a href="https://nhi.no/sykdommer/orenesehals/kjeven/kjevesmerter/undersokelser">Norsk helseinformatikk (NHI). Kjevesmerter.</a></li>
 <li><a href="https://www.bmj.com/content/383/bmj-2023-076227">Busse JW, et al. Management of chronic pain associated with temporomandibular disorders: a clinical practice guideline. BMJ. 2023;383:e076227.</a></li>
 </ul>
+
 </div>
