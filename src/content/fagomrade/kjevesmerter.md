@@ -25,8 +25,10 @@ typer:
     tekst: "Kjeveleddet har en liten skive som kan klikke når du gaper. Det er vanlig og oftest ufarlig. Det trenger bare behandling hvis det gjør vondt eller hindrer deg."
   - navn: "Kjeven går ikke helt opp"
     tekst: "Kjeven kan låse seg eller føles stiv, slik at du ikke får gapt helt. Ofte en kombinasjon av stramme muskler og leddet."
+    lenke: "/kjeven-laser-seg/"
   - navn: "Tanngnissing og sammenbiting"
     tekst: "Mange biter sammen eller gnisser tenner om natten eller når de er stresset. Det belaster muskler, ledd og tenner."
+    lenke: "/tanngnissing/"
   - navn: "Kjeve, øre og øresus"
     tekst: "Kjeveleddet ligger rett foran øret. Plager i kjeven kan derfor kjennes som vondt i øret, trykk eller øresus."
     lenke: "/vondt-i-oret-oresus-og-svimmelhet-fra-kjeven/"
@@ -35,6 +37,9 @@ typer:
     lenke: "/stresshodepine-svimmelhet-og-kjevesmerter/"
 innlegg:
   - "vondt-i-kjeven"
+  - "vondt-i-kjeven-etter-tannlegen"
+  - "kjeven-laser-seg"
+  - "tanngnissing"
   - "kjevesmerter-for-under-og-etter-et-kiropraktorbesok"
   - "vondt-i-oret-oresus-og-svimmelhet-fra-kjeven"
 faq:
@@ -53,7 +58,7 @@ kilder:
     lenke: "https://doi.org/10.11607/jop.1151"
   - tekst: "Armijo-Olivo S, et al. Effectiveness of manual therapy and therapeutic exercise for temporomandibular disorders: systematic review and meta-analysis. Physical Therapy. 2016."
   - tekst: "List T, Jensen RH. Temporomandibular disorders: Old ideas and new concepts. Cephalalgia. 2017."
-oppdatert: 2026-10-09
+oppdatert: 2026-11-17
 ---
 
 ## Hvorfor får vi vondt i kjeven?

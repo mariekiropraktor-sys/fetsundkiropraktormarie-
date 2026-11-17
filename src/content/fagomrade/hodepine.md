@@ -21,17 +21,23 @@ typer:
     lenke: "/spenningshodepine/"
   - navn: "Hodepine fra nakken"
     tekst: "Starter i nakken og trekker opp i bakhodet, mot tinningen eller bak øyet. Oftest på én side, og verre ved bestemte nakkebevegelser eller stillinger."
+    lenke: "/hodepine-fra-nakken/"
   - navn: "Hodepine fra kjeven"
     tekst: "Stramme tyggemuskler kan gi smerter i tinningen og rundt øret. Henger ofte sammen med tanngnissing og stress."
-    lenke: "/stresshodepine-svimmelhet-og-kjevesmerter/"
+    lenke: "/kjevesmerter/"
   - navn: "Migrene"
     tekst: "Anfall med kraftig, ofte dunkende hodepine, gjerne med kvalme og lysømfintlighet. Medisinsk behandling får du hos fastlegen, men nakken kan være en av utløserne."
+    lenke: "/migrene-eller-spenningshodepine/"
   - navn: "Vestibulær migrene"
     tekst: "En form for migrene der svimmelhet er hovedplagen, med eller uten hodepine. Et av feltene jeg jobber mest med."
     lenke: "/svimmelhet/vestibulaer-migrene/"
   - navn: "Hodepine av smertestillende"
     tekst: "Bruker du smertestillende mot hodepine mange dager i måneden, kan medisinene selv holde hodepinen ved like. Snakk med legen din om nedtrapping."
 innlegg:
+  - "cervikogen-hodepine-eller-spenningshodepine"
+  - "hodepine-om-morgenen"
+  - "hodepine-bak-oynene"
+  - "migrene-eller-spenningshodepine"
   - "spenningshodepine"
   - "stresshodepine-svimmelhet-og-kjevesmerter"
 faq:
@@ -50,7 +56,7 @@ kilder:
     lenke: "https://ichd-3.org/"
   - tekst: "Bryans R, et al. Evidence-based guidelines for the chiropractic treatment of adults with headache. Journal of Manipulative and Physiological Therapeutics. 2011."
     lenke: "https://doi.org/10.1016/j.jmpt.2011.05.001"
-oppdatert: 2026-10-09
+oppdatert: 2026-11-17
 ---
 
 ## Hvorfor får vi hodepine?
@@ -58,6 +64,27 @@ oppdatert: 2026-10-09
 De fleste hodepiner er ikke farlige, men de kan gå hardt utover hverdagen. Ofte er det flere ting som spiller sammen: stive muskler i nakke og skuldre, en kjeve som biter sammen, lite søvn, stress og mange timer foran skjermen.
 
 Nakken og hodet deler nervebaner. Smerter fra muskler og ledd øverst i nakken kan derfor kjennes som hodepine i bakhodet, i tinningen eller bak øyet. Det samme gjelder tyggemusklene, som kan gi smerter i tinningen og rundt øret.
+
+## Hodepine fra nakken eller spenningshodepine?
+
+De to blandes ofte sammen, men kjennes litt forskjellig. Spenningshodepine sitter gjerne på begge sider, som et trykk eller et stramt bånd. Hodepine fra nakken (cervikogen hodepine) er oftere ensidig og har gjerne disse kjennetegnene:
+
+- den starter i nakken eller bakhodet og trekker frem mot tinningen eller øyet
+- nakken er stiv eller vond samtidig
+- den blir verre av bestemte nakkebevegelser eller når du sitter lenge i samme stilling
+- jeg kan fremkalle hodepinen når jeg undersøker øverst i nakken
+
+Les mer om forskjellen i [cervikogen hodepine eller spenningshodepine](/cervikogen-hodepine-eller-spenningshodepine/).
+
+## Når kjeven gir hodepine
+
+En av de store tyggemusklene, temporalis, dekker store deler av tinningen. Biter du tennene sammen eller gnisser tenner, kan den bli stram og gi hodepine i tinningen. Ofte merker du også ømme kjevemuskler, klikking i kjeveleddet eller at kjeven er sliten om morgenen. Da undersøker jeg [kjeven](/kjevesmerter/) og nakken samtidig. Mistenker jeg at tennene er årsaken, ber jeg deg ta en prat med tannlegen.
+
+## Migrene
+
+Migrene er en nevrologisk tilstand, ikke bare kraftig hodepine. Anfallene gir ofte dunkende hodepine på én side, kvalme og ømfintlighet for lys og lyd. Noen får aura før anfallet, for eksempel flimring i synet eller prikking. Søvn, stress, hormoner og måltider kan være utløsere.
+
+Migrene behandles først og fremst hos fastlegen. Mange med migrene har likevel også vond og stiv nakke, og der kan jeg hjelpe som et tillegg. Gir migrenen deg svimmelhet, kan det være [vestibulær migrene](/svimmelhet/vestibulaer-migrene/).
 
 ## Slik undersøker jeg
 
