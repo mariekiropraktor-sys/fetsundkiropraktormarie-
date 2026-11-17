@@ -1,7 +1,7 @@
 ---
 title: "Hodepine om morgenen – hvorfor våkner jeg med vondt i hodet?"
-seoTittel: "Våkner med hodepine? Vanlige årsaker om morgenen"
-description: "Våkner du med vondt i hodet? Les om vanlige årsaker til morgenhodepine, som spente muskler, nakke og kjeve, og når det er lurt å kontakte lege."
+seoTittel: "Våkner med hodepine? Årsaker til morgenhodepine"
+description: "Våkner du med hodepine eller vondt i hodet? Les om vanlige årsaker til morgenhodepine, blant annet nakke og kjeve, og når du bør kontakte lege."
 kortFortalt:
   - "Hodepine ved oppvåkning kan ha flere forklaringer. Nye, økende eller uvanlig kraftige plager bør vurderes av lege."
   - "Mulige årsaker er blant annet søvnproblemer, søvnapné, nattlig kjeveaktivitet, nakkeplager, migrene og medikamentoverforbruk."
