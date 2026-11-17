@@ -1,6 +1,6 @@
 ---
 tittel: "Kjevesmerter"
-seoTittel: "Kjevesmerter, klikking og låsing – kiropraktor i Fetsund"
+seoTittel: "Kjevesmerter og klikking – kiropraktor Marie Hermansen"
 beskrivelse: "Vondt i kjeven, klikking, låsing eller tanngnissing? Kiropraktor Marie Hermansen i Fetsund undersøker og behandler kjeven, og ser den i sammenheng med nakke og hodepine."
 ingress: "Vondt når du tygger, klikking når du gaper, eller en kjeve som er stram når du våkner? Kjeveplager er vanlige, og henger ofte sammen med nakken, stress og tanngnissing. Jeg undersøker kjeven og nakken samtidig, og gir deg behandling og øvelser som løser opp."
 bilde: "/bilder/blogg/kjeveledd-og-ore.webp"

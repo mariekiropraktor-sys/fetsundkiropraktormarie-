@@ -1,6 +1,6 @@
 ---
 tittel: "Hodepine"
-seoTittel: "Hodepine – kiropraktor i Fetsund"
+seoTittel: "Hodepine – kiropraktor Marie Hermansen i Fetsund"
 beskrivelse: "Hodepine fra nakke, kjeve og stress? Kiropraktor Marie Hermansen i Fetsund finner ut hvilken type hodepine du har, og hva som hjelper."
 ingress: "Hodepine er en av de vanligste grunnene til at folk kommer til meg. Ofte henger den sammen med nakken, kjeven eller stress. Jeg finner ut hvilken type hodepine du har, behandler det som holder den ved like, og gir deg verktøy du kan bruke selv."
 kortFortalt:
