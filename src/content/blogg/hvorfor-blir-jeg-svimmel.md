@@ -101,4 +101,4 @@ Har du hatt krystallsyke før, men kjenner at symptomene er annerledes denne gan
 
 ## Slik jobber jeg
 
-Svimmelhet kan være skremmende, men den er nesten alltid mulig å forstå når man ser grundig på den. I en [svimmelhetsundersøkelse](/svimmelhet/) ser jeg på sykehistorien, balanseorganet med VNG-briller, nakken og hvordan kroppen reagerer. Målet er å finne ut hva som faktisk driver svimmelheten hos deg, og lage en plan som passer deg. Er det noe som bør utredes videre, henviser jeg deg.
+Svimmelhet kan være skremmende, men den er nesten alltid mulig å forstå når man ser grundig på den. I en [svimmelhetsundersøkelse](/svimmelhet/) ser jeg på sykehistorien, balanseorganet med VNG-briller, nakken, pustemønsteret og hvordan nervesystemet reagerer. Målet er å finne ut hva som faktisk driver svimmelheten hos deg, og lage en plan som passer deg. Er det noe som bør utredes videre, henviser jeg deg.
