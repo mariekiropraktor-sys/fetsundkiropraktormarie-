@@ -4,7 +4,7 @@ import Layout from "../../layouts/Layout.astro";
 import BookingCTA from "../../components/BookingCTA.astro";
 import PostCard from "../../components/PostCard.astro";
 import { getCollection } from "astro:content";
-import { site } from "../../data/site";
+import { site, pris } from "../../data/site";
 
 const innlegg = (await getCollection("blogg", (p) => p.data.tema === "svimmelhet" && !p.data.utkast)).sort(
   (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
@@ -167,7 +167,7 @@ const faqLd = {
         </ul>
         <p>
           Målet er å finne årsaken – og å fange opp det som bør utredes videre hos fastlege, øre-nese-hals-lege eller
-          nevrolog. Svimmelhetsundersøkelsen koster 1 100 kr.
+          nevrolog. Svimmelhetsundersøkelsen koster {pris("Svimmelhetsundersøkelse")}.
         </p>
       </div>
     </div>
