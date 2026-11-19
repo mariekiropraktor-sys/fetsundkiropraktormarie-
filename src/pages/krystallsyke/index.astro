@@ -7,27 +7,47 @@ import { site } from "../../data/site";
 const faq = [
   {
     q: "Kan krystallsyke gå over av seg selv?",
-    a: "Ja. Hos mange avtar symptomene gradvis, selv uten behandling. Behandling kan likevel forkorte forløpet betydelig.",
-  },
-  {
-    q: "Kan krystallsyke komme tilbake?",
-    a: "Ja, tilbakefall er relativt vanlig. Heldigvis kan nye episoder ofte behandles på samme måte som den første.",
+    a: "Ja. Hos mange gir den seg etter dager eller uker. Med riktig manøver blir de fleste likevel bedre mye raskere, og slipper å gå svimle i mellomtiden.",
   },
   {
     q: "Hvor lenge varer krystallsyke?",
-    a: "Selve anfallene varer som regel fra noen sekunder til under ett minutt. Tilstanden kan vedvare i dager eller uker uten behandling.",
+    a: "Selve anfallet varer noen sekunder, sjelden over ett minutt. Hvor lenge plagene varer totalt, varierer fra én dag til flere uker uten behandling.",
   },
   {
     q: "Er krystallsyke farlig?",
-    a: "Vanligvis ikke, men den kan være svært plagsom og øke risikoen for fall, særlig hos eldre eller personer med nedsatt balanse.",
+    a: "Nei, den gir ingen varig skade på balanseorganet eller hjernen. Men den øker risikoen for fall, særlig hos eldre, og kan være svært ubehagelig.",
+  },
+  {
+    q: "Kan krystallsyke komme tilbake?",
+    a: "Ja. Rundt halvparten får et nytt anfall i løpet av noen år. Det betyr ikke at behandlingen mislyktes, bare at nye krystaller har løsnet. Et tilbakefall behandles på samme måte.",
+  },
+  {
+    q: "Hva om krystallsyken ikke går over?",
+    a: "Langvarig krystallsyke skyldes ofte at krystallene sitter i en annen buegang enn antatt, at de sitter fast, eller at begge ører er rammet. Noen får også en vedvarende gynging (PPPD) etter at krystallene er på plass. Da trenger du en ny, grundig undersøkelse.",
+  },
+  {
+    q: "Hjelper Epleys manøver alle?",
+    a: "Nei. Epleys manøver virker når krystallene sitter i bakre buegang. Sitter de i en annen buegang, trengs en annen manøver.",
+  },
+  {
+    q: "Kan jeg gjøre øvelser hjemme?",
+    a: "Ja, når du vet hvilken buegang og hvilket øre det gjelder. Gjør du feil øvelse, kan den ha liten effekt eller gjøre plagene mer langvarige.",
+  },
+  {
+    q: "Hvor mange behandlinger trenger jeg?",
+    a: "Mange blir mye bedre etter én behandling. Andre trenger to–tre, særlig hvis krystallene flytter seg mellom buegangene eller begge ører er rammet.",
+  },
+  {
+    q: "Kan jeg kjøre bil når jeg har krystallsyke?",
+    a: "Blir du svimmel når du snur hodet, bør du vente med å kjøre til det er under kontroll. Er du usikker, spør meg når du er her.",
+  },
+  {
+    q: "Kan stress gi krystallsyke?",
+    a: "Stress får ikke krystallene til å løsne, men mange kjenner at svimmelheten blir verre når de er stresset eller sover dårlig.",
   },
   {
     q: "Er all svimmelhet krystallsyke?",
     a: "Nei. Vestibulær migrene, PPPD, vestibularisnevritt, Ménières sykdom og enkelte nevrologiske tilstander kan gi lignende symptomer. Derfor er en grundig undersøkelse viktig.",
-  },
-  {
-    q: "Kan krystallsyke behandles på én konsultasjon?",
-    a: "Mange opplever betydelig bedring etter første behandling. Andre trenger flere behandlinger eller øvelser før symptomene forsvinner helt.",
   },
 ];
 
@@ -69,63 +89,57 @@ const faqLd = {
     <div class="wrap prose">
       <h2>Hva er krystallsyke?</h2>
       <p>
-        Inne i balanseorganet i det indre øret finnes små kalkkrystaller (otolitter). Ved krystallsyke løsner noen av
-        dem og havner i en av ørets tre bueganger. Når hodet beveges, flytter krystallene seg og sender feil signaler
-        til hjernen om at du er i bevegelse. Resultatet er en kortvarig, men ofte intens svimmelhet.
-      </p>
-      <p>
-        Hvilken buegang som er påvirket – bakre (vanligst), horisontale eller fremre – avgjør hvilke symptomer du får
-        og hvilken behandling som virker best.
+        Inne i balanseorganet i øret ligger små kalkkrystaller. Ved krystallsyke løsner noen av dem og havner i en av
+        ørets bueganger. Når du beveger hodet, flytter krystallene seg og gir hjernen beskjed om at du snurrer, selv om
+        du ligger stille. Det er den vanligste årsaken til kortvarig, kraftig svimmelhet, og den er som regel ufarlig.
       </p>
 
-      <h2>Vanlige symptomer</h2>
+      <h2>Kjenner du deg igjen?</h2>
       <ul>
-        <li>Karusellsvimmelhet ved bestemte hodebevegelser</li>
-        <li>Svimmelhet når du snur deg i sengen, legger deg ned eller setter deg opp</li>
-        <li>Kortvarige anfall – fra noen sekunder til under ett minutt</li>
-        <li>Kvalme og ustøhet</li>
-        <li>Følelsen av å «miste kontrollen» i korte øyeblikk</li>
+        <li>Kraftige snurr når du snur deg i sengen, legger deg ned eller setter deg opp</li>
+        <li>Svimmel når du ser opp eller bøyer deg frem</li>
+        <li>Anfallene varer i sekunder, sjelden over ett minutt</li>
+        <li>Kvalme, og litt ustø etterpå</li>
       </ul>
-
-      <h2>Hvordan stilles diagnosen?</h2>
       <p>
-        Gjennom sykehistorie og tester som fremprovoserer symptomene, som Dix-Hallpike-testen og rulletesten. Under
-        testene ser jeg på øyebevegelsene (nystagmus) med VNG-briller. Retningen og mønsteret viser hvilken buegang
-        krystallene sitter i.
+        Hos eldre kan krystallsyke heller gi diffus og langvarig ustøhet. Les mer om
+        <a href="/krystallsyken-hos-de-eldre-vanligere-enn-mange-tror/">krystallsyke hos eldre</a>.
       </p>
+
+      <h2>Slik undersøker jeg</h2>
+      <p>
+        Vi starter med en samtale om hvordan svimmelheten kjennes og hva som utløser den. Så legger jeg hodet ditt i
+        bestemte stillinger mens du har på deg VNG-briller. Brillene filmer øynene, så jeg ser selv små øyebevegelser.
+        De viser hvilket øre og hvilken buegang krystallene sitter i, og da kan jeg velge riktig behandling allerede
+        første gang. Mistenker jeg noe annet enn krystallsyke, henviser jeg deg videre.
+      </p>
+      <div class="btn-row">
+        <a class="btn" href={site.bookingSvimmelhet}>Bestill svimmelhetsundersøkelse</a>
+      </div>
 
       <h2>Behandling</h2>
       <p>
-        Behandlingen består av reposisjoneringsmanøvre som flytter krystallene tilbake dit de hører hjemme – for
-        eksempel Epleys manøver, Semonts manøver, BBQ-roll eller Gufoni-manøveren. Valget avhenger av hvilken
-        buegang som er påvirket.
-      </p>
-      <p>
-        Mange blir betydelig bedre etter én behandling, mens andre trenger flere, gjerne sammen med
-        blikkstabiliserings- eller balanseøvelser.
+        Behandlingen er rolige, kontrollerte bevegelser av hodet og kroppen (reposisjoneringsmanøvre) som fører
+        krystallene tilbake dit de ikke forstyrrer. Hvilken manøver jeg bruker, avhenger av hvilken buegang som er
+        rammet. Mange blir tydelig bedre etter én behandling, andre trenger et par. Det er vanlig å kjenne seg litt
+        ustø noen dager etterpå.
       </p>
       <div class="notis">
-        <strong>Vil du lese mer om krystallsyke og øvelser?</strong> På
-        <a href={site.krystallsykehjelpen}>Krystallsykehjelpen</a> finner du fyldig informasjon, et øvelsesbibliotek
-        og videoer.
+        <strong>Vil du lese mer?</strong> På Krystallsykehjelpen forklarer jeg
+        <a href="https://www.krystallsykehjelpen.no/svimmelhet/krystallsyke/buegangene/">buegangene</a>,
+        <a href="https://www.krystallsykehjelpen.no/svimmelhet/krystallsyke/behandling/">manøvrene</a> og
+        <a href="https://www.krystallsykehjelpen.no/ovelsesbibliotek/">øvelser du kan gjøre hjemme</a>. Gjør øvelser først når du vet hvilken
+        buegang det gjelder. Feil øvelse hjelper lite.
       </div>
-
-      <h2>Hvorfor får man krystallsyke?</h2>
-      <p>
-        Ofte finner man ingen klar årsak. Risikoen øker med alder og overgangsalder, etter hode- eller øreskader,
-        virusinfeksjoner, migrene og langvarig sengeleie. Tilstanden er vanligere hos kvinner enn hos menn. Les også om
-        <a href="/krystallsyken-hos-de-eldre-vanligere-enn-mange-tror/">krystallsyke hos eldre</a>.
-      </p>
 
       <h2>Når bør du oppsøke hjelp?</h2>
       <p>
         Få svimmelheten undersøkt hvis den er ny, du er usikker på årsaken, den ikke blir bedre, eller du har store
-        balanseproblemer. Ikke all svimmelhet er krystallsyke –
-        <a href="/svimmelhet/">les om andre årsaker</a>.
+        balanseproblemer. Ikke all svimmelhet er krystallsyke. <a href="/svimmelhet/">Les om andre årsaker</a>.
       </p>
       <p>
-        <strong>Ring 113</strong> ved svimmelhet sammen med dobbeltsyn, talevansker, kraftsvikt eller plutselig, kraftig
-        hodepine.
+        <strong>Ring 113</strong> ved svimmelhet sammen med dobbeltsyn, talevansker, nummenhet, kraftsvikt eller
+        plutselig, kraftig hodepine.
       </p>
     </div>
   </section>

@@ -21,10 +21,12 @@ interface Props {
 
 // Standard delingsbilde (1200×630): zoomet ut med luft over håret, så hele ansiktet vises selv når Safari/Facebook beskjærer. Nytt filnavn ved bytte (hurtigminne).
 const { title, description, image = "/bilder/og-marie-2.jpg", type = "website", skjult = false } = Astro.props;
-// En tittel som allerede har «|» eller Maries navn brukes som den er; ellers legges «Kiropraktor i Fetsund» til.
-// Hold titler under ca. 60 tegn totalt, ellers kutter Google dem.
+// En tittel som allerede har «|», Maries navn eller «kiropraktor i Fetsund» brukes som den er;
+// ellers legges «Kiropraktor i Fetsund» til. Hold titler under ca. 60 tegn totalt, ellers kutter Google dem.
 const fullTitle =
-  title.includes("Marie Hermansen") || title.includes(" | ") ? title : `${title} | Kiropraktor i Fetsund`;
+  title.includes("Marie Hermansen") || title.includes(" | ") || /kiropraktor i fetsund/i.test(title)
+    ? title
+    : `${title} | Kiropraktor i Fetsund`;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const ogImage = new URL(image, Astro.site);
 
