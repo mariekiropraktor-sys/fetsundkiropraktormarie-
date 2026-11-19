@@ -1,7 +1,7 @@
 ---
 title: "Svimmel når jeg reiser meg – hva kan det skyldes?"
-seoTittel: "Svimmel når jeg reiser meg – vanlige årsaker og råd"
-description: "Blir du svimmel når du reiser deg? Les om vanlige årsaker, gode hverdagsråd og når du bør søke hjelp. Kiropraktor Marie Hermansen, Fetsund."
+seoTittel: "Svimmel når jeg reiser meg: årsaker og hva du kan gjøre"
+description: "Blir du svimmel eller svart for øynene når du reiser deg? Les om vanlige årsaker, hva du kan gjøre selv og når du bør kontakte lege eller kiropraktor."
 kortFortalt:
   - "Å bli svimmel når man reiser seg er vanlig, og skyldes ofte et kort blodtrykksfall."
   - "Krystallsyke kan også være verst om morgenen, men gir snurring når du endrer hodestilling."

@@ -12,6 +12,7 @@ tema: nakke-og-hode
 bildeTekst: "Bildet er laget med KI."
 forfatter: "Marie Hermansen"
 utkast: true
+forslag: true
 ---
 
 Det finnes mange **typer hodepine**. Den internasjonale klassifikasjonen av hodepine beskriver over 200, men de fleste av oss har en av noen få vanlige typer. Å vite hvilken type du har, gjør det lettere å forstå hva som utløser den, og hva som faktisk hjelper.
