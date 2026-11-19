@@ -1,0 +1,106 @@
+---
+// /bestill-time/ – samleside for timebestilling hos Marie.
+// Brukes som «Bestill time»-knapp (nettstedslink) i Google Ads-annonsene, fordi Google
+// vil at knappene skal gå til en side på samme nettsted som annonsen (ikke rett til Pasientsky).
+// Alle knappene går til Maries egen kalender og telles som «Bestillingsklikk Marie».
+import SideHode from "../../components/SideHode.astro";
+import Layout from "../../layouts/Layout.astro";
+import { site, pris } from "../../data/site";
+
+const valg = [
+  {
+    tittel: "Ny pasient",
+    tekst: "Første time hos meg: samtale, undersøkelse og behandling ved nakke, rygg, hodepine, kjeve og andre muskel- og leddplager.",
+    pris: pris("Førstegangskonsultasjon"),
+    lenke: site.booking,
+    knapp: "Bestill førstegangstime",
+  },
+  {
+    tittel: "Svimmelhet eller krystallsyke",
+    tekst: "Grundig undersøkelse ved svimmelhet, krystallsyke eller balanseplager, med VNG-briller og en plan for videre behandling.",
+    pris: pris("Svimmelhetsundersøkelse"),
+    lenke: site.bookingSvimmelhet,
+    knapp: "Bestill svimmelhetsundersøkelse",
+  },
+  {
+    tittel: "Vært hos meg før",
+    tekst: "Oppfølgende behandling for deg som har vært hos meg de siste 12 månedene.",
+    pris: `fra ${pris("Oppfølgende behandling")}`,
+    lenke: site.bookingOppfolging,
+    knapp: "Bestill oppfølging",
+  },
+];
+---
+
+<Layout
+  title="Bestill time hos kiropraktor Marie Hermansen"
+  description="Bestill time hos kiropraktor Marie Hermansen i Fetsund: førstegangstime, svimmelhetsundersøkelse eller oppfølging. Ingen henvisning nødvendig."
+>
+  <SideHode
+    tittel="Bestill time"
+    ingress="Velg timen som passer deg. Du trenger ikke henvisning, og du kan bestille på nett når det passer."
+    smuler={[{ navn: "Bestill time" }]}
+  />
+
+  <section class="wrap innhold">
+    <div class="valg">
+      {
+        valg.map((v) => (
+          <div class="card valg__kort">
+            <div class="stack valg__tekst">
+              <h2 class="valg__tittel">{v.tittel}</h2>
+              <p class="muted">{v.tekst}</p>
+            </div>
+            <div class="valg__hoyre">
+              <span class="valg__pris">{v.pris}</span>
+              <a class="btn" href={v.lenke}>{v.knapp}</a>
+            </div>
+          </div>
+        ))
+      }
+    </div>
+
+    <p class="notis ring">
+      Usikker på hvilken time du skal velge? Ring <a href={site.telefonLenke}>{site.telefon}</a>, så hjelper vi deg.
+      Se også <a href="/priser/">alle priser</a>.
+    </p>
+  </section>
+</Layout>
+
+<style>
+  .valg {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    max-width: 900px;
+  }
+  .valg__kort {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+  }
+  .valg__tekst {
+    flex: 1 1 320px;
+    gap: 6px;
+  }
+  .valg__tittel {
+    font-size: 24px;
+  }
+  .valg__hoyre {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 20px;
+  }
+  .valg__pris {
+    font-family: var(--serif);
+    font-size: 26px;
+    white-space: nowrap;
+  }
+  .ring {
+    max-width: 900px;
+    margin-top: 24px;
+  }
+</style>

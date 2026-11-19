@@ -107,3 +107,8 @@ Fra designlerretet «Valgt retning» (kombinasjon av forslag A og B).
 - Samme annonsekonto og samtykkebanner som klinikksiden (`components/CookieSamtykke.astro`, `googleAds` i site.ts).
 - Alle bestillingsklikk (Maries kalender, /bestill/, /bestill-svimmelhet/) telles som «Bestillingsklikk Marie».
 - Ingenting fra Google lastes før den besøkende har trykket «Godta». Personvernsiden er oppdatert.
+
+## Bestillingsside for annonser (besluttet 19. nov. 2026)
+- `/bestill-time/` er en ekte side (ikke videresending) med tre valg: førstegangstime, svimmelhetsundersøkelse og oppfølging.
+- Brukes som «Bestill time»-nettstedslink i Google Ads, fordi Google vil ha knapper til samme nettsted som annonsen.
+- Prisene hentes med `pris()` fra site.ts. Klikkene telles som «Bestillingsklikk Marie».
