@@ -4,7 +4,7 @@ import Layout from "../../layouts/Layout.astro";
 import BookingCTA from "../../components/BookingCTA.astro";
 import PostCard from "../../components/PostCard.astro";
 import { getCollection } from "astro:content";
-import { site } from "../../data/site";
+import { site, pris } from "../../data/site";
 
 const innlegg = (await getCollection("blogg", (p) => p.data.tema === "svimmelhet" && !p.data.utkast)).sort(
   (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
@@ -48,12 +48,46 @@ const typer = [
     lenke: "/krystallsyken-hos-de-eldre-vanligere-enn-mange-tror/",
   },
 ];
+
+const faq = [
+  {
+    q: "Er svimmelhet farlig?",
+    a: "Som regel ikke. De vanligste årsakene er ufarlige. Men fordi noen alvorlige sykdommer også kan gi svimmelhet, bør ny, kraftig eller uvanlig svimmelhet undersøkes.",
+  },
+  {
+    q: "Hvorfor blir jeg svimmel når jeg snur meg i sengen?",
+    a: "Korte, kraftige snurr når du legger deg ned eller snur deg i sengen skyldes oftest krystallsyke. Det finnes likevel andre årsaker, så det må undersøkes før du starter med øvelser.",
+  },
+  {
+    q: "Kan nakken gjøre meg svimmel?",
+    a: "Ja. Stive og vonde muskler og ledd i nakken kan gi hjernen mindre presise signaler om hvor hodet er. Det gir ofte en diffus gynging eller ustøhet, gjerne sammen med nakkesmerter og hodepine.",
+  },
+  {
+    q: "Hvorfor blir jeg svimmel i butikker?",
+    a: "Mange synsinntrykk kan overbelaste balansesystemet. Det er typisk ved PPPD og vestibulær migrene, og etter en tidligere sykdom i balanseorganet.",
+  },
+  {
+    q: "Kan stress gi svimmelhet?",
+    a: "Stress er sjelden hele forklaringen, men det kan forsterke svimmelhet og holde ustøheten ved like. Jeg undersøker derfor alltid om det også finnes en fysisk årsak som kan behandles.",
+  },
+  {
+    q: "Kan kiropraktor behandle all svimmelhet?",
+    a: "Nei. En viktig del av jobben min er å finne ut hvem jeg kan hjelpe, og hvem som bør videre til fastlege, øre-nese-hals-lege eller nevrolog. Da henviser jeg deg.",
+  },
+];
+
+const faqLd = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: faq.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })),
+};
 ---
 
 <Layout
   title="Svimmelhet – utredning og behandling"
   description="Svimmel eller ustø? Kiropraktor Marie Hermansen i Fetsund utreder svimmelhet med VNG-briller og finner årsaken – krystallsyke, nakkesvimmelhet, vestibulær migrene og mer."
 >
+  <script type="application/ld+json" set:html={JSON.stringify(faqLd)} slot="head" />
   <SideHode
     tittel="Svimmelhet er et symptom, ikke en diagnose"
     ingress="Rommet som snurrer, gyngingen som ikke gir seg, ustøheten når du går. Hver type har sin årsak, og behandlingen er forskjellig. Derfor starter jeg alltid med en grundig undersøkelse."
@@ -76,6 +110,35 @@ const typer = [
           </a>
         ))
       }
+    </div>
+  </section>
+
+  <section class="section section--white">
+    <div class="wrap prose">
+      <h2>Snurrer det, gynger det, eller er du ustø?</h2>
+      <p>
+        Ordene svimmel og ustø brukes om hverandre, men beskriver ofte ulike ting. Noen kjenner at rommet spinner.
+        Andre gynger, som om de står på en båt. Noen er mest ustø når de går, mens andre føler seg lette i hodet eller
+        blir urolige i travle omgivelser. Hvordan svimmelheten kjennes, når den kommer og hva som utløser den, er de
+        viktigste ledetrådene jeg har.
+      </p>
+
+      <h2>Ikke all svimmelhet kommer fra balanseorganet</h2>
+      <p>
+        Blodtrykksfall kan gjøre at det svartner når du reiser deg. Lavt stoffskifte, jernmangel og noen vitaminmangler
+        kan gi tretthet og svimmelhet. Mange legemidler har svimmelhet som bivirkning, og feil brillestyrke kan gi
+        hjernen motstridende signaler. Derfor ser jeg på hele bildet før jeg konkluderer, og ber deg ta en prat med
+        fastlegen hvis noe av dette kan være med i bildet.
+      </p>
+
+      <h2>Behandling</h2>
+      <p>
+        Det finnes ingen behandling som passer for all svimmelhet. Ved krystallsyke flytter jeg krystallene tilbake
+        med reposisjoneringsmanøvre. Ved nakkesvimmelhet behandler jeg muskler og ledd i nakken og gir deg øvelser. Ved
+        PPPD, vestibularisnevritt og vestibulær migrene er balansetrening (vestibulær rehabilitering) og god
+        informasjon ofte det viktigste, noen ganger sammen med medisinsk oppfølging. Noen blir bra etter én time,
+        andre trenger et lengre forløp.
+      </p>
     </div>
   </section>
 
@@ -104,16 +167,39 @@ const typer = [
         </ul>
         <p>
           Målet er å finne årsaken – og å fange opp det som bør utredes videre hos fastlege, øre-nese-hals-lege eller
-          nevrolog. Svimmelhetsundersøkelsen koster 1 100 kr.
+          nevrolog. Svimmelhetsundersøkelsen koster {pris("Svimmelhetsundersøkelse")}.
         </p>
       </div>
     </div>
   </section>
 
   <section class="section wrap">
+    <div class="prose">
+      <h2>Når bør du få svimmelheten undersøkt?</h2>
+      <p>Ta kontakt med meg eller fastlegen hvis svimmelheten:</p>
+      <ul>
+        <li>varer i flere dager uten å bli bedre</li>
+        <li>kommer tilbake gang på gang</li>
+        <li>blir kraftigere eller endrer seg</li>
+        <li>gjør det vanskelig å gå eller fungere i hverdagen</li>
+        <li>kommer sammen med hørselstap, øresus eller trykk i øret</li>
+        <li>ikke blir bedre av behandling eller øvelser</li>
+      </ul>
+    </div>
     <div class="notis akutt">
       <strong>Ring 113</strong> hvis svimmelheten kommer brått sammen med lammelser, talevansker, dobbeltsyn, plutselig
-      kraftig hodepine, brystsmerter eller bevissthetstap.
+      kraftig hodepine, brystsmerter, pustevansker eller bevissthetstap.
+    </div>
+    <div class="prose sporsmal">
+      <h2>Vanlige spørsmål</h2>
+      {
+        faq.map((f) => (
+          <details class="faq">
+            <summary>{f.q}</summary>
+            <p>{f.a}</p>
+          </details>
+        ))
+      }
     </div>
   </section>
 
@@ -132,6 +218,25 @@ const typer = [
 </Layout>
 
 <style>
+  .sporsmal {
+    margin-top: 40px;
+  }
+  .faq {
+    background: var(--surface);
+    border-radius: 14px;
+    padding: 16px 20px;
+  }
+  .faq + .faq {
+    margin-top: 10px;
+  }
+  .faq summary {
+    cursor: pointer;
+    font-weight: 600;
+  }
+  .faq p {
+    margin-top: 10px;
+    color: var(--muted);
+  }
   .type__navn {
     font-size: 24px;
   }

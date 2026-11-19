@@ -12,6 +12,7 @@ tema: svimmelhet
 bildeTekst: "Bildet er laget med KI."
 forfatter: "Marie Hermansen"
 utkast: true
+forslag: true
 ---
 
 Mange blir **svimmel etter trening**. Du har nettopp løpt en intervalløkt eller tatt siste sett i knebøy, og så kjennes hodet lett, synet blir litt grått, og du må holde deg fast et øyeblikk. Som regel er det ufarlig og går over i løpet av sekunder til minutter.

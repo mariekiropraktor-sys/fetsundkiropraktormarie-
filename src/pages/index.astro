@@ -7,7 +7,7 @@ import PostCard from "../components/PostCard.astro";
 import Karusell from "../components/Karusell.astro";
 import Ryggrad from "../components/Ryggrad.astro";
 import { getCollection } from "astro:content";
-import { site, anmeldelser, plager, metoder, andreMetoder, svimmelhetstyper } from "../data/site";
+import { site, anmeldelser, plager, metoder, andreMetoder, svimmelhetstyper, pris } from "../data/site";
 
 // De åtte nyeste publiserte innleggene vises automatisk i sveipe-raden på forsiden
 const alle = await getCollection("blogg", (p) => !p.data.utkast);
@@ -122,8 +122,8 @@ const innlegg = alle
         </li>
       </ol>
       <div class="btn-row">
-        <a class="btn" href={site.booking}>Førstegangskonsultasjon · 910 kr</a>
-        <a class="btn btn--ghost" href={site.bookingSvimmelhet}>Svimmelhetsundersøkelse · 1 100 kr</a>
+        <a class="btn" href={site.booking}>Førstegangskonsultasjon · {pris("Førstegangskonsultasjon")}</a>
+        <a class="btn btn--ghost" href={site.bookingSvimmelhet}>Svimmelhetsundersøkelse · {pris("Svimmelhetsundersøkelse")}</a>
       </div>
     </div>
   </section>

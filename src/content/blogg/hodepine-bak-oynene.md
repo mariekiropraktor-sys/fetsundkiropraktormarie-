@@ -18,7 +18,14 @@ forfatter: "Marie Hermansen"
 
 ## Hvorfor får man vondt bak øynene?
 
-Området rundt øyet får nerveforsyning fra den samme store ansiktsnerven som også tar imot signaler fra pannen, tinningen og den øverste delen av nakken. Derfor kan smerte fra muskler, ledd og bihuler kjennes som om den sitter «bak øyet», selv om den starter et annet sted. Nervene fra de øverste leddene i nakken kobles sammen med denne ansiktsnerven i hjernestammen, og det er grunnen til at en stiv øvre nakke kan kjennes som smerte bak øyet. Det er sjelden selve øyet som er problemet. Mønsteret, altså hvordan hodepinen kjennes, når den kommer og hva som følger med, sier mer enn hvor den sitter.
+Området rundt øyet får nerveforsyning fra trigeminusnerven, den store følenerven i ansiktet. Den tar også imot signaler fra pannen, tinningen og den øverste delen av nakken. Derfor kan smerte fra muskler, ledd og bihuler kjennes som om den sitter «bak øyet», selv om den starter et annet sted.
+
+Nervene fra de øverste leddene i nakken kobles sammen med trigeminusnerven i hjernestammen og den øverste delen av ryggmargen. Det er grunnen til at en stiv øvre nakke kan kjennes som smerte bak øyet. To kilder er særlig aktuelle:
+
+- **Triggerpunkter i splenius-musklene.** Splenius-musklene ligger bak i nakken, under trapezius. Er det ømme, stramme punkter (triggerpunkter) i disse musklene, kan smerten kjennes dypt bak øyet og opp mot toppen av hodet, selv om punktet sitter et helt annet sted.
+- **Øvre fasettledd i nakken.** Fasettleddene er de små leddene på baksiden av nakkehvirvlene. Når de øverste leddene er stive eller irriterte, kan smerten stråle fra nakken og bakhodet frem mot tinningen og bak øyet, ofte på samme side.
+
+Det er sjelden selve øyet som er problemet. Mønsteret, altså hvordan hodepinen kjennes, når den kommer og hva som følger med, sier mer enn hvor den sitter.
 
 ## Vanlige årsaker til hodepine bak øynene
 
@@ -42,6 +49,7 @@ Et triggerpunkt er et ømt, stramt punkt i en muskel som kan gi smerte et annet 
 <tr><td>Temporalis (tyggemuskel)</td><td>I tinningen</td><td>Tinningen, øyebrynet og overtennene</td></tr>
 <tr><td>Masseter (tyggemuskel)</td><td>På kinnet, over kjeven</td><td>Over øyebrynet, i kjeven og ved øret</td></tr>
 </tbody>
+
 </table>
 
 Mønstrene varierer fra person til person, og flere muskler er ofte med samtidig.
@@ -82,6 +90,7 @@ Klasehodepine gir anfall av ekstremt sterk, borende smerte rundt ett øye, ofte 
 <li><strong>Hodepinedagbok:</strong> Noter i to–fire uker når hodepinen kommer, hvor den sitter, om du blir svimmel, og hva du tok av medisiner.</li>
 <li><strong>Smertestillende med måte:</strong> Bruker du det mer enn noen dager i måneden, snakk med fastlegen eller apoteket. For mye kan i seg selv gi mer hodepine.</li>
 </ul>
+
 </div>
 
 ## Hvordan undersøker og behandler jeg hodepine bak øynene?
@@ -95,6 +104,7 @@ Jeg kjenner etter på leddene øverst i nakken, og leter etter ømme triggerpunk
 <p>Ring 113 ved plutselig, svært kraftig hodepine («den verste noensinne»), eller hodepine med lammelser, talevansker, skjev munn, plutselig synstap eller dobbeltsyn, forvirring, kramper eller bevissthetstap. Ring også om tegnene går over igjen. Hodepine med feber, nakkestivhet og nedsatt allmenntilstand er også en nødsituasjon.</p>
 <p class="boks__tittel">Kontakt legevakt (116 117) samme dag</p>
 <p>Plutselig, sterk smerte i eller rundt ett øye med rødt øye, tåkesyn, ringer rundt lys, kvalme eller oppkast kan være akutt grønn stær (trangvinkelglaukom), og må vurderes med en gang. Er du over 50 år og har fått ny hodepine med ømhet i tinningen, tyggesmerter eller synsforstyrrelser, skal du også vurderes samme dag. Ikke vent på en kiropraktortime ved slike symptomer.</p>
+
 </div>
 
 ## Vanlige spørsmål om hodepine bak øynene
@@ -123,7 +133,7 @@ Nei. Kiropraktorer er primærkontakter, så du kan bestille time direkte uten he
 
 Plages du med hodepine bak øynene, kanskje sammen med svimmelhet, hjelper jeg deg gjerne med å finne ut hva som ligger bak. Klinikken ligger i Fetsund, kort vei fra Lillestrøm og resten av Nedre Romerike.
 
-**[Bestill førstegangsundersøkelse her](/bestill/)**, eller ring klinikken. Åpningstider: mandag, onsdag og fredag 08–15, tirsdag og torsdag 10–17.
+[**Bestill førstegangsundersøkelse her**](/bestill/), eller ring klinikken. Åpningstider: mandag, onsdag og fredag 08–15, tirsdag og torsdag 10–17.
 
 <div class="boks boks--kilder">
 <p class="boks__tittel">Kilder</p>
@@ -135,4 +145,5 @@ Plages du med hodepine bak øynene, kanskje sammen med svimmelhet, hjelper jeg d
 <li>Simons DG, Travell JG, Simons LS. <em>Myofascial Pain and Dysfunction: The Trigger Point Manual</em>. 2. utg. Williams &amp; Wilkins; 1999.</li>
 <li><a href="https://pubmed.ncbi.nlm.nih.gov/23131837/">Lempert T mfl. Vestibular migraine: diagnostic criteria. J Vestib Res. 2012.</a></li>
 </ul>
+
 </div>
