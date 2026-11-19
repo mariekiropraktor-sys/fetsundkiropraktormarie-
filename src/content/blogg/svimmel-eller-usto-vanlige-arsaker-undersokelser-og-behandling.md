@@ -1,7 +1,7 @@
 ---
 title: "Svimmel eller ustø? Vanlige årsaker, undersøkelser og behandling"
-seoTittel: "Svimmel eller ustø? Vanlige årsaker"
-description: "Føles det som om kroppen ikke helt samarbeider? Les om vanlige årsaker til svimmelhet og ustøhet, og hvordan målrettet utredning kan hjelpe."
+seoTittel: "Ustø gange og svimmelhet: årsaker og undersøkelse"
+description: "Er du svimmel og ustø når du går? Les om vanlige årsaker til ustø gange og svimmelhet, hvordan det undersøkes, og når du bør kontakte lege."
 kortFortalt:
   - "Svimmelhet kjennes som snurr eller gynging, ustøhet handler mer om balanse og gange. Mange har begge deler."
   - "Vanlige årsaker er krystallsyke, vestibularisnevritt, vestibulær migrene, nakkesvimmelhet og PPPD."

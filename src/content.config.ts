@@ -18,6 +18,8 @@ const blogg = defineCollection({
     // utkast: true = siden bygges (så Marie kan lese den), men vises ikke i lister,
     // sitemap eller hos Google før den settes til false
     utkast: z.boolean().default(false),
+    // forslag: true = utkast laget av den daglige agenten, vises under «Forslag fra agenten» i Kommandosentralen
+    forslag: z.boolean().default(false),
   }),
 });
 

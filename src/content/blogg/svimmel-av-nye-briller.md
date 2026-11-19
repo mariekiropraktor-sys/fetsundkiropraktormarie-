@@ -12,6 +12,7 @@ tema: svimmelhet
 bildeTekst: "Bildet er laget med KI."
 forfatter: "Marie Hermansen"
 utkast: true
+forslag: true
 ---
 
 Mange blir litt **svimmel av nye briller**. Gulvet kan virke skrått, trappetrinn ser nærmere eller lenger unna ut enn de er, og du kjenner deg ør når du snur hodet. Det er som regel ufarlig og går over når hjernen har vent seg til de nye glassene.
