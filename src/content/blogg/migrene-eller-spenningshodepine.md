@@ -6,7 +6,7 @@ kortFortalt:
   - "Spenningshodepine kjennes oftest som et stramt bånd rundt hodet. Migrene kommer i anfall og er ofte dunkende, med kvalme og lysfølsomhet."
   - "Mange har begge typer, og en hodepinedagbok gjør det lettere å se mønsteret."
   - "Migrene kan også gi svimmelhet, både under og mellom anfallene."
-  - "Ny, plutselig eller endret hodepine skal vurderes av lege."
+  - "Ny eller endret hodepine bør undersøkes, hos kiropraktor eller lege. Plutselig, svært kraftig hodepine: ring 113."
 date: 2026-10-15
 tema: nakke-og-hode
 image: "/bilder/blogg/migrene-eller-spenningshodepine.webp"
@@ -79,7 +79,7 @@ Ved spenningshodepine og hodepine fra nakken kan behandling av muskler og ledd i
 Når du kommer til meg, starter vi med en grundig samtale om hodepinen og eventuell svimmelhet. Deretter undersøker jeg nakken, kjeven og balansen, og gjør en enkel nevrologisk undersøkelse. Er det tegn på at du bør utredes videre, henviser jeg deg selv, for eksempel til MR, spesialist eller fastlege. Les mer om [hvordan jeg jobber med hodepine](/hodepine/).
 
 <div class="boks boks--advarsel">
-<p class="boks__tittel">Kontakt lege raskt hvis</p>
+<p class="boks__tittel">Kontakt legevakt (116 117) raskt hvis</p>
 <ul>
 <li>hodepinen kommer plutselig og er den verste du har hatt</li>
 <li>du får lammelser, talevansker, dobbeltsyn eller blir forvirret</li>

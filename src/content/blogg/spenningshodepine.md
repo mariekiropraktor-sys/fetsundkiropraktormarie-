@@ -6,7 +6,7 @@ kortFortalt:
   - "Spenningshodepine er den vanligste formen for hodepine, og kjennes som et trykk eller stramt bånd rundt hodet."
   - "Stram nakke og kjeve, stress, lite søvn og lange skjermdager kan påvirke den."
   - "Jevnlig bevegelse, pauser, faste måltider og en hodepinedagbok er gode første tiltak."
-  - "Plutselig, svært kraftig hodepine skal alltid vurderes av lege med en gang."
+  - "Plutselig, svært kraftig hodepine skal alltid vurderes akutt. Ring 113."
 date: 2026-10-06
 tema: nakke-og-hode
 image: "/bilder/blogg/spenningshodepine.webp"

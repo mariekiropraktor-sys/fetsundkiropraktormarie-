@@ -3,7 +3,7 @@ title: "Hodepine om morgenen – hvorfor våkner jeg med vondt i hodet?"
 seoTittel: "Våkner med hodepine? Årsaker til morgenhodepine"
 description: "Våkner du med hodepine eller vondt i hodet? Les om vanlige årsaker til morgenhodepine, blant annet nakke og kjeve, og når du bør kontakte lege."
 kortFortalt:
-  - "Hodepine ved oppvåkning kan ha flere forklaringer. Nye, økende eller uvanlig kraftige plager bør vurderes av lege."
+  - "Hodepine ved oppvåkning kan ha flere forklaringer. Nye eller økende plager bør undersøkes, hos kiropraktor eller lege."
   - "Mulige årsaker er blant annet søvnproblemer, søvnapné, nattlig kjeveaktivitet, nakkeplager, migrene og medikamentoverforbruk."
   - "Faste søvnvaner og en hodepinedagbok kan være nyttige. Ved hyppig hodepine bør årsaken vurderes."
   - "Plutselig ekstrem hodepine eller hodepine med akutte nevrologiske symptomer krever øyeblikkelig hjelp. Andre faresignaler trenger rask medisinsk vurdering."
@@ -87,7 +87,7 @@ Mistenker jeg søvnapné, en annen medisinsk årsak eller faresignaler, er det v
 <div class="boks boks--advarsel">
 <p class="boks__tittel">Ring 113 ved akutte faresignaler</p>
 <p>Ring 113 ved plutselig, svært kraftig hodepine, eller hodepine med nye lammelser, talevansker, forvirring, kramper, bevissthetstap, eller høy feber og uttalt nakkestivhet. Slike symptomer skal ikke avvente en vanlig kiropraktortime.</p>
-<p class="boks__tittel">Kontakt lege for rask vurdering ved andre faresignaler</p>
+<p class="boks__tittel">Kontakt fastlege eller legevakt ved andre faresignaler</p>
 <p>Kontakt fastlege eller legevakt (116 117) ved ny hodepine som tiltar over dager eller uker, hodepine med gjentatt oppkast eller synsforstyrrelser, eller ny hodepine etter fylte 50 år. Hvor raskt du trenger hjelp, avhenger av symptomene. Ved rask forverring eller mistanke om alvorlig akutt sykdom, ring 113.</p>
 </div>
 
