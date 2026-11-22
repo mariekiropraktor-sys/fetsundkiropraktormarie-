@@ -1,15 +1,17 @@
 ---
-title: "Svimmelhet hos eldre: vanlige årsaker, enkle råd og når du bør søke hjelp"
-description: "Svimmelhet hos eldre har ofte flere årsaker. Les om vanlige forklaringer, råd for trygghet i hverdagen og når du bør søke hjelp."
+title: "Svimmelhet hos eldre: vanlige årsaker, enkle råd, behandling og når du bør kontakte lege eller kiropraktor."
+description: "Svimmelhet hos eldre har ofte flere årsaker. Les om vanlige forklaringer, råd for trygghet i hverdagen og når du bør kontakte lege."
 kortFortalt:
   - "Svimmelhet er vanlig med økende alder, og ofte er det flere forhold som virker sammen."
-  - "Blodtrykksfall ved oppreisning bør undersøkes, hos kiropraktor eller lege. Medisinene gjennomgås av fastlegen."
+  - "Blodtrykksfall ved oppreisning"
+  - "Nylig ending av medisiner"
   - "Ustøhet kan øke risikoen for fall, så trygghet i hverdagen er viktig."
-  - "Plutselig talebesvær, lammelser, kraftig hodepine, synsforstyrrelser eller brystsmerter krever øyeblikkelig hjelp. Ring 113."
+  - "Krystallsyke er vanlig hos de eldre"
+  - "Muskelspenninger og stive ledd i nakke og rygg - det finnes hjelp."
 date: 2026-11-13
 tema: svimmelhet
 forfatter: "Marie Hermansen"
-utkast: true
+image: "/bilder/blogg/svimmelhet-hos-eldre-vanlige-arsaker-enkle-rad-og-nar-du-bor-mwqqv8fg.jpg"
 ---
 
 Svimmelhet er noe mange eldre kjenner på. Det kan være en følelse av at rommet snurrer, at man er ustø på beina, eller at man blir tung i hodet og "ikke helt til stede". Det kan være ubehagelig og skremmende, og mange blir usikre på å gå ut eller bevege seg like fritt som før.
@@ -24,7 +26,7 @@ Derfor er det ofte nødvendig med en grundig gjennomgang. Det som hjelper én pe
 
 ## Vanlige årsaker
 
-**Forhold i det indre øret.** Balanseorganet sitter i det indre øret. Krystallsyke er en vanlig årsak til korte, kraftige drei-svimmelhetsanfall ved bevegelse, for eksempel når du snur deg i sengen eller ser opp. Den gode nyheten er at tilstanden ofte kan undersøkes og behandles. Jeg har skrevet et eget innlegg om krystallsyke hos eldre, som du kan lese for mer detaljer.
+**Forhold i det indre øret.** Balanseorganet sitter i det indre øret. Krystallsyke er en vanlig årsak til korte, kraftige karusell-svimmelhetsanfall ved bevegelse, for eksempel når du snur deg i sengen eller ser opp. Hos de eldre er kan krystallsyken oppleves mer som vedvarende ustøhet og økt fallhyppighet.
 
 **Blodtrykksfall ved oppreisning.** Mange kjenner seg svimle eller svarte for øynene når de reiser seg raskt fra stol eller seng. Da klarer ikke kroppen å justere blodtrykket raskt nok. Det er en vanlig årsak til svimmelhet hos eldre, og det bør vurderes av lege.
 
@@ -38,7 +40,7 @@ Derfor er det ofte nødvendig med en grundig gjennomgang. Det som hjelper én pe
 
 ## Svimmelhet og fallrisiko
 
-Ustøhet og svimmelhet kan øke risikoen for fall. Et fall kan få store følger i hverdagen, og mange blir redde for å falle igjen. Da går man kanskje mindre, og det kan igjen gjøre kroppen svakere og balansen dårligere.
+Ustøhet og svimmelhet kan øke risikoen for fall. Et fall kan få store følger i hverdagen, og mange blir redde for å falle igjen. Da går man kanskje mindre, og det kan igjen gjøre kroppen svakere og balansen dårligere. Dette kan dernest føre til økt stivhet i nakke og rygg - alt henger sammen!
 
 Derfor er det klokt å ta svimmelheten på alvor tidlig, selv om den kommer og går.
 
@@ -54,10 +56,11 @@ Det er flere ting du kan gjøre selv for å gjøre hverdagen tryggere:
 - **Bruk støtte når du trenger det**, for eksempel gelender, stokk eller rollator. Det er ikke et nederlag, men en måte å holde seg i aktivitet på.
 - **Hold deg i bevegelse.** Daglige turer og enkle balanseøvelser kan være gunstig. Spør gjerne om hvilke øvelser som passer for deg.
 - **Få synet og eventuelle briller kontrollert** jevnlig.
+- **Trening**, især balansetrening kan være til stor hjelp. En tur i naturen med godt selskap hjelper også!
 
 Noter gjerne ned når svimmelheten kommer, hvor lenge den varer, og hva du gjorde da den startet. Slike opplysninger er til stor hjelp for den som skal undersøke deg.
 
-## Når du bør søke hjelp
+## Når du bør kontakte lege
 
 Det er viktig å skille mellom svimmelhet som bør utredes, og svimmelhet som krever rask hjelp.
 
@@ -70,10 +73,12 @@ Det er viktig å skille mellom svimmelhet som bør utredes, og svimmelhet som kr
 - brystsmerter, tung pust eller uregelmessig hjerterytme
 - besvimelse eller bevissthetstap
 
-Bestill også time hos kiropraktor eller fastlege hvis svimmelheten er ny, blir verre, kommer ofte, eller du har falt eller nesten falt. Mistenker du at medisiner kan spille inn, ta det opp med fastlegen.
+Kontakt også fastlegen hvis svimmelheten er ny, blir verre, kommer ofte, eller du har falt eller nesten falt. Det samme gjelder hvis du mistenker at medisiner kan spille inn.
 
 ## Hva kan en kiropraktor bidra med?
 
-Som kiropraktor med særlig interesse for svimmelhet starter jeg alltid med en samtale og en grundig undersøkelse. Jeg vurderer blant annet balanse, øyebevegelser og funksjon i nakke, og undersøker om det er tegn på krystallsyke. Hvis noe tyder på at årsaken ligger utenfor mitt fagfelt, henviser jeg deg videre.
+Som kiropraktor med særlig interesse for svimmelhet starter jeg alltid med en samtale og en grundig undersøkelse. Jeg vurderer blant annet balanse, øyebevegelser og funksjon i nakke, og undersøker om det er tegn på krystallsyke. Herfra er det ofte overraskende mye jeg kan hjelpe til med! Mitt yndlingssitat er *«jeg får deg ikke tilbake til ten-åra, men jeg skal gjøre mitt beste for å gjøre deg så bra som du kan bli, der du er i livet akkurat nå».* Jeg kan strekke litt, mobilisere, massere, gi øvelser og følge opp med tilbakemelding til fastlegen.
 
-Hvis du er usikker på hva som ligger bak svimmelheten din, er du velkommen til å ta kontakt med Fetsund Kiropraktorsenter. Vi tar oss tid til å lytte og forklare, slik at du vet hva som kan gjøres videre.
+Hvis noe tyder på at årsaken ligger utenfor mitt fagfelt, henviser jeg videre eller anbefaler at du kontakter annet helsepersonell.
+
+Hvis du er usikker på hva som ligger bak svimmelheten din, er du velkommen til å ta kontakt med meg på Fetsund Kiropraktorsenter. Vi tar oss tid til å lytte og forklare, slik at du vet hva som kan gjøres videre.
