@@ -9,6 +9,7 @@ kortFortalt:
   - "Blir du svimmel eller besvimer mens du anstrenger deg, eller får du brystsmerter eller hjertebank, skal du stoppe og søke hjelp."
 date: 2026-11-15
 tema: svimmelhet
+image: "/bilder/blogg/svimmel-etter-trening.webp"
 bildeTekst: "Bildet er laget med KI."
 forfatter: "Marie Hermansen"
 utkast: true
