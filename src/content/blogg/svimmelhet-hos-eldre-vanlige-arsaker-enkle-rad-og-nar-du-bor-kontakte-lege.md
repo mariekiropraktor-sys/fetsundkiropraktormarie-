@@ -1,6 +1,6 @@
 ---
 title: "Svimmelhet hos eldre: vanlige årsaker, enkle råd, behandling og når du bør kontakte lege eller kiropraktor."
-description: "Svimmelhet hos eldre har ofte flere årsaker. Les om vanlige forklaringer, råd for trygghet i hverdagen og når du bør kontakte lege."
+description: "Svimmel og ustø som eldre? Les om vanlige årsaker, enkle råd du kan prøve selv og når du bør kontakte lege. Bestill time hos Marie Hermansen i Fetsund."
 kortFortalt:
   - "Svimmelhet er vanlig med økende alder, og ofte er det flere forhold som virker sammen."
   - "Blodtrykksfall ved oppreisning"
@@ -12,6 +12,7 @@ date: 2026-11-13
 tema: svimmelhet
 forfatter: "Marie Hermansen"
 image: "/bilder/blogg/svimmelhet-hos-eldre-vanlige-arsaker-enkle-rad-og-nar-du-bor-mwqqv8fg.jpg"
+seoTittel: "Svimmelhet hos eldre: årsaker, råd og når du bør søke lege"
 ---
 
 Svimmelhet er noe mange eldre kjenner på. Det kan være en følelse av at rommet snurrer, at man er ustø på beina, eller at man blir tung i hodet og "ikke helt til stede". Det kan være ubehagelig og skremmende, og mange blir usikre på å gå ut eller bevege seg like fritt som før.
