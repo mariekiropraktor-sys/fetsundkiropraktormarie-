@@ -14,7 +14,7 @@ bildeTekst: "Bildet er laget med KI."
 forfatter: "Marie Hermansen"
 ---
 
-Blir du svimmel når du snur hodet, og lurer på om det er nakken eller krystallsyke? Det er et av spørsmålene jeg får aller oftest. **Nakkesvimmelhet og krystallsyke** kan ligne hverandre, men de har helt ulike årsaker, og de behandles forskjellig. Her forklarer jeg hva som skiller dem, og hvordan jeg finner ut hva som ligger bak svimmelheten din.
+Blir du svimmel når du snur hodet, og lurer på om det er nakken eller krystallsyke? Det er et av spørsmålene jeg får aller oftest. **[Nakkesvimmelhet](/svimmelhet/nakkesvimmelhet/) og krystallsyke** kan ligne hverandre, men de har helt ulike årsaker, og de behandles forskjellig. Her forklarer jeg hva som skiller dem, og hvordan jeg finner ut hva som ligger bak svimmelheten din.
 
 ## Hva er krystallsyke?
 

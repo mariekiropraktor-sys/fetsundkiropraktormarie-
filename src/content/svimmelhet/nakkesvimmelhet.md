@@ -41,7 +41,9 @@ kilder:
 oppdatert: 2026-10-05
 ---
 
-## Hva er nakkesvimmelhet?
+## Hva er nakkesvimmelhet (cervikogen svimmelhet)?
+
+På fagspråket heter nakkesvimmelhet cervikogen svimmelhet. «Cervikogen» betyr at noe kommer fra nakken, og det er nettopp det som er poenget: svimmelheten skyldes ikke øret, men signalene fra nakken.
 
 Nakken er mer enn noe som holder hodet oppe. Den er full av små sensorer som hele tiden melder til hjernen hvor hodet er i forhold til resten av kroppen. Hjernen sammenligner de meldingene med det øynene ser og det balanseorganet i øret registrerer. Så lenge alt stemmer, merker du ingenting.
 
