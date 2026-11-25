@@ -22,7 +22,7 @@ Her forklarer jeg hva som kjennetegner hodepine fra nakken, hvordan den skiller 
 
 Nervene fra de øverste leddene og musklene i nakken møtes i det samme området i hjernestammen som nervene fra ansiktet og hodet. Derfor kan smerte som egentlig kommer fra nakken, kjennes som hodepine. Hjernen «leser» rett og slett smerten som om den kom fra hodet.
 
-Hodepine fra nakken er altså ikke en sykdom i hodet, men en smerte som er henvist fra strukturer i nakken. Den er mindre vanlig enn spenningshodepine, men mange har trekk av begge.
+Hodepine fra nakken er altså ikke en sykdom i hodet, men en smerte som er henvist fra strukturer i nakken. Den er mindre vanlig enn spenningshodepine, men mange har trekk av begge. Sitter smerten mest bak øyet, kan du lese mer om [hodepine bak øyet](/hodepine-bak-oynene/).
 
 ## Kjennetegn på hodepine fra nakken
 

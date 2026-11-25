@@ -63,7 +63,7 @@ oppdatert: 2026-11-17
 
 De fleste hodepiner er ikke farlige, men de kan gå hardt utover hverdagen. Ofte er det flere ting som spiller sammen: stive muskler i nakke og skuldre, en kjeve som biter sammen, lite søvn, stress og mange timer foran skjermen.
 
-Nakken og hodet deler nervebaner. Smerter fra muskler og ledd øverst i nakken kan derfor kjennes som hodepine i bakhodet, i tinningen eller bak øyet. Det samme gjelder tyggemusklene, som kan gi smerter i tinningen og rundt øret.
+Nakken og hodet deler nervebaner. Smerter fra muskler og ledd øverst i nakken kan derfor kjennes som hodepine i bakhodet, i tinningen eller bak øyet. Det samme gjelder tyggemusklene, som kan gi smerter i tinningen og rundt øret. Sitter smerten mest bak øyet, kan du lese mer om [hodepine bak øyet](/hodepine-bak-oynene/).
 
 ## Hodepine fra nakken eller spenningshodepine?
 
