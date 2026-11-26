@@ -236,6 +236,46 @@
       "source": "/krystallsyke-og-svimmelhet-5-ovelser-som-hjelper{/}?",
       "destination": "https://www.krystallsykehjelpen.no/blogg/krystallsyke-5-ovelser-som-hjelper/",
       "permanent": true
+    },
+    {
+      "source": "/testimonial/:slug*",
+      "destination": "/om-marie-hermansen/",
+      "permanent": true
+    },
+    {
+      "source": "/svimmel-eller-usto-mulige-arsaker-og-behandling-av-bla-krystallsyken{/}?",
+      "destination": "/svimmel-eller-usto-vanlige-arsaker-undersokelser-og-behandling/",
+      "permanent": true
+    },
+    {
+      "source": "/hva-skjer-pa-en-svimmelhetsundersokelse{/}?",
+      "destination": "/svimmelhet/",
+      "permanent": true
+    },
+    {
+      "source": "/den-store-guiden-til-halebeinsmerter{/}?",
+      "destination": "https://fetsundkiropraktorsara.no/",
+      "permanent": true
+    },
+    {
+      "source": "/bekkenrotasjon-og-halebeinsmerter-din-guide-til-hva-du-kan-gjore{/}?",
+      "destination": "https://fetsundkiropraktorsara.no/",
+      "permanent": true
+    },
+    {
+      "source": "/7-muskel-knuter-som-forer-til-halebein-smerter-4{/}?",
+      "destination": "https://fetsundkiropraktorsara.no/",
+      "permanent": true
+    },
+    {
+      "source": "/arsaker-til-halebeinsmerter-6{/}?",
+      "destination": "https://fetsundkiropraktorsara.no/",
+      "permanent": true
+    },
+    {
+      "source": "/delte-magemuskler-etter-fodsel{/}?",
+      "destination": "https://fetsundkiropraktorsara.no/",
+      "permanent": true
     }
   ]
 }
