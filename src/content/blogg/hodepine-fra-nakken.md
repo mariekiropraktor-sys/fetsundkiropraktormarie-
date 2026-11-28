@@ -6,7 +6,7 @@ kortFortalt:
   - "Hodepine fra nakken (cervikogen hodepine) starter i nakken og trekker opp mot bakhodet, tinningen eller øyet – oftest på én side."
   - "Den blir gjerne verre ved bestemte nakkebevegelser eller etter lang tid i samme stilling."
   - "Øvelser for de dype nakkemusklene, pauser og behandling av nakken kan hjelpe mange."
-  - "Ny, plutselig eller svært kraftig hodepine skal alltid vurderes av lege med en gang."
+  - "Ny, plutselig eller svært kraftig hodepine skal alltid vurderes akutt. Ring 113 eller legevakt (116 117)."
 date: 2026-10-19
 tema: nakke-og-hode
 image: "/bilder/blogg/hodepine-fra-nakken.webp"

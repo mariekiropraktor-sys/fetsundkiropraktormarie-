@@ -6,7 +6,7 @@ kortFortalt:
   - "Vondt i øret, tett øre og øresus kan komme fra kjeven, selv om øret er friskt."
   - "Kjeveleddet ligger rett foran øret, og kjeve og øre deler nerver."
   - "Tegn på kjeven: verre når du tygger eller gjesper, tannpressing og stress."
-  - "Plutselig hørselstap eller pulserende øresus skal sjekkes av lege samme dag."
+  - "Plutselig hørselstap eller pulserende øresus skal sjekkes samme dag. Kontakt fastlegen eller legevakt (116 117)."
 date: 2026-10-04
 tema: nakke-og-hode
 image: "/bilder/blogg/vondt-i-oret-kjeve.webp"
@@ -51,12 +51,12 @@ Det viktigste du kan gjøre, er å bli klar over når du biter sammen. Mange gj�
 
 Gi kjeven en pause ved å droppe tyggegummi og veldig seig mat en periode. En varm klut over kjevemusklene kan dempe stramheten, og rolig pust med senkede skuldre hjelper både kjeve og nakke. Skjærer du tenner om natta, kan tannlegen vurdere en bittskinne.
 
-## Når bør du kontakte lege raskt?
+## Når bør du søke hjelp raskt?
 
 Ikke alle øreplager kommer fra kjeven.
 
 <div class="boks boks--advarsel">
-<p class="boks__tittel">Kontakt lege samme dag ved</p>
+<p class="boks__tittel">Kontakt fastlege eller legevakt (116 117) samme dag ved</p>
 <ul>
 <li>plutselig hørselstap på ett øre</li>
 <li>kraftig svimmelhet sammen med nedsatt hørsel</li>

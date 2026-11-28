@@ -108,6 +108,11 @@ Fra designlerretet «Valgt retning» (kombinasjon av forslag A og B).
 - Alle bestillingsklikk (Maries kalender, /bestill/, /bestill-svimmelhet/) telles som «Bestillingsklikk Marie».
 - Ingenting fra Google lastes før den besøkende har trykket «Godta». Personvernsiden er oppdatert.
 
+## Kiropraktor eller lege (besluttet 15. nov. 2026)
+- Kiropraktor og lege er likestilte primærkontakter for muskel- og leddplager. Ved ikke-akutte plager: skriv «hos kiropraktor eller lege», ikke bare «lege».
+- Nevn gjerne at kiropraktoren kan lindre plagene med behandling, råd og øvelser, og at legen kan hjelpe med medisiner.
+- Akutte røde flagg (hjerte, hjerneslag, cauda equina, feber + stiv nakke o.l.): 113 eller legevakt 116 117, ikke kiropraktor som første kontakt.
+
 ## Bestillingsside for annonser (besluttet 19. nov. 2026)
 - `/bestill-time/` er en ekte side (ikke videresending) med tre valg: førstegangstime, svimmelhetsundersøkelse og oppfølging.
 - Brukes som «Bestill time»-nettstedslink i Google Ads, fordi Google vil ha knapper til samme nettsted som annonsen.
