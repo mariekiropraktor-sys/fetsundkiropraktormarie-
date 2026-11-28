@@ -102,5 +102,8 @@ Har du vondt i kjeven, eller plager som henger sammen med hodepine og nakke? Jeg
 <p class="boks__tittel">Kilder</p>
 <ul>
 <li><a href="https://www.bmj.com/content/383/bmj-2023-076227">Busse JW, et al. Management of chronic pain associated with temporomandibular disorders: a clinical practice guideline. BMJ. 2023;383:e076227.</a></li>
+<li><a href="https://nhi.no/sykdommer/orenesehals/kjeven/kjevesmerter/undersokelser">Norsk helseinformatikk (NHI). Kjevesmerter.</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/29926505/">Lobbezoo F mfl. International consensus on the assessment of bruxism. J Oral Rehabil. 2018.</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10382173/">Idáñez-Robles AM, et al. Exercise therapy on pain relief and jaw mobility in pain-related temporomandibular disorders: a systematic review. BMC Oral Health. 2023.</a></li>
 </ul>
 </div>

@@ -46,7 +46,7 @@ Første gang du opplever aura, eller hvis auraen er annerledes enn vanlig, bør 
 
 ## Kan man ha både migrene og spenningshodepine?
 
-Ja, og det er vanlig. Mange med migrene har i tillegg dager med mer «trykkende» hodepine, og stiv nakke og stress kan påvirke begge typer. Derfor anbefaler jeg alltid en **hodepinedagbok** i noen uker. Skriv ned når hodepinen kommer, hvordan den kjennes, hvor lenge den varer, hva du tok av medisiner, og hva du gjorde før den startet. Ta med dagboken til legen eller til timen hos meg.
+Ja, og det er vanlig. Mange med migrene har i tillegg dager med mer «trykkende» hodepine, og stiv nakke og stress kan påvirke begge typer. Derfor anbefaler jeg alltid en **hodepinedagbok** i noen uker. Skriv ned når hodepinen kommer, hvordan den kjennes, hvor lenge den varer, hva du tok av medisiner, og hva du gjorde før den startet. Ta med dagboken til legen eller til timen hos meg. Vil du se flere former side om side, finner du en oversikt over [typer hodepine](/typer-hodepine/).
 
 Les mer om [spenningshodepine](/spenningshodepine/) og hva du kan gjøre ved den.
 

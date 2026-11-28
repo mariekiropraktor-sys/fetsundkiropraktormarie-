@@ -108,3 +108,12 @@ Ja, du trenger ikke henvisning for å bestille time hos kiropraktor.
 Er du usikker på hva svimmelheten din skyldes? Jeg tar imot pasienter fra Fetsund, Lillestrøm og resten av Nedre Romerike. [Bestill time](/bestill-svimmelhet/), så finner vi ut av det sammen.
 
 *Artikkelen er generell informasjon og erstatter ikke en personlig undersøkelse.*
+
+<div class="boks boks--kilder">
+<p class="boks__tittel">Kilder</p>
+<ul>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6909901/">Saedon NI, Tan MP, Frith J. The prevalence of orthostatic hypotension: a systematic review and meta-analysis. J Gerontol A Biol Sci Med Sci (2020)</a></li>
+<li><a href="https://doi.org/10.1093/eurheartj/ehy037">Brignole M mfl. 2018 ESC Guidelines for the diagnosis and management of syncope. European Heart Journal (2018)</a></li>
+<li><a href="https://journals.sagepub.com/doi/10.1177/0194599816689667">Bhattacharyya N mfl. Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update). Otolaryngology–Head and Neck Surgery (2017)</a></li>
+</ul>
+</div>

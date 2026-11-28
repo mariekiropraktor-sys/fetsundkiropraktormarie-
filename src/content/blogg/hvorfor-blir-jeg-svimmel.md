@@ -110,3 +110,15 @@ Har du hatt krystallsyke før, men kjenner at symptomene er annerledes denne gan
 ## Slik jobber jeg
 
 Svimmelhet kan være skremmende, men den er nesten alltid mulig å forstå når man ser grundig på den. I en [svimmelhetsundersøkelse](/svimmelhet/) ser jeg på sykehistorien, balanseorganet med VNG-briller, nakken, pustemønsteret og hvordan nervesystemet reagerer. Målet er å finne ut hva som faktisk driver svimmelheten hos deg, og lage en plan som passer deg. Er det noe som bør utredes videre, henviser jeg deg.
+
+<div class="boks boks--kilder">
+<p class="boks__tittel">Kilder</p>
+<ul>
+<li><a href="https://www.helsenorge.no/sykdom/hjerne-og-nerver/svimmelhet/">Helsenorge. Svimmelhet</a></li>
+<li><a href="https://journals.sagepub.com/doi/10.1177/0194599816689667">Bhattacharyya N mfl. Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update). Otolaryngology–Head and Neck Surgery (2017)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/23131837/">Lempert T mfl. Vestibular migraine: diagnostic criteria. J Vestib Res. 2012.</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/34864777/">Hall CD m.fl. Vestibular rehabilitation for peripheral vestibular hypofunction: clinical practice guideline. 2022</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5759906/">Reiley AS mfl. How to diagnose cervicogenic dizziness. Archives of Physiotherapy (2017)</a></li>
+<li><a href="https://doi.org/10.1111/acem.14728">Edlow JA mfl. Guidelines for reasonable and appropriate care in the emergency department 3 (GRACE-3): Acute dizziness and vertigo in the emergency department. Academic Emergency Medicine (2023)</a></li>
+</ul>
+</div>

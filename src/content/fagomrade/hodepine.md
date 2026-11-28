@@ -34,6 +34,7 @@ typer:
   - navn: "Hodepine av smertestillende"
     tekst: "Bruker du smertestillende mot hodepine mange dager i måneden, kan medisinene selv holde hodepinen ved like. Snakk med legen din om nedtrapping."
 innlegg:
+  - "typer-hodepine"
   - "cervikogen-hodepine-eller-spenningshodepine"
   - "hodepine-om-morgenen"
   - "hodepine-bak-oynene"
@@ -88,7 +89,7 @@ Migrene behandles først og fremst hos fastlegen. Mange med migrene har likevel 
 
 ## Slik undersøker jeg
 
-Jeg starter med en grundig samtale. Hvor sitter hodepinen, hvordan kjennes den, hvor ofte kommer den, og hva gjør den bedre eller verre? Svarene sier mye om hvilken type hodepine du har.
+Jeg starter med en grundig samtale. Hvor sitter hodepinen, hvordan kjennes den, hvor ofte kommer den, og hva gjør den bedre eller verre? Svarene sier mye om hvilken type hodepine du har. Vil du lese mer først, har jeg skrevet en oversikt over [typer hodepine](/typer-hodepine/) og kjennetegnene deres.
 
 Deretter undersøker jeg nakken, skuldrene og kjeven. Jeg ser på bevegelighet, leter etter stramme muskler og triggerpunkter, og tester om jeg kan fremkalle hodepinen. Jeg gjør også en enkel nevrologisk undersøkelse. Har du svimmelhet i tillegg, undersøker jeg den også.
 
