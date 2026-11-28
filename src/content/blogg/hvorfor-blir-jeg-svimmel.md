@@ -60,7 +60,7 @@ Mange blir usikre fordi det de kjenner ikke stemmer med det de har lest. Da er d
 
 [Vestibularisnevritt](/svimmelhet/vestibularisnevritt/) (og labyrintitt, hvis hørselen også er påvirket) kommer gjerne brått: kraftig, vedvarende svimmelhet og kvalme i timer eller dager. Mange klarer knapt å stå de første dagene.
 
-I motsetning til krystallsyke blir svimmelheten ikke tydelig verre eller bedre i bestemte stillinger. Det verste går som regel over av seg selv, men noen sitter igjen med ustøhet. Da hjelper vestibulær rehabilitering hjernen å kalibrere seg på nytt.
+I motsetning til krystallsyke blir svimmelheten ikke tydelig verre eller bedre i bestemte stillinger. Det verste går som regel over av seg selv, men noen sitter igjen med [ustøhet](/svimmel-eller-usto-vanlige-arsaker-undersokelser-og-behandling/). Da hjelper vestibulær rehabilitering hjernen å kalibrere seg på nytt.
 
 ### 4. Vestibulær migrene
 
